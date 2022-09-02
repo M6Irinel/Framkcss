@@ -48,7 +48,7 @@
 .green-8 {color: #006600;}
 .green-9 {color: #003300;}
 
-/* text-yellow-num color pallet */
+/* yellow-num color pallet */
 .yellow-1 {color: #ffffcc;}
 .yellow-2 {color: #ffff99;}
 .yellow-3 {color: #ffff66;}
@@ -393,3 +393,14 @@
 .my-10 {margin-top: 2.5rem; margin-bottom: 2.5rem;}
 .my-11 {margin-top: 2.75rem; margin-bottom: 2.75rem;}
 .my-12 {margin-top: 3rem; margin-bottom: 3rem;}
+
+/* fs-name = font-size */
+.fs-xx-small {font-size: xx-small;}
+.fs-x-small {font-size: x-small;}
+.fs-smaller {font-size: smaller;}
+.fs-small {font-size: small;}
+.fs-medium {font-size: medium;}
+.fs-large {font-size: large;}
+.fs-larger {font-size: larger;}
+.fs-x-large {font-size: x-large;}
+.fs-xx-large {font-size: xx-large;}
