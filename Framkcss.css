@@ -1,406 +1,474 @@
 /* https://cdn.jsdelivr.net/gh/M6Irinel/Framkcss@main/Framkcss.css */
 
-/* color */
-.white {color: #fff;}
-.black {color: #000;}
+/* RESET */
+* {box-sizing: border-box; margin: 0; padding: 0; font-family: 'Open Sans', sans-serif;}
+img, video, .w-100, .w-100-H:hover {width: 100%;}
 
-/* gray-num or grey-num color pallet */
-.gray-1, .grey-1 {color: #e6e6e6;}
-.gray-2, .grey-2 {color: #cccccc;}
-.gray-3, .grey-3 {color: #b3b3b3;}
-.gray-4, .grey-4 {color: #999999;}
-.gray-5, .grey-5 {color: #808080;}
-.gray-6, .grey-6 {color: #666666;}
-.gray-7, .grey-7 {color: #4d4d4d;}
-.gray-8, .grey-8 {color: #333333;}
-.gray-9, .grey-9 {color: #1a1a1a;}
+/* w-num = width */
+.w-auto, .w-auto-H:hover {width: auto;}
+.w-25, .w-25-H:hover {width: 25%;}
+.w-50, .w-50-H:hover {width: 50%;}
+.w-75, .w-75-H:hover {width: 75%;}
+
+/* h-num = height */
+.h-auto, .h-auto-H:hover {height: auto;}
+.h-25, .h-25-H:hover {height: 25%;}
+.h-50, .h-50-H:hover {height: 50%;}
+.h-75, .h-75-H:hover {height: 75%;}
+.h-100, .h-100-H:hover {height: 100%;}
+
+/* color */
+.white, .white-H:hover {color: #fff;}
+.black, .black-H:hover {color: #000;}
+
+/* gray-num-H:hover or grey-num-H:hover color pallet */
+.gray-1, .gray-1-H:hover, .grey-1, .grey-1-H:hover {color: #e6e6e6;}
+.gray-2, .gray-2-H:hover, .grey-2, .grey-2-H:hover {color: #cccccc;}
+.gray-3, .gray-3-H:hover, .grey-3, .grey-3-H:hover {color: #b3b3b3;}
+.gray-4, .gray-4-H:hover, .grey-4, .grey-4-H:hover {color: #999999;}
+.gray-5, .gray-5-H:hover, .grey-5, .grey-5-H:hover {color: #808080;}
+.gray-6, .gray-6-H:hover, .grey-6, .grey-6-H:hover {color: #666666;}
+.gray-7, .gray-7-H:hover, .grey-7, .grey-7-H:hover {color: #4d4d4d;}
+.gray-8, .gray-8-H:hover, .grey-8, .grey-8-H:hover {color: #333333;}
+.gray-9, .gray-9-H:hover, .grey-9, .grey-9-H:hover {color: #1a1a1a;}
 
 /* red-num color pallet */
-.red-1 {color: #ffcccc;}
-.red-2 {color: #ff9999;}
-.red-3 {color: #ff6666;}
-.red-4 {color: #ff3333;}
-.red-5 {color: #ff0000;}
-.red-6 {color: #cc0000;}
-.red-7 {color: #990000;}
-.red-8 {color: #660000;}
-.red-9 {color: #330000;}
+.red-1, .red-1-H:hover {color: #ffcccc;}
+.red-2, .red-2-H:hover {color: #ff9999;}
+.red-3, .red-3-H:hover {color: #ff6666;}
+.red-4, .red-4-H:hover {color: #ff3333;}
+.red-5, .red-5-H:hover {color: #ff0000;}
+.red-6, .red-6-H:hover {color: #cc0000;}
+.red-7, .red-7-H:hover {color: #990000;}
+.red-8, .red-8-H:hover {color: #660000;}
+.red-9, .red-9-H:hover {color: #330000;}
 
 /* blue-num color pallet */
-.blue-1 {color: #ccccff;}
-.blue-2 {color: #9999ff;}
-.blue-3 {color: #6666ff;}
-.blue-4 {color: #3333ff;}
-.blue-5 {color: #0000ff;}
-.blue-6 {color: #0000cc;}
-.blue-7 {color: #000099;}
-.blue-8 {color: #000066;}
-.blue-9 {color: #000033;}
+.blue-1, .blue-1-H:hover {color: #ccccff;}
+.blue-2, .blue-2-H:hover {color: #9999ff;}
+.blue-3, .blue-3-H:hover {color: #6666ff;}
+.blue-4, .blue-4-H:hover {color: #3333ff;}
+.blue-5, .blue-5-H:hover {color: #0000ff;}
+.blue-6, .blue-6-H:hover {color: #0000cc;}
+.blue-7, .blue-7-H:hover {color: #000099;}
+.blue-8, .blue-8-H:hover {color: #000066;}
+.blue-9, .blue-9-H:hover {color: #000033;}
 
 /* green-num color pallet */
-.green-1 {color: #ccffcc;}
-.green-2 {color: #99ff99;}
-.green-3 {color: #66ff66;}
-.green-4 {color: #33ff33;}
-.green-5 {color: #00ff00;}
-.green-6 {color: #00cc00;}
-.green-7 {color: #009900;}
-.green-8 {color: #006600;}
-.green-9 {color: #003300;}
+.green-1, .green-1-H:hover {color: #ccffcc;}
+.green-2, .green-2-H:hover {color: #99ff99;}
+.green-3, .green-3-H:hover {color: #66ff66;}
+.green-4, .green-4-H:hover {color: #33ff33;}
+.green-5, .green-5-H:hover {color: #00ff00;}
+.green-6, .green-6-H:hover {color: #00cc00;}
+.green-7, .green-7-H:hover {color: #009900;}
+.green-8, .green-8-H:hover {color: #006600;}
+.green-9, .green-9-H:hover {color: #003300;}
 
 /* yellow-num color pallet */
-.yellow-1 {color: #ffffcc;}
-.yellow-2 {color: #ffff99;}
-.yellow-3 {color: #ffff66;}
-.yellow-4 {color: #ffff33;}
-.yellow-5 {color: #ffff00;}
-.yellow-6 {color: #cccc00;}
-.yellow-7 {color: #999900;}
-.yellow-8 {color: #666600;}
-.yellow-9 {color: #333300;}
+.yellow-1, .yellow-1-H:hover {color: #ffffcc;}
+.yellow-2, .yellow-2-H:hover {color: #ffff99;}
+.yellow-3, .yellow-3-H:hover {color: #ffff66;}
+.yellow-4, .yellow-4-H:hover {color: #ffff33;}
+.yellow-5, .yellow-5-H:hover {color: #ffff00;}
+.yellow-6, .yellow-6-H:hover {color: #cccc00;}
+.yellow-7, .yellow-7-H:hover {color: #999900;}
+.yellow-8, .yellow-8-H:hover {color: #666600;}
+.yellow-9, .yellow-9-H:hover {color: #333300;}
 
 /* orange-num color pallet */
-.orange-1 {color: #ffedcc;}
-.orange-2 {color: #ffdb99;}
-.orange-3 {color: #ffc966;}
-.orange-4 {color: #ffb833;}
-.orange-5 {color: #ffa600;}
-.orange-6 {color: #cc8500;}
-.orange-7 {color: #996300;}
-.orange-8 {color: #664200;}
-.orange-9 {color: #332100;}
+.orange-1, .orange-1-H:hover {color: #ffedcc;}
+.orange-2, .orange-2-H:hover {color: #ffdb99;}
+.orange-3, .orange-3-H:hover {color: #ffc966;}
+.orange-4, .orange-4-H:hover {color: #ffb833;}
+.orange-5, .orange-5-H:hover {color: #ffa600;}
+.orange-6, .orange-6-H:hover {color: #cc8500;}
+.orange-7, .orange-7-H:hover {color: #996300;}
+.orange-8, .orange-8-H:hover {color: #664200;}
+.orange-9, .orange-9-H:hover {color: #332100;}
 
 /* violet-num color pallet */
-.violet-1 {color: #ffccff;}
-.violet-2 {color: #ff99ff;}
-.violet-3 {color: #ff66ff;}
-.violet-4 {color: #ff33ff;}
-.violet-5 {color: #ff00ff;}
-.violet-6 {color: #cc00cc;}
-.violet-7 {color: #990099;}
-.violet-8 {color: #660066;}
-.violet-9 {color: #330033;}
+.violet-1, .violet-1-H:hover {color: #ffccff;}
+.violet-2, .violet-2-H:hover {color: #ff99ff;}
+.violet-3, .violet-3-H:hover {color: #ff66ff;}
+.violet-4, .violet-4-H:hover {color: #ff33ff;}
+.violet-5, .violet-5-H:hover {color: #ff00ff;}
+.violet-6, .violet-6-H:hover {color: #cc00cc;}
+.violet-7, .violet-7-H:hover {color: #990099;}
+.violet-8, .violet-8-H:hover {color: #660066;}
+.violet-9, .violet-9-H:hover {color: #330033;}
 
 /* azure-num color pallet */
-.azure-1 {color: #ccffff;}
-.azure-2 {color: #99ffff;}
-.azure-3 {color: #66ffff;}
-.azure-4 {color: #33ffff;}
-.azure-5 {color: #00ffff;}
-.azure-6 {color: #00cccc;}
-.azure-7 {color: #009999;}
-.azure-8 {color: #006666;}
-.azure-9 {color: #003333;}
+.azure-1, .azure-1-H:hover {color: #ccffff;}
+.azure-2, .azure-2-H:hover {color: #99ffff;}
+.azure-3, .azure-3-H:hover {color: #66ffff;}
+.azure-4, .azure-4-H:hover {color: #33ffff;}
+.azure-5, .azure-5-H:hover {color: #00ffff;}
+.azure-6, .azure-6-H:hover {color: #00cccc;}
+.azure-7, .azure-7-H:hover {color: #009999;}
+.azure-8, .azure-8-H:hover {color: #006666;}
+.azure-9, .azure-9-H:hover {color: #003333;}
 
-/* bg = background-color */
-.bg-white {background-color: #fff;}
-.bg-black {background-color: #000;}
+/* bg-color = background-color */
+.bg-white, .bg-white-H:hover {background-color: #fff;}
+.bg-black, .bg-black-H:hover {background-color: #000;}
 
 /* bg-gray-num or bg-grey-num color pallet */
-.bg-gray-1, .bg-grey-1 {background-color: #e6e6e6;}
-.bg-gray-2, .bg-grey-2 {background-color: #cccccc;}
-.bg-gray-3, .bg-grey-3 {background-color: #b3b3b3;}
-.bg-gray-4, .bg-grey-4 {background-color: #999999;}
-.bg-gray-5, .bg-grey-5 {background-color: #808080;}
-.bg-gray-6, .bg-grey-6 {background-color: #666666;}
-.bg-gray-7, .bg-grey-7 {background-color: #4d4d4d;}
-.bg-gray-8, .bg-grey-8 {background-color: #333333;}
-.bg-gray-9, .bg-grey-9 {background-color: #1a1a1a;}
+.bg-gray-1, .bg-gray-1-H:hover, .bg-grey-1, .bg-grey-1-H:hover {background-color: #e6e6e6;}
+.bg-gray-2, .bg-gray-2-H:hover, .bg-grey-2, .bg-grey-2-H:hover {background-color: #cccccc;}
+.bg-gray-3, .bg-gray-3-H:hover, .bg-grey-3, .bg-grey-3-H:hover {background-color: #b3b3b3;}
+.bg-gray-4, .bg-gray-4-H:hover, .bg-grey-4, .bg-grey-4-H:hover {background-color: #999999;}
+.bg-gray-5, .bg-gray-5-H:hover, .bg-grey-5, .bg-grey-5-H:hover {background-color: #808080;}
+.bg-gray-6, .bg-gray-6-H:hover, .bg-grey-6, .bg-grey-6-H:hover {background-color: #666666;}
+.bg-gray-7, .bg-gray-7-H:hover, .bg-grey-7, .bg-grey-7-H:hover {background-color: #4d4d4d;}
+.bg-gray-8, .bg-gray-8-H:hover, .bg-grey-8, .bg-grey-8-H:hover {background-color: #333333;}
+.bg-gray-9, .bg-gray-9-H:hover, .bg-grey-9, .bg-grey-9-H:hover {background-color: #1a1a1a;}
 
 /* bg-red-num background-color pallet */
-.bg-red-1 {background-color: #ffcccc;}
-.bg-red-2 {background-color: #ff9999;}
-.bg-red-3 {background-color: #ff6666;}
-.bg-red-4 {background-color: #ff3333;}
-.bg-red-5 {background-color: #ff0000;}
-.bg-red-6 {background-color: #cc0000;}
-.bg-red-7 {background-color: #990000;}
-.bg-red-8 {background-color: #660000;}
-.bg-red-9 {background-color: #330000;}
+.bg-red-1, .bg-red-1-H:hover {background-color: #ffcccc;}
+.bg-red-2, .bg-red-2-H:hover {background-color: #ff9999;}
+.bg-red-3, .bg-red-3-H:hover {background-color: #ff6666;}
+.bg-red-4, .bg-red-4-H:hover {background-color: #ff3333;}
+.bg-red-5, .bg-red-5-H:hover {background-color: #ff0000;}
+.bg-red-6, .bg-red-6-H:hover {background-color: #cc0000;}
+.bg-red-7, .bg-red-7-H:hover {background-color: #990000;}
+.bg-red-8, .bg-red-8-H:hover {background-color: #660000;}
+.bg-red-9, .bg-red-9-H:hover {background-color: #330000;}
 
 /* bg-blue-num background-color pallet */
-.bg-blue-1 {background-color: #ccccff;}
-.bg-blue-2 {background-color: #9999ff;}
-.bg-blue-3 {background-color: #6666ff;}
-.bg-blue-4 {background-color: #3333ff;}
-.bg-blue-5 {background-color: #0000ff;}
-.bg-blue-6 {background-color: #0000cc;}
-.bg-blue-7 {background-color: #000099;}
-.bg-blue-8 {background-color: #000066;}
-.bg-blue-9 {background-color: #000033;}
+.bg-blue-1, .bg-blue-1-H:hover {background-color: #ccccff;}
+.bg-blue-2, .bg-blue-2-H:hover {background-color: #9999ff;}
+.bg-blue-3, .bg-blue-3-H:hover {background-color: #6666ff;}
+.bg-blue-4, .bg-blue-4-H:hover {background-color: #3333ff;}
+.bg-blue-5, .bg-blue-5-H:hover {background-color: #0000ff;}
+.bg-blue-6, .bg-blue-6-H:hover {background-color: #0000cc;}
+.bg-blue-7, .bg-blue-7-H:hover {background-color: #000099;}
+.bg-blue-8, .bg-blue-8-H:hover {background-color: #000066;}
+.bg-blue-9, .bg-blue-9-H:hover {background-color: #000033;}
 
 /* bg-green-num background-color pallet */
-.bg-green-1 {background-color: #ccffcc;}
-.bg-green-2 {background-color: #99ff99;}
-.bg-green-3 {background-color: #66ff66;}
-.bg-green-4 {background-color: #33ff33;}
-.bg-green-5 {background-color: #00ff00;}
-.bg-green-6 {background-color: #00cc00;}
-.bg-green-7 {background-color: #009900;}
-.bg-green-8 {background-color: #006600;}
-.bg-green-9 {background-color: #003300;}
+.bg-green-1, .bg-green-1-H:hover {background-color: #ccffcc;}
+.bg-green-2, .bg-green-2-H:hover {background-color: #99ff99;}
+.bg-green-3, .bg-green-3-H:hover {background-color: #66ff66;}
+.bg-green-4, .bg-green-4-H:hover {background-color: #33ff33;}
+.bg-green-5, .bg-green-5-H:hover {background-color: #00ff00;}
+.bg-green-6, .bg-green-6-H:hover {background-color: #00cc00;}
+.bg-green-7, .bg-green-7-H:hover {background-color: #009900;}
+.bg-green-8, .bg-green-8-H:hover {background-color: #006600;}
+.bg-green-9, .bg-green-9-H:hover {background-color: #003300;}
 
 /* bg-text-yellow-num background-color pallet */
-.bg-yellow-1 {background-color: #ffffcc;}
-.bg-yellow-2 {background-color: #ffff99;}
-.bg-yellow-3 {background-color: #ffff66;}
-.bg-yellow-4 {background-color: #ffff33;}
-.bg-yellow-5 {background-color: #ffff00;}
-.bg-yellow-6 {background-color: #cccc00;}
-.bg-yellow-7 {background-color: #999900;}
-.bg-yellow-8 {background-color: #666600;}
-.bg-yellow-9 {background-color: #333300;}
+.bg-yellow-1, .bg-yellow-1-H:hover {background-color: #ffffcc;}
+.bg-yellow-2, .bg-yellow-2-H:hover {background-color: #ffff99;}
+.bg-yellow-3, .bg-yellow-3-H:hover {background-color: #ffff66;}
+.bg-yellow-4, .bg-yellow-4-H:hover {background-color: #ffff33;}
+.bg-yellow-5, .bg-yellow-5-H:hover {background-color: #ffff00;}
+.bg-yellow-6, .bg-yellow-6-H:hover {background-color: #cccc00;}
+.bg-yellow-7, .bg-yellow-7-H:hover {background-color: #999900;}
+.bg-yellow-8, .bg-yellow-8-H:hover {background-color: #666600;}
+.bg-yellow-9, .bg-yellow-9-H:hover {background-color: #333300;}
 
 /* bg-orange-num background-color pallet */
-.bg-orange-1 {background-color: #ffedcc;}
-.bg-orange-2 {background-color: #ffdb99;}
-.bg-orange-3 {background-color: #ffc966;}
-.bg-orange-4 {background-color: #ffb833;}
-.bg-orange-5 {background-color: #ffa600;}
-.bg-orange-6 {background-color: #cc8500;}
-.bg-orange-7 {background-color: #996300;}
-.bg-orange-8 {background-color: #664200;}
-.bg-orange-9 {background-color: #332100;}
+.bg-orange-1, .bg-orange-1-H:hover {background-color: #ffedcc;}
+.bg-orange-2, .bg-orange-2-H:hover {background-color: #ffdb99;}
+.bg-orange-3, .bg-orange-3-H:hover {background-color: #ffc966;}
+.bg-orange-4, .bg-orange-4-H:hover {background-color: #ffb833;}
+.bg-orange-5, .bg-orange-5-H:hover {background-color: #ffa600;}
+.bg-orange-6, .bg-orange-6-H:hover {background-color: #cc8500;}
+.bg-orange-7, .bg-orange-7-H:hover {background-color: #996300;}
+.bg-orange-8, .bg-orange-8-H:hover {background-color: #664200;}
+.bg-orange-9, .bg-orange-9-H:hover {background-color: #332100;}
 
 /* bg-violet-num background-color pallet */
-.bg-violet-1 {background-color: #ffccff;}
-.bg-violet-2 {background-color: #ff99ff;}
-.bg-violet-3 {background-color: #ff66ff;}
-.bg-violet-4 {background-color: #ff33ff;}
-.bg-violet-5 {background-color: #ff00ff;}
-.bg-violet-6 {background-color: #cc00cc;}
-.bg-violet-7 {background-color: #990099;}
-.bg-violet-8 {background-color: #660066;}
-.bg-violet-9 {background-color: #330033;}
+.bg-violet-1, .bg-violet-1-H:hover {background-color: #ffccff;}
+.bg-violet-2, .bg-violet-2-H:hover {background-color: #ff99ff;}
+.bg-violet-3, .bg-violet-3-H:hover {background-color: #ff66ff;}
+.bg-violet-4, .bg-violet-4-H:hover {background-color: #ff33ff;}
+.bg-violet-5, .bg-violet-5-H:hover {background-color: #ff00ff;}
+.bg-violet-6, .bg-violet-6-H:hover {background-color: #cc00cc;}
+.bg-violet-7, .bg-violet-7-H:hover {background-color: #990099;}
+.bg-violet-8, .bg-violet-8-H:hover {background-color: #660066;}
+.bg-violet-9, .bg-violet-9-H:hover {background-color: #330033;}
 
 /* bg-azure-num background-color pallet */
-.bg-azure-1 {background-color: #ccffff;}
-.bg-azure-2 {background-color: #99ffff;}
-.bg-azure-3 {background-color: #66ffff;}
-.bg-azure-4 {background-color: #33ffff;}
-.bg-azure-5 {background-color: #00ffff;}
-.bg-azure-6 {background-color: #00cccc;}
-.bg-azure-7 {background-color: #009999;}
-.bg-azure-8 {background-color: #006666;}
-.bg-azure-9 {background-color: #003333;}
+.bg-azure-1, .bg-azure-1-H:hover {background-color: #ccffff;}
+.bg-azure-2, .bg-azure-2-H:hover {background-color: #99ffff;}
+.bg-azure-3, .bg-azure-3-H:hover {background-color: #66ffff;}
+.bg-azure-4, .bg-azure-4-H:hover {background-color: #33ffff;}
+.bg-azure-5, .bg-azure-5-H:hover {background-color: #00ffff;}
+.bg-azure-6, .bg-azure-6-H:hover {background-color: #00cccc;}
+.bg-azure-7, .bg-azure-7-H:hover {background-color: #009999;}
+.bg-azure-8, .bg-azure-8-H:hover {background-color: #006666;}
+.bg-azure-9, .bg-azure-9-H:hover {background-color: #003333;}
 
-/* p = padding */
-.p-0 {padding: 0;}
-.p-1 {padding: .25rem;}
-.p-2 {padding: .5rem;}
-.p-3 {padding: .75rem;}
-.p-4 {padding: 1rem;}
-.p-5 {padding: 1.25rem;}
-.p-6 {padding: 1.5rem;}
-.p-7 {padding: 1.75rem;}
-.p-8 {padding: 2rem;}
-.p-9 {padding: 2.25rem;}
-.p-10 {padding: 2.5rem;}
-.p-11 {padding: 2.75rem;}
-.p-12 {padding: 3rem;}
+/* p-num = padding */
+.p-0, .p-0-H:hover {padding: 0;}
+.p-1, .p-1-H:hover {padding: .25rem;}
+.p-2, .p-2-H:hover {padding: .5rem;}
+.p-3, .p-3-H:hover {padding: .75rem;}
+.p-4, .p-4-H:hover {padding: 1rem;}
+.p-5, .p-5-H:hover {padding: 1.25rem;}
+.p-6, .p-6-H:hover {padding: 1.5rem;}
+.p-7, .p-7-H:hover {padding: 1.75rem;}
+.p-8, .p-8-H:hover {padding: 2rem;}
+.p-9, .p-9-H:hover {padding: 2.25rem;}
+.p-10, .p-10-H:hover {padding: 2.5rem;}
+.p-11, .p-11-H:hover {padding: 2.75rem;}
+.p-12, .p-12-H:hover {padding: 3rem;}
 
-/* pl = padding-left */
-.pl-0 {padding-left: 0;}
-.pl-1 {padding-left: .25rem;}
-.pl-2 {padding-left: .5rem;}
-.pl-3 {padding-left: .75rem;}
-.pl-4 {padding-left: 1rem;}
-.pl-5 {padding-left: 1.25rem;}
-.pl-6 {padding-left: 1.5rem;}
-.pl-7 {padding-left: 1.75rem;}
-.pl-8 {padding-left: 2rem;}
-.pl-9 {padding-left: 2.25rem;}
-.pl-10 {padding-left: 2.5rem;}
-.pl-11 {padding-left: 2.75rem;}
-.pl-12 {padding-left: 3rem;}
+/* pl-num = padding-left */
+.pl-0, .pl-0-H:hover {padding-left: 0;}
+.pl-1, .pl-1-H:hover {padding-left: .25rem;}
+.pl-2, .pl-2-H:hover {padding-left: .5rem;}
+.pl-3, .pl-3-H:hover {padding-left: .75rem;}
+.pl-4, .pl-4-H:hover {padding-left: 1rem;}
+.pl-5, .pl-5-H:hover {padding-left: 1.25rem;}
+.pl-6, .pl-6-H:hover {padding-left: 1.5rem;}
+.pl-7, .pl-7-H:hover {padding-left: 1.75rem;}
+.pl-8, .pl-8-H:hover {padding-left: 2rem;}
+.pl-9, .pl-9-H:hover {padding-left: 2.25rem;}
+.pl-10, .pl-10-H:hover {padding-left: 2.5rem;}
+.pl-11, .pl-11-H:hover {padding-left: 2.75rem;}
+.pl-12, .pl-12-H:hover {padding-left: 3rem;}
 
-/* pr = padding-right */
-.pr-0 {padding-right: 0;}
-.pr-1 {padding-right: .25rem;}
-.pr-2 {padding-right: .5rem;}
-.pr-3 {padding-right: .75rem;}
-.pr-4 {padding-right: 1rem;}
-.pr-5 {padding-right: 1.25rem;}
-.pr-6 {padding-right: 1.5rem;}
-.pr-7 {padding-right: 1.75rem;}
-.pr-8 {padding-right: 2rem;}
-.pr-9 {padding-right: 2.25rem;}
-.pr-10 {padding-right: 2.5rem;}
-.pr-11 {padding-right: 2.75rem;}
-.pr-12 {padding-right: 3rem;}
+/* pr-num = padding-right */
+.pr-0, .pr-0-H:hover {padding-right: 0;}
+.pr-1, .pr-1-H:hover {padding-right: .25rem;}
+.pr-2, .pr-2-H:hover {padding-right: .5rem;}
+.pr-3, .pr-3-H:hover {padding-right: .75rem;}
+.pr-4, .pr-4-H:hover {padding-right: 1rem;}
+.pr-5, .pr-5-H:hover {padding-right: 1.25rem;}
+.pr-6, .pr-6-H:hover {padding-right: 1.5rem;}
+.pr-7, .pr-7-H:hover {padding-right: 1.75rem;}
+.pr-8, .pr-8-H:hover {padding-right: 2rem;}
+.pr-9, .pr-9-H:hover {padding-right: 2.25rem;}
+.pr-10, .pr-10-H:hover {padding-right: 2.5rem;}
+.pr-11, .pr-11-H:hover {padding-right: 2.75rem;}
+.pr-12, .pr-12-H:hover {padding-right: 3rem;}
 
-/* pt = padding-top */
-.pt-0 {padding-top: 0;}
-.pt-1 {padding-top: .25rem;}
-.pt-2 {padding-top: .5rem;}
-.pt-3 {padding-top: .75rem;}
-.pt-4 {padding-top: 1rem;}
-.pt-5 {padding-top: 1.25rem;}
-.pt-6 {padding-top: 1.5rem;}
-.pt-7 {padding-top: 1.75rem;}
-.pt-8 {padding-top: 2rem;}
-.pt-9 {padding-top: 2.25rem;}
-.pt-10 {padding-top: 2.5rem;}
-.pt-11 {padding-top: 2.75rem;}
-.pt-12 {padding-top: 3rem;}
+/* pt-num = padding-top */
+.pt-0, .pt-0-H:hover {padding-top: 0;}
+.pt-1, .pt-1-H:hover {padding-top: .25rem;}
+.pt-2, .pt-2-H:hover {padding-top: .5rem;}
+.pt-3, .pt-3-H:hover {padding-top: .75rem;}
+.pt-4, .pt-4-H:hover {padding-top: 1rem;}
+.pt-5, .pt-5-H:hover {padding-top: 1.25rem;}
+.pt-6, .pt-6-H:hover {padding-top: 1.5rem;}
+.pt-7, .pt-7-H:hover {padding-top: 1.75rem;}
+.pt-8, .pt-8-H:hover {padding-top: 2rem;}
+.pt-9, .pt-9-H:hover {padding-top: 2.25rem;}
+.pt-10, .pt-10-H:hover {padding-top: 2.5rem;}
+.pt-11, .pt-11-H:hover {padding-top: 2.75rem;}
+.pt-12, .pt-12-H:hover {padding-top: 3rem;}
 
-/* pb = padding-bottom */
-.pb-0 {padding-bottom: 0;}
-.pb-1 {padding-bottom: .25rem;}
-.pb-2 {padding-bottom: .5rem;}
-.pb-3 {padding-bottom: .75rem;}
-.pb-4 {padding-bottom: 1rem;}
-.pb-5 {padding-bottom: 1.25rem;}
-.pb-6 {padding-bottom: 1.5rem;}
-.pb-7 {padding-bottom: 1.75rem;}
-.pb-8 {padding-bottom: 2rem;}
-.pb-9 {padding-bottom: 2.25rem;}
-.pb-10 {padding-bottom: 2.5rem;}
-.pb-11 {padding-bottom: 2.75rem;}
-.pb-12 {padding-bottom: 3rem;}
+/* pb-num = padding-bottom */
+.pb-0, .pb-0-H:hover {padding-bottom: 0;}
+.pb-1, .pb-1-H:hover {padding-bottom: .25rem;}
+.pb-2, .pb-2-H:hover {padding-bottom: .5rem;}
+.pb-3, .pb-3-H:hover {padding-bottom: .75rem;}
+.pb-4, .pb-4-H:hover {padding-bottom: 1rem;}
+.pb-5, .pb-5-H:hover {padding-bottom: 1.25rem;}
+.pb-6, .pb-6-H:hover {padding-bottom: 1.5rem;}
+.pb-7, .pb-7-H:hover {padding-bottom: 1.75rem;}
+.pb-8, .pb-8-H:hover {padding-bottom: 2rem;}
+.pb-9, .pb-9-H:hover {padding-bottom: 2.25rem;}
+.pb-10, .pb-10-H:hover {padding-bottom: 2.5rem;}
+.pb-11, .pb-11-H:hover {padding-bottom: 2.75rem;}
+.pb-12, .pb-12-H:hover {padding-bottom: 3rem;}
 
-/* px = padding-left and padding-right */
-.px-0 {padding-left: 0; padding-right: 0;}
-.px-1 {padding-left: .25rem; padding-right: .25rem;}
-.px-2 {padding-left: .5rem; padding-right: .5;}
-.px-3 {padding-left: .75rem; padding-right: .75rem;}
-.px-4 {padding-left: 1rem; padding-right: 1rem;}
-.px-5 {padding-left: 1.25rem; padding-right: 1.25rem;}
-.px-6 {padding-left: 1.5rem; padding-right: 1.5;}
-.px-7 {padding-left: 1.75rem; padding-right: 1.75rem;}
-.px-8 {padding-left: 2rem; padding-right: 2rem;}
-.px-9 {padding-left: 2.25rem; padding-right: 2.25rem;}
-.px-10 {padding-left: 2.5rem; padding-right: 2.5rem;}
-.px-11 {padding-left: 2.75rem; padding-right: 2.75rem;}
-.px-12 {padding-left: 3rem; padding-right: 3rem;}
+/* px-num = padding-left and padding-right */
+.px-0, .px-0-H:hover {padding-left: 0; padding-right: 0;}
+.px-1, .px-1-H:hover {padding-left: .25rem; padding-right: .25rem;}
+.px-2, .px-2-H:hover {padding-left: .5rem; padding-right: .5;}
+.px-3, .px-3-H:hover {padding-left: .75rem; padding-right: .75rem;}
+.px-4, .px-4-H:hover {padding-left: 1rem; padding-right: 1rem;}
+.px-5, .px-5-H:hover {padding-left: 1.25rem; padding-right: 1.25rem;}
+.px-6, .px-6-H:hover {padding-left: 1.5rem; padding-right: 1.5;}
+.px-7, .px-7-H:hover {padding-left: 1.75rem; padding-right: 1.75rem;}
+.px-8, .px-8-H:hover {padding-left: 2rem; padding-right: 2rem;}
+.px-9, .px-9-H:hover {padding-left: 2.25rem; padding-right: 2.25rem;}
+.px-10, .px-10-H:hover {padding-left: 2.5rem; padding-right: 2.5rem;}
+.px-11, .px-11-H:hover {padding-left: 2.75rem; padding-right: 2.75rem;}
+.px-12, .px-12-H:hover {padding-left: 3rem; padding-right: 3rem;}
 
-/* py = padding-top and padding-bottom */
-.py-0 {padding-top: 0; padding-bottom: 0;}
-.py-1 {padding-top: .25rem; padding-bottom: .25rem;}
-.py-2 {padding-top: .5rem; padding-bottom: .5;}
-.py-3 {padding-top: .75rem; padding-bottom: .75rem;}
-.py-4 {padding-top: 1rem; padding-bottom: 1rem;}
-.py-5 {padding-top: 1.25rem; padding-bottom: 1.25rem;}
-.py-6 {padding-top: 1.5rem; padding-bottom: 1.5;}
-.py-7 {padding-top: 1.75rem; padding-bottom: 1.75rem;}
-.py-8 {padding-top: 2rem; padding-bottom: 2rem;}
-.py-9 {padding-top: 2.25rem; padding-bottom: 2.25rem;}
-.py-10 {padding-top: 2.5rem; padding-bottom: 2.5rem;}
-.py-11 {padding-top: 2.75rem; padding-bottom: 2.75rem;}
-.py-12 {padding-top: 3rem; padding-bottom: 3rem;}
+/* py-num = padding-top and padding-bottom */
+.py-0, .py-0-H:hover {padding-top: 0; padding-bottom: 0;}
+.py-1, .py-1-H:hover {padding-top: .25rem; padding-bottom: .25rem;}
+.py-2, .py-2-H:hover {padding-top: .5rem; padding-bottom: .5;}
+.py-3, .py-3-H:hover {padding-top: .75rem; padding-bottom: .75rem;}
+.py-4, .py-4-H:hover {padding-top: 1rem; padding-bottom: 1rem;}
+.py-5, .py-5-H:hover {padding-top: 1.25rem; padding-bottom: 1.25rem;}
+.py-6, .py-6-H:hover {padding-top: 1.5rem; padding-bottom: 1.5;}
+.py-7, .py-7-H:hover {padding-top: 1.75rem; padding-bottom: 1.75rem;}
+.py-8, .py-8-H:hover {padding-top: 2rem; padding-bottom: 2rem;}
+.py-9, .py-9-H:hover {padding-top: 2.25rem; padding-bottom: 2.25rem;}
+.py-10, .py-10-H:hover {padding-top: 2.5rem; padding-bottom: 2.5rem;}
+.py-11, .py-11-H:hover {padding-top: 2.75rem; padding-bottom: 2.75rem;}
+.py-12, .py-12-H:hover {padding-top: 3rem; padding-bottom: 3rem;}
 
-/* m = margin */
-.m-0 {margin: 0;}
-.m-1 {margin: .25rem;}
-.m-2 {margin: .5rem;}
-.m-3 {margin: .75rem;}
-.m-4 {margin: 1rem;}
-.m-5 {margin: 1.25rem;}
-.m-6 {margin: 1.5rem;}
-.m-7 {margin: 1.75rem;}
-.m-8 {margin: 2rem;}
-.m-9 {margin: 2.25rem;}
-.m-10 {margin: 2.5rem;}
-.m-11 {margin: 2.75rem;}
-.m-12 {margin: 3rem;}
+/* m-num = margin */
+.m-0, .m-0-H:hover {margin: 0;}
+.m-1, .m-1-H:hover {margin: .25rem;}
+.m-2, .m-2-H:hover {margin: .5rem;}
+.m-3, .m-3-H:hover {margin: .75rem;}
+.m-4, .m-4-H:hover {margin: 1rem;}
+.m-5, .m-5-H:hover {margin: 1.25rem;}
+.m-6, .m-6-H:hover {margin: 1.5rem;}
+.m-7, .m-7-H:hover {margin: 1.75rem;}
+.m-8, .m-8-H:hover {margin: 2rem;}
+.m-9, .m-9-H:hover {margin: 2.25rem;}
+.m-10, .m-10-H:hover {margin: 2.5rem;}
+.m-11, .m-11-H:hover {margin: 2.75rem;};
+.m-12, .m-12-H:hover {margin: 3rem;}
 
-/* ml = margin-left */
-.ml-0 {margin-left: 0;}
-.ml-1 {margin-left: .25rem;}
-.ml-2 {margin-left: .5rem;}
-.ml-3 {margin-left: .75rem;}
-.ml-4 {margin-left: 1rem;}
-.ml-5 {margin-left: 1.25rem;}
-.ml-6 {margin-left: 1.5rem;}
-.ml-7 {margin-left: 1.75rem;}
-.ml-8 {margin-left: 2rem;}
-.ml-9 {margin-left: 2.25rem;}
-.ml-10 {margin-left: 2.5rem;}
-.ml-11 {margin-left: 2.75rem;}
-.ml-12 {margin-left: 3rem;}
+/* ml-num = margin-left */
+.ml-0, .ml-0-H:hover {margin-left: 0;}
+.ml-1, .ml-1-H:hover {margin-left: .25rem;}
+.ml-2, .ml-2-H:hover {margin-left: .5rem;}
+.ml-3, .ml-3-H:hover {margin-left: .75rem;}
+.ml-4, .ml-4-H:hover {margin-left: 1rem;}
+.ml-5, .ml-5-H:hover {margin-left: 1.25rem;}
+.ml-6, .ml-6-H:hover {margin-left: 1.5rem;}
+.ml-7, .ml-7-H:hover {margin-left: 1.75rem;}
+.ml-8, .ml-8-H:hover {margin-left: 2rem;}
+.ml-9, .ml-9-H:hover {margin-left: 2.25rem;}
+.ml-10, .ml-10-H:hover {margin-left: 2.5rem;}
+.ml-11, .ml-11-H:hover {margin-left: 2.75rem;}
+.ml-12, .ml-12-H:hover {margin-left: 3rem;}
 
-/* mr = margin-right */
-.mr-0 {margin-right: 0;}
-.mr-1 {margin-right: .25rem;}
-.mr-2 {margin-right: .5rem;}
-.mr-3 {margin-right: .75rem;}
-.mr-4 {margin-right: 1rem;}
-.mr-5 {margin-right: 1.25rem;}
-.mr-6 {margin-right: 1.5rem;}
-.mr-7 {margin-right: 1.75rem;}
-.mr-8 {margin-right: 2rem;}
-.mr-9 {margin-right: 2.25rem;}
-.mr-10 {margin-right: 2.5rem;}
-.mr-11 {margin-right: 2.75rem;}
-.mr-12 {margin-right: 3rem;}
+/* mr-num = margin-right */
+.mr-0, .mr-0-H:hover {margin-right: 0;}
+.mr-1, .mr-1-H:hover {margin-right: .25rem;}
+.mr-2, .mr-2-H:hover {margin-right: .5rem;}
+.mr-3, .mr-3-H:hover {margin-right: .75rem;}
+.mr-4, .mr-4-H:hover {margin-right: 1rem;}
+.mr-5, .mr-5-H:hover {margin-right: 1.25rem;}
+.mr-6, .mr-6-H:hover {margin-right: 1.5rem;}
+.mr-7, .mr-7-H:hover {margin-right: 1.75rem;}
+.mr-8, .mr-8-H:hover {margin-right: 2rem;}
+.mr-9, .mr-9-H:hover {margin-right: 2.25rem;}
+.mr-10, .mr-10-H:hover {margin-right: 2.5rem;}
+.mr-11, .mr-11-H:hover {margin-right: 2.75rem;}
+.mr-12, .mr-12-H:hover {margin-right: 3rem;}
 
-/* mt = margin-top */
-.mt-0 {margin-top: 0;}
-.mt-1 {margin-top: .25rem;}
-.mt-2 {margin-top: .5rem;}
-.mt-3 {margin-top: .75rem;}
-.mt-4 {margin-top: 1rem;}
-.mt-5 {margin-top: 1.25rem;}
-.mt-6 {margin-top: 1.5rem;}
-.mt-7 {margin-top: 1.75rem;}
-.mt-8 {margin-top: 2rem;}
-.mt-9 {margin-top: 2.25rem;}
-.mt-10 {margin-top: 2.5rem;}
-.mt-11 {margin-top: 2.75rem;}
-.mt-12 {margin-top: 3rem;}
+/* mt-num = margin-top */
+.mt-0, .mt-0-H:hover {margin-top: 0;}
+.mt-1, .mt-1-H:hover {margin-top: .25rem;}
+.mt-2, .mt-2-H:hover {margin-top: .5rem;}
+.mt-3, .mt-3-H:hover {margin-top: .75rem;}
+.mt-4, .mt-4-H:hover {margin-top: 1rem;}
+.mt-5, .mt-5-H:hover {margin-top: 1.25rem;}
+.mt-6, .mt-6-H:hover {margin-top: 1.5rem;}
+.mt-7, .mt-7-H:hover {margin-top: 1.75rem;}
+.mt-8, .mt-8-H:hover {margin-top: 2rem;}
+.mt-9, .mt-9-H:hover {margin-top: 2.25rem;}
+.mt-10, .mt-10-H:hover {margin-top: 2.5rem;}
+.mt-11, .mt-11-H:hover {margin-top: 2.75rem;}
+.mt-12, .mt-12-H:hover {margin-top: 3rem;}
 
-/* mb = margin-bottom */
-.mb-0 {margin-bottom: 0;}
-.mb-1 {margin-bottom: .25rem;}
-.mb-2 {margin-bottom: .5rem;}
-.mb-3 {margin-bottom: .75rem;}
-.mb-4 {margin-bottom: 1rem;}
-.mb-5 {margin-bottom: 1.25rem;}
-.mb-6 {margin-bottom: 1.5rem;}
-.mb-7 {margin-bottom: 1.75rem;}
-.mb-8 {margin-bottom: 2rem;}
-.mb-9 {margin-bottom: 2.25rem;}
-.mb-10 {margin-bottom: 2.5rem;}
-.mb-11 {margin-bottom: 2.75rem;}
-.mb-12 {margin-bottom: 3rem;}
+/* mb-num = margin-bottom */
+.mb-0, .mb-0-H:hover {margin-bottom: 0;}
+.mb-1, .mb-1-H:hover {margin-bottom: .25rem;}
+.mb-2, .mb-2-H:hover {margin-bottom: .5rem;}
+.mb-3, .mb-3-H:hover {margin-bottom: .75rem;}
+.mb-4, .mb-4-H:hover {margin-bottom: 1rem;}
+.mb-5, .mb-5-H:hover {margin-bottom: 1.25rem;}
+.mb-6, .mb-6-H:hover {margin-bottom: 1.5rem;}
+.mb-7, .mb-7-H:hover {margin-bottom: 1.75rem;}
+.mb-8, .mb-8-H:hover {margin-bottom: 2rem;}
+.mb-9, .mb-9-H:hover {margin-bottom: 2.25rem;}
+.mb-10, .mb-10-H:hover {margin-bottom: 2.5rem;}
+.mb-11, .mb-11-H:hover {margin-bottom: 2.75rem;}
+.mb-12, .mb-12-H:hover {margin-bottom: 3rem;}
 
-/* mx = margin-left and margin-right */
-.mx-0 {margin-left: 0; margin-right: 0;}
-.mx-1 {margin-left: .25rem; margin-right: .25rem;}
-.mx-2 {margin-left: .5rem; margin-right: .5;}
-.mx-3 {margin-left: .75rem; margin-right: .75rem;}
-.mx-4 {margin-left: 1rem; margin-right: 1rem;}
-.mx-5 {margin-left: 1.25rem; margin-right: 1.25rem;}
-.mx-6 {margin-left: 1.5rem; margin-right: 1.5;}
-.mx-7 {margin-left: 1.75rem; margin-right: 1.75rem;}
-.mx-8 {margin-left: 2rem; margin-right: 2rem;}
-.mx-9 {margin-left: 2.25rem; margin-right: 2.25rem;}
-.mx-10 {margin-left: 2.5rem; margin-right: 2.5rem;}
-.mx-11 {margin-left: 2.75rem; margin-right: 2.75rem;}
-.mx-12 {margin-left: 3rem; margin-right: 3rem;}
+/* mx-num = margin-left and margin-right */
+.mx-0, .mx-0-H:hover {margin-left: 0; margin-right: 0;}
+.mx-1, .mx-1-H:hover {margin-left: .25rem; margin-right: .25rem;}
+.mx-2, .mx-2-H:hover {margin-left: .5rem; margin-right: .5;}
+.mx-3, .mx-3-H:hover {margin-left: .75rem; margin-right: .75rem;}
+.mx-4, .mx-4-H:hover {margin-left: 1rem; margin-right: 1rem;}
+.mx-5, .mx-5-H:hover {margin-left: 1.25rem; margin-right: 1.25rem;}
+.mx-6, .mx-6-H:hover {margin-left: 1.5rem; margin-right: 1.5;}
+.mx-7, .mx-7-H:hover {margin-left: 1.75rem; margin-right: 1.75rem;}
+.mx-8, .mx-8-H:hover {margin-left: 2rem; margin-right: 2rem;}
+.mx-9, .mx-9-H:hover {margin-left: 2.25rem; margin-right: 2.25rem;}
+.mx-10, .mx-10-H:hover {margin-left: 2.5rem; margin-right: 2.5rem;}
+.mx-11, .mx-11-H:hover {margin-left: 2.75rem; margin-right: 2.75rem;}
+.mx-12, .mx-12-H:hover {margin-left: 3rem; margin-right: 3rem;}
 
-/* my = margin-top and margin-bottom */
-.my-0 {margin-top: 0; margin-bottom: 0;}
-.my-1 {margin-top: .25rem; margin-bottom: .25rem;}
-.my-2 {margin-top: .5rem; margin-bottom: .5;}
-.my-3 {margin-top: .75rem; margin-bottom: .75rem;}
-.my-4 {margin-top: 1rem; margin-bottom: 1rem;}
-.my-5 {margin-top: 1.25rem; margin-bottom: 1.25rem;}
-.my-6 {margin-top: 1.5rem; margin-bottom: 1.5;}
-.my-7 {margin-top: 1.75rem; margin-bottom: 1.75rem;}
-.my-8 {margin-top: 2rem; margin-bottom: 2rem;}
-.my-9 {margin-top: 2.25rem; margin-bottom: 2.25rem;}
-.my-10 {margin-top: 2.5rem; margin-bottom: 2.5rem;}
-.my-11 {margin-top: 2.75rem; margin-bottom: 2.75rem;}
-.my-12 {margin-top: 3rem; margin-bottom: 3rem;}
+/* my-num = margin-top and margin-bottom */
+.my-0, .my-0-H:hover {margin-top: 0; margin-bottom: 0;}
+.my-1, .my-1-H:hover {margin-top: .25rem; margin-bottom: .25rem;}
+.my-2, .my-2-H:hover {margin-top: .5rem; margin-bottom: .5;}
+.my-3, .my-3-H:hover {margin-top: .75rem; margin-bottom: .75rem;}
+.my-4, .my-4-H:hover {margin-top: 1rem; margin-bottom: 1rem;}
+.my-5, .my-5-H:hover {margin-top: 1.25rem; margin-bottom: 1.25rem;}
+.my-6, .my-6-H:hover {margin-top: 1.5rem; margin-bottom: 1.5;}
+.my-7, .my-7-H:hover {margin-top: 1.75rem; margin-bottom: 1.75rem;}
+.my-8, .my-8-H:hover {margin-top: 2rem; margin-bottom: 2rem;}
+.my-9, .my-9-H:hover {margin-top: 2.25rem; margin-bottom: 2.25rem;}
+.my-10, .my-10-H:hover {margin-top: 2.5rem; margin-bottom: 2.5rem;}
+.my-11, .my-11-H:hover {margin-top: 2.75rem; margin-bottom: 2.75rem;}
+.my-12, .my-12-H:hover {margin-top: 3rem; margin-bottom: 3rem;}
 
 /* fs-name = font-size */
-.fs-xx-small {font-size: xx-small;}
-.fs-x-small {font-size: x-small;}
-.fs-smaller {font-size: smaller;}
-.fs-small {font-size: small;}
-.fs-medium {font-size: medium;}
-.fs-large {font-size: large;}
-.fs-larger {font-size: larger;}
-.fs-x-large {font-size: x-large;}
-.fs-xx-large {font-size: xx-large;}
+.fs-xx-small, .fs-xx-small-H:hover {font-size: xx-small;}
+.fs-x-small, .fs-x-small-H:hover {font-size: x-small;}
+.fs-smaller, .fs-smaller-H:hover {font-size: smaller;}
+.fs-small, .fs-small-H:hover {font-size: small;}
+.fs-medium, .fs-medium-H:hover {font-size: medium;}
+.fs-large, .fs-large-H:hover {font-size: large;}
+.fs-larger, .fs-larger-H:hover {font-size: larger;}
+.fs-x-large, .fs-x-large-H:hover {font-size: x-large;}
+.fs-xx-large, .fs-xx-large-H:hover {font-size: xx-large;}
+
+/* fs.num = font-size */
+.fs-1, .fs-1-H:hover {font-size: 0.5rem;}
+.fs-2, .fs-2-H:hover {font-size: 0.75rem;}
+.fs-3, .fs-3-H:hover {font-size: 1rem;}
+.fs-4, .fs-4-H:hover {font-size: 1.25rem;}
+.fs-5, .fs-5-H:hover {font-size: 1.5rem;}
+.fs-6, .fs-6-H:hover {font-size: 1.75rem;}
+.fs-7, .fs-7-H:hover {font-size: 2rem;}
+.fs-8, .fs-8-H:hover {font-size: 2.25rem;}
+.fs-9, .fs-9-H:hover {font-size: 2.5rem;}
+.fs-10, .fs-10-H:hover {font-size: 2.75rem;}
+.fs-11, .fs-11-H:hover {font-size: 3rem;}
+.fs-12, .fs-12-H:hover {font-size: 3.25rem;}
+.fs-13, .fs-13-H:hover {font-size: 3.5rem;}
+.fs-14, .fs-14-H:hover {font-size: 3.75rem;}
+.fs-15, .fs-15-H:hover {font-size: 4rem;}
+
+/* fw-name-H:hover = font-weight */
+.fw-bold, .bold, .fw-bold-H:hover, .bold-H:hover {font-weight: bold;}
+.fw-bolder, .bolder, .fw-bolder-H:hover, .bolder-H:hover {font-weight: bolder;}
+.fw-normal, .normal, .fw-normal-H:hover, .normal-H:hover {font-weight: normal;}
+.fw-lighter, .lighter, .fw-lighter-H:hover, .lighter-H:hover {font-weight: lighter;}
+
+/* fw-num = font-weight */
+.fw-1 , .fw-1-H:hover {font-weight: 100;}
+.fw-2 , .fw-2-H:hover {font-weight: 200;}
+.fw-3 , .fw-3-H:hover {font-weight: 300;}
+.fw-4 , .fw-4-H:hover {font-weight: 400;}
+.fw-5 , .fw-5-H:hover {font-weight: 500;}
+.fw-6 , .fw-6-H:hover {font-weight: 600;}
+.fw-7 , .fw-7-H:hover {font-weight: 700;}
+.fw-8 , .fw-8-H:hover {font-weight: 800;}
+.fw-9 , .fw-9-H:hover {font-weight: 900;}
+
+/* obj-fit = object-fit */
+.obj-contain, .obj-contain-H:hover {width: 100%; height: 100%; object-fit: contain;}
+.obj-cover, .obj-cover-H:hover {width: 100%; height: 100%; object-fit: cover;}
+.obj-fill, .obj-fill-H:hover {width: 100%; height: 100%; object-fit: fill;}
+.obj-none, .obj-none-H:hover {width: 100%; height: 100%; object-fit: none;}
+.obj-scale-down, .obj-scale-down-H:hover {width: 100%; height: 100%; object-fit: scale-down;}
+
+/* obj-pos = object-position */
+.obj-top, .obj-top-H:hover {object-position: top;}
+.obj-bottom, .obj-bottom-H:hover {object-position: bottom;}
+.obj-left, .obj-left-H:hover {object-position: left;}
+.obj-right, .obj-right-H:hover {object-position: right;}
+.obj-top-right, .obj-top-right-H:hover {object-position: top right;}
+.obj-top-left, .obj-top-left-H:hover {object-position: top left;}
+.obj-bottom-right, .obj-bottom-right-H:hover {object-position: bottom right;}
+.obj-bottom-left, .obj-bottom-left-H:hover {object-position: bottom left;}
