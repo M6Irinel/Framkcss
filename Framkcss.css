@@ -9,6 +9,7 @@ img, video, .w-100, .w-100-H:hover {width: 100%;}
 .w-25, .w-25-H:hover {width: 25%;}
 .w-50, .w-50-H:hover {width: 50%;}
 .w-75, .w-75-H:hover {width: 75%;}
+.w-100vw, .w-100vw:hover {width: 100vw;}
 
 /* h-num = height */
 .h-auto, .h-auto-H:hover {height: auto;}
@@ -16,6 +17,7 @@ img, video, .w-100, .w-100-H:hover {width: 100%;}
 .h-50, .h-50-H:hover {height: 50%;}
 .h-75, .h-75-H:hover {height: 75%;}
 .h-100, .h-100-H:hover {height: 100%;}
+.h-100vh, .h-100vh:hover {height: 100vh;}
 
 /* color */
 .white, .white-H:hover {color: #fff;}
@@ -571,10 +573,106 @@ img, video, .w-100, .w-100-H:hover {width: 100%;}
 .left-95, .left-95-H:hover {left: 95%;}
 .left-100, .left-100-H:hover {left: 100%;}
 
+/* grayscale */
+.grayscale, .grayscale-H:hover {filter: grayscale(1); -webkit-filter: grayscale(1);}
+
+/* invert */
+.invert, .invert-H:hover {filter: invert(1); -webkit-filter: invert(1);}
+
+/* contrast */
+.contrast, .contrast-H:hover {filter: contrast(1.25); -webkit-filter: contrast(1.25);}
+.contrast-1, .contrast-1-H:hover {filter: contrast(1.5); -webkit-filter: contrast(1.5);}
+.contrast-2, .contrast-2-H:hover {filter: contrast(1.75); -webkit-filter: contrast(1.75);}
+.contrast-3, .contrast-3-H:hover {filter: contrast(2); -webkit-filter: contrast(2);}
+
+/* blur */
+.blur, .blur-H:hover {filter: blur(0.5px); -webkit-filter: blur(0.5px);}
+.blur-1, .blur-1-H:hover {filter: blur(1px); -webkit-filter: blur(1px);}
+.blur-2, .blur-2-H:hover {filter: blur(1.5px); -webkit-filter: blur(1.5px);}
+.blur-3, .blur-3-H:hover {filter: blur(2px); -webkit-filter: blur(2px);}
+.blur-4, .blur-4-H:hover {filter: blur(2.5px); -webkit-filter: blur(2.5px);}
+.blur-5, .blur-5-H:hover {filter: blur(3px); -webkit-filter: blur(3px);}
+.blur-6, .blur-6-H:hover {filter: blur(3.5px); -webkit-filter: blur(3.5px);}
+.blur-7, .blur-7-H:hover {filter: blur(4px); -webkit-filter: blur(4px);}
+.blur-8, .blur-8-H:hover {filter: blur(4.5px); -webkit-filter: blur(4.5px);}
+.blur-9, .blur-9-H:hover {filter: blur(5px); -webkit-filter: blur(5px);}
+
+/* brightness */
+.brightness, .brightness-H:hover {filter: brightness(1.2); -webkit-filter: brightness(1.2);}
+.brightness-1, .brightness-1-H:hover {filter: brightness(1.4); -webkit-filter: brightness(1.4);}
+.brightness-2, .brightness-2-H:hover {filter: brightness(1.6); -webkit-filter: brightness(1.6);}
+.brightness-3, .brightness-3-H:hover {filter: brightness(1.8); -webkit-filter: brightness(1.8);}
+.brightness-4, .brightness-4-H:hover {filter: brightness(2); -webkit-filter: brightness(2);}
+.brightness-5, .brightness-5-H:hover {filter: brightness(2.2); -webkit-filter: brightness(2.2);}
+.brightness-6, .brightness-6-H:hover {filter: brightness(2.4); -webkit-filter: brightness(2.4);}
+.brightness-7, .brightness-7-H:hover {filter: brightness(2.6); -webkit-filter: brightness(2.6);}
+.brightness-8, .brightness-8-H:hover {filter: brightness(2.8); -webkit-filter: brightness(2.8);}
+.brightness-9, .brightness-9-H:hover {filter: brightness(3); -webkit-filter: brightness(3);}
+
 /* opacity */
-.opacity-0, .opacity-0-H:hover {filter: opacity(0);}
-.opacity-20, .opacity-25-H:hover {filter: opacity(0.2);}
-.opacity-40, .opacity-50-H:hover {filter: opacity(0.4);}
-.opacity-60, .opacity-75-H:hover {filter: opacity(0.6);}
-.opacity-80, .opacity-75-H:hover {filter: opacity(0.8);}
-.opacity-1, .opacity-1-H:hover {filter: opacity(1);}
+.opacity-0, .opacity-0-H:hover {filter: opacity(0); -webkit-filter: opacity(0);}
+.opacity-1, .opacity-1-H:hover {filter: opacity(0.1); -webkit-filter: opacity(0.1);}
+.opacity-2, .opacity-2-H:hover {filter: opacity(0.2); -webkit-filter: opacity(0.2);}
+.opacity-3, .opacity-3-H:hover {filter: opacity(0.3); -webkit-filter: opacity(0.3);}
+.opacity-4, .opacity-4-H:hover {filter: opacity(0.4); -webkit-filter: opacity(0.4);}
+.opacity-5, .opacity-5-H:hover {filter: opacity(0.5); -webkit-filter: opacity(0.5);}
+.opacity-6, .opacity-6-H:hover {filter: opacity(0.6); -webkit-filter: opacity(0.6);}
+.opacity-7, .opacity-7-H:hover {filter: opacity(0.7); -webkit-filter: opacity(0.7);}
+.opacity-8, .opacity-8-H:hover {filter: opacity(0.8); -webkit-filter: opacity(0.8);}
+.opacity-9, .opacity-9-H:hover {filter: opacity(0.9); -webkit-filter: opacity(0.9);}
+.opacity, .opacity-H:hover {filter: opacity(1);}
+
+/* t-name = text-position */
+.t-center, .t-center-H:hover {text-align: center; -ms-text-align-last: center; -moz-text-align-last: center;}
+.t-end, .t-end-H:hover {text-align: end; -ms-text-align-last: end; -moz-text-align-last: end;}
+.t-justyfy, .t-justyfy-H:hover {text-align: justify; -ms-text-align-last: justify; -moz-text-align-last: justify;}
+.t-left, .t-left-H:hover {text-align: left; -ms-text-align-last: left; -moz-text-align-last: left;}
+.t-right, .t-right-H:hover {text-align: right; -ms-text-align-last: right; -moz-text-align-last: right;}
+.t-start, .t-start-H:hover {text-align: start; -ms-text-align-last: start; -moz-text-align-last: start;}
+
+/* transition-all */
+.transition-all, .transition-all-H:hover {transition: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+
+/* duration-num = transition-duration */
+.duration-1, .duration-1-H:hover {transition-duration: 0.1s; -o-transition-duration: 0.1s; -moz-transition-duration: 0.1s; -webkit-transition-duration: 0.1s;}
+.duration-2, .duration-2-H:hover {transition-duration: 0.2s; -o-transition-duration: 0.2s; -moz-transition-duration: 0.2s; -webkit-transition-duration: 0.2s;}
+.duration-3, .duration-3-H:hover {transition-duration: 0.3s; -o-transition-duration: 0.3s; -moz-transition-duration: 0.3s; -webkit-transition-duration: 0.3s;}
+.duration-4, .duration-4-H:hover {transition-duration: 0.4s; -o-transition-duration: 0.4s; -moz-transition-duration: 0.4s; -webkit-transition-duration: 0.4s;}
+.duration-5, .duration-5-H:hover {transition-duration: 0.5s; -o-transition-duration: 0.5s; -moz-transition-duration: 0.5s; -webkit-transition-duration: 0.5s;}
+.duration-6, .duration-6-H:hover {transition-duration: 0.6s; -o-transition-duration: 0.6s; -moz-transition-duration: 0.6s; -webkit-transition-duration: 0.6s;}
+.duration-7, .duration-7-H:hover {transition-duration: 0.7s; -o-transition-duration: 0.7s; -moz-transition-duration: 0.7s; -webkit-transition-duration: 0.7s;}
+.duration-8, .duration-8-H:hover {transition-duration: 0.8s; -o-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -webkit-transition-duration: 0.8s;}
+.duration-9, .duration-9-H:hover {transition-duration: 0.9s; -o-transition-duration: 0.9s; -moz-transition-duration: 0.9s; -webkit-transition-duration: 0.9s;}
+.duration-1_0, .duration-1_0-H:hover {transition-duration: 1s; -o-transition-duration: 1s; -moz-transition-duration: 1s; -webkit-transition-duration: 1s;}
+.duration-1_2, .duration-1_2-H:hover {transition-duration: 0.2s; -o-transition-duration: 0.2s; -moz-transition-duration: 0.2s; -webkit-transition-duration: 0.2s;}
+.duration-1_4, .duration-1_4-H:hover {transition-duration: 0.4s; -o-transition-duration: 0.4s; -moz-transition-duration: 0.4s; -webkit-transition-duration: 0.4s;}
+.duration-1_6, .duration-1_6-H:hover {transition-duration: 0.6s; -o-transition-duration: 0.6s; -moz-transition-duration: 0.6s; -webkit-transition-duration: 0.6s;}
+.duration-1_8, .duration-1_8-H:hover {transition-duration: 0.8s; -o-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -webkit-transition-duration: 0.8s;}
+.duration-2, .duration-2-H:hover {transition-duration: 2s; -o-transition-duration: 2s; -moz-transition-duration: 2s; -webkit-transition-duration: 2s;}
+.duration-2_2, .duration-2_2-H:hover {transition-duration: 0.2s; -o-transition-duration: 0.2s; -moz-transition-duration: 0.2s; -webkit-transition-duration: 0.2s;}
+.duration-2_4, .duration-2_4-H:hover {transition-duration: 0.4s; -o-transition-duration: 0.4s; -moz-transition-duration: 0.4s; -webkit-transition-duration: 0.4s;}
+.duration-2_6, .duration-2_6-H:hover {transition-duration: 0.6s; -o-transition-duration: 0.6s; -moz-transition-duration: 0.6s; -webkit-transition-duration: 0.6s;}
+.duration-2_8, .duration-2_8-H:hover {transition-duration: 0.8s; -o-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -webkit-transition-duration: 0.8s;}
+.duration-3, .duration-3-H:hover {transition-duration: 3s; -o-transition-duration: 3s; -moz-transition-duration: 3s; -webkit-transition-duration: 3s;}
+
+/* delay-num = transition-delay */
+.delay-1, .delay-1-H:hover {transition-delay: 0.1s; -o-transition-delay: 0.1s; -moz-transition-delay: 0.1s; -webkit-transition-delay: 0.1s;}
+.delay-2, .delay-2-H:hover {transition-delay: 0.2s; -o-transition-delay: 0.2s; -moz-transition-delay: 0.2s; -webkit-transition-delay: 0.2s;}
+.delay-3, .delay-3-H:hover {transition-delay: 0.3s; -o-transition-delay: 0.3s; -moz-transition-delay: 0.3s; -webkit-transition-delay: 0.3s;}
+.delay-4, .delay-4-H:hover {transition-delay: 0.4s; -o-transition-delay: 0.4s; -moz-transition-delay: 0.4s; -webkit-transition-delay: 0.4s;}
+.delay-5, .delay-5-H:hover {transition-delay: 0.5s; -o-transition-delay: 0.5s; -moz-transition-delay: 0.5s; -webkit-transition-delay: 0.5s;}
+.delay-6, .delay-6-H:hover {transition-delay: 0.6s; -o-transition-delay: 0.6s; -moz-transition-delay: 0.6s; -webkit-transition-delay: 0.6s;}
+.delay-7, .delay-7-H:hover {transition-delay: 0.7s; -o-transition-delay: 0.7s; -moz-transition-delay: 0.7s; -webkit-transition-delay: 0.7s;}
+.delay-8, .delay-8-H:hover {transition-delay: 0.8s; -o-transition-delay: 0.8s; -moz-transition-delay: 0.8s; -webkit-transition-delay: 0.8s;}
+.delay-9, .delay-9-H:hover {transition-delay: 0.9s; -o-transition-delay: 0.9s; -moz-transition-delay: 0.9s; -webkit-transition-delay: 0.9s;}
+.delay-1_0, .delay-1_0-H:hover {transition-delay: 1s; -o-transition-delay: 1s; -moz-transition-delay: 1s; -webkit-transition-delay: 1s;}
+.delay-1_2, .delay-1_2-H:hover {transition-delay: 0.2s; -o-transition-delay: 0.2s; -moz-transition-delay: 0.2s; -webkit-transition-delay: 0.2s;}
+.delay-1_4, .delay-1_4-H:hover {transition-delay: 0.4s; -o-transition-delay: 0.4s; -moz-transition-delay: 0.4s; -webkit-transition-delay: 0.4s;}
+.delay-1_6, .delay-1_6-H:hover {transition-delay: 0.6s; -o-transition-delay: 0.6s; -moz-transition-delay: 0.6s; -webkit-transition-delay: 0.6s;}
+.delay-1_8, .delay-1_8-H:hover {transition-delay: 0.8s; -o-transition-delay: 0.8s; -moz-transition-delay: 0.8s; -webkit-transition-delay: 0.8s;}
+.delay-2, .delay-2-H:hover {transition-delay: 2s; -o-transition-delay: 2s; -moz-transition-delay: 2s; -webkit-transition-delay: 2s;}
+.delay-2_2, .delay-2_2-H:hover {transition-delay: 0.2s; -o-transition-delay: 0.2s; -moz-transition-delay: 0.2s; -webkit-transition-delay: 0.2s;}
+.delay-2_4, .delay-2_4-H:hover {transition-delay: 0.4s; -o-transition-delay: 0.4s; -moz-transition-delay: 0.4s; -webkit-transition-delay: 0.4s;}
+.delay-2_6, .delay-2_6-H:hover {transition-delay: 0.6s; -o-transition-delay: 0.6s; -moz-transition-delay: 0.6s; -webkit-transition-delay: 0.6s;}
+.delay-2_8, .delay-2_8-H:hover {transition-delay: 0.8s; -o-transition-delay: 0.8s; -moz-transition-delay: 0.8s; -webkit-transition-delay: 0.8s;}
+.delay-3, .delay-3-H:hover {transition-delay: 3s; -o-transition-delay: 3s; -moz-transition-delay: 3s; -webkit-transition-delay: 3s;}
