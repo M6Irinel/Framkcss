@@ -304,6 +304,14 @@
 .p-10, .p-10-H:hover {padding: 2.5rem;}
 .p-11, .p-11-H:hover {padding: 2.75rem;}
 .p-12, .p-12-H:hover {padding: 3rem;}
+.p-13, .p-13-H:hover {padding: 3.25rem;}
+.p-14, .p-14-H:hover {padding: 3.5rem;}
+.p-15, .p-15-H:hover {padding: 3.75rem;}
+.p-16, .p-16-H:hover {padding: 4rem;}
+.p-17, .p-17-H:hover {padding: 4.25rem;}
+.p-18, .p-18-H:hover {padding: 4.5rem;}
+.p-19, .p-19-H:hover {padding: 4.75rem;}
+.p-20, .p-20-H:hover {padding: 5rem;}
 
 /* pl-num = padding-left */
 .pl-0, .pl-0-H:hover {padding-left: 0;}
@@ -319,6 +327,14 @@
 .pl-10, .pl-10-H:hover {padding-left: 2.5rem;}
 .pl-11, .pl-11-H:hover {padding-left: 2.75rem;}
 .pl-12, .pl-12-H:hover {padding-left: 3rem;}
+.pl-13, .pl-13-H:hover {padding-left: 3.25rem;}
+.pl-14, .pl-14-H:hover {padding-left: 3.5rem;}
+.pl-15, .pl-15-H:hover {padding-left: 3.75rem;}
+.pl-16, .pl-16-H:hover {padding-left: 4rem;}
+.pl-17, .pl-17-H:hover {padding-left: 4.25rem;}
+.pl-18, .pl-18-H:hover {padding-left: 4.5rem;}
+.pl-19, .pl-19-H:hover {padding-left: 4.75rem;}
+.pl-20, .pl-20-H:hover {padding-left: 5rem;}
 
 /* pr-num = padding-right */
 .pr-0, .pr-0-H:hover {padding-right: 0;}
@@ -334,6 +350,14 @@
 .pr-10, .pr-10-H:hover {padding-right: 2.5rem;}
 .pr-11, .pr-11-H:hover {padding-right: 2.75rem;}
 .pr-12, .pr-12-H:hover {padding-right: 3rem;}
+.pr-13, .pr-13-H:hover {padding-right: 3.25rem;}
+.pr-14, .pr-14-H:hover {padding-right: 3.5rem;}
+.pr-15, .pr-15-H:hover {padding-right: 3.75rem;}
+.pr-16, .pr-16-H:hover {padding-right: 4rem;}
+.pr-17, .pr-17-H:hover {padding-right: 4.25rem;}
+.pr-18, .pr-18-H:hover {padding-right: 4.5rem;}
+.pr-19, .pr-19-H:hover {padding-right: 4.75rem;}
+.pr-20, .pr-20-H:hover {padding-right: 5rem;}
 
 /* pt-num = padding-top */
 .pt-0, .pt-0-H:hover {padding-top: 0;}
@@ -349,6 +373,14 @@
 .pt-10, .pt-10-H:hover {padding-top: 2.5rem;}
 .pt-11, .pt-11-H:hover {padding-top: 2.75rem;}
 .pt-12, .pt-12-H:hover {padding-top: 3rem;}
+.pt-13, .pt-13-H:hover {padding-top: 3.25rem;}
+.pt-14, .pt-14-H:hover {padding-top: 3.5rem;}
+.pt-15, .pt-15-H:hover {padding-top: 3.75rem;}
+.pt-16, .pt-16-H:hover {padding-top: 4rem;}
+.pt-17, .pt-17-H:hover {padding-top: 4.25rem;}
+.pt-18, .pt-18-H:hover {padding-top: 4.5rem;}
+.pt-19, .pt-19-H:hover {padding-top: 4.75rem;}
+.pt-20, .pt-20-H:hover {padding-top: 5rem;}
 
 /* pb-num = padding-bottom */
 .pb-0, .pb-0-H:hover {padding-bottom: 0;}
@@ -364,6 +396,14 @@
 .pb-10, .pb-10-H:hover {padding-bottom: 2.5rem;}
 .pb-11, .pb-11-H:hover {padding-bottom: 2.75rem;}
 .pb-12, .pb-12-H:hover {padding-bottom: 3rem;}
+.pb-13, .pb-13-H:hover {padding-bottom: 3.25rem;}
+.pb-14, .pb-14-H:hover {padding-bottom: 3.5rem;}
+.pb-15, .pb-15-H:hover {padding-bottom: 3.75rem;}
+.pb-16, .pb-16-H:hover {padding-bottom: 4rem;}
+.pb-17, .pb-17-H:hover {padding-bottom: 4.25rem;}
+.pb-18, .pb-18-H:hover {padding-bottom: 4.5rem;}
+.pb-19, .pb-19-H:hover {padding-bottom: 4.75rem;}
+.pb-20, .pb-20-H:hover {padding-bottom: 5rem;}
 
 /* px-num = padding-left and padding-right */
 .px-0, .px-0-H:hover {padding-left: 0; padding-right: 0;}
@@ -379,6 +419,14 @@
 .px-10, .px-10-H:hover {padding-left: 2.5rem; padding-right: 2.5rem;}
 .px-11, .px-11-H:hover {padding-left: 2.75rem; padding-right: 2.75rem;}
 .px-12, .px-12-H:hover {padding-left: 3rem; padding-right: 3rem;}
+.px-13, .px-13-H:hover {padding-left: 3.25rem; padding-right: 3.25rem;}
+.px-14, .px-14-H:hover {padding-left: 3.5rem; padding-right: 3.5rem;}
+.px-15, .px-15-H:hover {padding-left: 3.75rem; padding-right: 3.75rem;}
+.px-16, .px-16-H:hover {padding-left: 4rem; padding-right: 4rem;}
+.px-17, .px-17-H:hover {padding-left: 4.25rem; padding-right: 4.25rem;}
+.px-18, .px-18-H:hover {padding-left: 4.5rem; padding-right: 4.5rem;}
+.px-19, .px-19-H:hover {padding-left: 4.75rem; padding-right: 4.75rem;}
+.px-20, .px-20-H:hover {padding-left: 5rem; padding-right: 5rem;}
 
 /* py-num = padding-top and padding-bottom */
 .py-0, .py-0-H:hover {padding-top: 0; padding-bottom: 0;}
@@ -394,6 +442,14 @@
 .py-10, .py-10-H:hover {padding-top: 2.5rem; padding-bottom: 2.5rem;}
 .py-11, .py-11-H:hover {padding-top: 2.75rem; padding-bottom: 2.75rem;}
 .py-12, .py-12-H:hover {padding-top: 3rem; padding-bottom: 3rem;}
+.py-13, .py-13-H:hover {padding-top: 3.25rem; padding-bottom: 3.25rem;}
+.py-14, .py-14-H:hover {padding-top: 3.5rem; padding-bottom: 3.5rem;}
+.py-15, .py-15-H:hover {padding-top: 3.75rem; padding-bottom: 3.75rem;}
+.py-16, .py-16-H:hover {padding-top: 4rem; padding-bottom: 4rem;}
+.py-17, .py-17-H:hover {padding-top: 4.25rem; padding-bottom: 4.25rem;}
+.py-18, .py-18-H:hover {padding-top: 4.5rem; padding-bottom: 4.5rem;}
+.py-19, .py-19-H:hover {padding-top: 4.75rem; padding-bottom: 4.75rem;}
+.py-20, .py-20-H:hover {padding-top: 5rem; padding-bottom: 5rem;}
 
 /* m-num = margin */
 .m-0, .m-0-H:hover {margin: 0;}
@@ -407,8 +463,16 @@
 .m-8, .m-8-H:hover {margin: 2rem;}
 .m-9, .m-9-H:hover {margin: 2.25rem;}
 .m-10, .m-10-H:hover {margin: 2.5rem;}
-.m-11, .m-11-H:hover {margin: 2.75rem;};
+.m-11, .m-11-H:hover {margin: 2.75rem;}
 .m-12, .m-12-H:hover {margin: 3rem;}
+.m-13, .m-13-H:hover {margin: 3.25rem;}
+.m-14, .m-14-H:hover {margin: 3.5rem;}
+.m-15, .m-15-H:hover {margin: 3.75rem;}
+.m-16, .m-16-H:hover {margin: 4rem;}
+.m-17, .m-17-H:hover {margin: 4.25rem;}
+.m-18, .m-18-H:hover {margin: 4.5rem;}
+.m-19, .m-19-H:hover {margin: 4.75rem;}
+.m-20, .m-20-H:hover {margin: 5rem;}
 
 /* ml-num = margin-left */
 .ml-0, .ml-0-H:hover {margin-left: 0;}
@@ -424,6 +488,14 @@
 .ml-10, .ml-10-H:hover {margin-left: 2.5rem;}
 .ml-11, .ml-11-H:hover {margin-left: 2.75rem;}
 .ml-12, .ml-12-H:hover {margin-left: 3rem;}
+.ml-13, .ml-13-H:hover {margin-left: 3.25rem;}
+.ml-14, .ml-14-H:hover {margin-left: 3.5rem;}
+.ml-15, .ml-15-H:hover {margin-left: 3.75rem;}
+.ml-16, .ml-16-H:hover {margin-left: 4rem;}
+.ml-17, .ml-17-H:hover {margin-left: 4.25rem;}
+.ml-18, .ml-18-H:hover {margin-left: 4.5rem;}
+.ml-19, .ml-19-H:hover {margin-left: 4.75rem;}
+.ml-20, .ml-20-H:hover {margin-left: 5rem;}
 
 /* mr-num = margin-right */
 .mr-0, .mr-0-H:hover {margin-right: 0;}
@@ -439,6 +511,14 @@
 .mr-10, .mr-10-H:hover {margin-right: 2.5rem;}
 .mr-11, .mr-11-H:hover {margin-right: 2.75rem;}
 .mr-12, .mr-12-H:hover {margin-right: 3rem;}
+.mr-13, .mr-13-H:hover {margin-right: 3.25rem;}
+.mr-14, .mr-14-H:hover {margin-right: 3.5rem;}
+.mr-15, .mr-15-H:hover {margin-right: 3.75rem;}
+.mr-16, .mr-16-H:hover {margin-right: 4rem;}
+.mr-17, .mr-17-H:hover {margin-right: 4.25rem;}
+.mr-18, .mr-18-H:hover {margin-right: 4.5rem;}
+.mr-19, .mr-19-H:hover {margin-right: 4.75rem;}
+.mr-20, .mr-20-H:hover {margin-right: 5rem;}
 
 /* mt-num = margin-top */
 .mt-0, .mt-0-H:hover {margin-top: 0;}
@@ -454,6 +534,14 @@
 .mt-10, .mt-10-H:hover {margin-top: 2.5rem;}
 .mt-11, .mt-11-H:hover {margin-top: 2.75rem;}
 .mt-12, .mt-12-H:hover {margin-top: 3rem;}
+.mt-13, .mt-13-H:hover {margin-top: 3.25rem;}
+.mt-14, .mt-14-H:hover {margin-top: 3.5rem;}
+.mt-15, .mt-15-H:hover {margin-top: 3.75rem;}
+.mt-16, .mt-16-H:hover {margin-top: 4rem;}
+.mt-17, .mt-17-H:hover {margin-top: 4.25rem;}
+.mt-18, .mt-18-H:hover {margin-top: 4.5rem;}
+.mt-19, .mt-19-H:hover {margin-top: 4.75rem;}
+.mt-20, .mt-20-H:hover {margin-top: 5rem;}
 
 /* mb-num = margin-bottom */
 .mb-0, .mb-0-H:hover {margin-bottom: 0;}
@@ -469,6 +557,14 @@
 .mb-10, .mb-10-H:hover {margin-bottom: 2.5rem;}
 .mb-11, .mb-11-H:hover {margin-bottom: 2.75rem;}
 .mb-12, .mb-12-H:hover {margin-bottom: 3rem;}
+.mb-13, .mb-13-H:hover {margin-bottom: 3.25rem;}
+.mb-14, .mb-14-H:hover {margin-bottom: 3.5rem;}
+.mb-15, .mb-15-H:hover {margin-bottom: 3.75rem;}
+.mb-16, .mb-16-H:hover {margin-bottom: 4rem;}
+.mb-17, .mb-17-H:hover {margin-bottom: 4.25rem;}
+.mb-18, .mb-18-H:hover {margin-bottom: 4.5rem;}
+.mb-19, .mb-19-H:hover {margin-bottom: 4.75rem;}
+.mb-20, .mb-20-H:hover {margin-bottom: 5rem;}
 
 /* mx-num = margin-left and margin-right */
 .mx-0, .mx-0-H:hover {margin-left: 0; margin-right: 0;}
@@ -484,6 +580,14 @@
 .mx-10, .mx-10-H:hover {margin-left: 2.5rem; margin-right: 2.5rem;}
 .mx-11, .mx-11-H:hover {margin-left: 2.75rem; margin-right: 2.75rem;}
 .mx-12, .mx-12-H:hover {margin-left: 3rem; margin-right: 3rem;}
+.mx-13, .mx-13-H:hover {margin-left: 3.25rem; margin-right: 3.25rem;}
+.mx-14, .mx-14-H:hover {margin-left: 3.5rem; margin-right: 3.5rem;}
+.mx-15, .mx-15-H:hover {margin-left: 3.75rem; margin-right: 3.75rem;}
+.mx-16, .mx-16-H:hover {margin-left: 4rem; margin-right: 4rem;}
+.mx-17, .mx-17-H:hover {margin-left: 4.25rem; margin-right: 4.25rem;}
+.mx-18, .mx-18-H:hover {margin-left: 4.5rem; margin-right: 4.5rem;}
+.mx-19, .mx-19-H:hover {margin-left: 4.75rem; margin-right: 4.75rem;}
+.mx-20, .mx-20-H:hover {margin-left: 5rem; margin-right: 5rem;}
 
 /* my-num = margin-top and margin-bottom */
 .my-0, .my-0-H:hover {margin-top: 0; margin-bottom: 0;}
@@ -499,6 +603,14 @@
 .my-10, .my-10-H:hover {margin-top: 2.5rem; margin-bottom: 2.5rem;}
 .my-11, .my-11-H:hover {margin-top: 2.75rem; margin-bottom: 2.75rem;}
 .my-12, .my-12-H:hover {margin-top: 3rem; margin-bottom: 3rem;}
+.my-13, .my-13-H:hover {margin-top: 3.25rem; margin-bottom: 3.25rem;}
+.my-14, .my-14-H:hover {margin-top: 3.5rem; margin-bottom: 3.5rem;}
+.my-15, .my-15-H:hover {margin-top: 3.75rem; margin-bottom: 3.75rem;}
+.my-16, .my-16-H:hover {margin-top: 4rem; margin-bottom: 4rem;}
+.my-17, .my-17-H:hover {margin-top: 4.25rem; margin-bottom: 4.25rem;}
+.my-18, .my-18-H:hover {margin-top: 4.5rem; margin-bottom: 4.5rem;}
+.my-19, .my-19-H:hover {margin-top: 4.75rem; margin-bottom: 4.75rem;}
+.my-20, .my-20-H:hover {margin-top: 5rem; margin-bottom: 5rem;}
 
 /* fs-name = font-size */
 .fs-xx-small, .fs-xx-small-H:hover {font-size: xx-small;}
@@ -697,7 +809,7 @@
 .brightness-9, .brightness-9-H:hover {filter: brightness(3); -webkit-filter: brightness(3);}
 
 /* opacity */
-.opacity-0, .opacity-0-H:hover {filter: opacity(0); -webkit-filter: opacity(0);}
+.opacity-0, .opacity-0-H:hover, .invisible, .invisible-H:hover {filter: opacity(0); -webkit-filter: opacity(0);}
 .opacity-1, .opacity-1-H:hover {filter: opacity(0.1); -webkit-filter: opacity(0.1);}
 .opacity-2, .opacity-2-H:hover {filter: opacity(0.2); -webkit-filter: opacity(0.2);}
 .opacity-3, .opacity-3-H:hover {filter: opacity(0.3); -webkit-filter: opacity(0.3);}
@@ -707,7 +819,7 @@
 .opacity-7, .opacity-7-H:hover {filter: opacity(0.7); -webkit-filter: opacity(0.7);}
 .opacity-8, .opacity-8-H:hover {filter: opacity(0.8); -webkit-filter: opacity(0.8);}
 .opacity-9, .opacity-9-H:hover {filter: opacity(0.9); -webkit-filter: opacity(0.9);}
-.opacity, .opacity-H:hover {filter: opacity(1);}
+.opacity, .opacity-H:hover {filter: opacity(1); -webkit-filter: opacity(1);}
 
 /* t-name = text-position */
 .t-center, .t-center-H:hover {text-align: center; -ms-text-align-last: center; -moz-text-align-last: center;}
@@ -938,3 +1050,126 @@
 .rounded-br-18, .rounded-br-18-H:hover {border-bottom-right-radius: 36px}
 .rounded-br-19, .rounded-br-19-H:hover {border-bottom-right-radius: 38px}
 .rounded-br-20, .rounded-br-20-H:hover {border-bottom-right-radius: 40px}
+
+/* root shadow */
+:root{--shw-dark: #000; --shw-light: #868686}
+
+/* shadow-num-dark DARK */
+.shadow-dark, .shadow-dark-H:hover {box-shadow: 0 0 3px var(--shw-dark);}
+.shadow-1-dark, .shadow-1-dark-H:hover {box-shadow: 0 0 6px var(--shw-dark);}
+.shadow-2-dark, .shadow-2-dark-H:hover {box-shadow: 0 0 9px var(--shw-dark);}
+.shadow-3-dark, .shadow-3-dark-H:hover {box-shadow: 0 0 15px var(--shw-dark);}
+.shadow-4-dark, .shadow-4-dark-H:hover {box-shadow: 0 0 20px var(--shw-dark);}
+.shadow-5-dark, .shadow-5-dark-H:hover {box-shadow: 0 0 25px var(--shw-dark);}
+.shadow-6-dark, .shadow-6-dark-H:hover {box-shadow: 0 0 30px var(--shw-dark);}
+.shadow-7-dark, .shadow-7-dark-H:hover {box-shadow: 0 0 35px var(--shw-dark);}
+.shadow-8-dark, .shadow-8-dark-H:hover {box-shadow: 0 0 40px var(--shw-dark);}
+.shadow-9-dark, .shadow-9-dark-H:hover {box-shadow: 0 0 45px var(--shw-dark);}
+
+/* shadow-num-light LIGHT */
+.shadow-light, .shadow-light-H:hover {box-shadow: 0 0 3px var(--shw-light);}
+.shadow-1-light, .shadow-1-light-H:hover {box-shadow: 0 0 6px var(--shw-light);}
+.shadow-2-light, .shadow-2-light-H:hover {box-shadow: 0 0 9px var(--shw-light);}
+.shadow-3-light, .shadow-3-light-H:hover {box-shadow: 0 0 15px var(--shw-light);}
+.shadow-4-light, .shadow-4-light-H:hover {box-shadow: 0 0 20px var(--shw-light);}
+.shadow-5-light, .shadow-5-light-H:hover {box-shadow: 0 0 25px var(--shw-light);}
+.shadow-6-light, .shadow-6-light-H:hover {box-shadow: 0 0 30px var(--shw-light);}
+.shadow-7-light, .shadow-7-light-H:hover {box-shadow: 0 0 35px var(--shw-light);}
+.shadow-8-light, .shadow-8-light-H:hover {box-shadow: 0 0 40px var(--shw-light);}
+.shadow-9-light, .shadow-9-light-H:hover {box-shadow: 0 0 45px var(--shw-light);}
+
+/* shadow-b-num-dark BOTTOM DARK */
+.shadow-b-dark, .shadow-b-dark-H:hover {box-shadow: 0 10px 3px var(--shw-dark);}
+.shadow-b-1-dark, .shadow-b-1-dark-H:hover {box-shadow: 0 10px 6px var(--shw-dark);}
+.shadow-b-2-dark, .shadow-b-2-dark-H:hover {box-shadow: 0 10px 9px var(--shw-dark);}
+.shadow-b-3-dark, .shadow-b-3-dark-H:hover {box-shadow: 0 10px 15px var(--shw-dark);}
+.shadow-b-4-dark, .shadow-b-4-dark-H:hover {box-shadow: 0 10px 20px var(--shw-dark);}
+.shadow-b-5-dark, .shadow-b-5-dark-H:hover {box-shadow: 0 10px 25px var(--shw-dark);}
+.shadow-b-6-dark, .shadow-b-6-dark-H:hover {box-shadow: 0 10px 30px var(--shw-dark);}
+.shadow-b-7-dark, .shadow-b-7-dark-H:hover {box-shadow: 0 10px 35px var(--shw-dark);}
+.shadow-b-8-dark, .shadow-b-8-dark-H:hover {box-shadow: 0 10px 40px var(--shw-dark);}
+.shadow-b-9-dark, .shadow-b-9-dark-H:hover {box-shadow: 0 10px 45px var(--shw-dark);}
+
+/* shadow-b-num-light BOTTOM LIGHT */
+.shadow-b-light, .shadow-b-light-H:hover {box-shadow: 0 10px 3px var(--shw-light);}
+.shadow-b-1-light, .shadow-b-1-light-H:hover {box-shadow: 0 10px 6px var(--shw-light);}
+.shadow-b-2-light, .shadow-b-2-light-H:hover {box-shadow: 0 10px 9px var(--shw-light);}
+.shadow-b-3-light, .shadow-b-3-light-H:hover {box-shadow: 0 10px 15px var(--shw-light);}
+.shadow-b-4-light, .shadow-b-4-light-H:hover {box-shadow: 0 10px 20px var(--shw-light);}
+.shadow-b-5-light, .shadow-b-5-light-H:hover {box-shadow: 0 10px 25px var(--shw-light);}
+.shadow-b-6-light, .shadow-b-6-light-H:hover {box-shadow: 0 10px 30px var(--shw-light);}
+.shadow-b-7-light, .shadow-b-7-light-H:hover {box-shadow: 0 10px 35px var(--shw-light);}
+.shadow-b-8-light, .shadow-b-8-light-H:hover {box-shadow: 0 10px 40px var(--shw-light);}
+.shadow-b-9-light, .shadow-b-9-light-H:hover {box-shadow: 0 10px 45px var(--shw-light);}
+
+/* shadow-t-num-dark TOP DARK */
+.shadow-t-dark, .shadow-t-dark-H:hover {box-shadow: 0 -10px 3px var(--shw-dark);}
+.shadow-t-1-dark, .shadow-t-1-dark-H:hover {box-shadow: 0 -10px 6px var(--shw-dark);}
+.shadow-t-2-dark, .shadow-t-2-dark-H:hover {box-shadow: 0 -10px 9px var(--shw-dark);}
+.shadow-t-3-dark, .shadow-t-3-dark-H:hover {box-shadow: 0 -10px 15px var(--shw-dark);}
+.shadow-t-4-dark, .shadow-t-4-dark-H:hover {box-shadow: 0 -10px 20px var(--shw-dark);}
+.shadow-t-5-dark, .shadow-t-5-dark-H:hover {box-shadow: 0 -10px 25px var(--shw-dark);}
+.shadow-t-6-dark, .shadow-t-6-dark-H:hover {box-shadow: 0 -10px 30px var(--shw-dark);}
+.shadow-t-7-dark, .shadow-t-7-dark-H:hover {box-shadow: 0 -10px 35px var(--shw-dark);}
+.shadow-t-8-dark, .shadow-t-8-dark-H:hover {box-shadow: 0 -10px 40px var(--shw-dark);}
+.shadow-t-9-dark, .shadow-t-9-dark-H:hover {box-shadow: 0 -10px 45px var(--shw-dark);}
+
+/* shadow-t-num-light TOP LIGHT */
+.shadow-t-light, .shadow-t-light-H:hover {box-shadow: 0 -10px 3px var(--shw-light);}
+.shadow-t-1-light, .shadow-t-1-light-H:hover {box-shadow: 0 -10px 6px var(--shw-light);}
+.shadow-t-2-light, .shadow-t-2-light-H:hover {box-shadow: 0 -10px 9px var(--shw-light);}
+.shadow-t-3-light, .shadow-t-3-light-H:hover {box-shadow: 0 -10px 15px var(--shw-light);}
+.shadow-t-4-light, .shadow-t-4-light-H:hover {box-shadow: 0 -10px 20px var(--shw-light);}
+.shadow-t-5-light, .shadow-t-5-light-H:hover {box-shadow: 0 -10px 25px var(--shw-light);}
+.shadow-t-6-light, .shadow-t-6-light-H:hover {box-shadow: 0 -10px 30px var(--shw-light);}
+.shadow-t-7-light, .shadow-t-7-light-H:hover {box-shadow: 0 -10px 35px var(--shw-light);}
+.shadow-t-8-light, .shadow-t-8-light-H:hover {box-shadow: 0 -10px 40px var(--shw-light);}
+.shadow-t-9-light, .shadow-t-9-light-H:hover {box-shadow: 0 -10px 45px var(--shw-light);}
+
+/* shadow-r-num-dark RIGHT DARK */
+.shadow-r-dark, .shadow-r-dark-H:hover {box-shadow: 10px 0 3px var(--shw-dark);}
+.shadow-r-1-dark, .shadow-r-1-dark-H:hover {box-shadow: 10px 0 6px var(--shw-dark);}
+.shadow-r-2-dark, .shadow-r-2-dark-H:hover {box-shadow: 10px 0 9px var(--shw-dark);}
+.shadow-r-3-dark, .shadow-r-3-dark-H:hover {box-shadow: 10px 0 15px var(--shw-dark);}
+.shadow-r-4-dark, .shadow-r-4-dark-H:hover {box-shadow: 10px 0 20px var(--shw-dark);}
+.shadow-r-5-dark, .shadow-r-5-dark-H:hover {box-shadow: 10px 0 25px var(--shw-dark);}
+.shadow-r-6-dark, .shadow-r-6-dark-H:hover {box-shadow: 10px 0 30px var(--shw-dark);}
+.shadow-r-7-dark, .shadow-r-7-dark-H:hover {box-shadow: 10px 0 35px var(--shw-dark);}
+.shadow-r-8-dark, .shadow-r-8-dark-H:hover {box-shadow: 10px 0 40px var(--shw-dark);}
+.shadow-r-9-dark, .shadow-r-9-dark-H:hover {box-shadow: 10px 0 45px var(--shw-dark);}
+
+/* shadow-r-num-light RIGHT LIGHT */
+.shadow-r-light, .shadow-r-light-H:hover {box-shadow: 10px 10px 3px var(--shw-light);}
+.shadow-r-1-light, .shadow-r-1-light-H:hover {box-shadow: 10px 10px 6px var(--shw-light);}
+.shadow-r-2-light, .shadow-r-2-light-H:hover {box-shadow: 10px 10px 9px var(--shw-light);}
+.shadow-r-3-light, .shadow-r-3-light-H:hover {box-shadow: 10px 10px 15px var(--shw-light);}
+.shadow-r-4-light, .shadow-r-4-light-H:hover {box-shadow: 10px 10px 20px var(--shw-light);}
+.shadow-r-5-light, .shadow-r-5-light-H:hover {box-shadow: 10px 10px 25px var(--shw-light);}
+.shadow-r-6-light, .shadow-r-6-light-H:hover {box-shadow: 10px 10px 30px var(--shw-light);}
+.shadow-r-7-light, .shadow-r-7-light-H:hover {box-shadow: 10px 10px 35px var(--shw-light);}
+.shadow-r-8-light, .shadow-r-8-light-H:hover {box-shadow: 10px 10px 40px var(--shw-light);}
+.shadow-r-9-light, .shadow-r-9-light-H:hover {box-shadow: 10px 10px 45px var(--shw-light);}
+
+/* shadow-l-num-dark LEFT DARK */
+.shadow-l-dark, .shadow-l-dark-H:hover {box-shadow: -10px 0 3px var(--shw-dark);}
+.shadow-l-1-dark, .shadow-l-1-dark-H:hover {box-shadow: -10px 0 6px var(--shw-dark);}
+.shadow-l-2-dark, .shadow-l-2-dark-H:hover {box-shadow: -10px 0 9px var(--shw-dark);}
+.shadow-l-3-dark, .shadow-l-3-dark-H:hover {box-shadow: -10px 0 15px var(--shw-dark);}
+.shadow-l-4-dark, .shadow-l-4-dark-H:hover {box-shadow: -10px 0 20px var(--shw-dark);}
+.shadow-l-5-dark, .shadow-l-5-dark-H:hover {box-shadow: -10px 0 25px var(--shw-dark);}
+.shadow-l-6-dark, .shadow-l-6-dark-H:hover {box-shadow: -10px 0 30px var(--shw-dark);}
+.shadow-l-7-dark, .shadow-l-7-dark-H:hover {box-shadow: -10px 0 35px var(--shw-dark);}
+.shadow-l-8-dark, .shadow-l-8-dark-H:hover {box-shadow: -10px 0 40px var(--shw-dark);}
+.shadow-l-9-dark, .shadow-l-9-dark-H:hover {box-shadow: -10px 0 45px var(--shw-dark);}
+
+/* shadow-l-num-light LEFT LIGHT */
+.shadow-l-light, .shadow-l-light-H:hover {box-shadow: -10px 0 3px var(--shw-light);}
+.shadow-l-1-light, .shadow-l-1-light-H:hover {box-shadow: -10px 0 6px var(--shw-light);}
+.shadow-l-2-light, .shadow-l-2-light-H:hover {box-shadow: -10px 0 9px var(--shw-light);}
+.shadow-l-3-light, .shadow-l-3-light-H:hover {box-shadow: -10px 0 15px var(--shw-light);}
+.shadow-l-4-light, .shadow-l-4-light-H:hover {box-shadow: -10px 0 20px var(--shw-light);}
+.shadow-l-5-light, .shadow-l-5-light-H:hover {box-shadow: -10px 0 25px var(--shw-light);}
+.shadow-l-6-light, .shadow-l-6-light-H:hover {box-shadow: -10px 0 30px var(--shw-light);}
+.shadow-l-7-light, .shadow-l-7-light-H:hover {box-shadow: -10px 0 35px var(--shw-light);}
+.shadow-l-8-light, .shadow-l-8-light-H:hover {box-shadow: -10px 0 40px var(--shw-light);}
+.shadow-l-9-light, .shadow-l-9-light-H:hover {box-shadow: -10px 0 45px var(--shw-light);}
