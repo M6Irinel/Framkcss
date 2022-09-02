@@ -472,3 +472,109 @@ img, video, .w-100, .w-100-H:hover {width: 100%;}
 .obj-top-left, .obj-top-left-H:hover {object-position: top left;}
 .obj-bottom-right, .obj-bottom-right-H:hover {object-position: bottom right;}
 .obj-bottom-left, .obj-bottom-left-H:hover {object-position: bottom left;}
+
+/* position */
+.relative {position: relative;}
+.absolute {position: absolute;}
+.fixed {position: fixed;}
+.sticky {position: sticky; position: -webkit-sticky;}
+
+/* top-num */
+.top, .top-H:hover {top: 0;}
+.top-5, .top-5-H:hover {top: 5%;}
+.top-10, .top-10-H:hover {top: 10%;}
+.top-15, .top-15-H:hover {top: 15%;}
+.top-20, .top-20-H:hover {top: 20%;}
+.top-25, .top-25-H:hover {top: 25%;}
+.top-30, .top-30-H:hover {top: 30%;}
+.top-35, .top-35-H:hover {top: 35%;}
+.top-40, .top-40-H:hover {top: 40%;}
+.top-45, .top-45-H:hover {top: 45%;}
+.top-50, .top-50-H:hover {top: 50%;}
+.top-55, .top-55-H:hover {top: 55%;}
+.top-60, .top-60-H:hover {top: 60%;}
+.top-65, .top-65-H:hover {top: 65%;}
+.top-70, .top-70-H:hover {top: 70%;}
+.top-75, .top-75-H:hover {top: 75%;}
+.top-80, .top-80-H:hover {top: 80%;}
+.top-85, .top-85-H:hover {top: 85%;}
+.top-90, .top-90-H:hover {top: 90%;}
+.top-95, .top-95-H:hover {top: 95%;}
+.top-100, .top-100-H:hover {top: 100%;}
+
+/* bottom-num */
+.bottom, .bottom-H:hover {bottom: 0;}
+.bottom-5, .bottom-5-H:hover {bottom: 5%;}
+.bottom-10, .bottom-10-H:hover {bottom: 10%;}
+.bottom-15, .bottom-15-H:hover {bottom: 15%;}
+.bottom-20, .bottom-20-H:hover {bottom: 20%;}
+.bottom-25, .bottom-25-H:hover {bottom: 25%;}
+.bottom-30, .bottom-30-H:hover {bottom: 30%;}
+.bottom-35, .bottom-35-H:hover {bottom: 35%;}
+.bottom-40, .bottom-40-H:hover {bottom: 40%;}
+.bottom-45, .bottom-45-H:hover {bottom: 45%;}
+.bottom-50, .bottom-50-H:hover {bottom: 50%;}
+.bottom-55, .bottom-55-H:hover {bottom: 55%;}
+.bottom-60, .bottom-60-H:hover {bottom: 60%;}
+.bottom-65, .bottom-65-H:hover {bottom: 65%;}
+.bottom-70, .bottom-70-H:hover {bottom: 70%;}
+.bottom-75, .bottom-75-H:hover {bottom: 75%;}
+.bottom-80, .bottom-80-H:hover {bottom: 80%;}
+.bottom-85, .bottom-85-H:hover {bottom: 85%;}
+.bottom-90, .bottom-90-H:hover {bottom: 90%;}
+.bottom-95, .bottom-95-H:hover {bottom: 95%;}
+.bottom-100, .bottom-100-H:hover {bottom: 100%;}
+
+/* right-num */
+.right, .right-H:hover {right: 0;}
+.right-5, .right-5-H:hover {right: 5%;}
+.right-10, .right-10-H:hover {right: 10%;}
+.right-15, .right-15-H:hover {right: 15%;}
+.right-20, .right-20-H:hover {right: 20%;}
+.right-25, .right-25-H:hover {right: 25%;}
+.right-30, .right-30-H:hover {right: 30%;}
+.right-35, .right-35-H:hover {right: 35%;}
+.right-40, .right-40-H:hover {right: 40%;}
+.right-45, .right-45-H:hover {right: 45%;}
+.right-50, .right-50-H:hover {right: 50%;}
+.right-55, .right-55-H:hover {right: 55%;}
+.right-60, .right-60-H:hover {right: 60%;}
+.right-65, .right-65-H:hover {right: 65%;}
+.right-70, .right-70-H:hover {right: 70%;}
+.right-75, .right-75-H:hover {right: 75%;}
+.right-80, .right-80-H:hover {right: 80%;}
+.right-85, .right-85-H:hover {right: 85%;}
+.right-90, .right-90-H:hover {right: 90%;}
+.right-95, .right-95-H:hover {right: 95%;}
+.right-100, .right-100-H:hover {right: 100%;}
+
+/* left-num */
+.left, .left-H:hover {left: 0;}
+.left-5, .left-5-H:hover {left: 5%;}
+.left-10, .left-10-H:hover {left: 10%;}
+.left-15, .left-15-H:hover {left: 15%;}
+.left-20, .left-20-H:hover {left: 20%;}
+.left-25, .left-25-H:hover {left: 25%;}
+.left-30, .left-30-H:hover {left: 30%;}
+.left-35, .left-35-H:hover {left: 35%;}
+.left-40, .left-40-H:hover {left: 40%;}
+.left-45, .left-45-H:hover {left: 45%;}
+.left-50, .left-50-H:hover {left: 50%;}
+.left-55, .left-55-H:hover {left: 55%;}
+.left-60, .left-60-H:hover {left: 60%;}
+.left-65, .left-65-H:hover {left: 65%;}
+.left-70, .left-70-H:hover {left: 70%;}
+.left-75, .left-75-H:hover {left: 75%;}
+.left-80, .left-80-H:hover {left: 80%;}
+.left-85, .left-85-H:hover {left: 85%;}
+.left-90, .left-90-H:hover {left: 90%;}
+.left-95, .left-95-H:hover {left: 95%;}
+.left-100, .left-100-H:hover {left: 100%;}
+
+/* opacity */
+.opacity-0, .opacity-0-H:hover {filter: opacity(0);}
+.opacity-20, .opacity-25-H:hover {filter: opacity(0.2);}
+.opacity-40, .opacity-50-H:hover {filter: opacity(0.4);}
+.opacity-60, .opacity-75-H:hover {filter: opacity(0.6);}
+.opacity-80, .opacity-75-H:hover {filter: opacity(0.8);}
+.opacity-1, .opacity-1-H:hover {filter: opacity(1);}
