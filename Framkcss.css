@@ -1478,9 +1478,16 @@
 /* align-items */
 .items-center, .a-center, .items-center-H:hover, .a-center-H:hover {align-items: center;}
 .items-flex-start, .a-flex-start, .items-flex-start-H:hover, .a-flex-start-H:hover {align-items: flex-start;}
-.items-flex-end, .a-lex-end, .items-flex-end-H:hover, .a-lex-end-H:hover {align-items: flex-end;}
+.items-flex-end, .a-lex-end, .items-flex-end-H:hover, .a-flex-end-H:hover {align-items: flex-end;}
 .items-stretch, .a-stretch, .items-stretch-H:hover, .a-stretch-H:hover {align-items: stretch;}
 .items-baseline, .a-baseline, .items-baseline-H:hover, .a-baseline-H:hover {align-items: baseline;}
+
+/* align-self */
+.self-center, .s-center, .self-center-H:hover, .s-center-H:hover {align-self: center;}
+.self-flex-start, .s-flex-start, .self-flex-start-H:hover, .s-flex-start-H:hover {align-self: flex-start;}
+.self-flex-end, .s-lex-end, .self-flex-end-H:hover, .s-flex-end-H:hover {align-self: flex-end;}
+.self-stretch, .s-stretch, .self-stretch-H:hover, .s-stretch-H:hover {align-self: stretch;}
+.self-baseline, .s-baseline, .self-baseline-H:hover, .s-baseline-H:hover {align-self: baseline;}
 
 /* align-content */
 .content-center, .c-center, .content-center-H:hover, .c-center-H:hover {align-content: center;}
@@ -1678,3 +1685,42 @@
 .-scale-Y-10, .-scale-Y-10-H:hover {transform: scaleY(0.75);}
 .-scale-Y-11, .-scale-Y-11-H:hover {transform: scaleY(0.725);}
 .-scale-Y-12, .-scale-Y-12-H:hover {transform: scaleY(0.6);}
+
+/* list-style-name */
+.list-style-none, .list-style-none-H:hover, .l-style-none-H:hover, .style-none-H:hover {list-style: none;}
+.list-style-undescore, .list-style-undescore-H:hover {list-style: '-';}
+.list-style-undescore-2, .list-style-undescore-2-H:hover {list-style: '_';}
+.list-style-multiplication, .list-style-multiplication-H:hover {list-style: '*';}
+.list-style-plus, .list-style-plus-H:hover {list-style: '+';}
+.list-style-tilde, .list-style-tilde-H:hover {list-style: '~';}
+.list-style-hearts, .list-style-hearts-H:hover {list-style: '♥';}
+.list-style-diamonds, .list-style-diamonds-H:hover {list-style: '♦';}
+.list-style-clubs, .list-style-clubs-H:hover {list-style: '♣';}
+.list-style-spades, .list-style-spades-H:hover {list-style: '♠';}
+.list-style-lower-alpha, .list-style-lower-alpha-H:hover {list-style: lower-alpha;}
+.list-style-lower-roman, .list-style-lower-roman-H:hover {list-style: lower-roman;}
+.list-style-lower-latin, .list-style-lower-latin-H:hover {list-style: lower-latin;}
+.list-style-lower-greek, .list-style-lower-greek-H:hover {list-style: lower-greek;}
+.list-style-upper-roman, .list-style-upper-roman-H:hover {list-style: upper-roman;}
+.list-style-upper-alpha, .list-style-upper-alpha-H:hover {list-style: upper-alpha;}
+.list-style-upper-latin, .list-style-upper-latin-H:hover {list-style: upper-latin;}
+.list-style-arond, .list-style-arond-H:hover {list-style: '@';}
+.list-style-equals, .list-style-equals-H:hover {list-style: '=';}
+.list-style-arrow-r, .list-style-arrow-r-H:hover {list-style: '->';}
+.list-style-arrow-l, .list-style-arrow-l-H:hover {list-style: '<-';}
+.list-style-arrow-2-r, .list-style-arrow-2-r-H:hover {list-style: '=>';}
+.list-style-arrow-2-l, .list-style-arrow-2-l-H:hover {list-style: '<=';}
+.list-style-dollar, .list-style-dollar-H:hover {list-style: '$';}
+.list-style-euro, .list-style-euro-H:hover {list-style: '€';}
+.list-style-square, .list-style-square-H:hover {list-style: square;}
+.list-style-circle, .list-style-circle-H:hover {list-style: circle;}
+.list-style-disc, .list-style-disc-H:hover {list-style: disc;}
+.list-style-decimal, .list-style-decimal-H:hover {list-style: decimal;}
+.list-style-georgian, .list-style-georgian-H:hover {list-style: georgian;}
+.list-style-kannada, .list-style-kannada-H:hover {list-style: kannada;}
+.list-style-inherit, .list-style-inherit-H:hover {list-style: inherit;}
+.list-style-revert, .list-style-revert-H:hover {list-style: revert;}
+.list-style-initial, .list-style-initial-H:hover {list-style: initial;}
+.list-style-unset, .list-style-unset-H:hover {list-style: unset;}
+.list-style-revert-layer, .list-style-revert-layer-H:hover {list-style: revert-layer;}
+.list-style-trad-chinese-informal, .list-style-trad-chinese-informal-H:hover {list-style: trad-chinese-informal;}
