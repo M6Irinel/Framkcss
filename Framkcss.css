@@ -98,6 +98,7 @@
 .h-100vh, .h-100vh-H:hover {height: 100vh;}
 
 /* display */
+.d-none, .d-none-H:hover, .remove, .remove-H:hover {display: none;}
 .block, .block-H:hover {display: block;}
 .inline, .inline-H:hover {display: inline;}
 .inline-block, .inline-block-H:hover {display: inline-block;}
@@ -479,6 +480,28 @@
 .m-19, .m-19-H:hover {margin: 4.75rem;}
 .m-20, .m-20-H:hover {margin: 5rem;}
 
+/* -m-num = margin */
+.-m-1, .-m-1-H:hover {margin: -0.25rem;}
+.-m-2, .-m-2-H:hover {margin: -0.5rem;}
+.-m-3, .-m-3-H:hover {margin: -0.75rem;}
+.-m-4, .-m-4-H:hover {margin: -1rem;}
+.-m-5, .-m-5-H:hover {margin: -1.25rem;}
+.-m-6, .-m-6-H:hover {margin: -1.5rem;}
+.-m-7, .-m-7-H:hover {margin: -1.75rem;}
+.-m-8, .-m-8-H:hover {margin: -2rem;}
+.-m-9, .-m-9-H:hover {margin: -2.25rem;}
+.-m-10, .-m-10-H:hover {margin: -2.5rem;}
+.-m-11, .-m-11-H:hover {margin: -2.75rem;}
+.-m-12, .-m-12-H:hover {margin: -3rem;}
+.-m-13, .-m-13-H:hover {margin: -3.25rem;}
+.-m-14, .-m-14-H:hover {margin: -3.5rem;}
+.-m-15, .-m-15-H:hover {margin: -3.75rem;}
+.-m-16, .-m-16-H:hover {margin: -4rem;}
+.-m-17, .-m-17-H:hover {margin: -4.25rem;}
+.-m-18, .-m-18-H:hover {margin: -4.5rem;}
+.-m-19, .-m-19-H:hover {margin: -4.75rem;}
+.-m-20, .-m-20-H:hover {margin: -5rem;}
+
 /* ml-num = margin-left */
 .ml-auto, .ml-auto-H:hover {margin-left: auto;}
 .ml-0, .ml-0-H:hover {margin-left: 0;}
@@ -502,6 +525,28 @@
 .ml-18, .ml-18-H:hover {margin-left: 4.5rem;}
 .ml-19, .ml-19-H:hover {margin-left: 4.75rem;}
 .ml-20, .ml-20-H:hover {margin-left: 5rem;}
+
+/* -ml-num = margin-left */
+.-ml-1, .-ml-1-H:hover {margin-left: -0.25rem;}
+.-ml-2, .-ml-2-H:hover {margin-left: -0.5rem;}
+.-ml-3, .-ml-3-H:hover {margin-left: -0.75rem;}
+.-ml-4, .-ml-4-H:hover {margin-left: -1rem;}
+.-ml-5, .-ml-5-H:hover {margin-left: -1.25rem;}
+.-ml-6, .-ml-6-H:hover {margin-left: -1.5rem;}
+.-ml-7, .-ml-7-H:hover {margin-left: -1.75rem;}
+.-ml-8, .-ml-8-H:hover {margin-left: -2rem;}
+.-ml-9, .-ml-9-H:hover {margin-left: -2.25rem;}
+.-ml-10, .-ml-10-H:hover {margin-left: -2.5rem;}
+.-ml-11, .-ml-11-H:hover {margin-left: -2.75rem;}
+.-ml-12, .-ml-12-H:hover {margin-left: -3rem;}
+.-ml-13, .-ml-13-H:hover {margin-left: -3.25rem;}
+.-ml-14, .-ml-14-H:hover {margin-left: -3.5rem;}
+.-ml-15, .-ml-15-H:hover {margin-left: -3.75rem;}
+.-ml-16, .-ml-16-H:hover {margin-left: -4rem;}
+.-ml-17, .-ml-17-H:hover {margin-left: -4.25rem;}
+.-ml-18, .-ml-18-H:hover {margin-left: -4.5rem;}
+.-ml-19, .-ml-19-H:hover {margin-left: -4.75rem;}
+.-ml-20, .-ml-20-H:hover {margin-left: -5rem;}
 
 /* mr-num = margin-right */
 .mr-auto, .mr-auto-H:hover {margin-right: auto;}
@@ -527,6 +572,28 @@
 .mr-19, .mr-19-H:hover {margin-right: 4.75rem;}
 .mr-20, .mr-20-H:hover {margin-right: 5rem;}
 
+/* -mr-num = margin-right */
+.-mr-1, .-mr-1-H:hover {margin-right: -0.25rem;}
+.-mr-2, .-mr-2-H:hover {margin-right: -0.5rem;}
+.-mr-3, .-mr-3-H:hover {margin-right: -0.75rem;}
+.-mr-4, .-mr-4-H:hover {margin-right: -1rem;}
+.-mr-5, .-mr-5-H:hover {margin-right: -1.25rem;}
+.-mr-6, .-mr-6-H:hover {margin-right: -1.5rem;}
+.-mr-7, .-mr-7-H:hover {margin-right: -1.75rem;}
+.-mr-8, .-mr-8-H:hover {margin-right: -2rem;}
+.-mr-9, .-mr-9-H:hover {margin-right: -2.25rem;}
+.-mr-10, .-mr-10-H:hover {margin-right: -2.5rem;}
+.-mr-11, .-mr-11-H:hover {margin-right: -2.75rem;}
+.-mr-12, .-mr-12-H:hover {margin-right: -3rem;}
+.-mr-13, .-mr-13-H:hover {margin-right: -3.25rem;}
+.-mr-14, .-mr-14-H:hover {margin-right: -3.5rem;}
+.-mr-15, .-mr-15-H:hover {margin-right: -3.75rem;}
+.-mr-16, .-mr-16-H:hover {margin-right: -4rem;}
+.-mr-17, .-mr-17-H:hover {margin-right: -4.25rem;}
+.-mr-18, .-mr-18-H:hover {margin-right: -4.5rem;}
+.-mr-19, .-mr-19-H:hover {margin-right: -4.75rem;}
+.-mr-20, .-mr-20-H:hover {margin-right: -5rem;}
+
 /* mt-num = margin-top */
 .mt-auto, .mt-auto-H:hover {margin-top: auto;}
 .mt-0, .mt-0-H:hover {margin-top: 0;}
@@ -550,6 +617,28 @@
 .mt-18, .mt-18-H:hover {margin-top: 4.5rem;}
 .mt-19, .mt-19-H:hover {margin-top: 4.75rem;}
 .mt-20, .mt-20-H:hover {margin-top: 5rem;}
+
+/* -mt-num = margin-top */
+.-mt-1, .-mt-1-H:hover {margin-top: -0.25rem;}
+.-mt-2, .-mt-2-H:hover {margin-top: -0.5rem;}
+.-mt-3, .-mt-3-H:hover {margin-top: -0.75rem;}
+.-mt-4, .-mt-4-H:hover {margin-top: -1rem;}
+.-mt-5, .-mt-5-H:hover {margin-top: -1.25rem;}
+.-mt-6, .-mt-6-H:hover {margin-top: -1.5rem;}
+.-mt-7, .-mt-7-H:hover {margin-top: -1.75rem;}
+.-mt-8, .-mt-8-H:hover {margin-top: -2rem;}
+.-mt-9, .-mt-9-H:hover {margin-top: -2.25rem;}
+.-mt-10, .-mt-10-H:hover {margin-top: -2.5rem;}
+.-mt-11, .-mt-11-H:hover {margin-top: -2.75rem;}
+.-mt-12, .-mt-12-H:hover {margin-top: -3rem;}
+.-mt-13, .-mt-13-H:hover {margin-top: -3.25rem;}
+.-mt-14, .-mt-14-H:hover {margin-top: -3.5rem;}
+.-mt-15, .-mt-15-H:hover {margin-top: -3.75rem;}
+.-mt-16, .-mt-16-H:hover {margin-top: -4rem;}
+.-mt-17, .-mt-17-H:hover {margin-top: -4.25rem;}
+.-mt-18, .-mt-18-H:hover {margin-top: -4.5rem;}
+.-mt-19, .-mt-19-H:hover {margin-top: -4.75rem;}
+.-mt-20, .-mt-20-H:hover {margin-top: -5rem;}
 
 /* mb-num = margin-bottom */
 .mb-auto, .mb-auto-H:hover {margin-bottom: auto;}
@@ -575,6 +664,28 @@
 .mb-19, .mb-19-H:hover {margin-bottom: 4.75rem;}
 .mb-20, .mb-20-H:hover {margin-bottom: 5rem;}
 
+/* -mb-num = margin-bottom */
+.-mb-1, .-mb-1-H:hover {margin-bottom: -0.25rem;}
+.-mb-2, .-mb-2-H:hover {margin-bottom: -0.5rem;}
+.-mb-3, .-mb-3-H:hover {margin-bottom: -0.75rem;}
+.-mb-4, .-mb-4-H:hover {margin-bottom: -1rem;}
+.-mb-5, .-mb-5-H:hover {margin-bottom: -1.25rem;}
+.-mb-6, .-mb-6-H:hover {margin-bottom: -1.5rem;}
+.-mb-7, .-mb-7-H:hover {margin-bottom: -1.75rem;}
+.-mb-8, .-mb-8-H:hover {margin-bottom: -2rem;}
+.-mb-9, .-mb-9-H:hover {margin-bottom: -2.25rem;}
+.-mb-10, .-mb-10-H:hover {margin-bottom: -2.5rem;}
+.-mb-11, .-mb-11-H:hover {margin-bottom: -2.75rem;}
+.-mb-12, .-mb-12-H:hover {margin-bottom: -3rem;}
+.-mb-13, .-mb-13-H:hover {margin-bottom: -3.25rem;}
+.-mb-14, .-mb-14-H:hover {margin-bottom: -3.5rem;}
+.-mb-15, .-mb-15-H:hover {margin-bottom: -3.75rem;}
+.-mb-16, .-mb-16-H:hover {margin-bottom: -4rem;}
+.-mb-17, .-mb-17-H:hover {margin-bottom: -4.25rem;}
+.-mb-18, .-mb-18-H:hover {margin-bottom: -4.5rem;}
+.-mb-19, .-mb-19-H:hover {margin-bottom: -4.75rem;}
+.-mb-20, .-mb-20-H:hover {margin-bottom: -5rem;}
+
 /* mx-num = margin-left and margin-right */
 .mx-0, .mx-0-H:hover {margin-left: 0; margin-right: 0;}
 .mx-1, .mx-1-H:hover {margin-left: .25rem; margin-right: .25rem;}
@@ -598,6 +709,28 @@
 .mx-19, .mx-19-H:hover {margin-left: 4.75rem; margin-right: 4.75rem;}
 .mx-20, .mx-20-H:hover {margin-left: 5rem; margin-right: 5rem;}
 
+/* -mx-num = margin-left and margin-right */
+.-mx-1, .-mx-1-H:hover {margin-left: -0.25rem; margin-right: -0.25rem;}
+.-mx-2, .-mx-2-H:hover {margin-left: -0.5rem; margin-right: -0.5;}
+.-mx-3, .-mx-3-H:hover {margin-left: -0.75rem; margin-right: -0.75rem;}
+.-mx-4, .-mx-4-H:hover {margin-left: -1rem; margin-right: -1rem;}
+.-mx-5, .-mx-5-H:hover {margin-left: -1.25rem; margin-right: -1.25rem;}
+.-mx-6, .-mx-6-H:hover {margin-left: -1.5rem; margin-right: -1.5rem;}
+.-mx-7, .-mx-7-H:hover {margin-left: -1.75rem; margin-right: -1.75rem;}
+.-mx-8, .-mx-8-H:hover {margin-left: -2rem; margin-right: -2rem;}
+.-mx-9, .-mx-9-H:hover {margin-left: -2.25rem; margin-right: -2.25rem;}
+.-mx-10, .-mx-10-H:hover {margin-left: -2.5rem; margin-right: -2.5rem;}
+.-mx-11, .-mx-11-H:hover {margin-left: -2.75rem; margin-right: -2.75rem;}
+.-mx-12, .-mx-12-H:hover {margin-left: -3rem; margin-right: -3rem;}
+.-mx-13, .-mx-13-H:hover {margin-left: -3.25rem; margin-right: -3.25rem;}
+.-mx-14, .-mx-14-H:hover {margin-left: -3.5rem; margin-right: -3.5rem;}
+.-mx-15, .-mx-15-H:hover {margin-left: -3.75rem; margin-right: -3.75rem;}
+.-mx-16, .-mx-16-H:hover {margin-left: -4rem; margin-right: -4rem;}
+.-mx-17, .-mx-17-H:hover {margin-left: -4.25rem; margin-right: -4.25rem;}
+.-mx-18, .-mx-18-H:hover {margin-left: -4.5rem; margin-right: -4.5rem;}
+.-mx-19, .-mx-19-H:hover {margin-left: -4.75rem; margin-right: -4.75rem;}
+.-mx-20, .-mx-20-H:hover {margin-left: -5rem; margin-right: -5rem;}
+
 /* my-num = margin-top and margin-bottom */
 .my-0, .my-0-H:hover {margin-top: 0; margin-bottom: 0;}
 .my-1, .my-1-H:hover {margin-top: .25rem; margin-bottom: .25rem;}
@@ -620,6 +753,28 @@
 .my-18, .my-18-H:hover {margin-top: 4.5rem; margin-bottom: 4.5rem;}
 .my-19, .my-19-H:hover {margin-top: 4.75rem; margin-bottom: 4.75rem;}
 .my-20, .my-20-H:hover {margin-top: 5rem; margin-bottom: 5rem;}
+
+/* -my-num = margin-top and margin-bottom */
+.-my-1, .-my-1-H:hover {margin-top: -0.25rem; margin-bottom: -0.25rem;}
+.-my-2, .-my-2-H:hover {margin-top: -0.5rem; margin-bottom: -0.5;}
+.-my-3, .-my-3-H:hover {margin-top: -0.75rem; margin-bottom: -0.75rem;}
+.-my-4, .-my-4-H:hover {margin-top: -1rem; margin-bottom: -1rem;}
+.-my-5, .-my-5-H:hover {margin-top: -1.25rem; margin-bottom: -1.25rem;}
+.-my-6, .-my-6-H:hover {margin-top: -1.5rem; margin-bottom: -1.5;}
+.-my-7, .-my-7-H:hover {margin-top: -1.75rem; margin-bottom: -1.75rem;}
+.-my-8, .-my-8-H:hover {margin-top: -2rem; margin-bottom: -2rem;}
+.-my-9, .-my-9-H:hover {margin-top: -2.25rem; margin-bottom: -2.25rem;}
+.-my-10, .-my-10-H:hover {margin-top: -2.5rem; margin-bottom: -2.5rem;}
+.-my-11, .-my-11-H:hover {margin-top: -2.75rem; margin-bottom: -2.75rem;}
+.-my-12, .-my-12-H:hover {margin-top: -3rem; margin-bottom: -3rem;}
+.-my-13, .-my-13-H:hover {margin-top: -3.25rem; margin-bottom: -3.25rem;}
+.-my-14, .-my-14-H:hover {margin-top: -3.5rem; margin-bottom: -3.5rem;}
+.-my-15, .-my-15-H:hover {margin-top: -3.75rem; margin-bottom: -3.75rem;}
+.-my-16, .-my-16-H:hover {margin-top: -4rem; margin-bottom: -4rem;}
+.-my-17, .-my-17-H:hover {margin-top: -4.25rem; margin-bottom: -4.25rem;}
+.-my-18, .-my-18-H:hover {margin-top: -4.5rem; margin-bottom: -4.5rem;}
+.-my-19, .-my-19-H:hover {margin-top: -4.75rem; margin-bottom: -4.75rem;}
+.-my-20, .-my-20-H:hover {margin-top: -5rem; margin-bottom: -5rem;}
 
 /* fs-name = font-size */
 .fs-xx-small, .fs-xx-small-H:hover {font-size: xx-small;}
@@ -717,6 +872,28 @@
 .top-95, .top-95-H:hover {top: 95%;}
 .top-100, .top-100-H:hover {top: 100%;}
 
+/* -top-num */
+.-top-5, .-top-5-H:hover {top: -5%;}
+.-top-10, .-top-10-H:hover {top: -10%;}
+.-top-15, .-top-15-H:hover {top: -15%;}
+.-top-20, .-top-20-H:hover {top: -20%;}
+.-top-25, .-top-25-H:hover {top: -25%;}
+.-top-30, .-top-30-H:hover {top: -30%;}
+.-top-35, .-top-35-H:hover {top: -35%;}
+.-top-40, .-top-40-H:hover {top: -40%;}
+.-top-45, .-top-45-H:hover {top: -45%;}
+.-top-50, .-top-50-H:hover {top: -50%;}
+.-top-55, .-top-55-H:hover {top: -55%;}
+.-top-60, .-top-60-H:hover {top: -60%;}
+.-top-65, .-top-65-H:hover {top: -65%;}
+.-top-70, .-top-70-H:hover {top: -70%;}
+.-top-75, .-top-75-H:hover {top: -75%;}
+.-top-80, .-top-80-H:hover {top: -80%;}
+.-top-85, .-top-85-H:hover {top: -85%;}
+.-top-90, .-top-90-H:hover {top: -90%;}
+.-top-95, .-top-95-H:hover {top: -95%;}
+.-top-100, .-top-100-H:hover {top: -100%;}
+
 /* bottom-num */
 .bottom, .bottom-H:hover {bottom: 0;}
 .bottom-5, .bottom-5-H:hover {bottom: 5%;}
@@ -739,6 +916,28 @@
 .bottom-90, .bottom-90-H:hover {bottom: 90%;}
 .bottom-95, .bottom-95-H:hover {bottom: 95%;}
 .bottom-100, .bottom-100-H:hover {bottom: 100%;}
+
+/* -bottom-num */
+.-bottom-5, .-bottom-5-H:hover {bottom: -5%;}
+.-bottom-10, .-bottom-10-H:hover {bottom: -10%;}
+.-bottom-15, .-bottom-15-H:hover {bottom: -15%;}
+.-bottom-20, .-bottom-20-H:hover {bottom: -20%;}
+.-bottom-25, .-bottom-25-H:hover {bottom: -25%;}
+.-bottom-30, .-bottom-30-H:hover {bottom: -30%;}
+.-bottom-35, .-bottom-35-H:hover {bottom: -35%;}
+.-bottom-40, .-bottom-40-H:hover {bottom: -40%;}
+.-bottom-45, .-bottom-45-H:hover {bottom: -45%;}
+.-bottom-50, .-bottom-50-H:hover {bottom: -50%;}
+.-bottom-55, .-bottom-55-H:hover {bottom: -55%;}
+.-bottom-60, .-bottom-60-H:hover {bottom: -60%;}
+.-bottom-65, .-bottom-65-H:hover {bottom: -65%;}
+.-bottom-70, .-bottom-70-H:hover {bottom: -70%;}
+.-bottom-75, .-bottom-75-H:hover {bottom: -75%;}
+.-bottom-80, .-bottom-80-H:hover {bottom: -80%;}
+.-bottom-85, .-bottom-85-H:hover {bottom: -85%;}
+.-bottom-90, .-bottom-90-H:hover {bottom: -90%;}
+.-bottom-95, .-bottom-95-H:hover {bottom: -95%;}
+.-bottom-100, .-bottom-100-H:hover {bottom: -100%;}
 
 /* right-num */
 .right, .right-H:hover {right: 0;}
@@ -763,6 +962,28 @@
 .right-95, .right-95-H:hover {right: 95%;}
 .right-100, .right-100-H:hover {right: 100%;}
 
+/* -right-num */
+.-right-5, .-right-5-H:hover {right: -5%;}
+.-right-10, .-right-10-H:hover {right: -10%;}
+.-right-15, .-right-15-H:hover {right: -15%;}
+.-right-20, .-right-20-H:hover {right: -20%;}
+.-right-25, .-right-25-H:hover {right: -25%;}
+.-right-30, .-right-30-H:hover {right: -30%;}
+.-right-35, .-right-35-H:hover {right: -35%;}
+.-right-40, .-right-40-H:hover {right: -40%;}
+.-right-45, .-right-45-H:hover {right: -45%;}
+.-right-50, .-right-50-H:hover {right: -50%;}
+.-right-55, .-right-55-H:hover {right: -55%;}
+.-right-60, .-right-60-H:hover {right: -60%;}
+.-right-65, .-right-65-H:hover {right: -65%;}
+.-right-70, .-right-70-H:hover {right: -70%;}
+.-right-75, .-right-75-H:hover {right: -75%;}
+.-right-80, .-right-80-H:hover {right: -80%;}
+.-right-85, .-right-85-H:hover {right: -85%;}
+.-right-90, .-right-90-H:hover {right: -90%;}
+.-right-95, .-right-95-H:hover {right: -95%;}
+.-right-100, .-right-100-H:hover {right: -100%;}
+
 /* left-num */
 .left, .left-H:hover {left: 0;}
 .left-5, .left-5-H:hover {left: 5%;}
@@ -785,6 +1006,28 @@
 .left-90, .left-90-H:hover {left: 90%;}
 .left-95, .left-95-H:hover {left: 95%;}
 .left-100, .left-100-H:hover {left: 100%;}
+
+/* -left-num */
+.-left-5, .-left-5-H:hover {left: -5%;}
+.-left-10, .-left-10-H:hover {left: -10%;}
+.-left-15, .-left-15-H:hover {left: -15%;}
+.-left-20, .-left-20-H:hover {left: -20%;}
+.-left-25, .-left-25-H:hover {left: -25%;}
+.-left-30, .-left-30-H:hover {left: -30%;}
+.-left-35, .-left-35-H:hover {left: -35%;}
+.-left-40, .-left-40-H:hover {left: -40%;}
+.-left-45, .-left-45-H:hover {left: -45%;}
+.-left-50, .-left-50-H:hover {left: -50%;}
+.-left-55, .-left-55-H:hover {left: -55%;}
+.-left-60, .-left-60-H:hover {left: -60%;}
+.-left-65, .-left-65-H:hover {left: -65%;}
+.-left-70, .-left-70-H:hover {left: -70%;}
+.-left-75, .-left-75-H:hover {left: -75%;}
+.-left-80, .-left-80-H:hover {left: -80%;}
+.-left-85, .-left-85-H:hover {left: -85%;}
+.-left-90, .-left-90-H:hover {left: -90%;}
+.-left-95, .-left-95-H:hover {left: -95%;}
+.-left-100, .-left-100-H:hover {left: -100%;}
 
 /* grayscale */
 .grayscale, .grayscale-H:hover {filter: grayscale(1); -webkit-filter: grayscale(1);}
@@ -833,7 +1076,7 @@
 .opacity-7, .opacity-7-H:hover {filter: opacity(0.7); -webkit-filter: opacity(0.7);}
 .opacity-8, .opacity-8-H:hover {filter: opacity(0.8); -webkit-filter: opacity(0.8);}
 .opacity-9, .opacity-9-H:hover {filter: opacity(0.9); -webkit-filter: opacity(0.9);}
-.opacity, .opacity-H:hover {filter: opacity(1); -webkit-filter: opacity(1);}
+.opacity, .opacity-H:hover, .visible, .visible-H:hover {filter: opacity(1); -webkit-filter: opacity(1);}
 
 /* t-name = text-position */
 .t-center, .t-center-H:hover {text-align: center;}
@@ -857,15 +1100,15 @@
 .duration-8, .duration-8-H:hover {transition-duration: 0.8s; -o-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -webkit-transition-duration: 0.8s;}
 .duration-9, .duration-9-H:hover {transition-duration: 0.9s; -o-transition-duration: 0.9s; -moz-transition-duration: 0.9s; -webkit-transition-duration: 0.9s;}
 .duration-1_0, .duration-1_0-H:hover {transition-duration: 1s; -o-transition-duration: 1s; -moz-transition-duration: 1s; -webkit-transition-duration: 1s;}
-.duration-1_2, .duration-1_2-H:hover {transition-duration: 0.2s; -o-transition-duration: 0.2s; -moz-transition-duration: 0.2s; -webkit-transition-duration: 0.2s;}
-.duration-1_4, .duration-1_4-H:hover {transition-duration: 0.4s; -o-transition-duration: 0.4s; -moz-transition-duration: 0.4s; -webkit-transition-duration: 0.4s;}
-.duration-1_6, .duration-1_6-H:hover {transition-duration: 0.6s; -o-transition-duration: 0.6s; -moz-transition-duration: 0.6s; -webkit-transition-duration: 0.6s;}
-.duration-1_8, .duration-1_8-H:hover {transition-duration: 0.8s; -o-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -webkit-transition-duration: 0.8s;}
+.duration-1_2, .duration-1_2-H:hover {transition-duration: 1.2s; -o-transition-duration: 1.2s; -moz-transition-duration: 1.2s; -webkit-transition-duration: 1.2s;}
+.duration-1_4, .duration-1_4-H:hover {transition-duration: 1.4s; -o-transition-duration: 1.4s; -moz-transition-duration: 1.4s; -webkit-transition-duration: 1.4s;}
+.duration-1_6, .duration-1_6-H:hover {transition-duration: 1.6s; -o-transition-duration: 1.6s; -moz-transition-duration: 1.6s; -webkit-transition-duration: 1.6s;}
+.duration-1_8, .duration-1_8-H:hover {transition-duration: 1.8s; -o-transition-duration: 1.8s; -moz-transition-duration: 1.8s; -webkit-transition-duration: 1.8s;}
 .duration-2, .duration-2-H:hover {transition-duration: 2s; -o-transition-duration: 2s; -moz-transition-duration: 2s; -webkit-transition-duration: 2s;}
-.duration-2_2, .duration-2_2-H:hover {transition-duration: 0.2s; -o-transition-duration: 0.2s; -moz-transition-duration: 0.2s; -webkit-transition-duration: 0.2s;}
-.duration-2_4, .duration-2_4-H:hover {transition-duration: 0.4s; -o-transition-duration: 0.4s; -moz-transition-duration: 0.4s; -webkit-transition-duration: 0.4s;}
-.duration-2_6, .duration-2_6-H:hover {transition-duration: 0.6s; -o-transition-duration: 0.6s; -moz-transition-duration: 0.6s; -webkit-transition-duration: 0.6s;}
-.duration-2_8, .duration-2_8-H:hover {transition-duration: 0.8s; -o-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -webkit-transition-duration: 0.8s;}
+.duration-2_2, .duration-2_2-H:hover {transition-duration: 2.2s; -o-transition-duration: 2.2s; -moz-transition-duration: 2.2s; -webkit-transition-duration: 2.2s;}
+.duration-2_4, .duration-2_4-H:hover {transition-duration: 2.4s; -o-transition-duration: 2.4s; -moz-transition-duration: 2.4s; -webkit-transition-duration: 2.4s;}
+.duration-2_6, .duration-2_6-H:hover {transition-duration: 2.6s; -o-transition-duration: 2.6s; -moz-transition-duration: 2.6s; -webkit-transition-duration: 2.6s;}
+.duration-2_8, .duration-2_8-H:hover {transition-duration: 2.8s; -o-transition-duration: 2.8s; -moz-transition-duration: 2.8s; -webkit-transition-duration: 2.8s;}
 .duration-3, .duration-3-H:hover {transition-duration: 3s; -o-transition-duration: 3s; -moz-transition-duration: 3s; -webkit-transition-duration: 3s;}
 
 /* delay-num = transition-delay */
@@ -879,73 +1122,73 @@
 .delay-8, .delay-8-H:hover {transition-delay: 0.8s; -o-transition-delay: 0.8s; -moz-transition-delay: 0.8s; -webkit-transition-delay: 0.8s;}
 .delay-9, .delay-9-H:hover {transition-delay: 0.9s; -o-transition-delay: 0.9s; -moz-transition-delay: 0.9s; -webkit-transition-delay: 0.9s;}
 .delay-1_0, .delay-1_0-H:hover {transition-delay: 1s; -o-transition-delay: 1s; -moz-transition-delay: 1s; -webkit-transition-delay: 1s;}
-.delay-1_2, .delay-1_2-H:hover {transition-delay: 0.2s; -o-transition-delay: 0.2s; -moz-transition-delay: 0.2s; -webkit-transition-delay: 0.2s;}
-.delay-1_4, .delay-1_4-H:hover {transition-delay: 0.4s; -o-transition-delay: 0.4s; -moz-transition-delay: 0.4s; -webkit-transition-delay: 0.4s;}
-.delay-1_6, .delay-1_6-H:hover {transition-delay: 0.6s; -o-transition-delay: 0.6s; -moz-transition-delay: 0.6s; -webkit-transition-delay: 0.6s;}
-.delay-1_8, .delay-1_8-H:hover {transition-delay: 0.8s; -o-transition-delay: 0.8s; -moz-transition-delay: 0.8s; -webkit-transition-delay: 0.8s;}
+.delay-1_2, .delay-1_2-H:hover {transition-delay: 1.2s; -o-transition-delay: 1.2s; -moz-transition-delay: 1.2s; -webkit-transition-delay: 1.2s;}
+.delay-1_4, .delay-1_4-H:hover {transition-delay: 1.4s; -o-transition-delay: 1.4s; -moz-transition-delay: 1.4s; -webkit-transition-delay: 1.4s;}
+.delay-1_6, .delay-1_6-H:hover {transition-delay: 1.6s; -o-transition-delay: 1.6s; -moz-transition-delay: 1.6s; -webkit-transition-delay: 1.6s;}
+.delay-1_8, .delay-1_8-H:hover {transition-delay: 1.8s; -o-transition-delay: 1.8s; -moz-transition-delay: 1.8s; -webkit-transition-delay: 1.8s;}
 .delay-2, .delay-2-H:hover {transition-delay: 2s; -o-transition-delay: 2s; -moz-transition-delay: 2s; -webkit-transition-delay: 2s;}
-.delay-2_2, .delay-2_2-H:hover {transition-delay: 0.2s; -o-transition-delay: 0.2s; -moz-transition-delay: 0.2s; -webkit-transition-delay: 0.2s;}
-.delay-2_4, .delay-2_4-H:hover {transition-delay: 0.4s; -o-transition-delay: 0.4s; -moz-transition-delay: 0.4s; -webkit-transition-delay: 0.4s;}
-.delay-2_6, .delay-2_6-H:hover {transition-delay: 0.6s; -o-transition-delay: 0.6s; -moz-transition-delay: 0.6s; -webkit-transition-delay: 0.6s;}
-.delay-2_8, .delay-2_8-H:hover {transition-delay: 0.8s; -o-transition-delay: 0.8s; -moz-transition-delay: 0.8s; -webkit-transition-delay: 0.8s;}
+.delay-2_2, .delay-2_2-H:hover {transition-delay: 2.2s; -o-transition-delay: 2.2s; -moz-transition-delay: 2.2s; -webkit-transition-delay: 2.2s;}
+.delay-2_4, .delay-2_4-H:hover {transition-delay: 2.4s; -o-transition-delay: 2.4s; -moz-transition-delay: 2.4s; -webkit-transition-delay: 2.4s;}
+.delay-2_6, .delay-2_6-H:hover {transition-delay: 2.6s; -o-transition-delay: 2.6s; -moz-transition-delay: 2.6s; -webkit-transition-delay: 2.6s;}
+.delay-2_8, .delay-2_8-H:hover {transition-delay: 2.8s; -o-transition-delay: 2.8s; -moz-transition-delay: 2.8s; -webkit-transition-delay: 2.8s;}
 .delay-3, .delay-3-H:hover {transition-delay: 3s; -o-transition-delay: 3s; -moz-transition-delay: 3s; -webkit-transition-delay: 3s;}
 
 /* border */
 .border, .border-H:hover {border: 1px solid currentColor;}
-.border-1, .border-1-H:hover {border: 2px solid currentColor;}
-.border-2, .border-2-H:hover {border: 3px solid currentColor;}
-.border-3, .border-3-H:hover {border: 4px solid currentColor;}
-.border-4, .border-4-H:hover {border: 5px solid currentColor;}
-.border-5, .border-5-H:hover {border: 6px solid currentColor;}
-.border-6, .border-6-H:hover {border: 7px solid currentColor;}
+.border-2, .border-2-H:hover {border: 2px solid currentColor;}
+.border-3, .border-3-H:hover {border: 3px solid currentColor;}
+.border-4, .border-4-H:hover {border: 4px solid currentColor;}
+.border-5, .border-5-H:hover {border: 5px solid currentColor;}
+.border-6, .border-6-H:hover {border: 6px solid currentColor;}
+.border-7, .border-7-H:hover {border: 7px solid currentColor;}
 .border-8, .border-8-H:hover {border: 8px solid currentColor;}
 .border-9, .border-9-H:hover {border: 9px solid currentColor;}
 .border-10, .border-10-H:hover {border: 10px solid currentColor;}
 
 /* border-t */
 .border-t, .border-t-H:hover {border-top: 1px solid currentColor;}
-.border-t-1, .border-t-1-H:hover {border-top: 2px solid currentColor;}
-.border-t-2, .border-t-2-H:hover {border-top: 3px solid currentColor;}
-.border-t-3, .border-t-3-H:hover {border-top: 4px solid currentColor;}
-.border-t-4, .border-t-4-H:hover {border-top: 5px solid currentColor;}
-.border-t-5, .border-t-5-H:hover {border-top: 6px solid currentColor;}
-.border-t-6, .border-t-6-H:hover {border-top: 7px solid currentColor;}
+.border-t-2, .border-t-2-H:hover {border-top: 2px solid currentColor;}
+.border-t-3, .border-t-3-H:hover {border-top: 3px solid currentColor;}
+.border-t-4, .border-t-4-H:hover {border-top: 4px solid currentColor;}
+.border-t-5, .border-t-5-H:hover {border-top: 5px solid currentColor;}
+.border-t-6, .border-t-6-H:hover {border-top: 6px solid currentColor;}
+.border-t-7, .border-t-7-H:hover {border-top: 7px solid currentColor;}
 .border-t-8, .border-t-8-H:hover {border-top: 8px solid currentColor;}
 .border-t-9, .border-t-9-H:hover {border-top: 9px solid currentColor;}
 .border-t-10, .border-t-10-H:hover {border-top: 10px solid currentColor;}
 
 /* border-b */
 .border-b, .border-b-H:hover {border-bottom: 1px solid currentColor;}
-.border-b-1, .border-b-1-H:hover {border-bottom: 2px solid currentColor;}
-.border-b-2, .border-b-2-H:hover {border-bottom: 3px solid currentColor;}
-.border-b-3, .border-b-3-H:hover {border-bottom: 4px solid currentColor;}
-.border-b-4, .border-b-4-H:hover {border-bottom: 5px solid currentColor;}
-.border-b-5, .border-b-5-H:hover {border-bottom: 6px solid currentColor;}
-.border-b-6, .border-b-6-H:hover {border-bottom: 7px solid currentColor;}
+.border-b-2, .border-b-2-H:hover {border-bottom: 2px solid currentColor;}
+.border-b-3, .border-b-3-H:hover {border-bottom: 3px solid currentColor;}
+.border-b-4, .border-b-4-H:hover {border-bottom: 4px solid currentColor;}
+.border-b-5, .border-b-5-H:hover {border-bottom: 5px solid currentColor;}
+.border-b-6, .border-b-6-H:hover {border-bottom: 6px solid currentColor;}
+.border-b-7, .border-b-7-H:hover {border-bottom: 7px solid currentColor;}
 .border-b-8, .border-b-8-H:hover {border-bottom: 8px solid currentColor;}
 .border-b-9, .border-b-9-H:hover {border-bottom: 9px solid currentColor;}
 .border-b-10, .border-b-10-H:hover {border-bottom: 10px solid currentColor;}
 
 /* border-r */
 .border-r, .border-r-H:hover {border-right: 1px solid currentColor;}
-.border-r-1, .border-r-1-H:hover {border-right: 2px solid currentColor;}
-.border-r-2, .border-r-2-H:hover {border-right: 3px solid currentColor;}
-.border-r-3, .border-r-3-H:hover {border-right: 4px solid currentColor;}
-.border-r-4, .border-r-4-H:hover {border-right: 5px solid currentColor;}
-.border-r-5, .border-r-5-H:hover {border-right: 6px solid currentColor;}
-.border-r-6, .border-r-6-H:hover {border-right: 7px solid currentColor;}
+.border-r-2, .border-r-2-H:hover {border-right: 2px solid currentColor;}
+.border-r-3, .border-r-3-H:hover {border-right: 3px solid currentColor;}
+.border-r-4, .border-r-4-H:hover {border-right: 4px solid currentColor;}
+.border-r-5, .border-r-5-H:hover {border-right: 5px solid currentColor;}
+.border-r-6, .border-r-6-H:hover {border-right: 6px solid currentColor;}
+.border-r-7, .border-r-7-H:hover {border-right: 7px solid currentColor;}
 .border-r-8, .border-r-8-H:hover {border-right: 8px solid currentColor;}
 .border-r-9, .border-r-9-H:hover {border-right: 9px solid currentColor;}
 .border-r-10, .border-r-10-H:hover {border-right: 10px solid currentColor;}
 
 /* border-l */
 .border-l, .border-l-H:hover {border-left: 1px solid currentColor;}
-.border-l-1, .border-l-1-H:hover {border-left: 2px solid currentColor;}
-.border-l-2, .border-l-2-H:hover {border-left: 3px solid currentColor;}
-.border-l-3, .border-l-3-H:hover {border-left: 4px solid currentColor;}
-.border-l-4, .border-l-4-H:hover {border-left: 5px solid currentColor;}
-.border-l-5, .border-l-5-H:hover {border-left: 6px solid currentColor;}
-.border-l-6, .border-l-6-H:hover {border-left: 7px solid currentColor;}
+.border-l-2, .border-l-2-H:hover {border-left: 2px solid currentColor;}
+.border-l-3, .border-l-3-H:hover {border-left: 3px solid currentColor;}
+.border-l-4, .border-l-4-H:hover {border-left: 4px solid currentColor;}
+.border-l-5, .border-l-5-H:hover {border-left: 5px solid currentColor;}
+.border-l-6, .border-l-6-H:hover {border-left: 6px solid currentColor;}
+.border-l-7, .border-l-7-H:hover {border-left: 7px solid currentColor;}
 .border-l-8, .border-l-8-H:hover {border-left: 8px solid currentColor;}
 .border-l-9, .border-l-9-H:hover {border-left: 9px solid currentColor;}
 .border-l-10, .border-l-10-H:hover {border-left: 10px solid currentColor;}
@@ -958,12 +1201,12 @@
 
 /* rounded = border-radius */
 .rounded, .rounded-H:hover {border-radius: 2px}
-.rounded-1, .rounded-1-H:hover {border-radius: 4px}
-.rounded-2, .rounded-2-H:hover {border-radius: 6px}
-.rounded-3, .rounded-3-H:hover {border-radius: 8px}
-.rounded-4, .rounded-4-H:hover {border-radius: 10px}
-.rounded-5, .rounded-5-H:hover {border-radius: 12px}
-.rounded-6, .rounded-6-H:hover {border-radius: 14px}
+.rounded-2, .rounded-2-H:hover {border-radius: 4px}
+.rounded-3, .rounded-3-H:hover {border-radius: 6px}
+.rounded-4, .rounded-4-H:hover {border-radius: 8px}
+.rounded-5, .rounded-5-H:hover {border-radius: 10px}
+.rounded-6, .rounded-6-H:hover {border-radius: 12px}
+.rounded-7, .rounded-7-H:hover {border-radius: 14px}
 .rounded-8, .rounded-8-H:hover {border-radius: 16px}
 .rounded-9, .rounded-9-H:hover {border-radius: 18px}
 .rounded-10, .rounded-10-H:hover {border-radius: 20px}
@@ -1192,99 +1435,246 @@
 .shadow-l-9-light, .shadow-l-9-light-H:hover {box-shadow: -10px 0 45px var(--shw-light);}
 
 /* aspect-ratio */
-.aspect-ratio-1, .square {aspect-ratio: 1;}
-.aspect-ratio-16_9 {aspect-ratio: 16/9;}
-.aspect-ratio-9_16 {aspect-ratio: 9/16;}
+.aspect-ratio-1, .square, .ratio-1, .aspect-ratio-1-H:hover, .square, .ratio-1-H:hover {aspect-ratio: 1;}
+.aspect-ratio-16_9, .ratio-16_9, .aspect-ratio-16_9-H:hover, .ratio-16_9-H:hover {aspect-ratio: 16/9;}
+.aspect-ratio-9_16, .ratio-9_16, .aspect-ratio-9_16-H:hover, .ratio-9_16-H:hover {aspect-ratio: 9/16;}
 
 /* overflow */
-.hidden, .overflow-hidden {overflow: hidden;}
-.scroll, .overflow-scroll {overflow: scroll;}
-.auto, .overflow-auto {overflow: auto;}
-.visible, .overflow-visible {overflow: visible;}
+.hidden, .overflow-hidden, .hidden-H:hover, .overflow-hidden-H:hover {overflow: hidden;}
+.scroll, .overflow-scroll, .scroll-H:hover, .overflow-scroll-H:hover {overflow: scroll;}
+.auto, .overflow-auto, .auto-H:hover, .overflow-auto-H:hover {overflow: auto;}
+.visible, .overflow-visible, .visible-H:hover, .overflow-visible-H:hover {overflow: visible;}
 
 /* overflow-x */
-.hidden-x, .overflow-x-hidden {overflow-x: hidden;}
-.scroll-x, .overflow-x-scroll {overflow-x: scroll;}
-.auto-x, .overflow-x-auto {overflow-x: auto;}
-.visible-x, .overflow-x-visible {overflow-x: visible;}
+.hidden-x, .overflow-x-hidden, .hidden-x-H:hover, .overflow-x-hidden-H:hover {overflow-x: hidden;}
+.scroll-x, .overflow-x-scroll, .scroll-x-H:hover, .overflow-x-scroll-H:hover {overflow-x: scroll;}
+.auto-x, .overflow-x-auto, .auto-x-H:hover, .overflow-x-auto-H:hover {overflow-x: auto;}
+.visible-x, .overflow-x-visible, .visible-x-H:hover, .overflow-x-visible-H:hover {overflow-x: visible;}
 
 /* overflow-y */
-.hidden-y, .overflow-y-hidden {overflow-y: hidden;}
-.scroll-y, .overflow-y-scroll {overflow-y: scroll;}
-.auto-y, .overflow-y-auto {overflow-y: auto;}
-.visible-y, .overflow-y-visible {overflow-y: visible;}
+.hidden-y, .overflow-y-hidden, .hidden-y-H:hover, .overflow-y-hidden-H:hover {overflow-y: hidden;}
+.scroll-y, .overflow-y-scroll, .scroll-y-H:hover, .overflow-y-scroll-H:hover {overflow-y: scroll;}
+.auto-y, .overflow-y-auto, .auto-y-H:hover, .overflow-y-auto-H:hover {overflow-y: auto;}
+.visible-y, .overflow-y-visible, .visible-y-H:hover, .overflow-y-visible-H:hover {overflow-y: visible;}
 
 /* direction flex */
-.row {flex-direction: row;}
-.row-reverse {flex-direction: row-reverse;}
-.column {flex-direction: column;}
-.column-reverse {flex-direction: column-reverse;}
+.row, .row-H:hover {flex-direction: row;}
+.row-reverse, .row-reverse-H:hover {flex-direction: row-reverse;}
+.column, .column-H:hover {flex-direction: column;}
+.column-reverse, .column-reverse-H:hover {flex-direction: column-reverse;}
 
 /* justify-content */
-.justify-center, .j-center, .center {justify-content: center;}
-.justify-flex-start, .j-flex-start {justify-content: flex-start;}
-.justify-flex-end, .j-flex-end {justify-content: flex-end;}
-.justify-left, .j-left {justify-content: left;}
-.justify-right, .j-right {justify-content: right;}
-.justify-start, .j-start {justify-content: start;}
-.justify-end, .j-end {justify-content: end;}
-.justify-between, .j-between, .between {justify-content: space-between;}
-.justify-around, .j-around, .around {justify-content: space-around;}
-.justify-evenly, .j-evenly, .evenly {justify-content: space-evenly;}
+.justify-center, .j-center, .center, .justify-center-H:hover, .j-center-H:hover, .center-H:hover {justify-content: center;}
+.justify-flex-start, .j-flex-start, .justify-flex-start-H:hover, .j-flex-start-H:hover {justify-content: flex-start;}
+.justify-flex-end, .j-flex-end, .justify-flex-end-H:hover, .j-flex-end-H:hover {justify-content: flex-end;}
+.justify-left, .j-left, .justify-left-H:hover, .j-left-H:hover {justify-content: left;}
+.justify-right, .j-right, .justify-right-H:hover, .j-right-H:hover {justify-content: right;}
+.justify-start, .j-start, .justify-start-H:hover, .j-start-H:hover {justify-content: start;}
+.justify-end, .j-end, .justify-end-H:hover, .j-end-H:hover {justify-content: end;}
+.justify-between, .j-between, .between, .justify-between-H:hover, .j-between-H:hover, .between-H:hover {justify-content: space-between;}
+.justify-around, .j-around, .around, .justify-around-H:hover, .j-around-H:hover, .around-H:hover {justify-content: space-around;}
+.justify-evenly, .j-evenly, .evenly, .justify-evenly-H:hover, .j-evenly-H:hover, .evenly-H:hover {justify-content: space-evenly;}
 
 /* align-items */
-.items-center, .a-center {align-items: center;}
-.items-flex-start, .a-flex-start {align-items: flex-start;}
-.items-flex-end, .a-lex-end {align-items: flex-end;}
-.items-stretch, .a-stretch {align-items: stretch;}
-.items-baseline, .a-baseline {align-items: baseline;}
+.items-center, .a-center, .items-center-H:hover, .a-center-H:hover {align-items: center;}
+.items-flex-start, .a-flex-start, .items-flex-start-H:hover, .a-flex-start-H:hover {align-items: flex-start;}
+.items-flex-end, .a-lex-end, .items-flex-end-H:hover, .a-lex-end-H:hover {align-items: flex-end;}
+.items-stretch, .a-stretch, .items-stretch-H:hover, .a-stretch-H:hover {align-items: stretch;}
+.items-baseline, .a-baseline, .items-baseline-H:hover, .a-baseline-H:hover {align-items: baseline;}
 
 /* align-content */
-.content-center, .c-center {align-content: center;}
-.content-flex-start, .c-flex-start {align-content: flex-start;}
-.content-flex-end, .c-flex-end {align-content: flex-end;}
-.content-space-between, .c-space-between {align-content: space-between;}
-.content-space-around, .c-space-around {align-content: space-around;}
+.content-center, .c-center, .content-center-H:hover, .c-center-H:hover {align-content: center;}
+.content-flex-start, .c-flex-start, .content-flex-start-H:hover, .c-flex-start-H:hover {align-content: flex-start;}
+.content-flex-end, .c-flex-end, .content-flex-end-H:hover, .c-flex-end-H:hover {align-content: flex-end;}
+.content-space-between, .c-space-between, .content-space-between-H:hover, .c-space-between-H:hover {align-content: space-between;}
+.content-space-around, .c-space-around, .content-space-around-H:hover, .c-space-around-H:hover {align-content: space-around;}
 
 /* wrap = flex-wrap */
-.wrap {flex-wrap: wrap;}
-.nowrap {flex-wrap: nowrap;}
-.wrap-reverse {flex-wrap: wrap-reverse;}
+.wrap, .wrap-H:hover {flex-wrap: wrap;}
+.nowrap, .nowrap-H:hover {flex-wrap: nowrap;}
+.wrap-reverse, .wrap-reverse-H:hover {flex-wrap: wrap-reverse;}
 
-/* gap */
-.gap-2 {gap: 2px; padding-left: 2px;}
-.gap-4 {gap: 4px; padding-left: 4px;}
-.gap-6 {gap: 6px; padding-left: 6px;}
-.gap-8 {gap: 8px; padding-left: 8px;}
-.gap-10 {gap: 10px; padding-left: 10px;}
-.gap-12 {gap: 12px; padding-left: 12px;}
-.gap-14 {gap: 14px; padding-left: 14px;}
-.gap-16 {gap: 16px; padding-left: 16px;}
-.gap-18 {gap: 18px; padding-left: 18px;}
-.gap-20 {gap: 20px; padding-left: 20px;}
+/* g-num */
+.g > *, .g-H:hover > * {padding: 0.5px;}
+.g-2 > *, .g-2-H:hover > * {padding: 1px;}
+.g-3 > *, .g-3-H:hover > * {padding: 1.5px;}
+.g-4 > *, .g-4-H:hover > * {padding: 2px;}
+.g-5 > *, .g-5-H:hover > * {padding: 2.5px;}
+.g-6 > *, .g-6-H:hover > * {padding: 3px;}
+.g-7 > *, .g-7-H:hover > * {padding: 3.5px;}
+.g-8 > *, .g-8-H:hover > * {padding: 4px;}
+.g-9 > *, .g-9-H:hover > * {padding: 4.5px;}
+.g-10 > *, .g-10-H:hover > * {padding: 5px;}
+.g-11 > *, .g-11-H:hover > * {padding: 5.5px;}
+.g-12 > *, .g-12-H:hover > * {padding: 6px;}
+.g-13 > *, .g-13-H:hover > * {padding: 6.5px;}
+.g-14 > *, .g-14-H:hover > * {padding: 7px;}
+.g-15 > *, .g-15-H:hover > * {padding: 7.5px;}
+.g-16 > *, .g-16-H:hover > * {padding: 8px;}
+.g-17 > *, .g-17-H:hover > * {padding: 8.5px;}
+.g-18 > *, .g-18-H:hover > * {padding: 9px;}
+.g-19 > *, .g-19-H:hover > * {padding: 9.5px;}
+.g-20 > *, .g-20-H:hover > * {padding: 10px;}
 
-/* g */
-.gap-2 > * {margin: -1px; padding: 1px;}
-.gap-4 > * {margin: -2px; padding: 2px;}
-.gap-6 > * {margin: -3px; padding: 3px;}
-.gap-8 > * {margin: -4px; padding: 4px;}
-.gap-10 > * {margin: -5px; padding: 5px;}
-.gap-12 > * {margin: -6px; padding: 6px;}
-.gap-14 > * {margin: -7px; padding: 7px;}
-.gap-16 > * {margin: -8px; padding: 8px;}
-.gap-18 > * {margin: -9px; padding: 9px;}
-.gap-20 > * {margin: -10px; padding: 10px;}
+/* col = float and flex-basis => 100% / 12 */
+.col, .col-H:hover {flex-basis: calc(100% / 12); width: calc(100% / 12);}
+.col-2, .col-2-H:hover {flex-basis: calc((100% / 12) * 2); width: calc((100% / 12) * 2);}
+.col-3, .col-3-H:hover {flex-basis: calc((100% / 12) * 3); width: calc((100% / 12) * 3);}
+.col-4, .col-4-H:hover {flex-basis: calc((100% / 12) * 4); width: calc((100% / 12) * 4);}
+.col-5, .col-5-H:hover {flex-basis: calc((100% / 12) * 5); width: calc((100% / 12) * 5);}
+.col-6, .col-6-H:hover {flex-basis: calc((100% / 12) * 6); width: calc((100% / 12) * 6);}
+.col-7, .col-7-H:hover {flex-basis: calc((100% / 12) * 7); width: calc((100% / 12) * 7);}
+.col-8, .col-8-H:hover {flex-basis: calc((100% / 12) * 8); width: calc((100% / 12) * 8);}
+.col-9, .col-9-H:hover {flex-basis: calc((100% / 12) * 9); width: calc((100% / 12) * 9);}
+.col-10, .col-10-H:hover {flex-basis: calc((100% / 12) * 10); width: calc((100% / 12) * 10);}
+.col-11, .col-11-H:hover {flex-basis: calc((100% / 12) * 11); width: calc((100% / 12) * 11);}
+.col-12, .col-12-H:hover, .col-full {flex-basis: 100%; width: 100%;}
 
-/* col = flex-basis / 12 */
-.col {flex-basis: calc(100% / 12); width: calc(100% / 12); display: inline-block;}
-.col-2 {flex-basis: calc((100% / 12) * 2); width: calc((100% / 12) * 2); display: inline-block;}
-.col-3 {flex-basis: calc((100% / 12) * 3); width: calc((100% / 12) * 3); display: inline-block;}
-.col-4 {flex-basis: calc((100% / 12) * 4); width: calc((100% / 12) * 4); display: inline-block;}
-.col-5 {flex-basis: calc((100% / 12) * 5); width: calc((100% / 12) * 5); display: inline-block;}
-.col-6 {flex-basis: calc((100% / 12) * 6); width: calc((100% / 12) * 6); display: inline-block;}
-.col-7 {flex-basis: calc((100% / 12) * 7); width: calc((100% / 12) * 7); display: inline-block;}
-.col-8 {flex-basis: calc((100% / 12) * 8); width: calc((100% / 12) * 8); display: inline-block;}
-.col-9 {flex-basis: calc((100% / 12) * 9); width: calc((100% / 12) * 9); display: inline-block;}
-.col-10 {flex-basis: calc((100% / 12) * 10); width: calc((100% / 12) * 10); display: inline-block;}
-.col-11 {flex-basis: calc((100% / 12) * 11); width: calc((100% / 12) * 11); display: inline-block;}
-.col-12 {flex-basis: 100%; width: 100%; display: inline-block;}
+/* float-none */
+.float-none {float: none;}
+
+/* float-l-num = float: left; */
+.float-l, .float-l-H:hover {float: left; width: calc(100% / 12);}
+.float-l-2, .float-l-2-H:hover {float: left; width: calc((100% / 12) * 2);}
+.float-l-3, .float-l-3-H:hover {float: left; width: calc((100% / 12) * 3);}
+.float-l-4, .float-l-4-H:hover {float: left; width: calc((100% / 12) * 4);}
+.float-l-5, .float-l-5-H:hover {float: left; width: calc((100% / 12) * 5);}
+.float-l-6, .float-l-6-H:hover {float: left; width: calc((100% / 12) * 6);}
+.float-l-7, .float-l-7-H:hover {float: left; width: calc((100% / 12) * 7);}
+.float-l-8, .float-l-8-H:hover {float: left; width: calc((100% / 12) * 8);}
+.float-l-9, .float-l-9-H:hover {float: left; width: calc((100% / 12) * 9);}
+.float-l-10, .float-l-10-H:hover {float: left; width: calc((100% / 12) * 10);}
+.float-l-11, .float-l-11-H:hover {float: left; width: calc((100% / 12) * 11);}
+.float-l-12, .float-l-12-H:hover, .float-l-full {float: left; width: 100%;}
+
+/* float-r-num = float: right; */
+.float-r, .float-r-H:hover {float: right; width: calc(100% / 12);}
+.float-r-2, .float-r-2-H:hover {float: right; width: calc((100% / 12) * 2);}
+.float-r-3, .float-r-3-H:hover {float: right; width: calc((100% / 12) * 3);}
+.float-r-4, .float-r-4-H:hover {float: right; width: calc((100% / 12) * 4);}
+.float-r-5, .float-r-5-H:hover {float: right; width: calc((100% / 12) * 5);}
+.float-r-6, .float-r-6-H:hover {float: right; width: calc((100% / 12) * 6);}
+.float-r-7, .float-r-7-H:hover {float: right; width: calc((100% / 12) * 7);}
+.float-r-8, .float-r-8-H:hover {float: right; width: calc((100% / 12) * 8);}
+.float-r-9, .float-r-9-H:hover {float: right; width: calc((100% / 12) * 9);}
+.float-r-10, .float-r-10-H:hover {float: right; width: calc((100% / 12) * 10);}
+.float-r-11, .float-r-11-H:hover {float: right; width: calc((100% / 12) * 11);}
+.float-r-12, .float-r-12-H:hover, .float-r-full {float: right; width: 100%;}
+
+/* letter-spacing-num */
+.letter-spacing-0, .letter-spacing-0-H:hover {letter-spacing: 0px;}
+.letter-spacing, .letter-spacing-H:hover {letter-spacing: 1px;}
+.letter-spacing-2, .letter-spacing-2-H:hover {letter-spacing: 1.25px;}
+.letter-spacing-3, .letter-spacing-3-H:hover {letter-spacing: 1.5px;}
+.letter-spacing-4, .letter-spacing-4-H:hover {letter-spacing: 1.75px;}
+.letter-spacing-5, .letter-spacing-5-H:hover {letter-spacing: 2px;}
+.letter-spacing-6, .letter-spacing-6-H:hover {letter-spacing: 2.25px;}
+.letter-spacing-7, .letter-spacing-7-H:hover {letter-spacing: 2.5px;}
+.letter-spacing-8, .letter-spacing-8-H:hover {letter-spacing: 2.75px;}
+.letter-spacing-9, .letter-spacing-9-H:hover {letter-spacing: 3px;}
+
+/* -letter-spacing-num */
+.-letter-spacing, .-letter-spacing-H:hover {letter-spacing: -1px;}
+.-letter-spacing-2, .-letter-spacing-2-H:hover {letter-spacing: -1.25px;}
+.-letter-spacing-3, .-letter-spacing-3-H:hover {letter-spacing: -1.5px;}
+.-letter-spacing-4, .-letter-spacing-4-H:hover {letter-spacing: -1.75px;}
+.-letter-spacing-5, .-letter-spacing-5-H:hover {letter-spacing: -2px;}
+.-letter-spacing-6, .-letter-spacing-6-H:hover {letter-spacing: -2.25px;}
+.-letter-spacing-7, .-letter-spacing-7-H:hover {letter-spacing: -2.5px;}
+.-letter-spacing-8, .-letter-spacing-8-H:hover {letter-spacing: -2.75px;}
+.-letter-spacing-9, .-letter-spacing-9-H:hover {letter-spacing: -3px;}
+
+/* translate */
+.translate-0, .translate-0-H:hover {transform: translate(0%, 0%)}
+.translate-X-0, .translate-X-0-H:hover {transform: translateX(0%)}
+.translate-Y-0, .translate-Y-0-H:hover {transform: translateY(0%)}
+.translate-50, .translate-50-H:hover {transform: translate(-50%, -50%)}
+.translate-X-50, .translate-X-50-H:hover {transform: translateX(-50%)}
+.translate-Y-50, .translate-Y-50-H:hover {transform: translateY(-50%)}
+
+/* scale-num */
+.scale-0, .scale-0-H:hover {transform: scale(1);}
+.scale, .scale-H:hover {transform: scale(1.025);}
+.scale-2, .scale-2-H:hover {transform: scale(1.05);}
+.scale-3, .scale-3-H:hover {transform: scale(1.075);}
+.scale-4, .scale-4-H:hover {transform: scale(1.1);}
+.scale-5, .scale-5-H:hover {transform: scale(1.125);}
+.scale-6, .scale-6-H:hover {transform: scale(1.15);}
+.scale-7, .scale-7-H:hover {transform: scale(1.175);}
+.scale-8, .scale-8-H:hover {transform: scale(1.2);}
+.scale-9, .scale-9-H:hover {transform: scale(1.225);}
+.scale-10, .scale-10-H:hover {transform: scale(1.25);}
+.scale-11, .scale-11-H:hover {transform: scale(1.275);}
+.scale-12, .scale-12-H:hover {transform: scale(1.3);}
+
+/* -scale-num */
+.-scale, .-scale-H:hover {transform: scale(0.975);}
+.-scale-2, .-scale-2-H:hover {transform: scale(0.95);}
+.-scale-3, .-scale-3-H:hover {transform: scale(0.925);}
+.-scale-4, .-scale-4-H:hover {transform: scale(0.9);}
+.-scale-5, .-scale-5-H:hover {transform: scale(0.875);}
+.-scale-6, .-scale-6-H:hover {transform: scale(0.85);}
+.-scale-7, .-scale-7-H:hover {transform: scale(0.825);}
+.-scale-8, .-scale-8-H:hover {transform: scale(0.7);}
+.-scale-9, .-scale-9-H:hover {transform: scale(0.775);}
+.-scale-10, .-scale-10-H:hover {transform: scale(0.75);}
+.-scale-11, .-scale-11-H:hover {transform: scale(0.725);}
+.-scale-12, .-scale-12-H:hover {transform: scale(0.6);}
+
+/* scale-X-num */
+.scale-X-0, .scale-X-0-H:hover {transform: scaleX(1);}
+.scale-X, .scale-X-H:hover {transform: scaleX(1.025);}
+.scale-X-2, .scale-X-2-H:hover {transform: scaleX(1.05);}
+.scale-X-3, .scale-X-3-H:hover {transform: scaleX(1.075);}
+.scale-X-4, .scale-X-4-H:hover {transform: scaleX(1.1);}
+.scale-X-5, .scale-X-5-H:hover {transform: scaleX(1.125);}
+.scale-X-6, .scale-X-6-H:hover {transform: scaleX(1.15);}
+.scale-X-7, .scale-X-7-H:hover {transform: scaleX(1.175);}
+.scale-X-8, .scale-X-8-H:hover {transform: scaleX(1.2);}
+.scale-X-9, .scale-X-9-H:hover {transform: scaleX(1.225);}
+.scale-X-10, .scale-X-10-H:hover {transform: scaleX(1.25);}
+.scale-X-11, .scale-X-11-H:hover {transform: scaleX(1.275);}
+.scale-X-12, .scale-X-12-H:hover {transform: scaleX(1.3);}
+
+/* -scale-X-num */
+.-scale-X, .-scale-X-H:hover {transform: scaleX(0.975);}
+.-scale-X-2, .-scale-X-2-H:hover {transform: scaleX(0.95);}
+.-scale-X-3, .-scale-X-3-H:hover {transform: scaleX(0.925);}
+.-scale-X-4, .-scale-X-4-H:hover {transform: scaleX(0.9);}
+.-scale-X-5, .-scale-X-5-H:hover {transform: scaleX(0.875);}
+.-scale-X-6, .-scale-X-6-H:hover {transform: scaleX(0.85);}
+.-scale-X-7, .-scale-X-7-H:hover {transform: scaleX(0.825);}
+.-scale-X-8, .-scale-X-8-H:hover {transform: scaleX(0.7);}
+.-scale-X-9, .-scale-X-9-H:hover {transform: scaleX(0.775);}
+.-scale-X-10, .-scale-X-10-H:hover {transform: scaleX(0.75);}
+.-scale-X-11, .-scale-X-11-H:hover {transform: scaleX(0.725);}
+.-scale-X-12, .-scale-X-12-H:hover {transform: scaleX(0.6);}
+
+/* scale-Y-num */
+.scale-Y-0, .scale-Y-0-H:hover {transform: scaleY(1);}
+.scale-Y, .scale-Y-H:hover {transform: scaleY(1.025);}
+.scale-Y-2, .scale-Y-2-H:hover {transform: scaleY(1.05);}
+.scale-Y-3, .scale-Y-3-H:hover {transform: scaleY(1.075);}
+.scale-Y-4, .scale-Y-4-H:hover {transform: scaleY(1.1);}
+.scale-Y-5, .scale-Y-5-H:hover {transform: scaleY(1.125);}
+.scale-Y-6, .scale-Y-6-H:hover {transform: scaleY(1.15);}
+.scale-Y-7, .scale-Y-7-H:hover {transform: scaleY(1.175);}
+.scale-Y-8, .scale-Y-8-H:hover {transform: scaleY(1.2);}
+.scale-Y-9, .scale-Y-9-H:hover {transform: scaleY(1.225);}
+.scale-Y-10, .scale-Y-10-H:hover {transform: scaleY(1.25);}
+.scale-Y-11, .scale-Y-11-H:hover {transform: scaleY(1.275);}
+.scale-Y-12, .scale-Y-12-H:hover {transform: scaleY(1.3);}
+
+/* -scale-Y-num */
+.-scale-Y, .-scale-Y-H:hover {transform: scaleY(0.975);}
+.-scale-Y-2, .-scale-Y-2-H:hover {transform: scaleY(0.95);}
+.-scale-Y-3, .-scale-Y-3-H:hover {transform: scaleY(0.925);}
+.-scale-Y-4, .-scale-Y-4-H:hover {transform: scaleY(0.9);}
+.-scale-Y-5, .-scale-Y-5-H:hover {transform: scaleY(0.875);}
+.-scale-Y-6, .-scale-Y-6-H:hover {transform: scaleY(0.85);}
+.-scale-Y-7, .-scale-Y-7-H:hover {transform: scaleY(0.825);}
+.-scale-Y-8, .-scale-Y-8-H:hover {transform: scaleY(0.7);}
+.-scale-Y-9, .-scale-Y-9-H:hover {transform: scaleY(0.775);}
+.-scale-Y-10, .-scale-Y-10-H:hover {transform: scaleY(0.75);}
+.-scale-Y-11, .-scale-Y-11-H:hover {transform: scaleY(0.725);}
+.-scale-Y-12, .-scale-Y-12-H:hover {transform: scaleY(0.6);}
