@@ -1,4 +1,4 @@
-/* https://cdn.jsdelivr.net/gh/M6Irinel/Framkcss@main/Framkcss.css */
+/* https://cdn.jsdelivr.net/gh/M6Irinel/Framkcss@dfdff510c4ad2af0c86ffd2471e62f4afb612ed4/Framkcss.css */
 
 /* RESET */
 .reset *, .reset {box-sizing: border-box; margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; list-style: none; text-decoration: none; color: #000;}
@@ -2099,3 +2099,89 @@
 .lowercase, .lowercase-H:hover, .t-transform-lowercase, .t-transform-lowercase-H:hover {text-transform: lowercase;}
 .uppercase, .uppercase-H:hover, .t-transform-uppercase, .t-transform-uppercase-H:hover {text-transform: uppercase;}
 .t-transform-none, .t-transform-none-H:hover {text-transform: none;}
+
+/* order */
+.order-1 {order: 1;}
+.order-2 {order: 2;}
+.order-3 {order: 3;}
+.order-4 {order: 4;}
+.order-5 {order: 5;}
+.order-6 {order: 6;}
+.order-7 {order: 7;}
+.order-8 {order: 8;}
+.order-9 {order: 9;}
+.order-10 {order: 10;}
+.order-11 {order: 11;}
+.order-12 {order: 12;}
+.order-13 {order: 13;}
+.order-14 {order: 14;}
+.order-15 {order: 15;}
+.order-16 {order: 16;}
+.order-17 {order: 17;}
+.order-18 {order: 18;}
+.order-19 {order: 19;}
+.order-20 {order: 20;}
+.order-21 {order: 21;}
+.order-22 {order: 22;}
+.order-23 {order: 23;}
+.order-24 {order: 24;}
+.order-25 {order: 25;}
+.order-26 {order: 26;}
+.order-27 {order: 27;}
+.order-28 {order: 28;}
+.order-29 {order: 29;}
+.order-30 {order: 30;}
+.order-31 {order: 31;}
+.order-32 {order: 32;}
+.order-33 {order: 33;}
+.order-34 {order: 34;}
+.order-35 {order: 35;}
+.order-36 {order: 36;}
+.order-37 {order: 37;}
+.order-38 {order: 38;}
+.order-39 {order: 39;}
+.order-40 {order: 40;}
+
+/* -order */
+.-order-1 {order: -1;}
+.-order-2 {order: -2;}
+.-order-3 {order: -3;}
+.-order-4 {order: -4;}
+.-order-5 {order: -5;}
+.-order-6 {order: -6;}
+.-order-7 {order: -7;}
+.-order-8 {order: -8;}
+.-order-9 {order: -9;}
+.-order-10 {order: -10;}
+.-order-11 {order: -11;}
+.-order-12 {order: -12;}
+.-order-13 {order: -13;}
+.-order-14 {order: -14;}
+.-order-15 {order: -15;}
+.-order-16 {order: -16;}
+.-order-17 {order: -17;}
+.-order-18 {order: -18;}
+.-order-19 {order: -19;}
+.-order-20 {order: -20;}
+.-order-21 {order: -21;}
+.-order-22 {order: -22;}
+.-order-23 {order: -23;}
+.-order-24 {order: -24;}
+.-order-25 {order: -25;}
+.-order-26 {order: -26;}
+.-order-27 {order: -27;}
+.-order-28 {order: -28;}
+.-order-29 {order: -29;}
+.-order-30 {order: -30;}
+.-order-31 {order: -31;}
+.-order-32 {order: -32;}
+.-order-33 {order: -33;}
+.-order-34 {order: -34;}
+.-order-35 {order: -35;}
+.-order-36 {order: -36;}
+.-order-37 {order: -37;}
+.-order-38 {order: -38;}
+.-order-39 {order: -39;}
+.-order-40 {order: -40;}
+.order-reset {order: initial;}
+.order-0 {order: 0;}
