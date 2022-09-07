@@ -1,4 +1,4 @@
-/* https://cdn.jsdelivr.net/gh/M6Irinel/Framkcss@dfdff510c4ad2af0c86ffd2471e62f4afb612ed4/Framkcss.css */
+/* https://cdn.jsdelivr.net/gh/M6Irinel/Framkcss@75c29ec46a83dc747518ac80b77d5c132a3d0c1c/Framkcss.css */
 
 /* RESET */
 .reset *, .reset {box-sizing: border-box; margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; list-style: none; text-decoration: none; color: #000;}
@@ -776,56 +776,6 @@
 .my-0, .my-0-H:hover {margin-top: 0; margin-bottom: 0;}
 .m-0, .m-0-H:hover {margin: 0;}
 
-/* fs-name = font-size */
-.fs-xx-small, .fs-xx-small-H:hover {font-size: xx-small;}
-.fs-x-small, .fs-x-small-H:hover {font-size: x-small;}
-.fs-smaller, .fs-smaller-H:hover {font-size: smaller;}
-.fs-small, .fs-small-H:hover {font-size: small;}
-.fs-medium, .fs-medium-H:hover {font-size: medium;}
-.fs-large, .fs-large-H:hover {font-size: large;}
-.fs-larger, .fs-larger-H:hover {font-size: larger;}
-.fs-x-large, .fs-x-large-H:hover {font-size: x-large;}
-.fs-xx-large, .fs-xx-large-H:hover {font-size: xx-large;}
-
-/* fs.num = font-size */
-.fs-1, .fs-1-H:hover {font-size: 0.5rem;}
-.fs-2, .fs-2-H:hover {font-size: 0.75rem;}
-.fs-4, .fs-4-H:hover {font-size: 1.25rem;}
-.fs-5, .fs-5-H:hover {font-size: 1.5rem;}
-.fs-6, .fs-6-H:hover {font-size: 1.75rem;}
-.fs-7, .fs-7-H:hover {font-size: 2rem;}
-.fs-8, .fs-8-H:hover {font-size: 2.25rem;}
-.fs-9, .fs-9-H:hover {font-size: 2.5rem;}
-.fs-10, .fs-10-H:hover {font-size: 2.75rem;}
-.fs-11, .fs-11-H:hover {font-size: 3rem;}
-.fs-12, .fs-12-H:hover {font-size: 3.25rem;}
-.fs-13, .fs-13-H:hover {font-size: 3.5rem;}
-.fs-14, .fs-14-H:hover {font-size: 3.75rem;}
-.fs-15, .fs-15-H:hover {font-size: 4rem;}
-.fs-16, .fs-16-H:hover {font-size: 4rem;}
-.fs-17, .fs-17-H:hover {font-size: 4.25rem;}
-.fs-18, .fs-18-H:hover {font-size: 4.5rem;}
-.fs-19, .fs-19-H:hover {font-size: 4.75rem;}
-.fs-20, .fs-20-H:hover {font-size: 5rem;}
-.fs-3, .fs-3-H:hover, .fs-reset, .fs-reset-H:hover {font-size: 1rem;}
-
-/* fw-name-H:hover = font-weight */
-.fw-bold, .bold, .fw-bold-H:hover, .bold-H:hover {font-weight: bold;}
-.fw-bolder, .bolder, .fw-bolder-H:hover, .bolder-H:hover {font-weight: bolder;}
-.fw-normal, .normal, .fw-normal-H:hover, .normal-H:hover {font-weight: normal;}
-.fw-lighter, .lighter, .fw-lighter-H:hover, .lighter-H:hover {font-weight: lighter;}
-
-/* fw-num = font-weight */
-.fw-1 , .fw-1-H:hover {font-weight: 100;}
-.fw-2 , .fw-2-H:hover {font-weight: 200;}
-.fw-3 , .fw-3-H:hover {font-weight: 300;}
-.fw-4 , .fw-4-H:hover {font-weight: 400;}
-.fw-5 , .fw-5-H:hover {font-weight: 500;}
-.fw-6 , .fw-6-H:hover {font-weight: 600;}
-.fw-7 , .fw-7-H:hover {font-weight: 700;}
-.fw-8 , .fw-8-H:hover {font-weight: 800;}
-.fw-9 , .fw-9-H:hover {font-weight: 900;}
-
 /* obj-fit = object-fit */
 .obj-contain, .obj-contain-H:hover {width: 100%; height: 100%; object-fit: contain;}
 .obj-cover, .obj-cover-H:hover {width: 100%; height: 100%; object-fit: cover;}
@@ -1595,38 +1545,173 @@
 .wrap-reverse, .wrap-reverse-H:hover {flex-wrap: wrap-reverse;}
 .nowrap, .nowrap-H:hover {flex-wrap: nowrap;}
 
+/* order */
+.order-1 {order: 1;}
+.order-2 {order: 2;}
+.order-3 {order: 3;}
+.order-4 {order: 4;}
+.order-5 {order: 5;}
+.order-6 {order: 6;}
+.order-7 {order: 7;}
+.order-8 {order: 8;}
+.order-9 {order: 9;}
+.order-10 {order: 10;}
+.order-11 {order: 11;}
+.order-12 {order: 12;}
+.order-13 {order: 13;}
+.order-14 {order: 14;}
+.order-15 {order: 15;}
+.order-16 {order: 16;}
+.order-17 {order: 17;}
+.order-18 {order: 18;}
+.order-19 {order: 19;}
+.order-20 {order: 20;}
+.order-21 {order: 21;}
+.order-22 {order: 22;}
+.order-23 {order: 23;}
+.order-24 {order: 24;}
+.order-25 {order: 25;}
+.order-26 {order: 26;}
+.order-27 {order: 27;}
+.order-28 {order: 28;}
+.order-29 {order: 29;}
+.order-30 {order: 30;}
+.order-31 {order: 31;}
+.order-32 {order: 32;}
+.order-33 {order: 33;}
+.order-34 {order: 34;}
+.order-35 {order: 35;}
+.order-36 {order: 36;}
+.order-37 {order: 37;}
+.order-38 {order: 38;}
+.order-39 {order: 39;}
+.order-40 {order: 40;}
+
+/* -order */
+.-order-1 {order: -1;}
+.-order-2 {order: -2;}
+.-order-3 {order: -3;}
+.-order-4 {order: -4;}
+.-order-5 {order: -5;}
+.-order-6 {order: -6;}
+.-order-7 {order: -7;}
+.-order-8 {order: -8;}
+.-order-9 {order: -9;}
+.-order-10 {order: -10;}
+.-order-11 {order: -11;}
+.-order-12 {order: -12;}
+.-order-13 {order: -13;}
+.-order-14 {order: -14;}
+.-order-15 {order: -15;}
+.-order-16 {order: -16;}
+.-order-17 {order: -17;}
+.-order-18 {order: -18;}
+.-order-19 {order: -19;}
+.-order-20 {order: -20;}
+.-order-21 {order: -21;}
+.-order-22 {order: -22;}
+.-order-23 {order: -23;}
+.-order-24 {order: -24;}
+.-order-25 {order: -25;}
+.-order-26 {order: -26;}
+.-order-27 {order: -27;}
+.-order-28 {order: -28;}
+.-order-29 {order: -29;}
+.-order-30 {order: -30;}
+.-order-31 {order: -31;}
+.-order-32 {order: -32;}
+.-order-33 {order: -33;}
+.-order-34 {order: -34;}
+.-order-35 {order: -35;}
+.-order-36 {order: -36;}
+.-order-37 {order: -37;}
+.-order-38 {order: -38;}
+.-order-39 {order: -39;}
+.-order-40 {order: -40;}
+.order-reset {order: initial;}
+.order-0 {order: 0;}
+
 /* g-num */
-.g > *, .g-H:hover > * {padding: 0.5px;}
-.g-2 > *, .g-2-H:hover > * {padding: 1px;}
-.g-3 > *, .g-3-H:hover > * {padding: 1.5px;}
-.g-4 > *, .g-4-H:hover > * {padding: 2px;}
-.g-5 > *, .g-5-H:hover > * {padding: 2.5px;}
-.g-6 > *, .g-6-H:hover > * {padding: 3px;}
-.g-7 > *, .g-7-H:hover > * {padding: 3.5px;}
-.g-8 > *, .g-8-H:hover > * {padding: 4px;}
-.g-9 > *, .g-9-H:hover > * {padding: 4.5px;}
-.g-10 > *, .g-10-H:hover > * {padding: 5px;}
-.g-11 > *, .g-11-H:hover > * {padding: 5.5px;}
-.g-12 > *, .g-12-H:hover > * {padding: 6px;}
-.g-13 > *, .g-13-H:hover > * {padding: 6.5px;}
-.g-14 > *, .g-14-H:hover > * {padding: 7px;}
-.g-15 > *, .g-15-H:hover > * {padding: 7.5px;}
-.g-16 > *, .g-16-H:hover > * {padding: 8px;}
-.g-17 > *, .g-17-H:hover > * {padding: 8.5px;}
-.g-18 > *, .g-18-H:hover > * {padding: 9px;}
-.g-19 > *, .g-19-H:hover > * {padding: 9.5px;}
-.g-20 > *, .g-20-H:hover > * {padding: 10px;}
-.g-21 > *, .g-21-H:hover > * {padding: 10.5px;}
-.g-22 > *, .g-22-H:hover > * {padding: 11px;}
-.g-23 > *, .g-23-H:hover > * {padding: 11.5px;}
-.g-24 > *, .g-24-H:hover > * {padding: 12px;}
-.g-25 > *, .g-25-H:hover > * {padding: 12.5px;}
-.g-26 > *, .g-26-H:hover > * {padding: 13px;}
-.g-27 > *, .g-27-H:hover > * {padding: 13.5px;}
-.g-28 > *, .g-28-H:hover > * {padding: 14px;}
-.g-29 > *, .g-29-H:hover > * {padding: 14.5px;}
-.g-30 > *, .g-30-H:hover > * {padding: 15px;}
-.g-0 > *, .g-0-H:hover > *, .g-reset > *, .g-reset-H:hover > * {padding: 0;}
+.g-1, .g-1-H:hover {margin: -0.5px; font-size: 0;}
+.g-2, .g-2-H:hover {margin: -1px; font-size: 0;}
+.g-3, .g-3-H:hover {margin: -1.5px; font-size: 0;}
+.g-4, .g-4-H:hover {margin: -2px; font-size: 0;}
+.g-5, .g-5-H:hover {margin: -2.5px; font-size: 0;}
+.g-6, .g-6-H:hover {margin: -3px; font-size: 0;}
+.g-7, .g-7-H:hover {margin: -3.5px; font-size: 0;}
+.g-8, .g-8-H:hover {margin: -4px; font-size: 0;}
+.g-9, .g-9-H:hover {margin: -4.5px; font-size: 0;}
+.g-10, .g-10-H:hover {margin: -5px; font-size: 0;}
+.g-11, .g-11-H:hover {margin: -5.5px; font-size: 0;}
+.g-12, .g-12-H:hover {margin: -6px; font-size: 0;}
+.g-13, .g-13-H:hover {margin: -6.5px; font-size: 0;}
+.g-14, .g-14-H:hover {margin: -7px; font-size: 0;}
+.g-15, .g-15-H:hover {margin: -7.5px; font-size: 0;}
+.g-16, .g-16-H:hover {margin: -8px; font-size: 0;}
+.g-17, .g-17-H:hover {margin: -8.5px; font-size: 0;}
+.g-18, .g-18-H:hover {margin: -9px; font-size: 0;}
+.g-19, .g-19-H:hover {margin: -9.5px; font-size: 0;}
+.g-20, .g-20-H:hover {margin: -10px; font-size: 0;}
+.g-21, .g-21-H:hover {margin: -10.5px; font-size: 0;}
+.g-22, .g-22-H:hover {margin: -11px; font-size: 0;}
+.g-23, .g-23-H:hover {margin: -11.5px; font-size: 0;}
+.g-24, .g-24-H:hover {margin: -12px; font-size: 0;}
+.g-25, .g-25-H:hover {margin: -12.5px; font-size: 0;}
+.g-26, .g-26-H:hover {margin: -13px; font-size: 0;}
+.g-27, .g-27-H:hover {margin: -13.5px; font-size: 0;}
+.g-28, .g-28-H:hover {margin: -14px; font-size: 0;}
+.g-29, .g-29-H:hover {margin: -14.5px; font-size: 0;}
+.g-30, .g-30-H:hover {margin: -15px; font-size: 0;}
+.g-0, .g-0-H:hover, .g-reset, .g-reset-H:hover, .w-row, .w-row-H:hover {margin: 0; font-size: 0;}
+
+/* g-num */
+.g-0 > *, .g-0-H:hover > *, .g-reset > *, .g-reset-H:hover > *, .w-row > *, .w-row-H:hover > * {padding: 0; font-size: initial;}
+.g-1 > *, .g-1-H:hover > * {padding: 0.5px; font-size: initial;}
+.g-2 > *, .g-2-H:hover > * {padding: 1px; font-size: initial;}
+.g-3 > *, .g-3-H:hover > * {padding: 1.5px; font-size: initial;}
+.g-4 > *, .g-4-H:hover > * {padding: 2px; font-size: initial;}
+.g-5 > *, .g-5-H:hover > * {padding: 2.5px; font-size: initial;}
+.g-6 > *, .g-6-H:hover > * {padding: 3px; font-size: initial;}
+.g-7 > *, .g-7-H:hover > * {padding: 3.5px; font-size: initial;}
+.g-8 > *, .g-8-H:hover > * {padding: 4px; font-size: initial;}
+.g-9 > *, .g-9-H:hover > * {padding: 4.5px; font-size: initial;}
+.g-10 > *, .g-10-H:hover > * {padding: 5px; font-size: initial;}
+.g-11 > *, .g-11-H:hover > * {padding: 5.5px; font-size: initial;}
+.g-12 > *, .g-12-H:hover > * {padding: 6px; font-size: initial;}
+.g-13 > *, .g-13-H:hover > * {padding: 6.5px; font-size: initial;}
+.g-14 > *, .g-14-H:hover > * {padding: 7px; font-size: initial;}
+.g-15 > *, .g-15-H:hover > * {padding: 7.5px; font-size: initial;}
+.g-16 > *, .g-16-H:hover > * {padding: 8px; font-size: initial;}
+.g-17 > *, .g-17-H:hover > * {padding: 8.5px; font-size: initial;}
+.g-18 > *, .g-18-H:hover > * {padding: 9px; font-size: initial;}
+.g-19 > *, .g-19-H:hover > * {padding: 9.5px; font-size: initial;}
+.g-20 > *, .g-20-H:hover > * {padding: 10px; font-size: initial;}
+.g-21 > *, .g-21-H:hover > * {padding: 10.5px; font-size: initial;}
+.g-22 > *, .g-22-H:hover > * {padding: 11px; font-size: initial;}
+.g-23 > *, .g-23-H:hover > * {padding: 11.5px; font-size: initial;}
+.g-24 > *, .g-24-H:hover > * {padding: 12px; font-size: initial;}
+.g-25 > *, .g-25-H:hover > * {padding: 12.5px; font-size: initial;}
+.g-26 > *, .g-26-H:hover > * {padding: 13px; font-size: initial;}
+.g-27 > *, .g-27-H:hover > * {padding: 13.5px; font-size: initial;}
+.g-28 > *, .g-28-H:hover > * {padding: 14px; font-size: initial;}
+.g-29 > *, .g-29-H:hover > * {padding: 14.5px; font-size: initial;}
+.g-30 > *, .g-30-H:hover > * {padding: 15px; font-size: initial;}
+.g-0 > *, .g-0-H:hover > *, .g-reset > *, .g-reset-H:hover > * {padding: 0; font-size: initial;}
+
+/* col = float and flex-basis => 100% / 12 */
+.w-col, .w-col-H:hover {width: calc(100% / 12); display: inline-block;}
+.w-col-2, .w-col-2-H:hover {width: calc((100% / 12) * 2); display: inline-block;}
+.w-col-3, .w-col-3-H:hover {width: calc((100% / 12) * 3); display: inline-block;}
+.w-col-4, .w-col-4-H:hover {width: calc((100% / 12) * 4); display: inline-block;}
+.w-col-5, .w-col-5-H:hover {width: calc((100% / 12) * 5); display: inline-block;}
+.w-col-6, .w-col-6-H:hover {width: calc((100% / 12) * 6); display: inline-block;}
+.w-col-7, .w-col-7-H:hover {width: calc((100% / 12) * 7); display: inline-block;}
+.w-col-8, .w-col-8-H:hover {width: calc((100% / 12) * 8); display: inline-block;}
+.w-col-9, .w-col-9-H:hover {width: calc((100% / 12) * 9); display: inline-block;}
+.w-col-10, .w-col-10-H:hover {width: calc((100% / 12) * 10); display: inline-block;}
+.w-col-11, .w-col-11-H:hover {width: calc((100% / 12) * 11); display: inline-block;}
+.w-col-12, .w-col-12-H:hover, .col-full {width: 100%; display: inline-block;}
+.w-col-0, .w-col-0-H:hover {width: auto;}
 
 /* gap-num */
 .gap, .gap-H:hover {gap: 1px;}
@@ -1662,19 +1747,87 @@
 .gap-0, .gap-0-H:hover, .gap-reset, .gap-reset-H:hover {gap: 0;}
 
 /* col = float and flex-basis => 100% / 12 */
-.col, .col-H:hover {flex-basis: calc(100% / 12); width: calc(100% / 12);}
-.col-2, .col-2-H:hover {flex-basis: calc((100% / 12) * 2); width: calc((100% / 12) * 2);}
-.col-3, .col-3-H:hover {flex-basis: calc((100% / 12) * 3); width: calc((100% / 12) * 3);}
-.col-4, .col-4-H:hover {flex-basis: calc((100% / 12) * 4); width: calc((100% / 12) * 4);}
-.col-5, .col-5-H:hover {flex-basis: calc((100% / 12) * 5); width: calc((100% / 12) * 5);}
-.col-6, .col-6-H:hover {flex-basis: calc((100% / 12) * 6); width: calc((100% / 12) * 6);}
-.col-7, .col-7-H:hover {flex-basis: calc((100% / 12) * 7); width: calc((100% / 12) * 7);}
-.col-8, .col-8-H:hover {flex-basis: calc((100% / 12) * 8); width: calc((100% / 12) * 8);}
-.col-9, .col-9-H:hover {flex-basis: calc((100% / 12) * 9); width: calc((100% / 12) * 9);}
-.col-10, .col-10-H:hover {flex-basis: calc((100% / 12) * 10); width: calc((100% / 12) * 10);}
-.col-11, .col-11-H:hover {flex-basis: calc((100% / 12) * 11); width: calc((100% / 12) * 11);}
-.col-12, .col-12-H:hover, .col-full {flex-basis: 100%; width: 100%;}
-.col-0, .col-0-H:hover {flex-basis: auto; width: auto;}
+.f-col, .f-col-H:hover {flex-basis: calc(100% / 12);}
+.f-col-2, .f-col-2-H:hover {flex-basis: calc((100% / 12) * 2);}
+.f-col-3, .f-col-3-H:hover {flex-basis: calc((100% / 12) * 3);}
+.f-col-4, .f-col-4-H:hover {flex-basis: calc((100% / 12) * 4);}
+.f-col-5, .f-col-5-H:hover {flex-basis: calc((100% / 12) * 5);}
+.f-col-6, .f-col-6-H:hover {flex-basis: calc((100% / 12) * 6);}
+.f-col-7, .f-col-7-H:hover {flex-basis: calc((100% / 12) * 7);}
+.f-col-8, .f-col-8-H:hover {flex-basis: calc((100% / 12) * 8);}
+.f-col-9, .f-col-9-H:hover {flex-basis: calc((100% / 12) * 9);}
+.f-col-10, .f-col-10-H:hover {flex-basis: calc((100% / 12) * 10);}
+.f-col-11, .f-col-11-H:hover {flex-basis: calc((100% / 12) * 11);}
+.f-col-12, .f-col-12-H:hover, .col-full {flex-basis: 100%;}
+.f-col-0, .f-col-0-H:hover {flex-basis: auto;}
+
+/* grid */
+.row, .grid-12, .row-H:hover, .grid-12-H:hover {display: grid; grid-template-columns: repeat(12, 1fr);}
+.g-col, .g-col-H:hover, .col, .col-H:hover {grid-column: span 1;}
+.g-col-2, .g-col-2-H:hover, .col-2, .col-2-H:hover {grid-column: span 2;}
+.g-col-3, .g-col-3-H:hover, .col-3, .col-3-H:hover {grid-column: span 3;}
+.g-col-4, .g-col-4-H:hover, .col-4, .col-4-H:hover {grid-column: span 4;}
+.g-col-5, .g-col-5-H:hover, .col-5, .col-5-H:hover {grid-column: span 5;}
+.g-col-6, .g-col-6-H:hover, .col-6, .col-6-H:hover {grid-column: span 6;}
+.g-col-7, .g-col-7-H:hover, .col-7, .col-7-H:hover {grid-column: span 7;}
+.g-col-8, .g-col-8-H:hover, .col-8, .col-8-H:hover {grid-column: span 8;}
+.g-col-9, .g-col-9-H:hover, .col-9, .col-9-H:hover {grid-column: span 9;}
+.g-col-10, .g-col-10-H:hover, .col-10, .col-10-H:hover {grid-column: span 10;}
+.g-col-11, .g-col-11-H:hover, .col-11, .col-11-H:hover {grid-column: span 11;}
+.g-col-12, .g-col-12-H:hover, .col-full, .col-full-H:hover, .col-12, .col-12-H:hover, .col-full, .col-full-H:hover {grid-column: span 12;}
+
+/* reset font-size for inline-block */
+.fs-0, .fs-0-H:hover {font-size: 0;}
+
+/* fs-name = font-size */
+.fs-xx-small, .fs-xx-small-H:hover {font-size: xx-small;}
+.fs-x-small, .fs-x-small-H:hover {font-size: x-small;}
+.fs-smaller, .fs-smaller-H:hover {font-size: smaller;}
+.fs-small, .fs-small-H:hover {font-size: small;}
+.fs-medium, .fs-medium-H:hover {font-size: medium;}
+.fs-large, .fs-large-H:hover {font-size: large;}
+.fs-larger, .fs-larger-H:hover {font-size: larger;}
+.fs-x-large, .fs-x-large-H:hover {font-size: x-large;}
+.fs-xx-large, .fs-xx-large-H:hover {font-size: xx-large;}
+
+/* fs.num = font-size */
+.fs-1, .fs-1-H:hover {font-size: 0.5rem;}
+.fs-2, .fs-2-H:hover {font-size: 0.75rem;}
+.fs-4, .fs-4-H:hover {font-size: 1.25rem;}
+.fs-5, .fs-5-H:hover {font-size: 1.5rem;}
+.fs-6, .fs-6-H:hover {font-size: 1.75rem;}
+.fs-7, .fs-7-H:hover {font-size: 2rem;}
+.fs-8, .fs-8-H:hover {font-size: 2.25rem;}
+.fs-9, .fs-9-H:hover {font-size: 2.5rem;}
+.fs-10, .fs-10-H:hover {font-size: 2.75rem;}
+.fs-11, .fs-11-H:hover {font-size: 3rem;}
+.fs-12, .fs-12-H:hover {font-size: 3.25rem;}
+.fs-13, .fs-13-H:hover {font-size: 3.5rem;}
+.fs-14, .fs-14-H:hover {font-size: 3.75rem;}
+.fs-15, .fs-15-H:hover {font-size: 4rem;}
+.fs-16, .fs-16-H:hover {font-size: 4rem;}
+.fs-17, .fs-17-H:hover {font-size: 4.25rem;}
+.fs-18, .fs-18-H:hover {font-size: 4.5rem;}
+.fs-19, .fs-19-H:hover {font-size: 4.75rem;}
+.fs-20, .fs-20-H:hover {font-size: 5rem;}
+.fs-3, .fs-3-H:hover, .fs-reset, .fs-reset-H:hover {font-size: 1rem;}
+
+/* fw-name-H:hover = font-weight */
+.fw-bold, .bold, .fw-bold-H:hover, .bold-H:hover {font-weight: bold;}
+.fw-bolder, .bolder, .fw-bolder-H:hover, .bolder-H:hover {font-weight: bolder;}
+.fw-normal, .normal, .fw-normal-H:hover, .normal-H:hover {font-weight: normal;}
+.fw-lighter, .lighter, .fw-lighter-H:hover, .lighter-H:hover {font-weight: lighter;}
+
+/* fw-num = font-weight */
+.fw-1 , .fw-1-H:hover {font-weight: 100;}
+.fw-2 , .fw-2-H:hover {font-weight: 200;}
+.fw-3 , .fw-3-H:hover {font-weight: 300;}
+.fw-4 , .fw-4-H:hover {font-weight: 400;}
+.fw-5 , .fw-5-H:hover {font-weight: 500;}
+.fw-6 , .fw-6-H:hover {font-weight: 600;}
+.fw-7 , .fw-7-H:hover {font-weight: 700;}
+.fw-8 , .fw-8-H:hover {font-weight: 800;}
+.fw-9 , .fw-9-H:hover {font-weight: 900;}
 
 /* float-none */
 .float-none {float: none;}
@@ -1708,6 +1861,17 @@
 .float-r-11, .float-r-11-H:hover {float: right; width: calc((100% / 12) * 11);}
 .float-r-12, .float-r-12-H:hover, .float-r-full {float: right; width: 100%;}
 .float-r-0, .float-r-0-H:hover {float: right; width: auto;}
+
+/* clear-float-name */
+.clearfix::after, .clearfix-H:hover::after, .clear-float-both::after, .clear-float-both-H:hover::after, .clear-both::after, .clear-both-H:hover::after {content: ''; display: table; clear: both;}
+.clear-float-left::after, .clear-float-left-H:hover::after, .clear-left::after, .clear-left-H:hover::after {content: ''; display: table; clear: left;}
+.clear-float-right::after, .clear-float-right-H:hover::after, .clear-right::after, .clear-right-H:hover::after {content: ''; display: table; clear: right;}
+
+/* ellipsis */
+.ellipsis {overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+
+/* break-word */
+.break-word {overflow-wrap: break-word; word-wrap: break-word; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto;};
 
 /* letter-spacing-num */
 .letter-spacing, .letter-spacing-H:hover {letter-spacing: 1px;}
@@ -2099,89 +2263,3 @@
 .lowercase, .lowercase-H:hover, .t-transform-lowercase, .t-transform-lowercase-H:hover {text-transform: lowercase;}
 .uppercase, .uppercase-H:hover, .t-transform-uppercase, .t-transform-uppercase-H:hover {text-transform: uppercase;}
 .t-transform-none, .t-transform-none-H:hover {text-transform: none;}
-
-/* order */
-.order-1 {order: 1;}
-.order-2 {order: 2;}
-.order-3 {order: 3;}
-.order-4 {order: 4;}
-.order-5 {order: 5;}
-.order-6 {order: 6;}
-.order-7 {order: 7;}
-.order-8 {order: 8;}
-.order-9 {order: 9;}
-.order-10 {order: 10;}
-.order-11 {order: 11;}
-.order-12 {order: 12;}
-.order-13 {order: 13;}
-.order-14 {order: 14;}
-.order-15 {order: 15;}
-.order-16 {order: 16;}
-.order-17 {order: 17;}
-.order-18 {order: 18;}
-.order-19 {order: 19;}
-.order-20 {order: 20;}
-.order-21 {order: 21;}
-.order-22 {order: 22;}
-.order-23 {order: 23;}
-.order-24 {order: 24;}
-.order-25 {order: 25;}
-.order-26 {order: 26;}
-.order-27 {order: 27;}
-.order-28 {order: 28;}
-.order-29 {order: 29;}
-.order-30 {order: 30;}
-.order-31 {order: 31;}
-.order-32 {order: 32;}
-.order-33 {order: 33;}
-.order-34 {order: 34;}
-.order-35 {order: 35;}
-.order-36 {order: 36;}
-.order-37 {order: 37;}
-.order-38 {order: 38;}
-.order-39 {order: 39;}
-.order-40 {order: 40;}
-
-/* -order */
-.-order-1 {order: -1;}
-.-order-2 {order: -2;}
-.-order-3 {order: -3;}
-.-order-4 {order: -4;}
-.-order-5 {order: -5;}
-.-order-6 {order: -6;}
-.-order-7 {order: -7;}
-.-order-8 {order: -8;}
-.-order-9 {order: -9;}
-.-order-10 {order: -10;}
-.-order-11 {order: -11;}
-.-order-12 {order: -12;}
-.-order-13 {order: -13;}
-.-order-14 {order: -14;}
-.-order-15 {order: -15;}
-.-order-16 {order: -16;}
-.-order-17 {order: -17;}
-.-order-18 {order: -18;}
-.-order-19 {order: -19;}
-.-order-20 {order: -20;}
-.-order-21 {order: -21;}
-.-order-22 {order: -22;}
-.-order-23 {order: -23;}
-.-order-24 {order: -24;}
-.-order-25 {order: -25;}
-.-order-26 {order: -26;}
-.-order-27 {order: -27;}
-.-order-28 {order: -28;}
-.-order-29 {order: -29;}
-.-order-30 {order: -30;}
-.-order-31 {order: -31;}
-.-order-32 {order: -32;}
-.-order-33 {order: -33;}
-.-order-34 {order: -34;}
-.-order-35 {order: -35;}
-.-order-36 {order: -36;}
-.-order-37 {order: -37;}
-.-order-38 {order: -38;}
-.-order-39 {order: -39;}
-.-order-40 {order: -40;}
-.order-reset {order: initial;}
-.order-0 {order: 0;}
