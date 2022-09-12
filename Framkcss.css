@@ -160,6 +160,50 @@
 .h-95, .h-95-H:hover {height: 95%;}
 .h-100, .h-100-H:hover {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5, .max-h-5-H:hover {max-height: 5%;}
+.max-h-10, .max-h-10-H:hover {max-height: 10%;}
+.max-h-15, .max-h-15-H:hover {max-height: 15%;}
+.max-h-20, .max-h-20-H:hover {max-height: 20%;}
+.max-h-25, .max-h-25-H:hover {max-height: 25%;}
+.max-h-30, .max-h-30-H:hover {max-height: 30%;}
+.max-h-35, .max-h-35-H:hover {max-height: 35%;}
+.max-h-40, .max-h-40-H:hover {max-height: 40%;}
+.max-h-45, .max-h-45-H:hover {max-height: 45%;}
+.max-h-50, .max-h-50-H:hover {max-height: 50%;}
+.max-h-55, .max-h-55-H:hover {max-height: 55%;}
+.max-h-60, .max-h-60-H:hover {max-height: 60%;}
+.max-h-65, .max-h-65-H:hover {max-height: 65%;}
+.max-h-70, .max-h-70-H:hover {max-height: 70%;}
+.max-h-75, .max-h-75-H:hover {max-height: 75%;}
+.max-h-80, .max-h-80-H:hover {max-height: 80%;}
+.max-h-85, .max-h-85-H:hover {max-height: 85%;}
+.max-h-90, .max-h-90-H:hover {max-height: 90%;}
+.max-h-95, .max-h-95-H:hover {max-height: 95%;}
+.max-h-100, .max-h-100-H:hover {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5, .min-h-5-H:hover {min-height: 5%;}
+.min-h-10, .min-h-10-H:hover {min-height: 10%;}
+.min-h-15, .min-h-15-H:hover {min-height: 15%;}
+.min-h-20, .min-h-20-H:hover {min-height: 20%;}
+.min-h-25, .min-h-25-H:hover {min-height: 25%;}
+.min-h-30, .min-h-30-H:hover {min-height: 30%;}
+.min-h-35, .min-h-35-H:hover {min-height: 35%;}
+.min-h-40, .min-h-40-H:hover {min-height: 40%;}
+.min-h-45, .min-h-45-H:hover {min-height: 45%;}
+.min-h-50, .min-h-50-H:hover {min-height: 50%;}
+.min-h-55, .min-h-55-H:hover {min-height: 55%;}
+.min-h-60, .min-h-60-H:hover {min-height: 60%;}
+.min-h-65, .min-h-65-H:hover {min-height: 65%;}
+.min-h-70, .min-h-70-H:hover {min-height: 70%;}
+.min-h-75, .min-h-75-H:hover {min-height: 75%;}
+.min-h-80, .min-h-80-H:hover {min-height: 80%;}
+.min-h-85, .min-h-85-H:hover {min-height: 85%;}
+.min-h-90, .min-h-90-H:hover {min-height: 90%;}
+.min-h-95, .min-h-95-H:hover {min-height: 95%;}
+.min-h-100, .min-h-100-H:hover {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh, .h-5vh-H:hover {height: 5vh;}
 .h-10vh, .h-10vh-H:hover {height: 10vh;}
@@ -181,6 +225,50 @@
 .h-90vh, .h-90vh-H:hover {height: 90vh;}
 .h-95vh, .h-95vh-H:hover {height: 95vh;}
 .h-100vh, .h-100vh-H:hover {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh, .max-h-5vh-H:hover {max-height: 5vh;}
+.max-h-10vh, .max-h-10vh-H:hover {max-height: 10vh;}
+.max-h-15vh, .max-h-15vh-H:hover {max-height: 15vh;}
+.max-h-20vh, .max-h-20vh-H:hover {max-height: 20vh;}
+.max-h-25vh, .max-h-25vh-H:hover {max-height: 25vh;}
+.max-h-30vh, .max-h-30vh-H:hover {max-height: 30vh;}
+.max-h-35vh, .max-h-35vh-H:hover {max-height: 35vh;}
+.max-h-40vh, .max-h-40vh-H:hover {max-height: 40vh;}
+.max-h-45vh, .max-h-45vh-H:hover {max-height: 45vh;}
+.max-h-50vh, .max-h-50vh-H:hover {max-height: 50vh;}
+.max-h-55vh, .max-h-55vh-H:hover {max-height: 55vh;}
+.max-h-60vh, .max-h-60vh-H:hover {max-height: 60vh;}
+.max-h-65vh, .max-h-65vh-H:hover {max-height: 65vh;}
+.max-h-70vh, .max-h-70vh-H:hover {max-height: 70vh;}
+.max-h-75vh, .max-h-75vh-H:hover {max-height: 75vh;}
+.max-h-80vh, .max-h-80vh-H:hover {max-height: 80vh;}
+.max-h-85vh, .max-h-85vh-H:hover {max-height: 85vh;}
+.max-h-90vh, .max-h-90vh-H:hover {max-height: 90vh;}
+.max-h-95vh, .max-h-95vh-H:hover {max-height: 95vh;}
+.max-h-100vh, .max-h-100vh-H:hover {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh, .min-h-5vh-H:hover {min-height: 5vh;}
+.min-h-10vh, .min-h-10vh-H:hover {min-height: 10vh;}
+.min-h-15vh, .min-h-15vh-H:hover {min-height: 15vh;}
+.min-h-20vh, .min-h-20vh-H:hover {min-height: 20vh;}
+.min-h-25vh, .min-h-25vh-H:hover {min-height: 25vh;}
+.min-h-30vh, .min-h-30vh-H:hover {min-height: 30vh;}
+.min-h-35vh, .min-h-35vh-H:hover {min-height: 35vh;}
+.min-h-40vh, .min-h-40vh-H:hover {min-height: 40vh;}
+.min-h-45vh, .min-h-45vh-H:hover {min-height: 45vh;}
+.min-h-50vh, .min-h-50vh-H:hover {min-height: 50vh;}
+.min-h-55vh, .min-h-55vh-H:hover {min-height: 55vh;}
+.min-h-60vh, .min-h-60vh-H:hover {min-height: 60vh;}
+.min-h-65vh, .min-h-65vh-H:hover {min-height: 65vh;}
+.min-h-70vh, .min-h-70vh-H:hover {min-height: 70vh;}
+.min-h-75vh, .min-h-75vh-H:hover {min-height: 75vh;}
+.min-h-80vh, .min-h-80vh-H:hover {min-height: 80vh;}
+.min-h-85vh, .min-h-85vh-H:hover {min-height: 85vh;}
+.min-h-90vh, .min-h-90vh-H:hover {min-height: 90vh;}
+.min-h-95vh, .min-h-95vh-H:hover {min-height: 95vh;}
+.min-h-100vh, .min-h-100vh-H:hover {min-height: 100vh;}
 
 /* h-auto */
 .h-auto, .h-auto-H:hover {height: auto;}
@@ -3002,6 +3090,50 @@
 .h-95-A:active {height: 95%;}
 .h-100-A:active {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-A:active {max-height: 5%;}
+.max-h-10-A:active {max-height: 10%;}
+.max-h-15-A:active {max-height: 15%;}
+.max-h-20-A:active {max-height: 20%;}
+.max-h-25-A:active {max-height: 25%;}
+.max-h-30-A:active {max-height: 30%;}
+.max-h-35-A:active {max-height: 35%;}
+.max-h-40-A:active {max-height: 40%;}
+.max-h-45-A:active {max-height: 45%;}
+.max-h-50-A:active {max-height: 50%;}
+.max-h-55-A:active {max-height: 55%;}
+.max-h-60-A:active {max-height: 60%;}
+.max-h-65-A:active {max-height: 65%;}
+.max-h-70-A:active {max-height: 70%;}
+.max-h-75-A:active {max-height: 75%;}
+.max-h-80-A:active {max-height: 80%;}
+.max-h-85-A:active {max-height: 85%;}
+.max-h-90-A:active {max-height: 90%;}
+.max-h-95-A:active {max-height: 95%;}
+.max-h-100-A:active {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-A:active {min-height: 5%;}
+.min-h-10-A:active {min-height: 10%;}
+.min-h-15-A:active {min-height: 15%;}
+.min-h-20-A:active {min-height: 20%;}
+.min-h-25-A:active {min-height: 25%;}
+.min-h-30-A:active {min-height: 30%;}
+.min-h-35-A:active {min-height: 35%;}
+.min-h-40-A:active {min-height: 40%;}
+.min-h-45-A:active {min-height: 45%;}
+.min-h-50-A:active {min-height: 50%;}
+.min-h-55-A:active {min-height: 55%;}
+.min-h-60-A:active {min-height: 60%;}
+.min-h-65-A:active {min-height: 65%;}
+.min-h-70-A:active {min-height: 70%;}
+.min-h-75-A:active {min-height: 75%;}
+.min-h-80-A:active {min-height: 80%;}
+.min-h-85-A:active {min-height: 85%;}
+.min-h-90-A:active {min-height: 90%;}
+.min-h-95-A:active {min-height: 95%;}
+.min-h-100-A:active {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-A:active {height: 5vh;}
 .h-10vh-A:active {height: 10vh;}
@@ -3023,6 +3155,50 @@
 .h-90vh-A:active {height: 90vh;}
 .h-95vh-A:active {height: 95vh;}
 .h-100vh-A:active {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-A:active {max-height: 5vh;}
+.max-h-10vh-A:active {max-height: 10vh;}
+.max-h-15vh-A:active {max-height: 15vh;}
+.max-h-20vh-A:active {max-height: 20vh;}
+.max-h-25vh-A:active {max-height: 25vh;}
+.max-h-30vh-A:active {max-height: 30vh;}
+.max-h-35vh-A:active {max-height: 35vh;}
+.max-h-40vh-A:active {max-height: 40vh;}
+.max-h-45vh-A:active {max-height: 45vh;}
+.max-h-50vh-A:active {max-height: 50vh;}
+.max-h-55vh-A:active {max-height: 55vh;}
+.max-h-60vh-A:active {max-height: 60vh;}
+.max-h-65vh-A:active {max-height: 65vh;}
+.max-h-70vh-A:active {max-height: 70vh;}
+.max-h-75vh-A:active {max-height: 75vh;}
+.max-h-80vh-A:active {max-height: 80vh;}
+.max-h-85vh-A:active {max-height: 85vh;}
+.max-h-90vh-A:active {max-height: 90vh;}
+.max-h-95vh-A:active {max-height: 95vh;}
+.max-h-100vh-A:active {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-A:active {min-height: 5vh;}
+.min-h-10vh-A:active {min-height: 10vh;}
+.min-h-15vh-A:active {min-height: 15vh;}
+.min-h-20vh-A:active {min-height: 20vh;}
+.min-h-25vh-A:active {min-height: 25vh;}
+.min-h-30vh-A:active {min-height: 30vh;}
+.min-h-35vh-A:active {min-height: 35vh;}
+.min-h-40vh-A:active {min-height: 40vh;}
+.min-h-45vh-A:active {min-height: 45vh;}
+.min-h-50vh-A:active {min-height: 50vh;}
+.min-h-55vh-A:active {min-height: 55vh;}
+.min-h-60vh-A:active {min-height: 60vh;}
+.min-h-65vh-A:active {min-height: 65vh;}
+.min-h-70vh-A:active {min-height: 70vh;}
+.min-h-75vh-A:active {min-height: 75vh;}
+.min-h-80vh-A:active {min-height: 80vh;}
+.min-h-85vh-A:active {min-height: 85vh;}
+.min-h-90vh-A:active {min-height: 90vh;}
+.min-h-95vh-A:active {min-height: 95vh;}
+.min-h-100vh-A:active {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-A:active{height: auto;}
@@ -5840,6 +6016,50 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .h-95-sm, .h-95-sm-H:hover {height: 95%;}
 .h-100-sm, .h-100-sm-H:hover {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-sm, .max-h-5-sm-H:hover {max-height: 5%;}
+.max-h-10-sm, .max-h-10-sm-H:hover {max-height: 10%;}
+.max-h-15-sm, .max-h-15-sm-H:hover {max-height: 15%;}
+.max-h-20-sm, .max-h-20-sm-H:hover {max-height: 20%;}
+.max-h-25-sm, .max-h-25-sm-H:hover {max-height: 25%;}
+.max-h-30-sm, .max-h-30-sm-H:hover {max-height: 30%;}
+.max-h-35-sm, .max-h-35-sm-H:hover {max-height: 35%;}
+.max-h-40-sm, .max-h-40-sm-H:hover {max-height: 40%;}
+.max-h-45-sm, .max-h-45-sm-H:hover {max-height: 45%;}
+.max-h-50-sm, .max-h-50-sm-H:hover {max-height: 50%;}
+.max-h-55-sm, .max-h-55-sm-H:hover {max-height: 55%;}
+.max-h-60-sm, .max-h-60-sm-H:hover {max-height: 60%;}
+.max-h-65-sm, .max-h-65-sm-H:hover {max-height: 65%;}
+.max-h-70-sm, .max-h-70-sm-H:hover {max-height: 70%;}
+.max-h-75-sm, .max-h-75-sm-H:hover {max-height: 75%;}
+.max-h-80-sm, .max-h-80-sm-H:hover {max-height: 80%;}
+.max-h-85-sm, .max-h-85-sm-H:hover {max-height: 85%;}
+.max-h-90-sm, .max-h-90-sm-H:hover {max-height: 90%;}
+.max-h-95-sm, .max-h-95-sm-H:hover {max-height: 95%;}
+.max-h-100-sm, .max-h-100-sm-H:hover {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-sm, .min-h-5-sm-H:hover {min-height: 5%;}
+.min-h-10-sm, .min-h-10-sm-H:hover {min-height: 10%;}
+.min-h-15-sm, .min-h-15-sm-H:hover {min-height: 15%;}
+.min-h-20-sm, .min-h-20-sm-H:hover {min-height: 20%;}
+.min-h-25-sm, .min-h-25-sm-H:hover {min-height: 25%;}
+.min-h-30-sm, .min-h-30-sm-H:hover {min-height: 30%;}
+.min-h-35-sm, .min-h-35-sm-H:hover {min-height: 35%;}
+.min-h-40-sm, .min-h-40-sm-H:hover {min-height: 40%;}
+.min-h-45-sm, .min-h-45-sm-H:hover {min-height: 45%;}
+.min-h-50-sm, .min-h-50-sm-H:hover {min-height: 50%;}
+.min-h-55-sm, .min-h-55-sm-H:hover {min-height: 55%;}
+.min-h-60-sm, .min-h-60-sm-H:hover {min-height: 60%;}
+.min-h-65-sm, .min-h-65-sm-H:hover {min-height: 65%;}
+.min-h-70-sm, .min-h-70-sm-H:hover {min-height: 70%;}
+.min-h-75-sm, .min-h-75-sm-H:hover {min-height: 75%;}
+.min-h-80-sm, .min-h-80-sm-H:hover {min-height: 80%;}
+.min-h-85-sm, .min-h-85-sm-H:hover {min-height: 85%;}
+.min-h-90-sm, .min-h-90-sm-H:hover {min-height: 90%;}
+.min-h-95-sm, .min-h-95-sm-H:hover {min-height: 95%;}
+.min-h-100-sm, .min-h-100-sm-H:hover {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-sm, .h-5vh-sm-H:hover {height: 5vh;}
 .h-10vh-sm, .h-10vh-sm-H:hover {height: 10vh;}
@@ -5861,6 +6081,50 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .h-90vh-sm, .h-90vh-sm-H:hover {height: 90vh;}
 .h-95vh-sm, .h-95vh-sm-H:hover {height: 95vh;}
 .h-100vh-sm, .h-100vh-sm-H:hover {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-sm, .max-h-5vh-sm-H:hover {max-height: 5vh;}
+.max-h-10vh-sm, .max-h-10vh-sm-H:hover {max-height: 10vh;}
+.max-h-15vh-sm, .max-h-15vh-sm-H:hover {max-height: 15vh;}
+.max-h-20vh-sm, .max-h-20vh-sm-H:hover {max-height: 20vh;}
+.max-h-25vh-sm, .max-h-25vh-sm-H:hover {max-height: 25vh;}
+.max-h-30vh-sm, .max-h-30vh-sm-H:hover {max-height: 30vh;}
+.max-h-35vh-sm, .max-h-35vh-sm-H:hover {max-height: 35vh;}
+.max-h-40vh-sm, .max-h-40vh-sm-H:hover {max-height: 40vh;}
+.max-h-45vh-sm, .max-h-45vh-sm-H:hover {max-height: 45vh;}
+.max-h-50vh-sm, .max-h-50vh-sm-H:hover {max-height: 50vh;}
+.max-h-55vh-sm, .max-h-55vh-sm-H:hover {max-height: 55vh;}
+.max-h-60vh-sm, .max-h-60vh-sm-H:hover {max-height: 60vh;}
+.max-h-65vh-sm, .max-h-65vh-sm-H:hover {max-height: 65vh;}
+.max-h-70vh-sm, .max-h-70vh-sm-H:hover {max-height: 70vh;}
+.max-h-75vh-sm, .max-h-75vh-sm-H:hover {max-height: 75vh;}
+.max-h-80vh-sm, .max-h-80vh-sm-H:hover {max-height: 80vh;}
+.max-h-85vh-sm, .max-h-85vh-sm-H:hover {max-height: 85vh;}
+.max-h-90vh-sm, .max-h-90vh-sm-H:hover {max-height: 90vh;}
+.max-h-95vh-sm, .max-h-95vh-sm-H:hover {max-height: 95vh;}
+.max-h-100vh-sm, .max-h-100vh-sm-H:hover {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-sm, .min-h-5vh-sm-H:hover {min-height: 5vh;}
+.min-h-10vh-sm, .min-h-10vh-sm-H:hover {min-height: 10vh;}
+.min-h-15vh-sm, .min-h-15vh-sm-H:hover {min-height: 15vh;}
+.min-h-20vh-sm, .min-h-20vh-sm-H:hover {min-height: 20vh;}
+.min-h-25vh-sm, .min-h-25vh-sm-H:hover {min-height: 25vh;}
+.min-h-30vh-sm, .min-h-30vh-sm-H:hover {min-height: 30vh;}
+.min-h-35vh-sm, .min-h-35vh-sm-H:hover {min-height: 35vh;}
+.min-h-40vh-sm, .min-h-40vh-sm-H:hover {min-height: 40vh;}
+.min-h-45vh-sm, .min-h-45vh-sm-H:hover {min-height: 45vh;}
+.min-h-50vh-sm, .min-h-50vh-sm-H:hover {min-height: 50vh;}
+.min-h-55vh-sm, .min-h-55vh-sm-H:hover {min-height: 55vh;}
+.min-h-60vh-sm, .min-h-60vh-sm-H:hover {min-height: 60vh;}
+.min-h-65vh-sm, .min-h-65vh-sm-H:hover {min-height: 65vh;}
+.min-h-70vh-sm, .min-h-70vh-sm-H:hover {min-height: 70vh;}
+.min-h-75vh-sm, .min-h-75vh-sm-H:hover {min-height: 75vh;}
+.min-h-80vh-sm, .min-h-80vh-sm-H:hover {min-height: 80vh;}
+.min-h-85vh-sm, .min-h-85vh-sm-H:hover {min-height: 85vh;}
+.min-h-90vh-sm, .min-h-90vh-sm-H:hover {min-height: 90vh;}
+.min-h-95vh-sm, .min-h-95vh-sm-H:hover {min-height: 95vh;}
+.min-h-100vh-sm, .min-h-100vh-sm-H:hover {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-sm, .h-auto-sm-H:hover {height: auto;}
@@ -8673,6 +8937,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-95-sm-A:active {height: 95%;}
 .h-100-sm-A:active {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-sm-A:active {max-height: 5%;}
+.max-h-10-sm-A:active {max-height: 10%;}
+.max-h-15-sm-A:active {max-height: 15%;}
+.max-h-20-sm-A:active {max-height: 20%;}
+.max-h-25-sm-A:active {max-height: 25%;}
+.max-h-30-sm-A:active {max-height: 30%;}
+.max-h-35-sm-A:active {max-height: 35%;}
+.max-h-40-sm-A:active {max-height: 40%;}
+.max-h-45-sm-A:active {max-height: 45%;}
+.max-h-50-sm-A:active {max-height: 50%;}
+.max-h-55-sm-A:active {max-height: 55%;}
+.max-h-60-sm-A:active {max-height: 60%;}
+.max-h-65-sm-A:active {max-height: 65%;}
+.max-h-70-sm-A:active {max-height: 70%;}
+.max-h-75-sm-A:active {max-height: 75%;}
+.max-h-80-sm-A:active {max-height: 80%;}
+.max-h-85-sm-A:active {max-height: 85%;}
+.max-h-90-sm-A:active {max-height: 90%;}
+.max-h-95-sm-A:active {max-height: 95%;}
+.max-h-100-sm-A:active {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-sm-A:active {min-height: 5%;}
+.min-h-10-sm-A:active {min-height: 10%;}
+.min-h-15-sm-A:active {min-height: 15%;}
+.min-h-20-sm-A:active {min-height: 20%;}
+.min-h-25-sm-A:active {min-height: 25%;}
+.min-h-30-sm-A:active {min-height: 30%;}
+.min-h-35-sm-A:active {min-height: 35%;}
+.min-h-40-sm-A:active {min-height: 40%;}
+.min-h-45-sm-A:active {min-height: 45%;}
+.min-h-50-sm-A:active {min-height: 50%;}
+.min-h-55-sm-A:active {min-height: 55%;}
+.min-h-60-sm-A:active {min-height: 60%;}
+.min-h-65-sm-A:active {min-height: 65%;}
+.min-h-70-sm-A:active {min-height: 70%;}
+.min-h-75-sm-A:active {min-height: 75%;}
+.min-h-80-sm-A:active {min-height: 80%;}
+.min-h-85-sm-A:active {min-height: 85%;}
+.min-h-90-sm-A:active {min-height: 90%;}
+.min-h-95-sm-A:active {min-height: 95%;}
+.min-h-100-sm-A:active {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-sm-A:active {height: 5vh;}
 .h-10vh-sm-A:active {height: 10vh;}
@@ -8694,6 +9002,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-90vh-sm-A:active {height: 90vh;}
 .h-95vh-sm-A:active {height: 95vh;}
 .h-100vh-sm-A:active {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-sm-A:active {max-height: 5vh;}
+.max-h-10vh-sm-A:active {max-height: 10vh;}
+.max-h-15vh-sm-A:active {max-height: 15vh;}
+.max-h-20vh-sm-A:active {max-height: 20vh;}
+.max-h-25vh-sm-A:active {max-height: 25vh;}
+.max-h-30vh-sm-A:active {max-height: 30vh;}
+.max-h-35vh-sm-A:active {max-height: 35vh;}
+.max-h-40vh-sm-A:active {max-height: 40vh;}
+.max-h-45vh-sm-A:active {max-height: 45vh;}
+.max-h-50vh-sm-A:active {max-height: 50vh;}
+.max-h-55vh-sm-A:active {max-height: 55vh;}
+.max-h-60vh-sm-A:active {max-height: 60vh;}
+.max-h-65vh-sm-A:active {max-height: 65vh;}
+.max-h-70vh-sm-A:active {max-height: 70vh;}
+.max-h-75vh-sm-A:active {max-height: 75vh;}
+.max-h-80vh-sm-A:active {max-height: 80vh;}
+.max-h-85vh-sm-A:active {max-height: 85vh;}
+.max-h-90vh-sm-A:active {max-height: 90vh;}
+.max-h-95vh-sm-A:active {max-height: 95vh;}
+.max-h-100vh-sm-A:active {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-sm-A:active {min-height: 5vh;}
+.min-h-10vh-sm-A:active {min-height: 10vh;}
+.min-h-15vh-sm-A:active {min-height: 15vh;}
+.min-h-20vh-sm-A:active {min-height: 20vh;}
+.min-h-25vh-sm-A:active {min-height: 25vh;}
+.min-h-30vh-sm-A:active {min-height: 30vh;}
+.min-h-35vh-sm-A:active {min-height: 35vh;}
+.min-h-40vh-sm-A:active {min-height: 40vh;}
+.min-h-45vh-sm-A:active {min-height: 45vh;}
+.min-h-50vh-sm-A:active {min-height: 50vh;}
+.min-h-55vh-sm-A:active {min-height: 55vh;}
+.min-h-60vh-sm-A:active {min-height: 60vh;}
+.min-h-65vh-sm-A:active {min-height: 65vh;}
+.min-h-70vh-sm-A:active {min-height: 70vh;}
+.min-h-75vh-sm-A:active {min-height: 75vh;}
+.min-h-80vh-sm-A:active {min-height: 80vh;}
+.min-h-85vh-sm-A:active {min-height: 85vh;}
+.min-h-90vh-sm-A:active {min-height: 90vh;}
+.min-h-95vh-sm-A:active {min-height: 95vh;}
+.min-h-100vh-sm-A:active {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-sm-A:active{height: auto;}
@@ -11513,6 +11865,50 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .h-95-md, .h-95-md-H:hover {height: 95%;}
 .h-100-md, .h-100-md-H:hover {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-md, .max-h-5-md-H:hover {max-height: 5%;}
+.max-h-10-md, .max-h-10-md-H:hover {max-height: 10%;}
+.max-h-15-md, .max-h-15-md-H:hover {max-height: 15%;}
+.max-h-20-md, .max-h-20-md-H:hover {max-height: 20%;}
+.max-h-25-md, .max-h-25-md-H:hover {max-height: 25%;}
+.max-h-30-md, .max-h-30-md-H:hover {max-height: 30%;}
+.max-h-35-md, .max-h-35-md-H:hover {max-height: 35%;}
+.max-h-40-md, .max-h-40-md-H:hover {max-height: 40%;}
+.max-h-45-md, .max-h-45-md-H:hover {max-height: 45%;}
+.max-h-50-md, .max-h-50-md-H:hover {max-height: 50%;}
+.max-h-55-md, .max-h-55-md-H:hover {max-height: 55%;}
+.max-h-60-md, .max-h-60-md-H:hover {max-height: 60%;}
+.max-h-65-md, .max-h-65-md-H:hover {max-height: 65%;}
+.max-h-70-md, .max-h-70-md-H:hover {max-height: 70%;}
+.max-h-75-md, .max-h-75-md-H:hover {max-height: 75%;}
+.max-h-80-md, .max-h-80-md-H:hover {max-height: 80%;}
+.max-h-85-md, .max-h-85-md-H:hover {max-height: 85%;}
+.max-h-90-md, .max-h-90-md-H:hover {max-height: 90%;}
+.max-h-95-md, .max-h-95-md-H:hover {max-height: 95%;}
+.max-h-100-md, .max-h-100-md-H:hover {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-md, .min-h-5-md-H:hover {min-height: 5%;}
+.min-h-10-md, .min-h-10-md-H:hover {min-height: 10%;}
+.min-h-15-md, .min-h-15-md-H:hover {min-height: 15%;}
+.min-h-20-md, .min-h-20-md-H:hover {min-height: 20%;}
+.min-h-25-md, .min-h-25-md-H:hover {min-height: 25%;}
+.min-h-30-md, .min-h-30-md-H:hover {min-height: 30%;}
+.min-h-35-md, .min-h-35-md-H:hover {min-height: 35%;}
+.min-h-40-md, .min-h-40-md-H:hover {min-height: 40%;}
+.min-h-45-md, .min-h-45-md-H:hover {min-height: 45%;}
+.min-h-50-md, .min-h-50-md-H:hover {min-height: 50%;}
+.min-h-55-md, .min-h-55-md-H:hover {min-height: 55%;}
+.min-h-60-md, .min-h-60-md-H:hover {min-height: 60%;}
+.min-h-65-md, .min-h-65-md-H:hover {min-height: 65%;}
+.min-h-70-md, .min-h-70-md-H:hover {min-height: 70%;}
+.min-h-75-md, .min-h-75-md-H:hover {min-height: 75%;}
+.min-h-80-md, .min-h-80-md-H:hover {min-height: 80%;}
+.min-h-85-md, .min-h-85-md-H:hover {min-height: 85%;}
+.min-h-90-md, .min-h-90-md-H:hover {min-height: 90%;}
+.min-h-95-md, .min-h-95-md-H:hover {min-height: 95%;}
+.min-h-100-md, .min-h-100-md-H:hover {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-md, .h-5vh-md-H:hover {height: 5vh;}
 .h-10vh-md, .h-10vh-md-H:hover {height: 10vh;}
@@ -11534,6 +11930,50 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .h-90vh-md, .h-90vh-md-H:hover {height: 90vh;}
 .h-95vh-md, .h-95vh-md-H:hover {height: 95vh;}
 .h-100vh-md, .h-100vh-md-H:hover {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-md, .max-h-5vh-md-H:hover {max-height: 5vh;}
+.max-h-10vh-md, .max-h-10vh-md-H:hover {max-height: 10vh;}
+.max-h-15vh-md, .max-h-15vh-md-H:hover {max-height: 15vh;}
+.max-h-20vh-md, .max-h-20vh-md-H:hover {max-height: 20vh;}
+.max-h-25vh-md, .max-h-25vh-md-H:hover {max-height: 25vh;}
+.max-h-30vh-md, .max-h-30vh-md-H:hover {max-height: 30vh;}
+.max-h-35vh-md, .max-h-35vh-md-H:hover {max-height: 35vh;}
+.max-h-40vh-md, .max-h-40vh-md-H:hover {max-height: 40vh;}
+.max-h-45vh-md, .max-h-45vh-md-H:hover {max-height: 45vh;}
+.max-h-50vh-md, .max-h-50vh-md-H:hover {max-height: 50vh;}
+.max-h-55vh-md, .max-h-55vh-md-H:hover {max-height: 55vh;}
+.max-h-60vh-md, .max-h-60vh-md-H:hover {max-height: 60vh;}
+.max-h-65vh-md, .max-h-65vh-md-H:hover {max-height: 65vh;}
+.max-h-70vh-md, .max-h-70vh-md-H:hover {max-height: 70vh;}
+.max-h-75vh-md, .max-h-75vh-md-H:hover {max-height: 75vh;}
+.max-h-80vh-md, .max-h-80vh-md-H:hover {max-height: 80vh;}
+.max-h-85vh-md, .max-h-85vh-md-H:hover {max-height: 85vh;}
+.max-h-90vh-md, .max-h-90vh-md-H:hover {max-height: 90vh;}
+.max-h-95vh-md, .max-h-95vh-md-H:hover {max-height: 95vh;}
+.max-h-100vh-md, .max-h-100vh-md-H:hover {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-md, .min-h-5vh-md-H:hover {min-height: 5vh;}
+.min-h-10vh-md, .min-h-10vh-md-H:hover {min-height: 10vh;}
+.min-h-15vh-md, .min-h-15vh-md-H:hover {min-height: 15vh;}
+.min-h-20vh-md, .min-h-20vh-md-H:hover {min-height: 20vh;}
+.min-h-25vh-md, .min-h-25vh-md-H:hover {min-height: 25vh;}
+.min-h-30vh-md, .min-h-30vh-md-H:hover {min-height: 30vh;}
+.min-h-35vh-md, .min-h-35vh-md-H:hover {min-height: 35vh;}
+.min-h-40vh-md, .min-h-40vh-md-H:hover {min-height: 40vh;}
+.min-h-45vh-md, .min-h-45vh-md-H:hover {min-height: 45vh;}
+.min-h-50vh-md, .min-h-50vh-md-H:hover {min-height: 50vh;}
+.min-h-55vh-md, .min-h-55vh-md-H:hover {min-height: 55vh;}
+.min-h-60vh-md, .min-h-60vh-md-H:hover {min-height: 60vh;}
+.min-h-65vh-md, .min-h-65vh-md-H:hover {min-height: 65vh;}
+.min-h-70vh-md, .min-h-70vh-md-H:hover {min-height: 70vh;}
+.min-h-75vh-md, .min-h-75vh-md-H:hover {min-height: 75vh;}
+.min-h-80vh-md, .min-h-80vh-md-H:hover {min-height: 80vh;}
+.min-h-85vh-md, .min-h-85vh-md-H:hover {min-height: 85vh;}
+.min-h-90vh-md, .min-h-90vh-md-H:hover {min-height: 90vh;}
+.min-h-95vh-md, .min-h-95vh-md-H:hover {min-height: 95vh;}
+.min-h-100vh-md, .min-h-100vh-md-H:hover {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-md, .h-auto-md-H:hover {height: auto;}
@@ -14346,6 +14786,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-95-md-A:active {height: 95%;}
 .h-100-md-A:active {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-md-A:active {max-height: 5%;}
+.max-h-10-md-A:active {max-height: 10%;}
+.max-h-15-md-A:active {max-height: 15%;}
+.max-h-20-md-A:active {max-height: 20%;}
+.max-h-25-md-A:active {max-height: 25%;}
+.max-h-30-md-A:active {max-height: 30%;}
+.max-h-35-md-A:active {max-height: 35%;}
+.max-h-40-md-A:active {max-height: 40%;}
+.max-h-45-md-A:active {max-height: 45%;}
+.max-h-50-md-A:active {max-height: 50%;}
+.max-h-55-md-A:active {max-height: 55%;}
+.max-h-60-md-A:active {max-height: 60%;}
+.max-h-65-md-A:active {max-height: 65%;}
+.max-h-70-md-A:active {max-height: 70%;}
+.max-h-75-md-A:active {max-height: 75%;}
+.max-h-80-md-A:active {max-height: 80%;}
+.max-h-85-md-A:active {max-height: 85%;}
+.max-h-90-md-A:active {max-height: 90%;}
+.max-h-95-md-A:active {max-height: 95%;}
+.max-h-100-md-A:active {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-md-A:active {min-height: 5%;}
+.min-h-10-md-A:active {min-height: 10%;}
+.min-h-15-md-A:active {min-height: 15%;}
+.min-h-20-md-A:active {min-height: 20%;}
+.min-h-25-md-A:active {min-height: 25%;}
+.min-h-30-md-A:active {min-height: 30%;}
+.min-h-35-md-A:active {min-height: 35%;}
+.min-h-40-md-A:active {min-height: 40%;}
+.min-h-45-md-A:active {min-height: 45%;}
+.min-h-50-md-A:active {min-height: 50%;}
+.min-h-55-md-A:active {min-height: 55%;}
+.min-h-60-md-A:active {min-height: 60%;}
+.min-h-65-md-A:active {min-height: 65%;}
+.min-h-70-md-A:active {min-height: 70%;}
+.min-h-75-md-A:active {min-height: 75%;}
+.min-h-80-md-A:active {min-height: 80%;}
+.min-h-85-md-A:active {min-height: 85%;}
+.min-h-90-md-A:active {min-height: 90%;}
+.min-h-95-md-A:active {min-height: 95%;}
+.min-h-100-md-A:active {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-md-A:active {height: 5vh;}
 .h-10vh-md-A:active {height: 10vh;}
@@ -14367,6 +14851,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-90vh-md-A:active {height: 90vh;}
 .h-95vh-md-A:active {height: 95vh;}
 .h-100vh-md-A:active {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-md-A:active {max-height: 5vh;}
+.max-h-10vh-md-A:active {max-height: 10vh;}
+.max-h-15vh-md-A:active {max-height: 15vh;}
+.max-h-20vh-md-A:active {max-height: 20vh;}
+.max-h-25vh-md-A:active {max-height: 25vh;}
+.max-h-30vh-md-A:active {max-height: 30vh;}
+.max-h-35vh-md-A:active {max-height: 35vh;}
+.max-h-40vh-md-A:active {max-height: 40vh;}
+.max-h-45vh-md-A:active {max-height: 45vh;}
+.max-h-50vh-md-A:active {max-height: 50vh;}
+.max-h-55vh-md-A:active {max-height: 55vh;}
+.max-h-60vh-md-A:active {max-height: 60vh;}
+.max-h-65vh-md-A:active {max-height: 65vh;}
+.max-h-70vh-md-A:active {max-height: 70vh;}
+.max-h-75vh-md-A:active {max-height: 75vh;}
+.max-h-80vh-md-A:active {max-height: 80vh;}
+.max-h-85vh-md-A:active {max-height: 85vh;}
+.max-h-90vh-md-A:active {max-height: 90vh;}
+.max-h-95vh-md-A:active {max-height: 95vh;}
+.max-h-100vh-md-A:active {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-md-A:active {min-height: 5vh;}
+.min-h-10vh-md-A:active {min-height: 10vh;}
+.min-h-15vh-md-A:active {min-height: 15vh;}
+.min-h-20vh-md-A:active {min-height: 20vh;}
+.min-h-25vh-md-A:active {min-height: 25vh;}
+.min-h-30vh-md-A:active {min-height: 30vh;}
+.min-h-35vh-md-A:active {min-height: 35vh;}
+.min-h-40vh-md-A:active {min-height: 40vh;}
+.min-h-45vh-md-A:active {min-height: 45vh;}
+.min-h-50vh-md-A:active {min-height: 50vh;}
+.min-h-55vh-md-A:active {min-height: 55vh;}
+.min-h-60vh-md-A:active {min-height: 60vh;}
+.min-h-65vh-md-A:active {min-height: 65vh;}
+.min-h-70vh-md-A:active {min-height: 70vh;}
+.min-h-75vh-md-A:active {min-height: 75vh;}
+.min-h-80vh-md-A:active {min-height: 80vh;}
+.min-h-85vh-md-A:active {min-height: 85vh;}
+.min-h-90vh-md-A:active {min-height: 90vh;}
+.min-h-95vh-md-A:active {min-height: 95vh;}
+.min-h-100vh-md-A:active {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-md-A:active{height: auto;}
@@ -17186,6 +17714,50 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .h-95-lg, .h-95-lg-H:hover {height: 95%;}
 .h-100-lg, .h-100-lg-H:hover {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5.lg, .max-h-5.lg-H:hover {max-height: 5%;}
+.max-h-10.lg, .max-h-10.lg-H:hover {max-height: 10%;}
+.max-h-15.lg, .max-h-15.lg-H:hover {max-height: 15%;}
+.max-h-20.lg, .max-h-20.lg-H:hover {max-height: 20%;}
+.max-h-25.lg, .max-h-25.lg-H:hover {max-height: 25%;}
+.max-h-30.lg, .max-h-30.lg-H:hover {max-height: 30%;}
+.max-h-35.lg, .max-h-35.lg-H:hover {max-height: 35%;}
+.max-h-40.lg, .max-h-40.lg-H:hover {max-height: 40%;}
+.max-h-45.lg, .max-h-45.lg-H:hover {max-height: 45%;}
+.max-h-50.lg, .max-h-50.lg-H:hover {max-height: 50%;}
+.max-h-55.lg, .max-h-55.lg-H:hover {max-height: 55%;}
+.max-h-60.lg, .max-h-60.lg-H:hover {max-height: 60%;}
+.max-h-65.lg, .max-h-65.lg-H:hover {max-height: 65%;}
+.max-h-70.lg, .max-h-70.lg-H:hover {max-height: 70%;}
+.max-h-75.lg, .max-h-75.lg-H:hover {max-height: 75%;}
+.max-h-80.lg, .max-h-80.lg-H:hover {max-height: 80%;}
+.max-h-85.lg, .max-h-85.lg-H:hover {max-height: 85%;}
+.max-h-90.lg, .max-h-90.lg-H:hover {max-height: 90%;}
+.max-h-95.lg, .max-h-95.lg-H:hover {max-height: 95%;}
+.max-h-100.lg, .max-h-100.lg-H:hover {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5.lg, .min-h-5.lg-H:hover {min-height: 5%;}
+.min-h-10.lg, .min-h-10.lg-H:hover {min-height: 10%;}
+.min-h-15.lg, .min-h-15.lg-H:hover {min-height: 15%;}
+.min-h-20.lg, .min-h-20.lg-H:hover {min-height: 20%;}
+.min-h-25.lg, .min-h-25.lg-H:hover {min-height: 25%;}
+.min-h-30.lg, .min-h-30.lg-H:hover {min-height: 30%;}
+.min-h-35.lg, .min-h-35.lg-H:hover {min-height: 35%;}
+.min-h-40.lg, .min-h-40.lg-H:hover {min-height: 40%;}
+.min-h-45.lg, .min-h-45.lg-H:hover {min-height: 45%;}
+.min-h-50.lg, .min-h-50.lg-H:hover {min-height: 50%;}
+.min-h-55.lg, .min-h-55.lg-H:hover {min-height: 55%;}
+.min-h-60.lg, .min-h-60.lg-H:hover {min-height: 60%;}
+.min-h-65.lg, .min-h-65.lg-H:hover {min-height: 65%;}
+.min-h-70.lg, .min-h-70.lg-H:hover {min-height: 70%;}
+.min-h-75.lg, .min-h-75.lg-H:hover {min-height: 75%;}
+.min-h-80.lg, .min-h-80.lg-H:hover {min-height: 80%;}
+.min-h-85.lg, .min-h-85.lg-H:hover {min-height: 85%;}
+.min-h-90.lg, .min-h-90.lg-H:hover {min-height: 90%;}
+.min-h-95.lg, .min-h-95.lg-H:hover {min-height: 95%;}
+.min-h-100.lg, .min-h-100.lg-H:hover {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-lg, .h-5vh-lg-H:hover {height: 5vh;}
 .h-10vh-lg, .h-10vh-lg-H:hover {height: 10vh;}
@@ -17207,6 +17779,50 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .h-90vh-lg, .h-90vh-lg-H:hover {height: 90vh;}
 .h-95vh-lg, .h-95vh-lg-H:hover {height: 95vh;}
 .h-100vh-lg, .h-100vh-lg-H:hover {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-lg, .max-h-5vh-lg-H:hover {max-height: 5vh;}
+.max-h-10vh-lg, .max-h-10vh-lg-H:hover {max-height: 10vh;}
+.max-h-15vh-lg, .max-h-15vh-lg-H:hover {max-height: 15vh;}
+.max-h-20vh-lg, .max-h-20vh-lg-H:hover {max-height: 20vh;}
+.max-h-25vh-lg, .max-h-25vh-lg-H:hover {max-height: 25vh;}
+.max-h-30vh-lg, .max-h-30vh-lg-H:hover {max-height: 30vh;}
+.max-h-35vh-lg, .max-h-35vh-lg-H:hover {max-height: 35vh;}
+.max-h-40vh-lg, .max-h-40vh-lg-H:hover {max-height: 40vh;}
+.max-h-45vh-lg, .max-h-45vh-lg-H:hover {max-height: 45vh;}
+.max-h-50vh-lg, .max-h-50vh-lg-H:hover {max-height: 50vh;}
+.max-h-55vh-lg, .max-h-55vh-lg-H:hover {max-height: 55vh;}
+.max-h-60vh-lg, .max-h-60vh-lg-H:hover {max-height: 60vh;}
+.max-h-65vh-lg, .max-h-65vh-lg-H:hover {max-height: 65vh;}
+.max-h-70vh-lg, .max-h-70vh-lg-H:hover {max-height: 70vh;}
+.max-h-75vh-lg, .max-h-75vh-lg-H:hover {max-height: 75vh;}
+.max-h-80vh-lg, .max-h-80vh-lg-H:hover {max-height: 80vh;}
+.max-h-85vh-lg, .max-h-85vh-lg-H:hover {max-height: 85vh;}
+.max-h-90vh-lg, .max-h-90vh-lg-H:hover {max-height: 90vh;}
+.max-h-95vh-lg, .max-h-95vh-lg-H:hover {max-height: 95vh;}
+.max-h-100vh-lg, .max-h-100vh-lg-H:hover {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-lg, .min-h-5vh-lg-H:hover {min-height: 5vh;}
+.min-h-10vh-lg, .min-h-10vh-lg-H:hover {min-height: 10vh;}
+.min-h-15vh-lg, .min-h-15vh-lg-H:hover {min-height: 15vh;}
+.min-h-20vh-lg, .min-h-20vh-lg-H:hover {min-height: 20vh;}
+.min-h-25vh-lg, .min-h-25vh-lg-H:hover {min-height: 25vh;}
+.min-h-30vh-lg, .min-h-30vh-lg-H:hover {min-height: 30vh;}
+.min-h-35vh-lg, .min-h-35vh-lg-H:hover {min-height: 35vh;}
+.min-h-40vh-lg, .min-h-40vh-lg-H:hover {min-height: 40vh;}
+.min-h-45vh-lg, .min-h-45vh-lg-H:hover {min-height: 45vh;}
+.min-h-50vh-lg, .min-h-50vh-lg-H:hover {min-height: 50vh;}
+.min-h-55vh-lg, .min-h-55vh-lg-H:hover {min-height: 55vh;}
+.min-h-60vh-lg, .min-h-60vh-lg-H:hover {min-height: 60vh;}
+.min-h-65vh-lg, .min-h-65vh-lg-H:hover {min-height: 65vh;}
+.min-h-70vh-lg, .min-h-70vh-lg-H:hover {min-height: 70vh;}
+.min-h-75vh-lg, .min-h-75vh-lg-H:hover {min-height: 75vh;}
+.min-h-80vh-lg, .min-h-80vh-lg-H:hover {min-height: 80vh;}
+.min-h-85vh-lg, .min-h-85vh-lg-H:hover {min-height: 85vh;}
+.min-h-90vh-lg, .min-h-90vh-lg-H:hover {min-height: 90vh;}
+.min-h-95vh-lg, .min-h-95vh-lg-H:hover {min-height: 95vh;}
+.min-h-100vh-lg, .min-h-100vh-lg-H:hover {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-lg, .h-auto-lg-H:hover {height: auto;}
@@ -20019,6 +20635,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-95-lg-A:active {height: 95%;}
 .h-100-lg-A:active {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-lg-A:active {max-height: 5%;}
+.max-h-10-lg-A:active {max-height: 10%;}
+.max-h-15-lg-A:active {max-height: 15%;}
+.max-h-20-lg-A:active {max-height: 20%;}
+.max-h-25-lg-A:active {max-height: 25%;}
+.max-h-30-lg-A:active {max-height: 30%;}
+.max-h-35-lg-A:active {max-height: 35%;}
+.max-h-40-lg-A:active {max-height: 40%;}
+.max-h-45-lg-A:active {max-height: 45%;}
+.max-h-50-lg-A:active {max-height: 50%;}
+.max-h-55-lg-A:active {max-height: 55%;}
+.max-h-60-lg-A:active {max-height: 60%;}
+.max-h-65-lg-A:active {max-height: 65%;}
+.max-h-70-lg-A:active {max-height: 70%;}
+.max-h-75-lg-A:active {max-height: 75%;}
+.max-h-80-lg-A:active {max-height: 80%;}
+.max-h-85-lg-A:active {max-height: 85%;}
+.max-h-90-lg-A:active {max-height: 90%;}
+.max-h-95-lg-A:active {max-height: 95%;}
+.max-h-100-lg-A:active {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-lg-A:active {min-height: 5%;}
+.min-h-10-lg-A:active {min-height: 10%;}
+.min-h-15-lg-A:active {min-height: 15%;}
+.min-h-20-lg-A:active {min-height: 20%;}
+.min-h-25-lg-A:active {min-height: 25%;}
+.min-h-30-lg-A:active {min-height: 30%;}
+.min-h-35-lg-A:active {min-height: 35%;}
+.min-h-40-lg-A:active {min-height: 40%;}
+.min-h-45-lg-A:active {min-height: 45%;}
+.min-h-50-lg-A:active {min-height: 50%;}
+.min-h-55-lg-A:active {min-height: 55%;}
+.min-h-60-lg-A:active {min-height: 60%;}
+.min-h-65-lg-A:active {min-height: 65%;}
+.min-h-70-lg-A:active {min-height: 70%;}
+.min-h-75-lg-A:active {min-height: 75%;}
+.min-h-80-lg-A:active {min-height: 80%;}
+.min-h-85-lg-A:active {min-height: 85%;}
+.min-h-90-lg-A:active {min-height: 90%;}
+.min-h-95-lg-A:active {min-height: 95%;}
+.min-h-100-lg-A:active {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-lg-A:active {height: 5vh;}
 .h-10vh-lg-A:active {height: 10vh;}
@@ -20040,6 +20700,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-90vh-lg-A:active {height: 90vh;}
 .h-95vh-lg-A:active {height: 95vh;}
 .h-100vh-lg-A:active {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-lg-A:active {max-height: 5vh;}
+.max-h-10vh-lg-A:active {max-height: 10vh;}
+.max-h-15vh-lg-A:active {max-height: 15vh;}
+.max-h-20vh-lg-A:active {max-height: 20vh;}
+.max-h-25vh-lg-A:active {max-height: 25vh;}
+.max-h-30vh-lg-A:active {max-height: 30vh;}
+.max-h-35vh-lg-A:active {max-height: 35vh;}
+.max-h-40vh-lg-A:active {max-height: 40vh;}
+.max-h-45vh-lg-A:active {max-height: 45vh;}
+.max-h-50vh-lg-A:active {max-height: 50vh;}
+.max-h-55vh-lg-A:active {max-height: 55vh;}
+.max-h-60vh-lg-A:active {max-height: 60vh;}
+.max-h-65vh-lg-A:active {max-height: 65vh;}
+.max-h-70vh-lg-A:active {max-height: 70vh;}
+.max-h-75vh-lg-A:active {max-height: 75vh;}
+.max-h-80vh-lg-A:active {max-height: 80vh;}
+.max-h-85vh-lg-A:active {max-height: 85vh;}
+.max-h-90vh-lg-A:active {max-height: 90vh;}
+.max-h-95vh-lg-A:active {max-height: 95vh;}
+.max-h-100vh-lg-A:active {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-lg-A:active {min-height: 5vh;}
+.min-h-10vh-lg-A:active {min-height: 10vh;}
+.min-h-15vh-lg-A:active {min-height: 15vh;}
+.min-h-20vh-lg-A:active {min-height: 20vh;}
+.min-h-25vh-lg-A:active {min-height: 25vh;}
+.min-h-30vh-lg-A:active {min-height: 30vh;}
+.min-h-35vh-lg-A:active {min-height: 35vh;}
+.min-h-40vh-lg-A:active {min-height: 40vh;}
+.min-h-45vh-lg-A:active {min-height: 45vh;}
+.min-h-50vh-lg-A:active {min-height: 50vh;}
+.min-h-55vh-lg-A:active {min-height: 55vh;}
+.min-h-60vh-lg-A:active {min-height: 60vh;}
+.min-h-65vh-lg-A:active {min-height: 65vh;}
+.min-h-70vh-lg-A:active {min-height: 70vh;}
+.min-h-75vh-lg-A:active {min-height: 75vh;}
+.min-h-80vh-lg-A:active {min-height: 80vh;}
+.min-h-85vh-lg-A:active {min-height: 85vh;}
+.min-h-90vh-lg-A:active {min-height: 90vh;}
+.min-h-95vh-lg-A:active {min-height: 95vh;}
+.min-h-100vh-lg-A:active {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-lg-A:active{height: auto;}
@@ -22859,6 +23563,50 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .h-95-xl, .h-95-xl-H:hover {height: 95%;}
 .h-100-xl, .h-100-xl-H:hover {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-xl, .max-h-5-xl-H:hover {max-height: 5%;}
+.max-h-10-xl, .max-h-10-xl-H:hover {max-height: 10%;}
+.max-h-15-xl, .max-h-15-xl-H:hover {max-height: 15%;}
+.max-h-20-xl, .max-h-20-xl-H:hover {max-height: 20%;}
+.max-h-25-xl, .max-h-25-xl-H:hover {max-height: 25%;}
+.max-h-30-xl, .max-h-30-xl-H:hover {max-height: 30%;}
+.max-h-35-xl, .max-h-35-xl-H:hover {max-height: 35%;}
+.max-h-40-xl, .max-h-40-xl-H:hover {max-height: 40%;}
+.max-h-45-xl, .max-h-45-xl-H:hover {max-height: 45%;}
+.max-h-50-xl, .max-h-50-xl-H:hover {max-height: 50%;}
+.max-h-55-xl, .max-h-55-xl-H:hover {max-height: 55%;}
+.max-h-60-xl, .max-h-60-xl-H:hover {max-height: 60%;}
+.max-h-65-xl, .max-h-65-xl-H:hover {max-height: 65%;}
+.max-h-70-xl, .max-h-70-xl-H:hover {max-height: 70%;}
+.max-h-75-xl, .max-h-75-xl-H:hover {max-height: 75%;}
+.max-h-80-xl, .max-h-80-xl-H:hover {max-height: 80%;}
+.max-h-85-xl, .max-h-85-xl-H:hover {max-height: 85%;}
+.max-h-90-xl, .max-h-90-xl-H:hover {max-height: 90%;}
+.max-h-95-xl, .max-h-95-xl-H:hover {max-height: 95%;}
+.max-h-100-xl, .max-h-100-xl-H:hover {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-xl, .min-h-5-xl-H:hover {min-height: 5%;}
+.min-h-10-xl, .min-h-10-xl-H:hover {min-height: 10%;}
+.min-h-15-xl, .min-h-15-xl-H:hover {min-height: 15%;}
+.min-h-20-xl, .min-h-20-xl-H:hover {min-height: 20%;}
+.min-h-25-xl, .min-h-25-xl-H:hover {min-height: 25%;}
+.min-h-30-xl, .min-h-30-xl-H:hover {min-height: 30%;}
+.min-h-35-xl, .min-h-35-xl-H:hover {min-height: 35%;}
+.min-h-40-xl, .min-h-40-xl-H:hover {min-height: 40%;}
+.min-h-45-xl, .min-h-45-xl-H:hover {min-height: 45%;}
+.min-h-50-xl, .min-h-50-xl-H:hover {min-height: 50%;}
+.min-h-55-xl, .min-h-55-xl-H:hover {min-height: 55%;}
+.min-h-60-xl, .min-h-60-xl-H:hover {min-height: 60%;}
+.min-h-65-xl, .min-h-65-xl-H:hover {min-height: 65%;}
+.min-h-70-xl, .min-h-70-xl-H:hover {min-height: 70%;}
+.min-h-75-xl, .min-h-75-xl-H:hover {min-height: 75%;}
+.min-h-80-xl, .min-h-80-xl-H:hover {min-height: 80%;}
+.min-h-85-xl, .min-h-85-xl-H:hover {min-height: 85%;}
+.min-h-90-xl, .min-h-90-xl-H:hover {min-height: 90%;}
+.min-h-95-xl, .min-h-95-xl-H:hover {min-height: 95%;}
+.min-h-100-xl, .min-h-100-xl-H:hover {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-xl, .h-5vh-xl-H:hover {height: 5vh;}
 .h-10vh-xl, .h-10vh-xl-H:hover {height: 10vh;}
@@ -22880,6 +23628,50 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .h-90vh-xl, .h-90vh-xl-H:hover {height: 90vh;}
 .h-95vh-xl, .h-95vh-xl-H:hover {height: 95vh;}
 .h-100vh-xl, .h-100vh-xl-H:hover {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-xl, .max-h-5vh-xl-H:hover {max-height: 5vh;}
+.max-h-10vh-xl, .max-h-10vh-xl-H:hover {max-height: 10vh;}
+.max-h-15vh-xl, .max-h-15vh-xl-H:hover {max-height: 15vh;}
+.max-h-20vh-xl, .max-h-20vh-xl-H:hover {max-height: 20vh;}
+.max-h-25vh-xl, .max-h-25vh-xl-H:hover {max-height: 25vh;}
+.max-h-30vh-xl, .max-h-30vh-xl-H:hover {max-height: 30vh;}
+.max-h-35vh-xl, .max-h-35vh-xl-H:hover {max-height: 35vh;}
+.max-h-40vh-xl, .max-h-40vh-xl-H:hover {max-height: 40vh;}
+.max-h-45vh-xl, .max-h-45vh-xl-H:hover {max-height: 45vh;}
+.max-h-50vh-xl, .max-h-50vh-xl-H:hover {max-height: 50vh;}
+.max-h-55vh-xl, .max-h-55vh-xl-H:hover {max-height: 55vh;}
+.max-h-60vh-xl, .max-h-60vh-xl-H:hover {max-height: 60vh;}
+.max-h-65vh-xl, .max-h-65vh-xl-H:hover {max-height: 65vh;}
+.max-h-70vh-xl, .max-h-70vh-xl-H:hover {max-height: 70vh;}
+.max-h-75vh-xl, .max-h-75vh-xl-H:hover {max-height: 75vh;}
+.max-h-80vh-xl, .max-h-80vh-xl-H:hover {max-height: 80vh;}
+.max-h-85vh-xl, .max-h-85vh-xl-H:hover {max-height: 85vh;}
+.max-h-90vh-xl, .max-h-90vh-xl-H:hover {max-height: 90vh;}
+.max-h-95vh-xl, .max-h-95vh-xl-H:hover {max-height: 95vh;}
+.max-h-100vh-xl, .max-h-100vh-xl-H:hover {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-xl, .min-h-5vh-xl-H:hover {min-height: 5vh;}
+.min-h-10vh-xl, .min-h-10vh-xl-H:hover {min-height: 10vh;}
+.min-h-15vh-xl, .min-h-15vh-xl-H:hover {min-height: 15vh;}
+.min-h-20vh-xl, .min-h-20vh-xl-H:hover {min-height: 20vh;}
+.min-h-25vh-xl, .min-h-25vh-xl-H:hover {min-height: 25vh;}
+.min-h-30vh-xl, .min-h-30vh-xl-H:hover {min-height: 30vh;}
+.min-h-35vh-xl, .min-h-35vh-xl-H:hover {min-height: 35vh;}
+.min-h-40vh-xl, .min-h-40vh-xl-H:hover {min-height: 40vh;}
+.min-h-45vh-xl, .min-h-45vh-xl-H:hover {min-height: 45vh;}
+.min-h-50vh-xl, .min-h-50vh-xl-H:hover {min-height: 50vh;}
+.min-h-55vh-xl, .min-h-55vh-xl-H:hover {min-height: 55vh;}
+.min-h-60vh-xl, .min-h-60vh-xl-H:hover {min-height: 60vh;}
+.min-h-65vh-xl, .min-h-65vh-xl-H:hover {min-height: 65vh;}
+.min-h-70vh-xl, .min-h-70vh-xl-H:hover {min-height: 70vh;}
+.min-h-75vh-xl, .min-h-75vh-xl-H:hover {min-height: 75vh;}
+.min-h-80vh-xl, .min-h-80vh-xl-H:hover {min-height: 80vh;}
+.min-h-85vh-xl, .min-h-85vh-xl-H:hover {min-height: 85vh;}
+.min-h-90vh-xl, .min-h-90vh-xl-H:hover {min-height: 90vh;}
+.min-h-95vh-xl, .min-h-95vh-xl-H:hover {min-height: 95vh;}
+.min-h-100vh-xl, .min-h-100vh-xl-H:hover {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-xl, .h-auto-xl-H:hover {height: auto;}
@@ -25692,6 +26484,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-95-xl-A:active {height: 95%;}
 .h-100-xl-A:active {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-xl-A:active {max-height: 5%;}
+.max-h-10-xl-A:active {max-height: 10%;}
+.max-h-15-xl-A:active {max-height: 15%;}
+.max-h-20-xl-A:active {max-height: 20%;}
+.max-h-25-xl-A:active {max-height: 25%;}
+.max-h-30-xl-A:active {max-height: 30%;}
+.max-h-35-xl-A:active {max-height: 35%;}
+.max-h-40-xl-A:active {max-height: 40%;}
+.max-h-45-xl-A:active {max-height: 45%;}
+.max-h-50-xl-A:active {max-height: 50%;}
+.max-h-55-xl-A:active {max-height: 55%;}
+.max-h-60-xl-A:active {max-height: 60%;}
+.max-h-65-xl-A:active {max-height: 65%;}
+.max-h-70-xl-A:active {max-height: 70%;}
+.max-h-75-xl-A:active {max-height: 75%;}
+.max-h-80-xl-A:active {max-height: 80%;}
+.max-h-85-xl-A:active {max-height: 85%;}
+.max-h-90-xl-A:active {max-height: 90%;}
+.max-h-95-xl-A:active {max-height: 95%;}
+.max-h-100-xl-A:active {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-xl-A:active {min-height: 5%;}
+.min-h-10-xl-A:active {min-height: 10%;}
+.min-h-15-xl-A:active {min-height: 15%;}
+.min-h-20-xl-A:active {min-height: 20%;}
+.min-h-25-xl-A:active {min-height: 25%;}
+.min-h-30-xl-A:active {min-height: 30%;}
+.min-h-35-xl-A:active {min-height: 35%;}
+.min-h-40-xl-A:active {min-height: 40%;}
+.min-h-45-xl-A:active {min-height: 45%;}
+.min-h-50-xl-A:active {min-height: 50%;}
+.min-h-55-xl-A:active {min-height: 55%;}
+.min-h-60-xl-A:active {min-height: 60%;}
+.min-h-65-xl-A:active {min-height: 65%;}
+.min-h-70-xl-A:active {min-height: 70%;}
+.min-h-75-xl-A:active {min-height: 75%;}
+.min-h-80-xl-A:active {min-height: 80%;}
+.min-h-85-xl-A:active {min-height: 85%;}
+.min-h-90-xl-A:active {min-height: 90%;}
+.min-h-95-xl-A:active {min-height: 95%;}
+.min-h-100-xl-A:active {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-xl-A:active {height: 5vh;}
 .h-10vh-xl-A:active {height: 10vh;}
@@ -25713,6 +26549,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-90vh-xl-A:active {height: 90vh;}
 .h-95vh-xl-A:active {height: 95vh;}
 .h-100vh-xl-A:active {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-xl-A:active {max-height: 5vh;}
+.max-h-10vh-xl-A:active {max-height: 10vh;}
+.max-h-15vh-xl-A:active {max-height: 15vh;}
+.max-h-20vh-xl-A:active {max-height: 20vh;}
+.max-h-25vh-xl-A:active {max-height: 25vh;}
+.max-h-30vh-xl-A:active {max-height: 30vh;}
+.max-h-35vh-xl-A:active {max-height: 35vh;}
+.max-h-40vh-xl-A:active {max-height: 40vh;}
+.max-h-45vh-xl-A:active {max-height: 45vh;}
+.max-h-50vh-xl-A:active {max-height: 50vh;}
+.max-h-55vh-xl-A:active {max-height: 55vh;}
+.max-h-60vh-xl-A:active {max-height: 60vh;}
+.max-h-65vh-xl-A:active {max-height: 65vh;}
+.max-h-70vh-xl-A:active {max-height: 70vh;}
+.max-h-75vh-xl-A:active {max-height: 75vh;}
+.max-h-80vh-xl-A:active {max-height: 80vh;}
+.max-h-85vh-xl-A:active {max-height: 85vh;}
+.max-h-90vh-xl-A:active {max-height: 90vh;}
+.max-h-95vh-xl-A:active {max-height: 95vh;}
+.max-h-100vh-xl-A:active {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-xl-A:active {min-height: 5vh;}
+.min-h-10vh-xl-A:active {min-height: 10vh;}
+.min-h-15vh-xl-A:active {min-height: 15vh;}
+.min-h-20vh-xl-A:active {min-height: 20vh;}
+.min-h-25vh-xl-A:active {min-height: 25vh;}
+.min-h-30vh-xl-A:active {min-height: 30vh;}
+.min-h-35vh-xl-A:active {min-height: 35vh;}
+.min-h-40vh-xl-A:active {min-height: 40vh;}
+.min-h-45vh-xl-A:active {min-height: 45vh;}
+.min-h-50vh-xl-A:active {min-height: 50vh;}
+.min-h-55vh-xl-A:active {min-height: 55vh;}
+.min-h-60vh-xl-A:active {min-height: 60vh;}
+.min-h-65vh-xl-A:active {min-height: 65vh;}
+.min-h-70vh-xl-A:active {min-height: 70vh;}
+.min-h-75vh-xl-A:active {min-height: 75vh;}
+.min-h-80vh-xl-A:active {min-height: 80vh;}
+.min-h-85vh-xl-A:active {min-height: 85vh;}
+.min-h-90vh-xl-A:active {min-height: 90vh;}
+.min-h-95vh-xl-A:active {min-height: 95vh;}
+.min-h-100vh-xl-A:active {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-xl-A:active{height: auto;}
@@ -28531,6 +29411,50 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .h-95-xxl, .h-95-xxl-H:hover {height: 95%;}
 .h-100-xxl, .h-100-xxl-H:hover {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-xxl, .max-h-5-xxl-H:hover {max-height: 5%;}
+.max-h-10-xxl, .max-h-10-xxl-H:hover {max-height: 10%;}
+.max-h-15-xxl, .max-h-15-xxl-H:hover {max-height: 15%;}
+.max-h-20-xxl, .max-h-20-xxl-H:hover {max-height: 20%;}
+.max-h-25-xxl, .max-h-25-xxl-H:hover {max-height: 25%;}
+.max-h-30-xxl, .max-h-30-xxl-H:hover {max-height: 30%;}
+.max-h-35-xxl, .max-h-35-xxl-H:hover {max-height: 35%;}
+.max-h-40-xxl, .max-h-40-xxl-H:hover {max-height: 40%;}
+.max-h-45-xxl, .max-h-45-xxl-H:hover {max-height: 45%;}
+.max-h-50-xxl, .max-h-50-xxl-H:hover {max-height: 50%;}
+.max-h-55-xxl, .max-h-55-xxl-H:hover {max-height: 55%;}
+.max-h-60-xxl, .max-h-60-xxl-H:hover {max-height: 60%;}
+.max-h-65-xxl, .max-h-65-xxl-H:hover {max-height: 65%;}
+.max-h-70-xxl, .max-h-70-xxl-H:hover {max-height: 70%;}
+.max-h-75-xxl, .max-h-75-xxl-H:hover {max-height: 75%;}
+.max-h-80-xxl, .max-h-80-xxl-H:hover {max-height: 80%;}
+.max-h-85-xxl, .max-h-85-xxl-H:hover {max-height: 85%;}
+.max-h-90-xxl, .max-h-90-xxl-H:hover {max-height: 90%;}
+.max-h-95-xxl, .max-h-95-xxl-H:hover {max-height: 95%;}
+.max-h-100-xxl, .max-h-100-xxl-H:hover {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-xxl, .min-h-5-xxl-H:hover {min-height: 5%;}
+.min-h-10-xxl, .min-h-10-xxl-H:hover {min-height: 10%;}
+.min-h-15-xxl, .min-h-15-xxl-H:hover {min-height: 15%;}
+.min-h-20-xxl, .min-h-20-xxl-H:hover {min-height: 20%;}
+.min-h-25-xxl, .min-h-25-xxl-H:hover {min-height: 25%;}
+.min-h-30-xxl, .min-h-30-xxl-H:hover {min-height: 30%;}
+.min-h-35-xxl, .min-h-35-xxl-H:hover {min-height: 35%;}
+.min-h-40-xxl, .min-h-40-xxl-H:hover {min-height: 40%;}
+.min-h-45-xxl, .min-h-45-xxl-H:hover {min-height: 45%;}
+.min-h-50-xxl, .min-h-50-xxl-H:hover {min-height: 50%;}
+.min-h-55-xxl, .min-h-55-xxl-H:hover {min-height: 55%;}
+.min-h-60-xxl, .min-h-60-xxl-H:hover {min-height: 60%;}
+.min-h-65-xxl, .min-h-65-xxl-H:hover {min-height: 65%;}
+.min-h-70-xxl, .min-h-70-xxl-H:hover {min-height: 70%;}
+.min-h-75-xxl, .min-h-75-xxl-H:hover {min-height: 75%;}
+.min-h-80-xxl, .min-h-80-xxl-H:hover {min-height: 80%;}
+.min-h-85-xxl, .min-h-85-xxl-H:hover {min-height: 85%;}
+.min-h-90-xxl, .min-h-90-xxl-H:hover {min-height: 90%;}
+.min-h-95-xxl, .min-h-95-xxl-H:hover {min-height: 95%;}
+.min-h-100-xxl, .min-h-100-xxl-H:hover {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-xxl, .h-5vh-xxl-H:hover {height: 5vh;}
 .h-10vh-xxl, .h-10vh-xxl-H:hover {height: 10vh;}
@@ -28552,6 +29476,50 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .h-90vh-xxl, .h-90vh-xxl-H:hover {height: 90vh;}
 .h-95vh-xxl, .h-95vh-xxl-H:hover {height: 95vh;}
 .h-100vh-xxl, .h-100vh-xxl-H:hover {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-xxl, .max-h-5vh-xxl-H:hover {max-height: 5vh;}
+.max-h-10vh-xxl, .max-h-10vh-xxl-H:hover {max-height: 10vh;}
+.max-h-15vh-xxl, .max-h-15vh-xxl-H:hover {max-height: 15vh;}
+.max-h-20vh-xxl, .max-h-20vh-xxl-H:hover {max-height: 20vh;}
+.max-h-25vh-xxl, .max-h-25vh-xxl-H:hover {max-height: 25vh;}
+.max-h-30vh-xxl, .max-h-30vh-xxl-H:hover {max-height: 30vh;}
+.max-h-35vh-xxl, .max-h-35vh-xxl-H:hover {max-height: 35vh;}
+.max-h-40vh-xxl, .max-h-40vh-xxl-H:hover {max-height: 40vh;}
+.max-h-45vh-xxl, .max-h-45vh-xxl-H:hover {max-height: 45vh;}
+.max-h-50vh-xxl, .max-h-50vh-xxl-H:hover {max-height: 50vh;}
+.max-h-55vh-xxl, .max-h-55vh-xxl-H:hover {max-height: 55vh;}
+.max-h-60vh-xxl, .max-h-60vh-xxl-H:hover {max-height: 60vh;}
+.max-h-65vh-xxl, .max-h-65vh-xxl-H:hover {max-height: 65vh;}
+.max-h-70vh-xxl, .max-h-70vh-xxl-H:hover {max-height: 70vh;}
+.max-h-75vh-xxl, .max-h-75vh-xxl-H:hover {max-height: 75vh;}
+.max-h-80vh-xxl, .max-h-80vh-xxl-H:hover {max-height: 80vh;}
+.max-h-85vh-xxl, .max-h-85vh-xxl-H:hover {max-height: 85vh;}
+.max-h-90vh-xxl, .max-h-90vh-xxl-H:hover {max-height: 90vh;}
+.max-h-95vh-xxl, .max-h-95vh-xxl-H:hover {max-height: 95vh;}
+.max-h-100vh-xxl, .max-h-100vh-xxl-H:hover {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-xxl, .min-h-5vh-xxl-H:hover {min-height: 5vh;}
+.min-h-10vh-xxl, .min-h-10vh-xxl-H:hover {min-height: 10vh;}
+.min-h-15vh-xxl, .min-h-15vh-xxl-H:hover {min-height: 15vh;}
+.min-h-20vh-xxl, .min-h-20vh-xxl-H:hover {min-height: 20vh;}
+.min-h-25vh-xxl, .min-h-25vh-xxl-H:hover {min-height: 25vh;}
+.min-h-30vh-xxl, .min-h-30vh-xxl-H:hover {min-height: 30vh;}
+.min-h-35vh-xxl, .min-h-35vh-xxl-H:hover {min-height: 35vh;}
+.min-h-40vh-xxl, .min-h-40vh-xxl-H:hover {min-height: 40vh;}
+.min-h-45vh-xxl, .min-h-45vh-xxl-H:hover {min-height: 45vh;}
+.min-h-50vh-xxl, .min-h-50vh-xxl-H:hover {min-height: 50vh;}
+.min-h-55vh-xxl, .min-h-55vh-xxl-H:hover {min-height: 55vh;}
+.min-h-60vh-xxl, .min-h-60vh-xxl-H:hover {min-height: 60vh;}
+.min-h-65vh-xxl, .min-h-65vh-xxl-H:hover {min-height: 65vh;}
+.min-h-70vh-xxl, .min-h-70vh-xxl-H:hover {min-height: 70vh;}
+.min-h-75vh-xxl, .min-h-75vh-xxl-H:hover {min-height: 75vh;}
+.min-h-80vh-xxl, .min-h-80vh-xxl-H:hover {min-height: 80vh;}
+.min-h-85vh-xxl, .min-h-85vh-xxl-H:hover {min-height: 85vh;}
+.min-h-90vh-xxl, .min-h-90vh-xxl-H:hover {min-height: 90vh;}
+.min-h-95vh-xxl, .min-h-95vh-xxl-H:hover {min-height: 95vh;}
+.min-h-100vh-xxl, .min-h-100vh-xxl-H:hover {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-xxl, .h-auto-xxl-H:hover {height: auto;}
@@ -31364,6 +32332,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-95-xxl-A:active {height: 95%;}
 .h-100-xxl-A:active {height: 100%;}
 
+/* max-h-num = height */
+.max-h-5-xxl-A:active {max-height: 5%;}
+.max-h-10-xxl-A:active {max-height: 10%;}
+.max-h-15-xxl-A:active {max-height: 15%;}
+.max-h-20-xxl-A:active {max-height: 20%;}
+.max-h-25-xxl-A:active {max-height: 25%;}
+.max-h-30-xxl-A:active {max-height: 30%;}
+.max-h-35-xxl-A:active {max-height: 35%;}
+.max-h-40-xxl-A:active {max-height: 40%;}
+.max-h-45-xxl-A:active {max-height: 45%;}
+.max-h-50-xxl-A:active {max-height: 50%;}
+.max-h-55-xxl-A:active {max-height: 55%;}
+.max-h-60-xxl-A:active {max-height: 60%;}
+.max-h-65-xxl-A:active {max-height: 65%;}
+.max-h-70-xxl-A:active {max-height: 70%;}
+.max-h-75-xxl-A:active {max-height: 75%;}
+.max-h-80-xxl-A:active {max-height: 80%;}
+.max-h-85-xxl-A:active {max-height: 85%;}
+.max-h-90-xxl-A:active {max-height: 90%;}
+.max-h-95-xxl-A:active {max-height: 95%;}
+.max-h-100-xxl-A:active {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-xxl-A:active {min-height: 5%;}
+.min-h-10-xxl-A:active {min-height: 10%;}
+.min-h-15-xxl-A:active {min-height: 15%;}
+.min-h-20-xxl-A:active {min-height: 20%;}
+.min-h-25-xxl-A:active {min-height: 25%;}
+.min-h-30-xxl-A:active {min-height: 30%;}
+.min-h-35-xxl-A:active {min-height: 35%;}
+.min-h-40-xxl-A:active {min-height: 40%;}
+.min-h-45-xxl-A:active {min-height: 45%;}
+.min-h-50-xxl-A:active {min-height: 50%;}
+.min-h-55-xxl-A:active {min-height: 55%;}
+.min-h-60-xxl-A:active {min-height: 60%;}
+.min-h-65-xxl-A:active {min-height: 65%;}
+.min-h-70-xxl-A:active {min-height: 70%;}
+.min-h-75-xxl-A:active {min-height: 75%;}
+.min-h-80-xxl-A:active {min-height: 80%;}
+.min-h-85-xxl-A:active {min-height: 85%;}
+.min-h-90-xxl-A:active {min-height: 90%;}
+.min-h-95-xxl-A:active {min-height: 95%;}
+.min-h-100-xxl-A:active {min-height: 100%;}
+
 /* h-num_vh = height */
 .h-5vh-xxl-A:active {height: 5vh;}
 .h-10vh-xxl-A:active {height: 10vh;}
@@ -31385,6 +32397,50 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .h-90vh-xxl-A:active {height: 90vh;}
 .h-95vh-xxl-A:active {height: 95vh;}
 .h-100vh-xxl-A:active {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-xxl-A:active {max-height: 5vh;}
+.max-h-10vh-xxl-A:active {max-height: 10vh;}
+.max-h-15vh-xxl-A:active {max-height: 15vh;}
+.max-h-20vh-xxl-A:active {max-height: 20vh;}
+.max-h-25vh-xxl-A:active {max-height: 25vh;}
+.max-h-30vh-xxl-A:active {max-height: 30vh;}
+.max-h-35vh-xxl-A:active {max-height: 35vh;}
+.max-h-40vh-xxl-A:active {max-height: 40vh;}
+.max-h-45vh-xxl-A:active {max-height: 45vh;}
+.max-h-50vh-xxl-A:active {max-height: 50vh;}
+.max-h-55vh-xxl-A:active {max-height: 55vh;}
+.max-h-60vh-xxl-A:active {max-height: 60vh;}
+.max-h-65vh-xxl-A:active {max-height: 65vh;}
+.max-h-70vh-xxl-A:active {max-height: 70vh;}
+.max-h-75vh-xxl-A:active {max-height: 75vh;}
+.max-h-80vh-xxl-A:active {max-height: 80vh;}
+.max-h-85vh-xxl-A:active {max-height: 85vh;}
+.max-h-90vh-xxl-A:active {max-height: 90vh;}
+.max-h-95vh-xxl-A:active {max-height: 95vh;}
+.max-h-100vh-xxl-A:active {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-xxl-A:active {min-height: 5vh;}
+.min-h-10vh-xxl-A:active {min-height: 10vh;}
+.min-h-15vh-xxl-A:active {min-height: 15vh;}
+.min-h-20vh-xxl-A:active {min-height: 20vh;}
+.min-h-25vh-xxl-A:active {min-height: 25vh;}
+.min-h-30vh-xxl-A:active {min-height: 30vh;}
+.min-h-35vh-xxl-A:active {min-height: 35vh;}
+.min-h-40vh-xxl-A:active {min-height: 40vh;}
+.min-h-45vh-xxl-A:active {min-height: 45vh;}
+.min-h-50vh-xxl-A:active {min-height: 50vh;}
+.min-h-55vh-xxl-A:active {min-height: 55vh;}
+.min-h-60vh-xxl-A:active {min-height: 60vh;}
+.min-h-65vh-xxl-A:active {min-height: 65vh;}
+.min-h-70vh-xxl-A:active {min-height: 70vh;}
+.min-h-75vh-xxl-A:active {min-height: 75vh;}
+.min-h-80vh-xxl-A:active {min-height: 80vh;}
+.min-h-85vh-xxl-A:active {min-height: 85vh;}
+.min-h-90vh-xxl-A:active {min-height: 90vh;}
+.min-h-95vh-xxl-A:active {min-height: 95vh;}
+.min-h-100vh-xxl-A:active {min-height: 100vh;}
 
 /* h-auto */
 .h-auto-xxl-A:active{height: auto;}
