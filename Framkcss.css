@@ -1,5 +1,3 @@
-/* https://cdn.jsdelivr.net/gh/M6Irinel/Framkcss@75c29ec46a83dc747518ac80b77d5c132a3d0c1c/Framkcss.css */
-
 /* RESET */
 .reset *, .reset, .reset-H:hover *, .reset-H:hover {box-sizing: border-box; margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; list-style: none; text-decoration: none; color: #000;}
 .fluid-img, .fluid-img-H:hover, .fluid-video, .fluid-video-H:hover, .container-fluid, .container-fluid-H:hover, .w-100, .w-100-H:hover {width: 100%;}
@@ -2157,10 +2155,10 @@
 .overflow-y-visible, .overflow-y-visible-H:hover {overflow-y: visible;}
 
 /* direction flex */
-.row, .row-H:hover {flex-direction: row;}
-.row-reverse, .row-reverse-H:hover {flex-direction: row-reverse;}
-.column, .column-H:hover {flex-direction: column;}
-.column-reverse, .column-reverse-H:hover {flex-direction: column-reverse;}
+.f-row, .f-row-H:hover {flex-direction: row;}
+.f-row-reverse, .f-row-reverse-H:hover {flex-direction: row-reverse;}
+.f-column, .f-column-H:hover {flex-direction: column;}
+.f-column-reverse, .f-column-reverse-H:hover {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center, .j-center, .center, .justify-center-H:hover, .j-center-H:hover, .center-H:hover {justify-content: center;}
@@ -2501,7 +2499,7 @@
 .float-l-10, .float-l-10-H:hover {float: left; width: calc((100% / 12) * 10);}
 .float-l-11, .float-l-11-H:hover {float: left; width: calc((100% / 12) * 11);}
 .float-l-12, .float-l-12-H:hover, .float-l-full, .float-l-full-H:hover {float: left; width: 100%;}
-.float-l-0, .float-l-0-H:hover {float: left; width: auto;}
+.float-l-0, .float-l-0-H:hover, .float-l-auto, .float-l-auto-H:hover {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r, .float-r-H:hover {float: right; width: calc(100% / 12);}
@@ -2516,7 +2514,7 @@
 .float-r-10, .float-r-10-H:hover {float: right; width: calc((100% / 12) * 10);}
 .float-r-11, .float-r-11-H:hover {float: right; width: calc((100% / 12) * 11);}
 .float-r-12, .float-r-12-H:hover, .float-r-full, .float-r-full-H:hover {float: right; width: 100%;}
-.float-r-0, .float-r-0-H:hover {float: right; width: auto;}
+.float-r-0, .float-r-0-H:hover, .float-r-auto, .float-r-auto-H:hover {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix::after, .clearfix-H:hover::after, .clear-float-both::after, .clear-float-both-H:hover::after, .clear-both::after, .clear-both-H:hover::after {content: ''; display: table; clear: both;}
@@ -5084,10 +5082,10 @@
 .overflow-y-visible-A:active {overflow-y: visible;}
 
 /* direction flex */
-.row-A:active {flex-direction: row;}
-.row-reverse-A:active {flex-direction: row-reverse;}
-.column-A:active {flex-direction: column;}
-.column-reverse-A:active {flex-direction: column-reverse;}
+.f-row-A:active {flex-direction: row;}
+.f-row-reverse-A:active {flex-direction: row-reverse;}
+.f-column-A:active {flex-direction: column;}
+.f-column-reverse-A:active {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-A:active, .j-center-A:active, .center-A:active {justify-content: center;}
@@ -5428,7 +5426,7 @@
 .float-l-10-A:active {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-A:active {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-A:active, .float-l-full-A:active {float: left; width: 100%;}
-.float-l-0-A:active {float: left; width: auto;}
+.float-l-0-A:active, .float-l-auto-A:active {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-A:active {float: right; width: calc(100% / 12);}
@@ -5443,7 +5441,7 @@
 .float-r-10-A:active {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-A:active {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-A:active, .float-r-full-A:active {float: right; width: 100%;}
-.float-r-0-A:active {float: right; width: auto;}
+.float-r-0-A:active, .float-r-auto-A:active {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-A:active::after, .clear-float-both-A:active::after, .clear-both-A:active::after {content: ''; display: table; clear: both;}
@@ -5852,6 +5850,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM */
 
 @media screen and (min-width: 576px) {
+    @media screen and (max-width: 575.98px) {
 
     .container, .container-sm {max-width: 540px;}
 
@@ -8010,10 +8009,10 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .overflow-y-visible-sm, .overflow-y-visible-sm-H:hover {overflow-y: visible;}
 
 /* direction flex */
-.row-sm, .row-sm-H:hover {flex-direction: row;}
-.row-reverse-sm, .row-reverse-sm-H:hover {flex-direction: row-reverse;}
-.column-sm, .column-sm-H:hover {flex-direction: column;}
-.column-reverse-sm, .column-reverse-sm-H:hover {flex-direction: column-reverse;}
+.f-row-sm, .f-row-sm-H:hover {flex-direction: row;}
+.f-row-reverse-sm, .f-row-reverse-sm-H:hover {flex-direction: row-reverse;}
+.f-column-sm, .f-column-sm-H:hover {flex-direction: column;}
+.f-column-reverse-sm, .f-column-reverse-sm-H:hover {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-sm, .j-center-sm, .center-sm, .justify-center-sm-H:hover, .j-center-sm-H:hover, .center-sm-H:hover {justify-content: center;}
@@ -8354,7 +8353,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .float-l-10-sm, .float-l-10-sm-H:hover {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-sm, .float-l-11-sm-H:hover {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-sm, .float-l-12-sm-H:hover, .float-l-full-sm, .float-l-full-sm-H:hover {float: left; width: 100%;}
-.float-l-0-sm, .float-l-0-sm-H:hover {float: left; width: auto;}
+.float-l-0-sm, .float-l-0-sm-H:hover, .float-l-auto-sm, .float-l-auto-sm-H:hover {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-sm, .float-r-sm-H:hover {float: right; width: calc(100% / 12);}
@@ -8369,7 +8368,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .float-r-10-sm, .float-r-10-sm-H:hover {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-sm, .float-r-11-sm-H:hover {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-sm, .float-r-12-sm-H:hover, .float-r-full-sm, .float-r-full-sm-H:hover {float: right; width: 100%;}
-.float-r-0-sm, .float-r-0-sm-H:hover {float: right; width: auto;}
+.float-r-0-sm, .float-r-0-sm-H:hover, .float-r-auto-sm, .float-r-auto-sm-H:hover {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-sm::after, .clearfix-sm-H:hover::after, .clear-float-both-sm::after, .clear-float-both-sm-H:hover::after, .clear-both-sm::after, .clear-both-sm-H:hover::after {content: ''; display: table; clear: both;}
@@ -10932,10 +10931,10 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .visible-y-sm-A:active, .overflow-y-visible-sm-A:active {overflow-y: visible;}
 
 /* direction flex */
-.row-sm-A:active {flex-direction: row;}
-.row-reverse-sm-A:active {flex-direction: row-reverse;}
-.column-sm-A:active {flex-direction: column;}
-.column-reverse-sm-A:active {flex-direction: column-reverse;}
+.f-row-sm-A:active {flex-direction: row;}
+.f-row-reverse-sm-A:active {flex-direction: row-reverse;}
+.f-column-sm-A:active {flex-direction: column;}
+.f-column-reverse-sm-A:active {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-sm-A:active, .j-center-sm-A:active, .center-sm-A:active {justify-content: center;}
@@ -11277,6 +11276,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-l-11-sm-A:active {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-sm-A:active, .float-l-full-sm-A:active {float: left; width: 100%;}
 .float-l-0-sm-A:active {float: left; width: auto;}
+.float-l-0-sm-A:active, .float-l-auto-sm-A:active {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-sm-A:active {float: right; width: calc(100% / 12);}
@@ -11292,6 +11292,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-r-11-sm-A:active {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-sm-A:active, .float-r-full-sm-A:active {float: right; width: 100%;}
 .float-r-0-sm-A:active {float: right; width: auto;}
+.float-r-0-sm-A:active, .float-r-auto-sm-A:active {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-sm-A:active::after, .clear-float-both-sm-A:active::after, .clear-both-sm-A:active::after {content: ''; display: table; clear: both;}
@@ -11695,6 +11696,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .uppercase-sm-A:active, .t-transform-uppercase-sm-A:active {text-transform: uppercase;}
 .t-transform-none-sm-A:active {text-transform: none;}
 
+    }
 }
 
 /* MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
@@ -11702,6 +11704,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD */
 
 @media screen and (min-width: 768px) {
+    @media screen and (max-width: 767.98px) {
 
     .container, .container-md {max-width: 720px;}
 
@@ -13859,10 +13862,10 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .overflow-y-visible-md, .overflow-y-visible-md-H:hover {overflow-y: visible;}
 
 /* direction flex */
-.row-md, .row-md-H:hover {flex-direction: row;}
-.row-reverse-md, .row-reverse-md-H:hover {flex-direction: row-reverse;}
-.column-md, .column-md-H:hover {flex-direction: column;}
-.column-reverse-md, .column-reverse-md-H:hover {flex-direction: column-reverse;}
+.f-row-md, .f-row-md-H:hover {flex-direction: row;}
+.f-row-reverse-md, .f-row-reverse-md-H:hover {flex-direction: row-reverse;}
+.f-column-md, .f-column-md-H:hover {flex-direction: column;}
+.f-column-reverse-md, .f-column-reverse-md-H:hover {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-md, .j-center-md, .center-md, .justify-center-md-H:hover, .j-center-md-H:hover, .center-md-H:hover {justify-content: center;}
@@ -14203,7 +14206,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .float-l-10-md, .float-l-10-md-H:hover {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-md, .float-l-11-md-H:hover {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-md, .float-l-12-md-H:hover, .float-l-full-md, .float-l-full-md-H:hover {float: left; width: 100%;}
-.float-l-0-md, .float-l-0-md-H:hover {float: left; width: auto;}
+.float-l-0-md, .float-l-0-md-H:hover, .float-l-auto-md, .float-l-auto-md-H:hover {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-md, .float-r-md-H:hover {float: right; width: calc(100% / 12);}
@@ -14218,7 +14221,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .float-r-10-md, .float-r-10-md-H:hover {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-md, .float-r-11-md-H:hover {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-md, .float-r-12-md-H:hover, .float-r-full-md, .float-r-full-md-H:hover {float: right; width: 100%;}
-.float-r-0-md, .float-r-0-md-H:hover {float: right; width: auto;}
+.float-r-0-md, .float-r-0-md-H:hover, .float-r-auto-md, .float-r-auto-md-H:hover {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-md::after, .clearfix-md-H:hover::after, .clear-float-both-md::after, .clear-float-both-md-H:hover::after, .clear-both-md::after, .clear-both-md-H:hover::after {content: ''; display: table; clear: both;}
@@ -16781,10 +16784,10 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .visible-y-md-A:active, .overflow-y-visible-md-A:active {overflow-y: visible;}
 
 /* direction flex */
-.row-md-A:active {flex-direction: row;}
-.row-reverse-md-A:active {flex-direction: row-reverse;}
-.column-md-A:active {flex-direction: column;}
-.column-reverse-md-A:active {flex-direction: column-reverse;}
+.f-row-md-A:active {flex-direction: row;}
+.f-row-reverse-md-A:active {flex-direction: row-reverse;}
+.f-column-md-A:active {flex-direction: column;}
+.f-column-reverse-md-A:active {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-md-A:active, .j-center-md-A:active, .center-md-A:active {justify-content: center;}
@@ -17125,7 +17128,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-l-10-md-A:active {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-md-A:active {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-md-A:active, .float-l-full-A:active {float: left; width: 100%;}
-.float-l-0-md-A:active {float: left; width: auto;}
+.float-l-0-md-A:active, .float-l-auto-md-A:active {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-md-A:active {float: right; width: calc(100% / 12);}
@@ -17140,7 +17143,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-r-10-md-A:active {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-md-A:active {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-md-A:active, .float-r-full-md-A:active {float: right; width: 100%;}
-.float-r-0-md-A:active {float: right; width: auto;}
+.float-r-0-md-A:active, .float-r-auto-md-A:active {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-md-A:active::after, .clear-float-both-md-A:active::after, .clear-both-md-A:active::after {content: ''; display: table; clear: both;}
@@ -17544,6 +17547,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .uppercase-md-A:active, .t-transform-uppercase-md-A:active {text-transform: uppercase;}
 .t-transform-none-md-A:active {text-transform: none;}
 
+    }
 }
 
 /* LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
@@ -17551,6 +17555,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG */
 
 @media screen and (min-width: 992px) {
+    @media screen and (max-width: 991.98px) {
 
     .container, .container-lg {max-width: 960px;}
 
@@ -19708,10 +19713,10 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .overflow-y-visible-lg, .overflow-y-visible-lg-H:hover {overflow-y: visible;}
 
 /* direction flex */
-.row-lg, .row-lg-H:hover {flex-direction: row;}
-.row-reverse-lg, .row-reverse-lg-H:hover {flex-direction: row-reverse;}
-.column-lg, .column-lg-H:hover {flex-direction: column;}
-.column-reverse-lg, .column-reverse-lg-H:hover {flex-direction: column-reverse;}
+.f-row-lg, .f-row-lg-H:hover {flex-direction: row;}
+.f-row-reverse-lg, .f-row-reverse-lg-H:hover {flex-direction: row-reverse;}
+.f-column-lg, .f-column-lg-H:hover {flex-direction: column;}
+.f-column-reverse-lg, .f-column-reverse-lg-H:hover {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-lg, .j-center-lg, .center-lg, .justify-center-lg-H:hover, .j-center-lg-H:hover, .center-lg-H:hover {justify-content: center;}
@@ -20052,7 +20057,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .float-l-10-lg, .float-l-10-lg-H:hover {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-lg, .float-l-11-lg-H:hover {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-lg, .float-l-12-lg-H:hover, .float-l-full-lg, .float-l-full-lg-H:hover {float: left; width: 100%;}
-.float-l-0-lg, .float-l-0-lg-H:hover {float: left; width: auto;}
+.float-l-0-lg, .float-l-0-lg-H:hover, .float-l-auto-lg, .float-l-auto-lg-H:hover {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-lg, .float-r-lg-H:hover {float: right; width: calc(100% / 12);}
@@ -20067,7 +20072,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .float-r-10-lg, .float-r-10-lg-H:hover {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-lg, .float-r-11-lg-H:hover {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-lg, .float-r-12-lg-H:hover, .float-r-full-lg, .float-r-full-lg-H:hover {float: right; width: 100%;}
-.float-r-0-lg, .float-r-0-lg-H:hover {float: right; width: auto;}
+.float-r-0-lg, .float-r-0-lg-H:hover, .float-r-auto-lg, .float-r-auto-lg-H:hover {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-lg::after, .clearfix-lg-H:hover::after, .clear-float-both-lg::after, .clear-float-both-lg-H:hover::after, .clear-both-lg::after, .clear-both-lg-H:hover::after {content: ''; display: table; clear: both;}
@@ -22630,10 +22635,10 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .visible-y-lg-A:active, .overflow-y-visible-lg-A:active {overflow-y: visible;}
 
 /* direction flex */
-.row-lg-A:active {flex-direction: row;}
-.row-reverse-lg-A:active {flex-direction: row-reverse;}
-.column-lg-A:active {flex-direction: column;}
-.column-reverse-lg-A:active {flex-direction: column-reverse;}
+.f-row-lg-A:active {flex-direction: row;}
+.f-row-reverse-lg-A:active {flex-direction: row-reverse;}
+.f-column-lg-A:active {flex-direction: column;}
+.f-column-reverse-lg-A:active {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-lg-A:active, .j-center-lg-A:active, .center-lg-A:active {justify-content: center;}
@@ -22974,7 +22979,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-l-10-lg-A:active {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-lg-A:active {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-lg-A:active, .float-l-full-A:active {float: left; width: 100%;}
-.float-l-0-lg-A:active {float: left; width: auto;}
+.float-l-0-lg-A:active, .float-l-auto-lg-A:active {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-lg-A:active {float: right; width: calc(100% / 12);}
@@ -22989,7 +22994,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-r-10-lg-A:active {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-lg-A:active {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-lg-A:active, .float-r-full-lg-A:active {float: right; width: 100%;}
-.float-r-0-lg-A:active {float: right; width: auto;}
+.float-r-0-lg-A:active, .float-r-auto-lg-A:active {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-lg-A:active::after, .clear-float-both-lg-A:active::after, .clear-both-lg-A:active::after {content: ''; display: table; clear: both;}
@@ -23393,6 +23398,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .uppercase-lg-A:active, .t-transform-uppercase-lg-A:active {text-transform: uppercase;}
 .t-transform-none-lg-A:active {text-transform: none;}
 
+    }
 }
 
 /* XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
@@ -23400,6 +23406,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL */
 
 @media screen and (min-width: 1200px) {
+    @media screen and (max-width: 1199.98px) {
 
     .container, .container-xl {max-width: 1140px;}
 
@@ -25557,10 +25564,10 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .overflow-y-visible-xl, .overflow-y-visible-xl-H:hover {overflow-y: visible;}
 
 /* direction flex */
-.row-xl, .row-xl-H:hover {flex-direction: row;}
-.row-reverse-xl, .row-reverse-xl-H:hover {flex-direction: row-reverse;}
-.column-xl, .column-xl-H:hover {flex-direction: column;}
-.column-reverse-xl, .column-reverse-xl-H:hover {flex-direction: column-reverse;}
+.f-row-xl, .f-row-xl-H:hover {flex-direction: row;}
+.f-row-reverse-xl, .f-row-reverse-xl-H:hover {flex-direction: row-reverse;}
+.f-column-xl, .f-column-xl-H:hover {flex-direction: column;}
+.f-column-reverse-xl, .f-column-reverse-xl-H:hover {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-xl, .j-center-xl, .center-xl, .justify-center-xl-H:hover, .j-center-xl-H:hover, .center-xl-H:hover {justify-content: center;}
@@ -25901,7 +25908,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .float-l-10-xl, .float-l-10-xl-H:hover {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-xl, .float-l-11-xl-H:hover {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-xl, .float-l-12-xl-H:hover, .float-l-full-xl, .float-l-full-xl-H:hover {float: left; width: 100%;}
-.float-l-0-xl, .float-l-0-xl-H:hover {float: left; width: auto;}
+.float-l-0-xl, .float-l-0-xl-H:hover, .float-l-auto-xl, .float-l-auto-xl-H:hover {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-xl, .float-r-xl-H:hover {float: right; width: calc(100% / 12);}
@@ -25916,7 +25923,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .float-r-10-xl, .float-r-10-xl-H:hover {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-xl, .float-r-11-xl-H:hover {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-xl, .float-r-12-xl-H:hover, .float-r-full-xl, .float-r-full-xl-H:hover {float: right; width: 100%;}
-.float-r-0-xl, .float-r-0-xl-H:hover {float: right; width: auto;}
+.float-r-0-xl, .float-r-0-xl-H:hover, .float-r-auto-xl, .float-r-auto-xl-H:hover {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-xl::after, .clearfix-xl-H:hover::after, .clear-float-both-xl::after, .clear-float-both-xl-H:hover::after, .clear-both-xl::after, .clear-both-xl-H:hover::after {content: ''; display: table; clear: both;}
@@ -28479,10 +28486,10 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .visible-y-xl-A:active, .overflow-y-visible-xl-A:active {overflow-y: visible;}
 
 /* direction flex */
-.row-xl-A:active {flex-direction: row;}
-.row-reverse-xl-A:active {flex-direction: row-reverse;}
-.column-xl-A:active {flex-direction: column;}
-.column-reverse-xl-A:active {flex-direction: column-reverse;}
+.f-row-xl-A:active {flex-direction: row;}
+.f-row-reverse-xl-A:active {flex-direction: row-reverse;}
+.f-column-xl-A:active {flex-direction: column;}
+.f-column-reverse-xl-A:active {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-xl-A:active, .j-center-xl-A:active, .center-xl-A:active {justify-content: center;}
@@ -28823,7 +28830,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-l-10-xl-A:active {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-xl-A:active {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-xl-A:active, .float-l-full-A:active {float: left; width: 100%;}
-.float-l-0-xl-A:active {float: left; width: auto;}
+.float-l-0-xl-A:active, .float-l-auto-xl-A:active {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-xl-A:active {float: right; width: calc(100% / 12);}
@@ -28838,7 +28845,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-r-10-xl-A:active {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-xl-A:active {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-xl-A:active, .float-r-full-xl-A:active {float: right; width: 100%;}
-.float-r-0-xl-A:active {float: right; width: auto;}
+.float-r-0-xl-A:active, .float-r-auto-xl-A:active {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-xl-A:active::after, .clear-float-both-xl-A:active::after, .clear-both-xl-A:active::after {content: ''; display: table; clear: both;}
@@ -29241,6 +29248,8 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .lowercase-xl-A:active, .t-transform-lowercase-xl-A:active {text-transform: lowercase;}
 .uppercase-xl-A:active, .t-transform-uppercase-xl-A:active {text-transform: uppercase;}
 .t-transform-none-xl-A:active {text-transform: none;}
+
+    }
 }
 
 /* XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL
@@ -29248,6 +29257,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL */
 
 @media screen and (min-width: 1400px) {
+    @media screen and (max-width: 1399.98px) {
 
     .container, .container-xxl {max-width: 1320px;}
 
@@ -31405,10 +31415,10 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .overflow-y-visible-xxl, .overflow-y-visible-xxl-H:hover {overflow-y: visible;}
 
 /* direction flex */
-.row-xxl, .row-xxl-H:hover {flex-direction: row;}
-.row-reverse-xxl, .row-reverse-xxl-H:hover {flex-direction: row-reverse;}
-.column-xxl, .column-xxl-H:hover {flex-direction: column;}
-.column-reverse-xxl, .column-reverse-xxl-H:hover {flex-direction: column-reverse;}
+.f-row-xxl, .f-row-xxl-H:hover {flex-direction: row;}
+.f-row-reverse-xxl, .f-row-reverse-xxl-H:hover {flex-direction: row-reverse;}
+.f-column-xxl, .f-column-xxl-H:hover {flex-direction: column;}
+.f-column-reverse-xxl, .f-column-reverse-xxl-H:hover {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-xxl, .j-center-xxl, .center-xxl, .justify-center-xxl-H:hover, .j-center-xxl-H:hover, .center-xxl-H:hover {justify-content: center;}
@@ -31749,7 +31759,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .float-l-10-xxl, .float-l-10-xxl-H:hover {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-xxl, .float-l-11-xxl-H:hover {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-xxl, .float-l-12-xxl-H:hover, .float-l-full-xxl, .float-l-full-xxl-H:hover {float: left; width: 100%;}
-.float-l-0-xxl, .float-l-0-xxl-H:hover {float: left; width: auto;}
+.float-l-0-xxl, .float-l-0-xxl-H:hover, .float-l-auto-xxl, .float-l-auto-xxl-H:hover {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-xxl, .float-r-xxl-H:hover {float: right; width: calc(100% / 12);}
@@ -31764,7 +31774,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .float-r-10-xxl, .float-r-10-xxl-H:hover {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-xxl, .float-r-11-xxl-H:hover {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-xxl, .float-r-12-xxl-H:hover, .float-r-full-xxl, .float-r-full-xxl-H:hover {float: right; width: 100%;}
-.float-r-0-xxl, .float-r-0-xxl-H:hover {float: right; width: auto;}
+.float-r-0-xxl, .float-r-0-xxl-H:hover, .float-r-auto-xxl, .float-r-auto-xxl-H:hover {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-xxl::after, .clearfix-xxl-H:hover::after, .clear-float-both-xxl::after, .clear-float-both-xxl-H:hover::after, .clear-both-xxl::after, .clear-both-xxl-H:hover::after {content: ''; display: table; clear: both;}
@@ -34327,10 +34337,10 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .visible-y-xxl-A:active, .overflow-y-visible-xxl-A:active {overflow-y: visible;}
 
 /* direction flex */
-.row-xxl-A:active {flex-direction: row;}
-.row-reverse-xxl-A:active {flex-direction: row-reverse;}
-.column-xxl-A:active {flex-direction: column;}
-.column-reverse-xxl-A:active {flex-direction: column-reverse;}
+.f-row-xxl-A:active {flex-direction: row;}
+.f-row-reverse-xxl-A:active {flex-direction: row-reverse;}
+.f-column-xxl-A:active {flex-direction: column;}
+.f-column-reverse-xxl-A:active {flex-direction: column-reverse;}
 
 /* justify-content */
 .justify-center-xxl-A:active, .j-center-xxl-A:active, .center-xxl-A:active {justify-content: center;}
@@ -34671,7 +34681,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-l-10-xxl-A:active {float: left; width: calc((100% / 12) * 10);}
 .float-l-11-xxl-A:active {float: left; width: calc((100% / 12) * 11);}
 .float-l-12-xxl-A:active, .float-l-full-A:active {float: left; width: 100%;}
-.float-l-0-xxl-A:active {float: left; width: auto;}
+.float-l-0-xxl-A:active, .float-l-auto-xxl-A:active {float: left; width: auto;}
 
 /* float-r-num = float: right; */
 .float-r-xxl-A:active {float: right; width: calc(100% / 12);}
@@ -34686,7 +34696,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .float-r-10-xxl-A:active {float: right; width: calc((100% / 12) * 10);}
 .float-r-11-xxl-A:active {float: right; width: calc((100% / 12) * 11);}
 .float-r-12-xxl-A:active, .float-r-full-xxl-A:active {float: right; width: 100%;}
-.float-r-0-xxl-A:active {float: right; width: auto;}
+.float-r-0-xxl-A:active, .float-r-auto-xxl-A:active {float: right; width: auto;}
 
 /* clear-float-name */
 .clearfix-xxl-A:active::after, .clear-float-both-xxl-A:active::after, .clear-both-xxl-A:active::after {content: ''; display: table; clear: both;}
@@ -35089,4 +35099,6 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .lowercase-xxl-A:active, .t-transform-lowercase-xxl-A:active {text-transform: lowercase;}
 .uppercase-xxl-A:active, .t-transform-uppercase-xxl-A:active {text-transform: uppercase;}
 .t-transform-none-xxl-A:active {text-transform: none;}
+
+    }
 }
