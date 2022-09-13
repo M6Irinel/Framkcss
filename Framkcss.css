@@ -6158,7 +6158,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .red-2-sm, .red-2-sm-H:hover {color: #ff9999;}
 .red-3-sm, .red-3-sm-H:hover {color: #ff6666;}
 .red-4-sm, .red-4-sm-H:hover {color: #ff3333;}
-.red-5-sm, .red-5-sm-H:hover, .red, .red-sm-H:hover {color: #ff0000;}
+.red-5-sm, .red-5-sm-H:hover, .red-sm, .red-sm-H:hover {color: #ff0000;}
 .red-6-sm, .red-6-sm-H:hover {color: #cc0000;}
 .red-7-sm, .red-7-sm-H:hover {color: #990000;}
 .red-8-sm, .red-8-sm-H:hover {color: #660000;}
@@ -6169,7 +6169,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .blue-2-sm, .blue-2-sm-H:hover {color: #9999ff;}
 .blue-3-sm, .blue-3-sm-H:hover {color: #6666ff;}
 .blue-4-sm, .blue-4-sm-H:hover {color: #3333ff;}
-.blue-5-sm, .blue-5-sm-H:hover, .blue, .blue-sm-H:hover {color: #0000ff;}
+.blue-5-sm, .blue-5-sm-H:hover, .blue-sm, .blue-sm-H:hover {color: #0000ff;}
 .blue-6-sm, .blue-6-sm-H:hover {color: #0000cc;}
 .blue-7-sm, .blue-7-sm-H:hover {color: #000099;}
 .blue-8-sm, .blue-8-sm-H:hover {color: #000066;}
@@ -6180,7 +6180,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .green-2-sm, .green-2-sm-H:hover {color: #99ff99;}
 .green-3-sm, .green-3-sm-H:hover {color: #66ff66;}
 .green-4-sm, .green-4-sm-H:hover {color: #33ff33;}
-.green-5-sm, .green-5-sm-H:hover, .green, .green-sm-H:hover {color: #00ff00;}
+.green-5-sm, .green-5-sm-H:hover, .green-sm, .green-sm-H:hover {color: #00ff00;}
 .green-6-sm, .green-6-sm-H:hover {color: #00cc00;}
 .green-7-sm, .green-7-sm-H:hover {color: #009900;}
 .green-8-sm, .green-8-sm-H:hover {color: #006600;}
@@ -6191,7 +6191,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .yellow-2-sm, .yellow-2-sm-H:hover {color: #ffff99;}
 .yellow-3-sm, .yellow-3-sm-H:hover {color: #ffff66;}
 .yellow-4-sm, .yellow-4-sm-H:hover {color: #ffff33;}
-.yellow-5-sm, .yellow-5-sm-H:hover, .yellow, .yellow-sm-H:hover {color: #ffff00;}
+.yellow-5-sm, .yellow-5-sm-H:hover, .yellow-sm, .yellow-sm-H:hover {color: #ffff00;}
 .yellow-6-sm, .yellow-6-sm-H:hover {color: #cccc00;}
 .yellow-7-sm, .yellow-7-sm-H:hover {color: #999900;}
 .yellow-8-sm, .yellow-8-sm-H:hover {color: #666600;}
@@ -12010,7 +12010,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .red-2-md, .red-2-md-H:hover {color: #ff9999;}
 .red-3-md, .red-3-md-H:hover {color: #ff6666;}
 .red-4-md, .red-4-md-H:hover {color: #ff3333;}
-.red-5-md, .red-5-md-H:hover, .red, .red-md-H:hover {color: #ff0000;}
+.red-5-md, .red-5-md-H:hover, .red-md, .red-md-H:hover {color: #ff0000;}
 .red-6-md, .red-6-md-H:hover {color: #cc0000;}
 .red-7-md, .red-7-md-H:hover {color: #990000;}
 .red-8-md, .red-8-md-H:hover {color: #660000;}
@@ -12021,7 +12021,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .blue-2-md, .blue-2-md-H:hover {color: #9999ff;}
 .blue-3-md, .blue-3-md-H:hover {color: #6666ff;}
 .blue-4-md, .blue-4-md-H:hover {color: #3333ff;}
-.blue-5-md, .blue-5-md-H:hover, .blue, .blue-md-H:hover {color: #0000ff;}
+.blue-5-md, .blue-5-md-H:hover, .blue-md, .blue-md-H:hover {color: #0000ff;}
 .blue-6-md, .blue-6-md-H:hover {color: #0000cc;}
 .blue-7-md, .blue-7-md-H:hover {color: #000099;}
 .blue-8-md, .blue-8-md-H:hover {color: #000066;}
@@ -12032,7 +12032,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .green-2-md, .green-2-md-H:hover {color: #99ff99;}
 .green-3-md, .green-3-md-H:hover {color: #66ff66;}
 .green-4-md, .green-4-md-H:hover {color: #33ff33;}
-.green-5-md, .green-5-md-H:hover, .green, .green-md-H:hover {color: #00ff00;}
+.green-5-md, .green-5-md-H:hover, .green-md, .green-md-H:hover {color: #00ff00;}
 .green-6-md, .green-6-md-H:hover {color: #00cc00;}
 .green-7-md, .green-7-md-H:hover {color: #009900;}
 .green-8-md, .green-8-md-H:hover {color: #006600;}
@@ -12043,7 +12043,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .yellow-2-md, .yellow-2-md-H:hover {color: #ffff99;}
 .yellow-3-md, .yellow-3-md-H:hover {color: #ffff66;}
 .yellow-4-md, .yellow-4-md-H:hover {color: #ffff33;}
-.yellow-5-md, .yellow-5-md-H:hover, .yellow, .yellow-md-H:hover {color: #ffff00;}
+.yellow-5-md, .yellow-5-md-H:hover, .yellow-md, .yellow-md-H:hover {color: #ffff00;}
 .yellow-6-md, .yellow-6-md-H:hover {color: #cccc00;}
 .yellow-7-md, .yellow-7-md-H:hover {color: #999900;}
 .yellow-8-md, .yellow-8-md-H:hover {color: #666600;}
@@ -17860,7 +17860,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .red-2-lg, .red-2-lg-H:hover {color: #ff9999;}
 .red-3-lg, .red-3-lg-H:hover {color: #ff6666;}
 .red-4-lg, .red-4-lg-H:hover {color: #ff3333;}
-.red-5-lg, .red-5-lg-H:hover, .red, .red-lg-H:hover {color: #ff0000;}
+.red-5-lg, .red-5-lg-H:hover, .red-lg, .red-lg-H:hover {color: #ff0000;}
 .red-6-lg, .red-6-lg-H:hover {color: #cc0000;}
 .red-7-lg, .red-7-lg-H:hover {color: #990000;}
 .red-8-lg, .red-8-lg-H:hover {color: #660000;}
@@ -17871,7 +17871,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .blue-2-lg, .blue-2-lg-H:hover {color: #9999ff;}
 .blue-3-lg, .blue-3-lg-H:hover {color: #6666ff;}
 .blue-4-lg, .blue-4-lg-H:hover {color: #3333ff;}
-.blue-5-lg, .blue-5-lg-H:hover, .blue, .blue-lg-H:hover {color: #0000ff;}
+.blue-5-lg, .blue-5-lg-H:hover, .blue-lg, .blue-lg-H:hover {color: #0000ff;}
 .blue-6-lg, .blue-6-lg-H:hover {color: #0000cc;}
 .blue-7-lg, .blue-7-lg-H:hover {color: #000099;}
 .blue-8-lg, .blue-8-lg-H:hover {color: #000066;}
@@ -17882,7 +17882,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .green-2-lg, .green-2-lg-H:hover {color: #99ff99;}
 .green-3-lg, .green-3-lg-H:hover {color: #66ff66;}
 .green-4-lg, .green-4-lg-H:hover {color: #33ff33;}
-.green-5-lg, .green-5-lg-H:hover, .green, .green-lg-H:hover {color: #00ff00;}
+.green-5-lg, .green-5-lg-H:hover, .green-lg, .green-lg-H:hover {color: #00ff00;}
 .green-6-lg, .green-6-lg-H:hover {color: #00cc00;}
 .green-7-lg, .green-7-lg-H:hover {color: #009900;}
 .green-8-lg, .green-8-lg-H:hover {color: #006600;}
@@ -17893,7 +17893,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .yellow-2-lg, .yellow-2-lg-H:hover {color: #ffff99;}
 .yellow-3-lg, .yellow-3-lg-H:hover {color: #ffff66;}
 .yellow-4-lg, .yellow-4-lg-H:hover {color: #ffff33;}
-.yellow-5-lg, .yellow-5-lg-H:hover, .yellow, .yellow-lg-H:hover {color: #ffff00;}
+.yellow-5-lg, .yellow-5-lg-H:hover, .yellow-lg, .yellow-lg-H:hover {color: #ffff00;}
 .yellow-6-lg, .yellow-6-lg-H:hover {color: #cccc00;}
 .yellow-7-lg, .yellow-7-lg-H:hover {color: #999900;}
 .yellow-8-lg, .yellow-8-lg-H:hover {color: #666600;}
@@ -23710,7 +23710,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .red-2-xl, .red-2-xl-H:hover {color: #ff9999;}
 .red-3-xl, .red-3-xl-H:hover {color: #ff6666;}
 .red-4-xl, .red-4-xl-H:hover {color: #ff3333;}
-.red-5-xl, .red-5-xl-H:hover, .red, .red-xl-H:hover {color: #ff0000;}
+.red-5-xl, .red-5-xl-H:hover, .red-xl, .red-xl-H:hover {color: #ff0000;}
 .red-6-xl, .red-6-xl-H:hover {color: #cc0000;}
 .red-7-xl, .red-7-xl-H:hover {color: #990000;}
 .red-8-xl, .red-8-xl-H:hover {color: #660000;}
@@ -23721,7 +23721,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .blue-2-xl, .blue-2-xl-H:hover {color: #9999ff;}
 .blue-3-xl, .blue-3-xl-H:hover {color: #6666ff;}
 .blue-4-xl, .blue-4-xl-H:hover {color: #3333ff;}
-.blue-5-xl, .blue-5-xl-H:hover, .blue, .blue-xl-H:hover {color: #0000ff;}
+.blue-5-xl, .blue-5-xl-H:hover, .blue-xl, .blue-xl-H:hover {color: #0000ff;}
 .blue-6-xl, .blue-6-xl-H:hover {color: #0000cc;}
 .blue-7-xl, .blue-7-xl-H:hover {color: #000099;}
 .blue-8-xl, .blue-8-xl-H:hover {color: #000066;}
@@ -23732,7 +23732,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .green-2-xl, .green-2-xl-H:hover {color: #99ff99;}
 .green-3-xl, .green-3-xl-H:hover {color: #66ff66;}
 .green-4-xl, .green-4-xl-H:hover {color: #33ff33;}
-.green-5-xl, .green-5-xl-H:hover, .green, .green-xl-H:hover {color: #00ff00;}
+.green-5-xl, .green-5-xl-H:hover, .green-xl, .green-xl-H:hover {color: #00ff00;}
 .green-6-xl, .green-6-xl-H:hover {color: #00cc00;}
 .green-7-xl, .green-7-xl-H:hover {color: #009900;}
 .green-8-xl, .green-8-xl-H:hover {color: #006600;}
@@ -23743,7 +23743,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .yellow-2-xl, .yellow-2-xl-H:hover {color: #ffff99;}
 .yellow-3-xl, .yellow-3-xl-H:hover {color: #ffff66;}
 .yellow-4-xl, .yellow-4-xl-H:hover {color: #ffff33;}
-.yellow-5-xl, .yellow-5-xl-H:hover, .yellow, .yellow-xl-H:hover {color: #ffff00;}
+.yellow-5-xl, .yellow-5-xl-H:hover, .yellow-xl, .yellow-xl-H:hover {color: #ffff00;}
 .yellow-6-xl, .yellow-6-xl-H:hover {color: #cccc00;}
 .yellow-7-xl, .yellow-7-xl-H:hover {color: #999900;}
 .yellow-8-xl, .yellow-8-xl-H:hover {color: #666600;}
@@ -29560,7 +29560,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .red-2-xxl, .red-2-xxl-H:hover {color: #ff9999;}
 .red-3-xxl, .red-3-xxl-H:hover {color: #ff6666;}
 .red-4-xxl, .red-4-xxl-H:hover {color: #ff3333;}
-.red-5-xxl, .red-5-xxl-H:hover, .red, .red-xxl-H:hover {color: #ff0000;}
+.red-5-xxl, .red-5-xxl-H:hover, .red-xxl, .red-xxl-H:hover {color: #ff0000;}
 .red-6-xxl, .red-6-xxl-H:hover {color: #cc0000;}
 .red-7-xxl, .red-7-xxl-H:hover {color: #990000;}
 .red-8-xxl, .red-8-xxl-H:hover {color: #660000;}
@@ -29571,7 +29571,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .blue-2-xxl, .blue-2-xxl-H:hover {color: #9999ff;}
 .blue-3-xxl, .blue-3-xxl-H:hover {color: #6666ff;}
 .blue-4-xxl, .blue-4-xxl-H:hover {color: #3333ff;}
-.blue-5-xxl, .blue-5-xxl-H:hover, .blue, .blue-xxl-H:hover {color: #0000ff;}
+.blue-5-xxl, .blue-5-xxl-H:hover, .blue-xxl, .blue-xxl-H:hover {color: #0000ff;}
 .blue-6-xxl, .blue-6-xxl-H:hover {color: #0000cc;}
 .blue-7-xxl, .blue-7-xxl-H:hover {color: #000099;}
 .blue-8-xxl, .blue-8-xxl-H:hover {color: #000066;}
@@ -29582,7 +29582,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .green-2-xxl, .green-2-xxl-H:hover {color: #99ff99;}
 .green-3-xxl, .green-3-xxl-H:hover {color: #66ff66;}
 .green-4-xxl, .green-4-xxl-H:hover {color: #33ff33;}
-.green-5-xxl, .green-5-xxl-H:hover, .green, .green-xxl-H:hover {color: #00ff00;}
+.green-5-xxl, .green-5-xxl-H:hover, .green-xxl, .green-xxl-H:hover {color: #00ff00;}
 .green-6-xxl, .green-6-xxl-H:hover {color: #00cc00;}
 .green-7-xxl, .green-7-xxl-H:hover {color: #009900;}
 .green-8-xxl, .green-8-xxl-H:hover {color: #006600;}
@@ -29593,7 +29593,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .yellow-2-xxl, .yellow-2-xxl-H:hover {color: #ffff99;}
 .yellow-3-xxl, .yellow-3-xxl-H:hover {color: #ffff66;}
 .yellow-4-xxl, .yellow-4-xxl-H:hover {color: #ffff33;}
-.yellow-5-xxl, .yellow-5-xxl-H:hover, .yellow, .yellow-xxl-H:hover {color: #ffff00;}
+.yellow-5-xxl, .yellow-5-xxl-H:hover, .yellow-xxl, .yellow-xxl-H:hover {color: #ffff00;}
 .yellow-6-xxl, .yellow-6-xxl-H:hover {color: #cccc00;}
 .yellow-7-xxl, .yellow-7-xxl-H:hover {color: #999900;}
 .yellow-8-xxl, .yellow-8-xxl-H:hover {color: #666600;}
