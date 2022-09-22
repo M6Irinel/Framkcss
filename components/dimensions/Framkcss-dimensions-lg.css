@@ -1,0 +1,1890 @@
+@media screen and (min-width: 992px) {
+    @media screen and (max-width: 991.98px) {}
+
+/* w-num = width */
+.w-5-lg, .w-5-lg-H:hover {width: 5%;}
+.w-10-lg, .w-10-lg-H:hover {width: 10%;}
+.w-15-lg, .w-15-lg-H:hover {width: 15%;}
+.w-20-lg, .w-20-lg-H:hover {width: 20%;}
+.w-25-lg, .w-25-lg-H:hover {width: 25%;}
+.w-30-lg, .w-30-lg-H:hover {width: 30%;}
+.w-35-lg, .w-35-lg-H:hover {width: 35%;}
+.w-40-lg, .w-40-lg-H:hover {width: 40%;}
+.w-45-lg, .w-45-lg-H:hover {width: 45%;}
+.w-50-lg, .w-50-lg-H:hover {width: 50%;}
+.w-55-lg, .w-55-lg-H:hover {width: 55%;}
+.w-60-lg, .w-60-lg-H:hover {width: 60%;}
+.w-65-lg, .w-65-lg-H:hover {width: 65%;}
+.w-70-lg, .w-70-lg-H:hover {width: 70%;}
+.w-75-lg, .w-75-lg-H:hover {width: 75%;}
+.w-80-lg, .w-80-lg-H:hover {width: 80%;}
+.w-85-lg, .w-85-lg-H:hover {width: 85%;}
+.w-90-lg, .w-90-lg-H:hover {width: 90%;}
+.w-95-lg, .w-95-lg-H:hover {width: 95%;}
+.w-100-lg, .w-100-lg-H:hover, .container-fluid-lg, .container-fluid-lg-H:hover {width: 100%;}
+
+/* max-w-num = width */
+.max-w-5-lg, .max-w-5-lg-H:hover {max-width: 5%;}
+.max-w-10-lg, .max-w-10-lg-H:hover {max-width: 10%;}
+.max-w-15-lg, .max-w-15-lg-H:hover {max-width: 15%;}
+.max-w-20-lg, .max-w-20-lg-H:hover {max-width: 20%;}
+.max-w-25-lg, .max-w-25-lg-H:hover {max-width: 25%;}
+.max-w-30-lg, .max-w-30-lg-H:hover {max-width: 30%;}
+.max-w-35-lg, .max-w-35-lg-H:hover {max-width: 35%;}
+.max-w-40-lg, .max-w-40-lg-H:hover {max-width: 40%;}
+.max-w-45-lg, .max-w-45-lg-H:hover {max-width: 45%;}
+.max-w-50-lg, .max-w-50-lg-H:hover {max-width: 50%;}
+.max-w-55-lg, .max-w-55-lg-H:hover {max-width: 55%;}
+.max-w-60-lg, .max-w-60-lg-H:hover {max-width: 60%;}
+.max-w-65-lg, .max-w-65-lg-H:hover {max-width: 65%;}
+.max-w-70-lg, .max-w-70-lg-H:hover {max-width: 70%;}
+.max-w-75-lg, .max-w-75-lg-H:hover {max-width: 75%;}
+.max-w-80-lg, .max-w-80-lg-H:hover {max-width: 80%;}
+.max-w-85-lg, .max-w-85-lg-H:hover {max-width: 85%;}
+.max-w-90-lg, .max-w-90-lg-H:hover {max-width: 90%;}
+.max-w-95-lg, .max-w-95-lg-H:hover {max-width: 95%;}
+.max-w-100-lg, .max-w-100-lg-H:hover {max-width: 100%;}
+
+/* min-w-num = width */
+.min-w-5-lg, .min-w-5-lg-H:hover {min-width: 5%;}
+.min-w-10-lg, .min-w-10-lg-H:hover {min-width: 10%;}
+.min-w-15-lg, .min-w-15-lg-H:hover {min-width: 15%;}
+.min-w-20-lg, .min-w-20-lg-H:hover {min-width: 20%;}
+.min-w-25-lg, .min-w-25-lg-H:hover {min-width: 25%;}
+.min-w-30-lg, .min-w-30-lg-H:hover {min-width: 30%;}
+.min-w-35-lg, .min-w-35-lg-H:hover {min-width: 35%;}
+.min-w-40-lg, .min-w-40-lg-H:hover {min-width: 40%;}
+.min-w-45-lg, .min-w-45-lg-H:hover {min-width: 45%;}
+.min-w-50-lg, .min-w-50-lg-H:hover {min-width: 50%;}
+.min-w-55-lg, .min-w-55-lg-H:hover {min-width: 55%;}
+.min-w-60-lg, .min-w-60-lg-H:hover {min-width: 60%;}
+.min-w-65-lg, .min-w-65-lg-H:hover {min-width: 65%;}
+.min-w-70-lg, .min-w-70-lg-H:hover {min-width: 70%;}
+.min-w-75-lg, .min-w-75-lg-H:hover {min-width: 75%;}
+.min-w-80-lg, .min-w-80-lg-H:hover {min-width: 80%;}
+.min-w-85-lg, .min-w-85-lg-H:hover {min-width: 85%;}
+.min-w-90-lg, .min-w-90-lg-H:hover {min-width: 90%;}
+.min-w-95-lg, .min-w-95-lg-H:hover {min-width: 95%;}
+.min-w-100-lg, .min-w-100-lg-H:hover {min-width: 100%;}
+
+/* w-num_vw = width */
+.w-5vw-lg, .w-5vw-lg-H:hover {width: 5vw;}
+.w-10vw-lg, .w-10vw-lg-H:hover {width: 10vw;}
+.w-15vw-lg, .w-15vw-lg-H:hover {width: 15vw;}
+.w-20vw-lg, .w-20vw-lg-H:hover {width: 20vw;}
+.w-25vw-lg, .w-25vw-lg-H:hover {width: 25vw;}
+.w-30vw-lg, .w-30vw-lg-H:hover {width: 30vw;}
+.w-35vw-lg, .w-35vw-lg-H:hover {width: 35vw;}
+.w-40vw-lg, .w-40vw-lg-H:hover {width: 40vw;}
+.w-45vw-lg, .w-45vw-lg-H:hover {width: 45vw;}
+.w-50vw-lg, .w-50vw-lg-H:hover {width: 50vw;}
+.w-55vw-lg, .w-55vw-lg-H:hover {width: 55vw;}
+.w-60vw-lg, .w-60vw-lg-H:hover {width: 60vw;}
+.w-65vw-lg, .w-65vw-lg-H:hover {width: 65vw;}
+.w-70vw-lg, .w-70vw-lg-H:hover {width: 70vw;}
+.w-75vw-lg, .w-75vw-lg-H:hover {width: 75vw;}
+.w-80vw-lg, .w-80vw-lg-H:hover {width: 80vw;}
+.w-85vw-lg, .w-85vw-lg-H:hover {width: 85vw;}
+.w-90vw-lg, .w-90vw-lg-H:hover {width: 90vw;}
+.w-95vw-lg, .w-95vw-lg-H:hover {width: 95vw;}
+.w-100vw-lg, .w-100vw-lg-H:hover {width: 100vw;}
+
+/* max-w-num_vw = width */
+.max-w-5vw-lg, .max-w-5vw-lg-H:hover {max-width: 5vw;}
+.max-w-10vw-lg, .max-w-10vw-lg-H:hover {max-width: 10vw;}
+.max-w-15vw-lg, .max-w-15vw-lg-H:hover {max-width: 15vw;}
+.max-w-20vw-lg, .max-w-20vw-lg-H:hover {max-width: 20vw;}
+.max-w-25vw-lg, .max-w-25vw-lg-H:hover {max-width: 25vw;}
+.max-w-30vw-lg, .max-w-30vw-lg-H:hover {max-width: 30vw;}
+.max-w-35vw-lg, .max-w-35vw-lg-H:hover {max-width: 35vw;}
+.max-w-40vw-lg, .max-w-40vw-lg-H:hover {max-width: 40vw;}
+.max-w-45vw-lg, .max-w-45vw-lg-H:hover {max-width: 45vw;}
+.max-w-50vw-lg, .max-w-50vw-lg-H:hover {max-width: 50vw;}
+.max-w-55vw-lg, .max-w-55vw-lg-H:hover {max-width: 55vw;}
+.max-w-60vw-lg, .max-w-60vw-lg-H:hover {max-width: 60vw;}
+.max-w-65vw-lg, .max-w-65vw-lg-H:hover {max-width: 65vw;}
+.max-w-70vw-lg, .max-w-70vw-lg-H:hover {max-width: 70vw;}
+.max-w-75vw-lg, .max-w-75vw-lg-H:hover {max-width: 75vw;}
+.max-w-80vw-lg, .max-w-80vw-lg-H:hover {max-width: 80vw;}
+.max-w-85vw-lg, .max-w-85vw-lg-H:hover {max-width: 85vw;}
+.max-w-90vw-lg, .max-w-90vw-lg-H:hover {max-width: 90vw;}
+.max-w-95vw-lg, .max-w-95vw-lg-H:hover {max-width: 95vw;}
+.max-w-100vw-lg, .max-w-100vw-lg-H:hover {max-width: 100vw;}
+
+/* min-w-num_vw = width */
+.min-w-5vw-lg, .min-w-5vw-lg-H:hover {min-width: 5vw;}
+.min-w-10vw-lg, .min-w-10vw-lg-H:hover {min-width: 10vw;}
+.min-w-15vw-lg, .min-w-15vw-lg-H:hover {min-width: 15vw;}
+.min-w-20vw-lg, .min-w-20vw-lg-H:hover {min-width: 20vw;}
+.min-w-25vw-lg, .min-w-25vw-lg-H:hover {min-width: 25vw;}
+.min-w-30vw-lg, .min-w-30vw-lg-H:hover {min-width: 30vw;}
+.min-w-35vw-lg, .min-w-35vw-lg-H:hover {min-width: 35vw;}
+.min-w-40vw-lg, .min-w-40vw-lg-H:hover {min-width: 40vw;}
+.min-w-45vw-lg, .min-w-45vw-lg-H:hover {min-width: 45vw;}
+.min-w-50vw-lg, .min-w-50vw-lg-H:hover {min-width: 50vw;}
+.min-w-55vw-lg, .min-w-55vw-lg-H:hover {min-width: 55vw;}
+.min-w-60vw-lg, .min-w-60vw-lg-H:hover {min-width: 60vw;}
+.min-w-65vw-lg, .min-w-65vw-lg-H:hover {min-width: 65vw;}
+.min-w-70vw-lg, .min-w-70vw-lg-H:hover {min-width: 70vw;}
+.min-w-75vw-lg, .min-w-75vw-lg-H:hover {min-width: 75vw;}
+.min-w-80vw-lg, .min-w-80vw-lg-H:hover {min-width: 80vw;}
+.min-w-85vw-lg, .min-w-85vw-lg-H:hover {min-width: 85vw;}
+.min-w-90vw-lg, .min-w-90vw-lg-H:hover {min-width: 90vw;}
+.min-w-95vw-lg, .min-w-95vw-lg-H:hover {min-width: 95vw;}
+.min-w-100vw-lg, .min-w-100vw-lg-H:hover {min-width: 100vw;}
+
+/* w-auto */
+.w-auto-lg, .w-auto-lg-H:hover {width: auto;}
+
+/* h-num = height */
+.h-5-lg, .h-5-lg-H:hover {height: 5%;}
+.h-10-lg, .h-10-lg-H:hover {height: 10%;}
+.h-15-lg, .h-15-lg-H:hover {height: 15%;}
+.h-20-lg, .h-20-lg-H:hover {height: 20%;}
+.h-25-lg, .h-25-lg-H:hover {height: 25%;}
+.h-30-lg, .h-30-lg-H:hover {height: 30%;}
+.h-35-lg, .h-35-lg-H:hover {height: 35%;}
+.h-40-lg, .h-40-lg-H:hover {height: 40%;}
+.h-45-lg, .h-45-lg-H:hover {height: 45%;}
+.h-50-lg, .h-50-lg-H:hover {height: 50%;}
+.h-55-lg, .h-55-lg-H:hover {height: 55%;}
+.h-60-lg, .h-60-lg-H:hover {height: 60%;}
+.h-65-lg, .h-65-lg-H:hover {height: 65%;}
+.h-70-lg, .h-70-lg-H:hover {height: 70%;}
+.h-75-lg, .h-75-lg-H:hover {height: 75%;}
+.h-80-lg, .h-80-lg-H:hover {height: 80%;}
+.h-85-lg, .h-85-lg-H:hover {height: 85%;}
+.h-90-lg, .h-90-lg-H:hover {height: 90%;}
+.h-95-lg, .h-95-lg-H:hover {height: 95%;}
+.h-100-lg, .h-100-lg-H:hover {height: 100%;}
+
+/* max-h-num = height */
+.max-h-5-lg, .max-h-5-lg-H:hover {max-height: 5%;}
+.max-h-10-lg, .max-h-10-lg-H:hover {max-height: 10%;}
+.max-h-15-lg, .max-h-15-lg-H:hover {max-height: 15%;}
+.max-h-20-lg, .max-h-20-lg-H:hover {max-height: 20%;}
+.max-h-25-lg, .max-h-25-lg-H:hover {max-height: 25%;}
+.max-h-30-lg, .max-h-30-lg-H:hover {max-height: 30%;}
+.max-h-35-lg, .max-h-35-lg-H:hover {max-height: 35%;}
+.max-h-40-lg, .max-h-40-lg-H:hover {max-height: 40%;}
+.max-h-45-lg, .max-h-45-lg-H:hover {max-height: 45%;}
+.max-h-50-lg, .max-h-50-lg-H:hover {max-height: 50%;}
+.max-h-55-lg, .max-h-55-lg-H:hover {max-height: 55%;}
+.max-h-60-lg, .max-h-60-lg-H:hover {max-height: 60%;}
+.max-h-65-lg, .max-h-65-lg-H:hover {max-height: 65%;}
+.max-h-70-lg, .max-h-70-lg-H:hover {max-height: 70%;}
+.max-h-75-lg, .max-h-75-lg-H:hover {max-height: 75%;}
+.max-h-80-lg, .max-h-80-lg-H:hover {max-height: 80%;}
+.max-h-85-lg, .max-h-85-lg-H:hover {max-height: 85%;}
+.max-h-90-lg, .max-h-90-lg-H:hover {max-height: 90%;}
+.max-h-95-lg, .max-h-95-lg-H:hover {max-height: 95%;}
+.max-h-100-lg, .max-h-100-lg-H:hover {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-lg, .min-h-5-lg-H:hover {min-height: 5%;}
+.min-h-10-lg, .min-h-10-lg-H:hover {min-height: 10%;}
+.min-h-15-lg, .min-h-15-lg-H:hover {min-height: 15%;}
+.min-h-20-lg, .min-h-20-lg-H:hover {min-height: 20%;}
+.min-h-25-lg, .min-h-25-lg-H:hover {min-height: 25%;}
+.min-h-30-lg, .min-h-30-lg-H:hover {min-height: 30%;}
+.min-h-35-lg, .min-h-35-lg-H:hover {min-height: 35%;}
+.min-h-40-lg, .min-h-40-lg-H:hover {min-height: 40%;}
+.min-h-45-lg, .min-h-45-lg-H:hover {min-height: 45%;}
+.min-h-50-lg, .min-h-50-lg-H:hover {min-height: 50%;}
+.min-h-55-lg, .min-h-55-lg-H:hover {min-height: 55%;}
+.min-h-60-lg, .min-h-60-lg-H:hover {min-height: 60%;}
+.min-h-65-lg, .min-h-65-lg-H:hover {min-height: 65%;}
+.min-h-70-lg, .min-h-70-lg-H:hover {min-height: 70%;}
+.min-h-75-lg, .min-h-75-lg-H:hover {min-height: 75%;}
+.min-h-80-lg, .min-h-80-lg-H:hover {min-height: 80%;}
+.min-h-85-lg, .min-h-85-lg-H:hover {min-height: 85%;}
+.min-h-90-lg, .min-h-90-lg-H:hover {min-height: 90%;}
+.min-h-95-lg, .min-h-95-lg-H:hover {min-height: 95%;}
+.min-h-100-lg, .min-h-100-lg-H:hover {min-height: 100%;}
+
+/* h-num_vh = height */
+.h-5vh-lg, .h-5vh-lg-H:hover {height: 5vh;}
+.h-10vh-lg, .h-10vh-lg-H:hover {height: 10vh;}
+.h-15vh-lg, .h-15vh-lg-H:hover {height: 15vh;}
+.h-20vh-lg, .h-20vh-lg-H:hover {height: 20vh;}
+.h-25vh-lg, .h-25vh-lg-H:hover {height: 25vh;}
+.h-30vh-lg, .h-30vh-lg-H:hover {height: 30vh;}
+.h-35vh-lg, .h-35vh-lg-H:hover {height: 35vh;}
+.h-40vh-lg, .h-40vh-lg-H:hover {height: 40vh;}
+.h-45vh-lg, .h-45vh-lg-H:hover {height: 45vh;}
+.h-50vh-lg, .h-50vh-lg-H:hover {height: 50vh;}
+.h-55vh-lg, .h-55vh-lg-H:hover {height: 55vh;}
+.h-60vh-lg, .h-60vh-lg-H:hover {height: 60vh;}
+.h-65vh-lg, .h-65vh-lg-H:hover {height: 65vh;}
+.h-70vh-lg, .h-70vh-lg-H:hover {height: 70vh;}
+.h-75vh-lg, .h-75vh-lg-H:hover {height: 75vh;}
+.h-80vh-lg, .h-80vh-lg-H:hover {height: 80vh;}
+.h-85vh-lg, .h-85vh-lg-H:hover {height: 85vh;}
+.h-90vh-lg, .h-90vh-lg-H:hover {height: 90vh;}
+.h-95vh-lg, .h-95vh-lg-H:hover {height: 95vh;}
+.h-100vh-lg, .h-100vh-lg-H:hover {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-lg, .max-h-5vh-lg-H:hover {max-height: 5vh;}
+.max-h-10vh-lg, .max-h-10vh-lg-H:hover {max-height: 10vh;}
+.max-h-15vh-lg, .max-h-15vh-lg-H:hover {max-height: 15vh;}
+.max-h-20vh-lg, .max-h-20vh-lg-H:hover {max-height: 20vh;}
+.max-h-25vh-lg, .max-h-25vh-lg-H:hover {max-height: 25vh;}
+.max-h-30vh-lg, .max-h-30vh-lg-H:hover {max-height: 30vh;}
+.max-h-35vh-lg, .max-h-35vh-lg-H:hover {max-height: 35vh;}
+.max-h-40vh-lg, .max-h-40vh-lg-H:hover {max-height: 40vh;}
+.max-h-45vh-lg, .max-h-45vh-lg-H:hover {max-height: 45vh;}
+.max-h-50vh-lg, .max-h-50vh-lg-H:hover {max-height: 50vh;}
+.max-h-55vh-lg, .max-h-55vh-lg-H:hover {max-height: 55vh;}
+.max-h-60vh-lg, .max-h-60vh-lg-H:hover {max-height: 60vh;}
+.max-h-65vh-lg, .max-h-65vh-lg-H:hover {max-height: 65vh;}
+.max-h-70vh-lg, .max-h-70vh-lg-H:hover {max-height: 70vh;}
+.max-h-75vh-lg, .max-h-75vh-lg-H:hover {max-height: 75vh;}
+.max-h-80vh-lg, .max-h-80vh-lg-H:hover {max-height: 80vh;}
+.max-h-85vh-lg, .max-h-85vh-lg-H:hover {max-height: 85vh;}
+.max-h-90vh-lg, .max-h-90vh-lg-H:hover {max-height: 90vh;}
+.max-h-95vh-lg, .max-h-95vh-lg-H:hover {max-height: 95vh;}
+.max-h-100vh-lg, .max-h-100vh-lg-H:hover {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-lg, .min-h-5vh-lg-H:hover {min-height: 5vh;}
+.min-h-10vh-lg, .min-h-10vh-lg-H:hover {min-height: 10vh;}
+.min-h-15vh-lg, .min-h-15vh-lg-H:hover {min-height: 15vh;}
+.min-h-20vh-lg, .min-h-20vh-lg-H:hover {min-height: 20vh;}
+.min-h-25vh-lg, .min-h-25vh-lg-H:hover {min-height: 25vh;}
+.min-h-30vh-lg, .min-h-30vh-lg-H:hover {min-height: 30vh;}
+.min-h-35vh-lg, .min-h-35vh-lg-H:hover {min-height: 35vh;}
+.min-h-40vh-lg, .min-h-40vh-lg-H:hover {min-height: 40vh;}
+.min-h-45vh-lg, .min-h-45vh-lg-H:hover {min-height: 45vh;}
+.min-h-50vh-lg, .min-h-50vh-lg-H:hover {min-height: 50vh;}
+.min-h-55vh-lg, .min-h-55vh-lg-H:hover {min-height: 55vh;}
+.min-h-60vh-lg, .min-h-60vh-lg-H:hover {min-height: 60vh;}
+.min-h-65vh-lg, .min-h-65vh-lg-H:hover {min-height: 65vh;}
+.min-h-70vh-lg, .min-h-70vh-lg-H:hover {min-height: 70vh;}
+.min-h-75vh-lg, .min-h-75vh-lg-H:hover {min-height: 75vh;}
+.min-h-80vh-lg, .min-h-80vh-lg-H:hover {min-height: 80vh;}
+.min-h-85vh-lg, .min-h-85vh-lg-H:hover {min-height: 85vh;}
+.min-h-90vh-lg, .min-h-90vh-lg-H:hover {min-height: 90vh;}
+.min-h-95vh-lg, .min-h-95vh-lg-H:hover {min-height: 95vh;}
+.min-h-100vh-lg, .min-h-100vh-lg-H:hover {min-height: 100vh;}
+
+/* h-auto */
+.h-auto-lg, .h-auto-lg-H:hover {height: auto;}
+
+/* p-num = padding */
+.p-1-lg, .p-1-lg-H:hover {padding: .25rem;}
+.p-2-lg, .p-2-lg-H:hover {padding: .5rem;}
+.p-3-lg, .p-3-lg-H:hover {padding: .75rem;}
+.p-4-lg, .p-4-lg-H:hover {padding: 1rem;}
+.p-5-lg, .p-5-lg-H:hover {padding: 1.25rem;}
+.p-6-lg, .p-6-lg-H:hover {padding: 1.5rem;}
+.p-7-lg, .p-7-lg-H:hover {padding: 1.75rem;}
+.p-8-lg, .p-8-lg-H:hover {padding: 2rem;}
+.p-9-lg, .p-9-lg-H:hover {padding: 2.25rem;}
+.p-10-lg, .p-10-lg-H:hover {padding: 2.5rem;}
+.p-11-lg, .p-11-lg-H:hover {padding: 2.75rem;}
+.p-12-lg, .p-12-lg-H:hover {padding: 3rem;}
+.p-13-lg, .p-13-lg-H:hover {padding: 3.25rem;}
+.p-14-lg, .p-14-lg-H:hover {padding: 3.5rem;}
+.p-15-lg, .p-15-lg-H:hover {padding: 3.75rem;}
+.p-16-lg, .p-16-lg-H:hover {padding: 4rem;}
+.p-17-lg, .p-17-lg-H:hover {padding: 4.25rem;}
+.p-18-lg, .p-18-lg-H:hover {padding: 4.5rem;}
+.p-19-lg, .p-19-lg-H:hover {padding: 4.75rem;}
+.p-20-lg, .p-20-lg-H:hover {padding: 5rem;}
+
+/* pl-num = padding-left */
+.pl-1-lg, .pl-1-lg-H:hover {padding-left: .25rem;}
+.pl-2-lg, .pl-2-lg-H:hover {padding-left: .5rem;}
+.pl-3-lg, .pl-3-lg-H:hover {padding-left: .75rem;}
+.pl-4-lg, .pl-4-lg-H:hover {padding-left: 1rem;}
+.pl-5-lg, .pl-5-lg-H:hover {padding-left: 1.25rem;}
+.pl-6-lg, .pl-6-lg-H:hover {padding-left: 1.5rem;}
+.pl-7-lg, .pl-7-lg-H:hover {padding-left: 1.75rem;}
+.pl-8-lg, .pl-8-lg-H:hover {padding-left: 2rem;}
+.pl-9-lg, .pl-9-lg-H:hover {padding-left: 2.25rem;}
+.pl-10-lg, .pl-10-lg-H:hover {padding-left: 2.5rem;}
+.pl-11-lg, .pl-11-lg-H:hover {padding-left: 2.75rem;}
+.pl-12-lg, .pl-12-lg-H:hover {padding-left: 3rem;}
+.pl-13-lg, .pl-13-lg-H:hover {padding-left: 3.25rem;}
+.pl-14-lg, .pl-14-lg-H:hover {padding-left: 3.5rem;}
+.pl-15-lg, .pl-15-lg-H:hover {padding-left: 3.75rem;}
+.pl-16-lg, .pl-16-lg-H:hover {padding-left: 4rem;}
+.pl-17-lg, .pl-17-lg-H:hover {padding-left: 4.25rem;}
+.pl-18-lg, .pl-18-lg-H:hover {padding-left: 4.5rem;}
+.pl-19-lg, .pl-19-lg-H:hover {padding-left: 4.75rem;}
+.pl-20-lg, .pl-20-lg-H:hover {padding-left: 5rem;}
+.pl-0-lg, .pl-0-lg-H:hover {padding-left: 0;}
+
+/* pr-num = padding-right */
+.pr-1-lg, .pr-1-lg-H:hover {padding-right: .25rem;}
+.pr-2-lg, .pr-2-lg-H:hover {padding-right: .5rem;}
+.pr-3-lg, .pr-3-lg-H:hover {padding-right: .75rem;}
+.pr-4-lg, .pr-4-lg-H:hover {padding-right: 1rem;}
+.pr-5-lg, .pr-5-lg-H:hover {padding-right: 1.25rem;}
+.pr-6-lg, .pr-6-lg-H:hover {padding-right: 1.5rem;}
+.pr-7-lg, .pr-7-lg-H:hover {padding-right: 1.75rem;}
+.pr-8-lg, .pr-8-lg-H:hover {padding-right: 2rem;}
+.pr-9-lg, .pr-9-lg-H:hover {padding-right: 2.25rem;}
+.pr-10-lg, .pr-10-lg-H:hover {padding-right: 2.5rem;}
+.pr-11-lg, .pr-11-lg-H:hover {padding-right: 2.75rem;}
+.pr-12-lg, .pr-12-lg-H:hover {padding-right: 3rem;}
+.pr-13-lg, .pr-13-lg-H:hover {padding-right: 3.25rem;}
+.pr-14-lg, .pr-14-lg-H:hover {padding-right: 3.5rem;}
+.pr-15-lg, .pr-15-lg-H:hover {padding-right: 3.75rem;}
+.pr-16-lg, .pr-16-lg-H:hover {padding-right: 4rem;}
+.pr-17-lg, .pr-17-lg-H:hover {padding-right: 4.25rem;}
+.pr-18-lg, .pr-18-lg-H:hover {padding-right: 4.5rem;}
+.pr-19-lg, .pr-19-lg-H:hover {padding-right: 4.75rem;}
+.pr-20-lg, .pr-20-lg-H:hover {padding-right: 5rem;}
+.pr-0-lg, .pr-0-lg-H:hover {padding-right: 0;}
+
+/* pt-num = padding-top */
+.pt-1-lg, .pt-1-lg-H:hover {padding-top: .25rem;}
+.pt-2-lg, .pt-2-lg-H:hover {padding-top: .5rem;}
+.pt-3-lg, .pt-3-lg-H:hover {padding-top: .75rem;}
+.pt-4-lg, .pt-4-lg-H:hover {padding-top: 1rem;}
+.pt-5-lg, .pt-5-lg-H:hover {padding-top: 1.25rem;}
+.pt-6-lg, .pt-6-lg-H:hover {padding-top: 1.5rem;}
+.pt-7-lg, .pt-7-lg-H:hover {padding-top: 1.75rem;}
+.pt-8-lg, .pt-8-lg-H:hover {padding-top: 2rem;}
+.pt-9-lg, .pt-9-lg-H:hover {padding-top: 2.25rem;}
+.pt-10-lg, .pt-10-lg-H:hover {padding-top: 2.5rem;}
+.pt-11-lg, .pt-11-lg-H:hover {padding-top: 2.75rem;}
+.pt-12-lg, .pt-12-lg-H:hover {padding-top: 3rem;}
+.pt-13-lg, .pt-13-lg-H:hover {padding-top: 3.25rem;}
+.pt-14-lg, .pt-14-lg-H:hover {padding-top: 3.5rem;}
+.pt-15-lg, .pt-15-lg-H:hover {padding-top: 3.75rem;}
+.pt-16-lg, .pt-16-lg-H:hover {padding-top: 4rem;}
+.pt-17-lg, .pt-17-lg-H:hover {padding-top: 4.25rem;}
+.pt-18-lg, .pt-18-lg-H:hover {padding-top: 4.5rem;}
+.pt-19-lg, .pt-19-lg-H:hover {padding-top: 4.75rem;}
+.pt-20-lg, .pt-20-lg-H:hover {padding-top: 5rem;}
+.pt-0-lg, .pt-0-lg-H:hover {padding-top: 0;}
+
+/* pb-num = padding-bottom */
+.pb-1-lg, .pb-1-lg-H:hover {padding-bottom: .25rem;}
+.pb-2-lg, .pb-2-lg-H:hover {padding-bottom: .5rem;}
+.pb-3-lg, .pb-3-lg-H:hover {padding-bottom: .75rem;}
+.pb-4-lg, .pb-4-lg-H:hover {padding-bottom: 1rem;}
+.pb-5-lg, .pb-5-lg-H:hover {padding-bottom: 1.25rem;}
+.pb-6-lg, .pb-6-lg-H:hover {padding-bottom: 1.5rem;}
+.pb-7-lg, .pb-7-lg-H:hover {padding-bottom: 1.75rem;}
+.pb-8-lg, .pb-8-lg-H:hover {padding-bottom: 2rem;}
+.pb-9-lg, .pb-9-lg-H:hover {padding-bottom: 2.25rem;}
+.pb-10-lg, .pb-10-lg-H:hover {padding-bottom: 2.5rem;}
+.pb-11-lg, .pb-11-lg-H:hover {padding-bottom: 2.75rem;}
+.pb-12-lg, .pb-12-lg-H:hover {padding-bottom: 3rem;}
+.pb-13-lg, .pb-13-lg-H:hover {padding-bottom: 3.25rem;}
+.pb-14-lg, .pb-14-lg-H:hover {padding-bottom: 3.5rem;}
+.pb-15-lg, .pb-15-lg-H:hover {padding-bottom: 3.75rem;}
+.pb-16-lg, .pb-16-lg-H:hover {padding-bottom: 4rem;}
+.pb-17-lg, .pb-17-lg-H:hover {padding-bottom: 4.25rem;}
+.pb-18-lg, .pb-18-lg-H:hover {padding-bottom: 4.5rem;}
+.pb-19-lg, .pb-19-lg-H:hover {padding-bottom: 4.75rem;}
+.pb-20-lg, .pb-20-lg-H:hover {padding-bottom: 5rem;}
+.pb-0-lg, .pb-0-lg-H:hover {padding-bottom: 0;}
+
+/* px-num = padding-left and padding-right */
+.px-1-lg, .px-1-lg-H:hover {padding-left: .25rem; padding-right: .25rem;}
+.px-2-lg, .px-2-lg-H:hover {padding-left: .5rem; padding-right: .5;}
+.px-3-lg, .px-3-lg-H:hover {padding-left: .75rem; padding-right: .75rem;}
+.px-4-lg, .px-4-lg-H:hover {padding-left: 1rem; padding-right: 1rem;}
+.px-5-lg, .px-5-lg-H:hover {padding-left: 1.25rem; padding-right: 1.25rem;}
+.px-6-lg, .px-6-lg-H:hover {padding-left: 1.5rem; padding-right: 1.5;}
+.px-7-lg, .px-7-lg-H:hover {padding-left: 1.75rem; padding-right: 1.75rem;}
+.px-8-lg, .px-8-lg-H:hover {padding-left: 2rem; padding-right: 2rem;}
+.px-9-lg, .px-9-lg-H:hover {padding-left: 2.25rem; padding-right: 2.25rem;}
+.px-10-lg, .px-10-lg-H:hover {padding-left: 2.5rem; padding-right: 2.5rem;}
+.px-11-lg, .px-11-lg-H:hover {padding-left: 2.75rem; padding-right: 2.75rem;}
+.px-12-lg, .px-12-lg-H:hover {padding-left: 3rem; padding-right: 3rem;}
+.px-13-lg, .px-13-lg-H:hover {padding-left: 3.25rem; padding-right: 3.25rem;}
+.px-14-lg, .px-14-lg-H:hover {padding-left: 3.5rem; padding-right: 3.5rem;}
+.px-15-lg, .px-15-lg-H:hover {padding-left: 3.75rem; padding-right: 3.75rem;}
+.px-16-lg, .px-16-lg-H:hover {padding-left: 4rem; padding-right: 4rem;}
+.px-17-lg, .px-17-lg-H:hover {padding-left: 4.25rem; padding-right: 4.25rem;}
+.px-18-lg, .px-18-lg-H:hover {padding-left: 4.5rem; padding-right: 4.5rem;}
+.px-19-lg, .px-19-lg-H:hover {padding-left: 4.75rem; padding-right: 4.75rem;}
+.px-20-lg, .px-20-lg-H:hover {padding-left: 5rem; padding-right: 5rem;}
+.px-0-lg, .px-0-lg-H:hover {padding-left: 0; padding-right: 0;}
+
+/* py-num = padding-top and padding-bottom */
+.py-1-lg, .py-1-lg-H:hover {padding-top: .25rem; padding-bottom: .25rem;}
+.py-2-lg, .py-2-lg-H:hover {padding-top: .5rem; padding-bottom: .5;}
+.py-3-lg, .py-3-lg-H:hover {padding-top: .75rem; padding-bottom: .75rem;}
+.py-4-lg, .py-4-lg-H:hover {padding-top: 1rem; padding-bottom: 1rem;}
+.py-5-lg, .py-5-lg-H:hover {padding-top: 1.25rem; padding-bottom: 1.25rem;}
+.py-6-lg, .py-6-lg-H:hover {padding-top: 1.5rem; padding-bottom: 1.5;}
+.py-7-lg, .py-7-lg-H:hover {padding-top: 1.75rem; padding-bottom: 1.75rem;}
+.py-8-lg, .py-8-lg-H:hover {padding-top: 2rem; padding-bottom: 2rem;}
+.py-9-lg, .py-9-lg-H:hover {padding-top: 2.25rem; padding-bottom: 2.25rem;}
+.py-10-lg, .py-10-lg-H:hover {padding-top: 2.5rem; padding-bottom: 2.5rem;}
+.py-11-lg, .py-11-lg-H:hover {padding-top: 2.75rem; padding-bottom: 2.75rem;}
+.py-12-lg, .py-12-lg-H:hover {padding-top: 3rem; padding-bottom: 3rem;}
+.py-13-lg, .py-13-lg-H:hover {padding-top: 3.25rem; padding-bottom: 3.25rem;}
+.py-14-lg, .py-14-lg-H:hover {padding-top: 3.5rem; padding-bottom: 3.5rem;}
+.py-15-lg, .py-15-lg-H:hover {padding-top: 3.75rem; padding-bottom: 3.75rem;}
+.py-16-lg, .py-16-lg-H:hover {padding-top: 4rem; padding-bottom: 4rem;}
+.py-17-lg, .py-17-lg-H:hover {padding-top: 4.25rem; padding-bottom: 4.25rem;}
+.py-18-lg, .py-18-lg-H:hover {padding-top: 4.5rem; padding-bottom: 4.5rem;}
+.py-19-lg, .py-19-lg-H:hover {padding-top: 4.75rem; padding-bottom: 4.75rem;}
+.py-20-lg, .py-20-lg-H:hover {padding-top: 5rem; padding-bottom: 5rem;}
+.py-0-lg, .py-0-lg-H:hover {padding-top: 0; padding-bottom: 0;}
+.p-0-lg, .p-0-lg-H:hover {padding: 0;}
+
+/* m-num = margin */
+.m-1-lg, .m-1-lg-H:hover {margin: .25rem;}
+.m-2-lg, .m-2-lg-H:hover {margin: .5rem;}
+.m-3-lg, .m-3-lg-H:hover {margin: .75rem;}
+.m-4-lg, .m-4-lg-H:hover {margin: 1rem;}
+.m-5-lg, .m-5-lg-H:hover {margin: 1.25rem;}
+.m-6-lg, .m-6-lg-H:hover {margin: 1.5rem;}
+.m-7-lg, .m-7-lg-H:hover {margin: 1.75rem;}
+.m-8-lg, .m-8-lg-H:hover {margin: 2rem;}
+.m-9-lg, .m-9-lg-H:hover {margin: 2.25rem;}
+.m-10-lg, .m-10-lg-H:hover {margin: 2.5rem;}
+.m-11-lg, .m-11-lg-H:hover {margin: 2.75rem;}
+.m-12-lg, .m-12-lg-H:hover {margin: 3rem;}
+.m-13-lg, .m-13-lg-H:hover {margin: 3.25rem;}
+.m-14-lg, .m-14-lg-H:hover {margin: 3.5rem;}
+.m-15-lg, .m-15-lg-H:hover {margin: 3.75rem;}
+.m-16-lg, .m-16-lg-H:hover {margin: 4rem;}
+.m-17-lg, .m-17-lg-H:hover {margin: 4.25rem;}
+.m-18-lg, .m-18-lg-H:hover {margin: 4.5rem;}
+.m-19-lg, .m-19-lg-H:hover {margin: 4.75rem;}
+.m-20-lg, .m-20-lg-H:hover {margin: 5rem;}
+
+/* -m-num = margin */
+.-m-1-lg, .-m-1-lg-H:hover {margin: -0.25rem;}
+.-m-2-lg, .-m-2-lg-H:hover {margin: -0.5rem;}
+.-m-3-lg, .-m-3-lg-H:hover {margin: -0.75rem;}
+.-m-4-lg, .-m-4-lg-H:hover {margin: -1rem;}
+.-m-5-lg, .-m-5-lg-H:hover {margin: -1.25rem;}
+.-m-6-lg, .-m-6-lg-H:hover {margin: -1.5rem;}
+.-m-7-lg, .-m-7-lg-H:hover {margin: -1.75rem;}
+.-m-8-lg, .-m-8-lg-H:hover {margin: -2rem;}
+.-m-9-lg, .-m-9-lg-H:hover {margin: -2.25rem;}
+.-m-10-lg, .-m-10-lg-H:hover {margin: -2.5rem;}
+.-m-11-lg, .-m-11-lg-H:hover {margin: -2.75rem;}
+.-m-12-lg, .-m-12-lg-H:hover {margin: -3rem;}
+.-m-13-lg, .-m-13-lg-H:hover {margin: -3.25rem;}
+.-m-14-lg, .-m-14-lg-H:hover {margin: -3.5rem;}
+.-m-15-lg, .-m-15-lg-H:hover {margin: -3.75rem;}
+.-m-16-lg, .-m-16-lg-H:hover {margin: -4rem;}
+.-m-17-lg, .-m-17-lg-H:hover {margin: -4.25rem;}
+.-m-18-lg, .-m-18-lg-H:hover {margin: -4.5rem;}
+.-m-19-lg, .-m-19-lg-H:hover {margin: -4.75rem;}
+.-m-20-lg, .-m-20-lg-H:hover {margin: -5rem;}
+.m-auto-lg, .m-auto-lg-H:hover, .container-lg, .container-lg, .container-lg-H:hover, .container-lg-H:hover {margin: 0 auto;}
+
+/* ml-num = margin-left */
+.ml-1-lg, .ml-1-lg-H:hover {margin-left: .25rem;}
+.ml-2-lg, .ml-2-lg-H:hover {margin-left: .5rem;}
+.ml-3-lg, .ml-3-lg-H:hover {margin-left: .75rem;}
+.ml-4-lg, .ml-4-lg-H:hover {margin-left: 1rem;}
+.ml-5-lg, .ml-5-lg-H:hover {margin-left: 1.25rem;}
+.ml-6-lg, .ml-6-lg-H:hover {margin-left: 1.5rem;}
+.ml-7-lg, .ml-7-lg-H:hover {margin-left: 1.75rem;}
+.ml-8-lg, .ml-8-lg-H:hover {margin-left: 2rem;}
+.ml-9-lg, .ml-9-lg-H:hover {margin-left: 2.25rem;}
+.ml-10-lg, .ml-10-lg-H:hover {margin-left: 2.5rem;}
+.ml-11-lg, .ml-11-lg-H:hover {margin-left: 2.75rem;}
+.ml-12-lg, .ml-12-lg-H:hover {margin-left: 3rem;}
+.ml-13-lg, .ml-13-lg-H:hover {margin-left: 3.25rem;}
+.ml-14-lg, .ml-14-lg-H:hover {margin-left: 3.5rem;}
+.ml-15-lg, .ml-15-lg-H:hover {margin-left: 3.75rem;}
+.ml-16-lg, .ml-16-lg-H:hover {margin-left: 4rem;}
+.ml-17-lg, .ml-17-lg-H:hover {margin-left: 4.25rem;}
+.ml-18-lg, .ml-18-lg-H:hover {margin-left: 4.5rem;}
+.ml-19-lg, .ml-19-lg-H:hover {margin-left: 4.75rem;}
+.ml-20-lg, .ml-20-lg-H:hover {margin-left: 5rem;}
+
+/* -ml-num = margin-left */
+.-ml-1-lg, .-ml-1-lg-H:hover {margin-left: -0.25rem;}
+.-ml-2-lg, .-ml-2-lg-H:hover {margin-left: -0.5rem;}
+.-ml-3-lg, .-ml-3-lg-H:hover {margin-left: -0.75rem;}
+.-ml-4-lg, .-ml-4-lg-H:hover {margin-left: -1rem;}
+.-ml-5-lg, .-ml-5-lg-H:hover {margin-left: -1.25rem;}
+.-ml-6-lg, .-ml-6-lg-H:hover {margin-left: -1.5rem;}
+.-ml-7-lg, .-ml-7-lg-H:hover {margin-left: -1.75rem;}
+.-ml-8-lg, .-ml-8-lg-H:hover {margin-left: -2rem;}
+.-ml-9-lg, .-ml-9-lg-H:hover {margin-left: -2.25rem;}
+.-ml-10-lg, .-ml-10-lg-H:hover {margin-left: -2.5rem;}
+.-ml-11-lg, .-ml-11-lg-H:hover {margin-left: -2.75rem;}
+.-ml-12-lg, .-ml-12-lg-H:hover {margin-left: -3rem;}
+.-ml-13-lg, .-ml-13-lg-H:hover {margin-left: -3.25rem;}
+.-ml-14-lg, .-ml-14-lg-H:hover {margin-left: -3.5rem;}
+.-ml-15-lg, .-ml-15-lg-H:hover {margin-left: -3.75rem;}
+.-ml-16-lg, .-ml-16-lg-H:hover {margin-left: -4rem;}
+.-ml-17-lg, .-ml-17-lg-H:hover {margin-left: -4.25rem;}
+.-ml-18-lg, .-ml-18-lg-H:hover {margin-left: -4.5rem;}
+.-ml-19-lg, .-ml-19-lg-H:hover {margin-left: -4.75rem;}
+.-ml-20-lg, .-ml-20-lg-H:hover {margin-left: -5rem;}
+.ml-auto-lg, .ml-auto-lg-H:hover {margin-left: auto;}
+.ml-0-lg, .ml-0-lg-H:hover {margin-left: 0;}
+
+/* mr-num = margin-right */
+.mr-1-lg, .mr-1-lg-H:hover {margin-right: .25rem;}
+.mr-2-lg, .mr-2-lg-H:hover {margin-right: .5rem;}
+.mr-3-lg, .mr-3-lg-H:hover {margin-right: .75rem;}
+.mr-4-lg, .mr-4-lg-H:hover {margin-right: 1rem;}
+.mr-5-lg, .mr-5-lg-H:hover {margin-right: 1.25rem;}
+.mr-6-lg, .mr-6-lg-H:hover {margin-right: 1.5rem;}
+.mr-7-lg, .mr-7-lg-H:hover {margin-right: 1.75rem;}
+.mr-8-lg, .mr-8-lg-H:hover {margin-right: 2rem;}
+.mr-9-lg, .mr-9-lg-H:hover {margin-right: 2.25rem;}
+.mr-10-lg, .mr-10-lg-H:hover {margin-right: 2.5rem;}
+.mr-11-lg, .mr-11-lg-H:hover {margin-right: 2.75rem;}
+.mr-12-lg, .mr-12-lg-H:hover {margin-right: 3rem;}
+.mr-13-lg, .mr-13-lg-H:hover {margin-right: 3.25rem;}
+.mr-14-lg, .mr-14-lg-H:hover {margin-right: 3.5rem;}
+.mr-15-lg, .mr-15-lg-H:hover {margin-right: 3.75rem;}
+.mr-16-lg, .mr-16-lg-H:hover {margin-right: 4rem;}
+.mr-17-lg, .mr-17-lg-H:hover {margin-right: 4.25rem;}
+.mr-18-lg, .mr-18-lg-H:hover {margin-right: 4.5rem;}
+.mr-19-lg, .mr-19-lg-H:hover {margin-right: 4.75rem;}
+.mr-20-lg, .mr-20-lg-H:hover {margin-right: 5rem;}
+
+/* -mr-num = margin-right */
+.-mr-1-lg, .-mr-1-lg-H:hover {margin-right: -0.25rem;}
+.-mr-2-lg, .-mr-2-lg-H:hover {margin-right: -0.5rem;}
+.-mr-3-lg, .-mr-3-lg-H:hover {margin-right: -0.75rem;}
+.-mr-4-lg, .-mr-4-lg-H:hover {margin-right: -1rem;}
+.-mr-5-lg, .-mr-5-lg-H:hover {margin-right: -1.25rem;}
+.-mr-6-lg, .-mr-6-lg-H:hover {margin-right: -1.5rem;}
+.-mr-7-lg, .-mr-7-lg-H:hover {margin-right: -1.75rem;}
+.-mr-8-lg, .-mr-8-lg-H:hover {margin-right: -2rem;}
+.-mr-9-lg, .-mr-9-lg-H:hover {margin-right: -2.25rem;}
+.-mr-10-lg, .-mr-10-lg-H:hover {margin-right: -2.5rem;}
+.-mr-11-lg, .-mr-11-lg-H:hover {margin-right: -2.75rem;}
+.-mr-12-lg, .-mr-12-lg-H:hover {margin-right: -3rem;}
+.-mr-13-lg, .-mr-13-lg-H:hover {margin-right: -3.25rem;}
+.-mr-14-lg, .-mr-14-lg-H:hover {margin-right: -3.5rem;}
+.-mr-15-lg, .-mr-15-lg-H:hover {margin-right: -3.75rem;}
+.-mr-16-lg, .-mr-16-lg-H:hover {margin-right: -4rem;}
+.-mr-17-lg, .-mr-17-lg-H:hover {margin-right: -4.25rem;}
+.-mr-18-lg, .-mr-18-lg-H:hover {margin-right: -4.5rem;}
+.-mr-19-lg, .-mr-19-lg-H:hover {margin-right: -4.75rem;}
+.-mr-20-lg, .-mr-20-lg-H:hover {margin-right: -5rem;}
+.mr-auto-lg, .mr-auto-lg-H:hover {margin-right: auto;}
+.mr-0-lg, .mr-0-lg-H:hover {margin-right: 0;}
+
+/* mt-num = margin-top */
+.mt-1-lg, .mt-1-lg-H:hover {margin-top: .25rem;}
+.mt-2-lg, .mt-2-lg-H:hover {margin-top: .5rem;}
+.mt-3-lg, .mt-3-lg-H:hover {margin-top: .75rem;}
+.mt-4-lg, .mt-4-lg-H:hover {margin-top: 1rem;}
+.mt-5-lg, .mt-5-lg-H:hover {margin-top: 1.25rem;}
+.mt-6-lg, .mt-6-lg-H:hover {margin-top: 1.5rem;}
+.mt-7-lg, .mt-7-lg-H:hover {margin-top: 1.75rem;}
+.mt-8-lg, .mt-8-lg-H:hover {margin-top: 2rem;}
+.mt-9-lg, .mt-9-lg-H:hover {margin-top: 2.25rem;}
+.mt-10-lg, .mt-10-lg-H:hover {margin-top: 2.5rem;}
+.mt-11-lg, .mt-11-lg-H:hover {margin-top: 2.75rem;}
+.mt-12-lg, .mt-12-lg-H:hover {margin-top: 3rem;}
+.mt-13-lg, .mt-13-lg-H:hover {margin-top: 3.25rem;}
+.mt-14-lg, .mt-14-lg-H:hover {margin-top: 3.5rem;}
+.mt-15-lg, .mt-15-lg-H:hover {margin-top: 3.75rem;}
+.mt-16-lg, .mt-16-lg-H:hover {margin-top: 4rem;}
+.mt-17-lg, .mt-17-lg-H:hover {margin-top: 4.25rem;}
+.mt-18-lg, .mt-18-lg-H:hover {margin-top: 4.5rem;}
+.mt-19-lg, .mt-19-lg-H:hover {margin-top: 4.75rem;}
+.mt-20-lg, .mt-20-lg-H:hover {margin-top: 5rem;}
+
+/* -mt-num = margin-top */
+.-mt-1-lg, .-mt-1-lg-H:hover {margin-top: -0.25rem;}
+.-mt-2-lg, .-mt-2-lg-H:hover {margin-top: -0.5rem;}
+.-mt-3-lg, .-mt-3-lg-H:hover {margin-top: -0.75rem;}
+.-mt-4-lg, .-mt-4-lg-H:hover {margin-top: -1rem;}
+.-mt-5-lg, .-mt-5-lg-H:hover {margin-top: -1.25rem;}
+.-mt-6-lg, .-mt-6-lg-H:hover {margin-top: -1.5rem;}
+.-mt-7-lg, .-mt-7-lg-H:hover {margin-top: -1.75rem;}
+.-mt-8-lg, .-mt-8-lg-H:hover {margin-top: -2rem;}
+.-mt-9-lg, .-mt-9-lg-H:hover {margin-top: -2.25rem;}
+.-mt-10-lg, .-mt-10-lg-H:hover {margin-top: -2.5rem;}
+.-mt-11-lg, .-mt-11-lg-H:hover {margin-top: -2.75rem;}
+.-mt-12-lg, .-mt-12-lg-H:hover {margin-top: -3rem;}
+.-mt-13-lg, .-mt-13-lg-H:hover {margin-top: -3.25rem;}
+.-mt-14-lg, .-mt-14-lg-H:hover {margin-top: -3.5rem;}
+.-mt-15-lg, .-mt-15-lg-H:hover {margin-top: -3.75rem;}
+.-mt-16-lg, .-mt-16-lg-H:hover {margin-top: -4rem;}
+.-mt-17-lg, .-mt-17-lg-H:hover {margin-top: -4.25rem;}
+.-mt-18-lg, .-mt-18-lg-H:hover {margin-top: -4.5rem;}
+.-mt-19-lg, .-mt-19-lg-H:hover {margin-top: -4.75rem;}
+.-mt-20-lg, .-mt-20-lg-H:hover {margin-top: -5rem;}
+.mt-auto-lg, .mt-auto-lg-H:hover {margin-top: auto;}
+.mt-0-lg, .mt-0-lg-H:hover {margin-top: 0;}
+
+/* mb-num = margin-bottom */
+.mb-1-lg, .mb-1-lg-H:hover {margin-bottom: .25rem;}
+.mb-2-lg, .mb-2-lg-H:hover {margin-bottom: .5rem;}
+.mb-3-lg, .mb-3-lg-H:hover {margin-bottom: .75rem;}
+.mb-4-lg, .mb-4-lg-H:hover {margin-bottom: 1rem;}
+.mb-5-lg, .mb-5-lg-H:hover {margin-bottom: 1.25rem;}
+.mb-6-lg, .mb-6-lg-H:hover {margin-bottom: 1.5rem;}
+.mb-7-lg, .mb-7-lg-H:hover {margin-bottom: 1.75rem;}
+.mb-8-lg, .mb-8-lg-H:hover {margin-bottom: 2rem;}
+.mb-9-lg, .mb-9-lg-H:hover {margin-bottom: 2.25rem;}
+.mb-10-lg, .mb-10-lg-H:hover {margin-bottom: 2.5rem;}
+.mb-11-lg, .mb-11-lg-H:hover {margin-bottom: 2.75rem;}
+.mb-12-lg, .mb-12-lg-H:hover {margin-bottom: 3rem;}
+.mb-13-lg, .mb-13-lg-H:hover {margin-bottom: 3.25rem;}
+.mb-14-lg, .mb-14-lg-H:hover {margin-bottom: 3.5rem;}
+.mb-15-lg, .mb-15-lg-H:hover {margin-bottom: 3.75rem;}
+.mb-16-lg, .mb-16-lg-H:hover {margin-bottom: 4rem;}
+.mb-17-lg, .mb-17-lg-H:hover {margin-bottom: 4.25rem;}
+.mb-18-lg, .mb-18-lg-H:hover {margin-bottom: 4.5rem;}
+.mb-19-lg, .mb-19-lg-H:hover {margin-bottom: 4.75rem;}
+.mb-20-lg, .mb-20-lg-H:hover {margin-bottom: 5rem;}
+
+/* -mb-num = margin-bottom */
+.-mb-1-lg, .-mb-1-lg-H:hover {margin-bottom: -0.25rem;}
+.-mb-2-lg, .-mb-2-lg-H:hover {margin-bottom: -0.5rem;}
+.-mb-3-lg, .-mb-3-lg-H:hover {margin-bottom: -0.75rem;}
+.-mb-4-lg, .-mb-4-lg-H:hover {margin-bottom: -1rem;}
+.-mb-5-lg, .-mb-5-lg-H:hover {margin-bottom: -1.25rem;}
+.-mb-6-lg, .-mb-6-lg-H:hover {margin-bottom: -1.5rem;}
+.-mb-7-lg, .-mb-7-lg-H:hover {margin-bottom: -1.75rem;}
+.-mb-8-lg, .-mb-8-lg-H:hover {margin-bottom: -2rem;}
+.-mb-9-lg, .-mb-9-lg-H:hover {margin-bottom: -2.25rem;}
+.-mb-10-lg, .-mb-10-lg-H:hover {margin-bottom: -2.5rem;}
+.-mb-11-lg, .-mb-11-lg-H:hover {margin-bottom: -2.75rem;}
+.-mb-12-lg, .-mb-12-lg-H:hover {margin-bottom: -3rem;}
+.-mb-13-lg, .-mb-13-lg-H:hover {margin-bottom: -3.25rem;}
+.-mb-14-lg, .-mb-14-lg-H:hover {margin-bottom: -3.5rem;}
+.-mb-15-lg, .-mb-15-lg-H:hover {margin-bottom: -3.75rem;}
+.-mb-16-lg, .-mb-16-lg-H:hover {margin-bottom: -4rem;}
+.-mb-17-lg, .-mb-17-lg-H:hover {margin-bottom: -4.25rem;}
+.-mb-18-lg, .-mb-18-lg-H:hover {margin-bottom: -4.5rem;}
+.-mb-19-lg, .-mb-19-lg-H:hover {margin-bottom: -4.75rem;}
+.-mb-20-lg, .-mb-20-lg-H:hover {margin-bottom: -5rem;}
+.mb-auto-lg, .mb-auto-lg-H:hover {margin-bottom: auto;}
+.mb-0-lg, .mb-0-lg-H:hover {margin-bottom: 0;}
+
+/* mx-num = margin-left and margin-right */
+.mx-1-lg, .mx-1-lg-H:hover {margin-left: .25rem; margin-right: .25rem;}
+.mx-2-lg, .mx-2-lg-H:hover {margin-left: .5rem; margin-right: .5;}
+.mx-3-lg, .mx-3-lg-H:hover {margin-left: .75rem; margin-right: .75rem;}
+.mx-4-lg, .mx-4-lg-H:hover {margin-left: 1rem; margin-right: 1rem;}
+.mx-5-lg, .mx-5-lg-H:hover {margin-left: 1.25rem; margin-right: 1.25rem;}
+.mx-6-lg, .mx-6-lg-H:hover {margin-left: 1.5rem; margin-right: 1.5rem;}
+.mx-7-lg, .mx-7-lg-H:hover {margin-left: 1.75rem; margin-right: 1.75rem;}
+.mx-8-lg, .mx-8-lg-H:hover {margin-left: 2rem; margin-right: 2rem;}
+.mx-9-lg, .mx-9-lg-H:hover {margin-left: 2.25rem; margin-right: 2.25rem;}
+.mx-10-lg, .mx-10-lg-H:hover {margin-left: 2.5rem; margin-right: 2.5rem;}
+.mx-11-lg, .mx-11-lg-H:hover {margin-left: 2.75rem; margin-right: 2.75rem;}
+.mx-12-lg, .mx-12-lg-H:hover {margin-left: 3rem; margin-right: 3rem;}
+.mx-13-lg, .mx-13-lg-H:hover {margin-left: 3.25rem; margin-right: 3.25rem;}
+.mx-14-lg, .mx-14-lg-H:hover {margin-left: 3.5rem; margin-right: 3.5rem;}
+.mx-15-lg, .mx-15-lg-H:hover {margin-left: 3.75rem; margin-right: 3.75rem;}
+.mx-16-lg, .mx-16-lg-H:hover {margin-left: 4rem; margin-right: 4rem;}
+.mx-17-lg, .mx-17-lg-H:hover {margin-left: 4.25rem; margin-right: 4.25rem;}
+.mx-18-lg, .mx-18-lg-H:hover {margin-left: 4.5rem; margin-right: 4.5rem;}
+.mx-19-lg, .mx-19-lg-H:hover {margin-left: 4.75rem; margin-right: 4.75rem;}
+.mx-20-lg, .mx-20-lg-H:hover {margin-left: 5rem; margin-right: 5rem;}
+
+/* -mx-num = margin-left and margin-right */
+.-mx-1-lg, .-mx-1-lg-H:hover {margin-left: -0.25rem; margin-right: -0.25rem;}
+.-mx-2-lg, .-mx-2-lg-H:hover {margin-left: -0.5rem; margin-right: -0.5;}
+.-mx-3-lg, .-mx-3-lg-H:hover {margin-left: -0.75rem; margin-right: -0.75rem;}
+.-mx-4-lg, .-mx-4-lg-H:hover {margin-left: -1rem; margin-right: -1rem;}
+.-mx-5-lg, .-mx-5-lg-H:hover {margin-left: -1.25rem; margin-right: -1.25rem;}
+.-mx-6-lg, .-mx-6-lg-H:hover {margin-left: -1.5rem; margin-right: -1.5rem;}
+.-mx-7-lg, .-mx-7-lg-H:hover {margin-left: -1.75rem; margin-right: -1.75rem;}
+.-mx-8-lg, .-mx-8-lg-H:hover {margin-left: -2rem; margin-right: -2rem;}
+.-mx-9-lg, .-mx-9-lg-H:hover {margin-left: -2.25rem; margin-right: -2.25rem;}
+.-mx-10-lg, .-mx-10-lg-H:hover {margin-left: -2.5rem; margin-right: -2.5rem;}
+.-mx-11-lg, .-mx-11-lg-H:hover {margin-left: -2.75rem; margin-right: -2.75rem;}
+.-mx-12-lg, .-mx-12-lg-H:hover {margin-left: -3rem; margin-right: -3rem;}
+.-mx-13-lg, .-mx-13-lg-H:hover {margin-left: -3.25rem; margin-right: -3.25rem;}
+.-mx-14-lg, .-mx-14-lg-H:hover {margin-left: -3.5rem; margin-right: -3.5rem;}
+.-mx-15-lg, .-mx-15-lg-H:hover {margin-left: -3.75rem; margin-right: -3.75rem;}
+.-mx-16-lg, .-mx-16-lg-H:hover {margin-left: -4rem; margin-right: -4rem;}
+.-mx-17-lg, .-mx-17-lg-H:hover {margin-left: -4.25rem; margin-right: -4.25rem;}
+.-mx-18-lg, .-mx-18-lg-H:hover {margin-left: -4.5rem; margin-right: -4.5rem;}
+.-mx-19-lg, .-mx-19-lg-H:hover {margin-left: -4.75rem; margin-right: -4.75rem;}
+.-mx-20-lg, .-mx-20-lg-H:hover {margin-left: -5rem; margin-right: -5rem;}
+.mx-0-lg, .mx-0-lg-H:hover {margin-left: 0; margin-right: 0;}
+
+/* my-num = margin-top and margin-bottom */
+.my-1-lg, .my-1-lg-H:hover {margin-top: .25rem; margin-bottom: .25rem;}
+.my-2-lg, .my-2-lg-H:hover {margin-top: .5rem; margin-bottom: .5;}
+.my-3-lg, .my-3-lg-H:hover {margin-top: .75rem; margin-bottom: .75rem;}
+.my-4-lg, .my-4-lg-H:hover {margin-top: 1rem; margin-bottom: 1rem;}
+.my-5-lg, .my-5-lg-H:hover {margin-top: 1.25rem; margin-bottom: 1.25rem;}
+.my-6-lg, .my-6-lg-H:hover {margin-top: 1.5rem; margin-bottom: 1.5;}
+.my-7-lg, .my-7-lg-H:hover {margin-top: 1.75rem; margin-bottom: 1.75rem;}
+.my-8-lg, .my-8-lg-H:hover {margin-top: 2rem; margin-bottom: 2rem;}
+.my-9-lg, .my-9-lg-H:hover {margin-top: 2.25rem; margin-bottom: 2.25rem;}
+.my-10-lg, .my-10-lg-H:hover {margin-top: 2.5rem; margin-bottom: 2.5rem;}
+.my-11-lg, .my-11-lg-H:hover {margin-top: 2.75rem; margin-bottom: 2.75rem;}
+.my-12-lg, .my-12-lg-H:hover {margin-top: 3rem; margin-bottom: 3rem;}
+.my-13-lg, .my-13-lg-H:hover {margin-top: 3.25rem; margin-bottom: 3.25rem;}
+.my-14-lg, .my-14-lg-H:hover {margin-top: 3.5rem; margin-bottom: 3.5rem;}
+.my-15-lg, .my-15-lg-H:hover {margin-top: 3.75rem; margin-bottom: 3.75rem;}
+.my-16-lg, .my-16-lg-H:hover {margin-top: 4rem; margin-bottom: 4rem;}
+.my-17-lg, .my-17-lg-H:hover {margin-top: 4.25rem; margin-bottom: 4.25rem;}
+.my-18-lg, .my-18-lg-H:hover {margin-top: 4.5rem; margin-bottom: 4.5rem;}
+.my-19-lg, .my-19-lg-H:hover {margin-top: 4.75rem; margin-bottom: 4.75rem;}
+.my-20-lg, .my-20-lg-H:hover {margin-top: 5rem; margin-bottom: 5rem;}
+
+/* -my-num = margin-top and margin-bottom */
+.-my-1-lg, .-my-1-lg-H:hover {margin-top: -0.25rem; margin-bottom: -0.25rem;}
+.-my-2-lg, .-my-2-lg-H:hover {margin-top: -0.5rem; margin-bottom: -0.5;}
+.-my-3-lg, .-my-3-lg-H:hover {margin-top: -0.75rem; margin-bottom: -0.75rem;}
+.-my-4-lg, .-my-4-lg-H:hover {margin-top: -1rem; margin-bottom: -1rem;}
+.-my-5-lg, .-my-5-lg-H:hover {margin-top: -1.25rem; margin-bottom: -1.25rem;}
+.-my-6-lg, .-my-6-lg-H:hover {margin-top: -1.5rem; margin-bottom: -1.5;}
+.-my-7-lg, .-my-7-lg-H:hover {margin-top: -1.75rem; margin-bottom: -1.75rem;}
+.-my-8-lg, .-my-8-lg-H:hover {margin-top: -2rem; margin-bottom: -2rem;}
+.-my-9-lg, .-my-9-lg-H:hover {margin-top: -2.25rem; margin-bottom: -2.25rem;}
+.-my-10-lg, .-my-10-lg-H:hover {margin-top: -2.5rem; margin-bottom: -2.5rem;}
+.-my-11-lg, .-my-11-lg-H:hover {margin-top: -2.75rem; margin-bottom: -2.75rem;}
+.-my-12-lg, .-my-12-lg-H:hover {margin-top: -3rem; margin-bottom: -3rem;}
+.-my-13-lg, .-my-13-lg-H:hover {margin-top: -3.25rem; margin-bottom: -3.25rem;}
+.-my-14-lg, .-my-14-lg-H:hover {margin-top: -3.5rem; margin-bottom: -3.5rem;}
+.-my-15-lg, .-my-15-lg-H:hover {margin-top: -3.75rem; margin-bottom: -3.75rem;}
+.-my-16-lg, .-my-16-lg-H:hover {margin-top: -4rem; margin-bottom: -4rem;}
+.-my-17-lg, .-my-17-lg-H:hover {margin-top: -4.25rem; margin-bottom: -4.25rem;}
+.-my-18-lg, .-my-18-lg-H:hover {margin-top: -4.5rem; margin-bottom: -4.5rem;}
+.-my-19-lg, .-my-19-lg-H:hover {margin-top: -4.75rem; margin-bottom: -4.75rem;}
+.-my-20-lg, .-my-20-lg-H:hover {margin-top: -5rem; margin-bottom: -5rem;}
+.my-0-lg, .my-0-lg-H:hover {margin-top: 0; margin-bottom: 0;}
+.m-0-lg, .m-0-lg-H:hover {margin: 0;}
+
+/* border */
+.border-lg, .border-lg-H:hover {border: 1px solid currentColor;}
+.border-2-lg, .border-2-lg-H:hover {border: 2px solid currentColor;}
+.border-3-lg, .border-3-lg-H:hover {border: 3px solid currentColor;}
+.border-4-lg, .border-4-lg-H:hover {border: 4px solid currentColor;}
+.border-5-lg, .border-5-lg-H:hover {border: 5px solid currentColor;}
+.border-6-lg, .border-6-lg-H:hover {border: 6px solid currentColor;}
+.border-7-lg, .border-7-lg-H:hover {border: 7px solid currentColor;}
+.border-8-lg, .border-8-lg-H:hover {border: 8px solid currentColor;}
+.border-9-lg, .border-9-lg-H:hover {border: 9px solid currentColor;}
+.border-10-lg, .border-10-lg-H:hover {border: 10px solid currentColor;}
+
+/* border-t */
+.border-t-lg, .border-t-lg-H:hover {border-top: 1px solid currentColor;}
+.border-t-2-lg, .border-t-2-lg-H:hover {border-top: 2px solid currentColor;}
+.border-t-3-lg, .border-t-3-lg-H:hover {border-top: 3px solid currentColor;}
+.border-t-4-lg, .border-t-4-lg-H:hover {border-top: 4px solid currentColor;}
+.border-t-5-lg, .border-t-5-lg-H:hover {border-top: 5px solid currentColor;}
+.border-t-6-lg, .border-t-6-lg-H:hover {border-top: 6px solid currentColor;}
+.border-t-7-lg, .border-t-7-lg-H:hover {border-top: 7px solid currentColor;}
+.border-t-8-lg, .border-t-8-lg-H:hover {border-top: 8px solid currentColor;}
+.border-t-9-lg, .border-t-9-lg-H:hover {border-top: 9px solid currentColor;}
+.border-t-10-lg, .border-t-10-lg-H:hover {border-top: 10px solid currentColor;}
+
+/* border-b */
+.border-b-lg, .border-b-lg-H:hover {border-bottom: 1px solid currentColor;}
+.border-b-2-lg, .border-b-2-lg-H:hover {border-bottom: 2px solid currentColor;}
+.border-b-3-lg, .border-b-3-lg-H:hover {border-bottom: 3px solid currentColor;}
+.border-b-4-lg, .border-b-4-lg-H:hover {border-bottom: 4px solid currentColor;}
+.border-b-5-lg, .border-b-5-lg-H:hover {border-bottom: 5px solid currentColor;}
+.border-b-6-lg, .border-b-6-lg-H:hover {border-bottom: 6px solid currentColor;}
+.border-b-7-lg, .border-b-7-lg-H:hover {border-bottom: 7px solid currentColor;}
+.border-b-8-lg, .border-b-8-lg-H:hover {border-bottom: 8px solid currentColor;}
+.border-b-9-lg, .border-b-9-lg-H:hover {border-bottom: 9px solid currentColor;}
+.border-b-10-lg, .border-b-10-lg-H:hover {border-bottom: 10px solid currentColor;}
+
+/* border-r */
+.border-r-lg, .border-r-lg-H:hover {border-right: 1px solid currentColor;}
+.border-r-2-lg, .border-r-2-lg-H:hover {border-right: 2px solid currentColor;}
+.border-r-3-lg, .border-r-3-lg-H:hover {border-right: 3px solid currentColor;}
+.border-r-4-lg, .border-r-4-lg-H:hover {border-right: 4px solid currentColor;}
+.border-r-5-lg, .border-r-5-lg-H:hover {border-right: 5px solid currentColor;}
+.border-r-6-lg, .border-r-6-lg-H:hover {border-right: 6px solid currentColor;}
+.border-r-7-lg, .border-r-7-lg-H:hover {border-right: 7px solid currentColor;}
+.border-r-8-lg, .border-r-8-lg-H:hover {border-right: 8px solid currentColor;}
+.border-r-9-lg, .border-r-9-lg-H:hover {border-right: 9px solid currentColor;}
+.border-r-10-lg, .border-r-10-lg-H:hover {border-right: 10px solid currentColor;}
+
+/* border-l */
+.border-l-lg, .border-l-lg-H:hover {border-left: 1px solid currentColor;}
+.border-l-2-lg, .border-l-2-lg-H:hover {border-left: 2px solid currentColor;}
+.border-l-3-lg, .border-l-3-lg-H:hover {border-left: 3px solid currentColor;}
+.border-l-4-lg, .border-l-4-lg-H:hover {border-left: 4px solid currentColor;}
+.border-l-5-lg, .border-l-5-lg-H:hover {border-left: 5px solid currentColor;}
+.border-l-6-lg, .border-l-6-lg-H:hover {border-left: 6px solid currentColor;}
+.border-l-7-lg, .border-l-7-lg-H:hover {border-left: 7px solid currentColor;}
+.border-l-8-lg, .border-l-8-lg-H:hover {border-left: 8px solid currentColor;}
+.border-l-9-lg, .border-l-9-lg-H:hover {border-left: 9px solid currentColor;}
+.border-l-10-lg, .border-l-10-lg-H:hover {border-left: 10px solid currentColor;}
+
+/* border-width */
+.border-w-1-lg, .border-w-1-lg-H:hover {border-width: 1px;}
+.border-w-2-lg, .border-w-2-lg-H:hover {border-width: 2px;}
+.border-w-3-lg, .border-w-3-lg-H:hover {border-width: 3px;}
+.border-w-4-lg, .border-w-4-lg-H:hover {border-width: 4px;}
+.border-w-5-lg, .border-w-5-lg-H:hover {border-width: 5px;}
+.border-w-6-lg, .border-w-6-lg-H:hover {border-width: 6px;}
+.border-w-7-lg, .border-w-7-lg-H:hover {border-width: 7px;}
+.border-w-8-lg, .border-w-8-lg-H:hover {border-width: 8px;}
+.border-w-9-lg, .border-w-9-lg-H:hover {border-width: 9px;}
+.border-w-10-lg, .border-w-10-lg-H:hover {border-width: 10px;}
+
+/* border-top-width */
+.border-w-t-1-lg, .border-w-t-1-lg-H:hover {border-top-width: 1px;}
+.border-w-t-2-lg, .border-w-t-2-lg-H:hover {border-top-width: 2px;}
+.border-w-t-3-lg, .border-w-t-3-lg-H:hover {border-top-width: 3px;}
+.border-w-t-4-lg, .border-w-t-4-lg-H:hover {border-top-width: 4px;}
+.border-w-t-5-lg, .border-w-t-5-lg-H:hover {border-top-width: 5px;}
+.border-w-t-6-lg, .border-w-t-6-lg-H:hover {border-top-width: 6px;}
+.border-w-t-7-lg, .border-w-t-7-lg-H:hover {border-top-width: 7px;}
+.border-w-t-8-lg, .border-w-t-8-lg-H:hover {border-top-width: 8px;}
+.border-w-t-9-lg, .border-w-t-9-lg-H:hover {border-top-width: 9px;}
+.border-w-t-10-lg, .border-w-t-10-lg-H:hover {border-top-width: 10px;}
+
+/* border-right-width */
+.border-w-r-1-lg, .border-w-r-1-lg-H:hover {border-right-width: 1px;}
+.border-w-r-2-lg, .border-w-r-2-lg-H:hover {border-right-width: 2px;}
+.border-w-r-3-lg, .border-w-r-3-lg-H:hover {border-right-width: 3px;}
+.border-w-r-4-lg, .border-w-r-4-lg-H:hover {border-right-width: 4px;}
+.border-w-r-5-lg, .border-w-r-5-lg-H:hover {border-right-width: 5px;}
+.border-w-r-6-lg, .border-w-r-6-lg-H:hover {border-right-width: 6px;}
+.border-w-r-7-lg, .border-w-r-7-lg-H:hover {border-right-width: 7px;}
+.border-w-r-8-lg, .border-w-r-8-lg-H:hover {border-right-width: 8px;}
+.border-w-r-9-lg, .border-w-r-9-lg-H:hover {border-right-width: 9px;}
+.border-w-r-10-lg, .border-w-r-10-lg-H:hover {border-right-width: 10px;}
+
+/* border-bottom-width */
+.border-w-b-1-lg, .border-w-b-1-lg-H:hover {border-bottom-width: 1px;}
+.border-w-b-2-lg, .border-w-b-2-lg-H:hover {border-bottom-width: 2px;}
+.border-w-b-3-lg, .border-w-b-3-lg-H:hover {border-bottom-width: 3px;}
+.border-w-b-4-lg, .border-w-b-4-lg-H:hover {border-bottom-width: 4px;}
+.border-w-b-5-lg, .border-w-b-5-lg-H:hover {border-bottom-width: 5px;}
+.border-w-b-6-lg, .border-w-b-6-lg-H:hover {border-bottom-width: 6px;}
+.border-w-b-7-lg, .border-w-b-7-lg-H:hover {border-bottom-width: 7px;}
+.border-w-b-8-lg, .border-w-b-8-lg-H:hover {border-bottom-width: 8px;}
+.border-w-b-9-lg, .border-w-b-9-lg-H:hover {border-bottom-width: 9px;}
+.border-w-b-10-lg, .border-w-b-10-lg-H:hover {border-bottom-width: 10px;}
+
+/* border-left-width */
+.border-w-l-1-lg, .border-w-l-1-lg-H:hover {border-left-width: 1px;}
+.border-w-l-2-lg, .border-w-l-2-lg-H:hover {border-left-width: 2px;}
+.border-w-l-3-lg, .border-w-l-3-lg-H:hover {border-left-width: 3px;}
+.border-w-l-4-lg, .border-w-l-4-lg-H:hover {border-left-width: 4px;}
+.border-w-l-5-lg, .border-w-l-5-lg-H:hover {border-left-width: 5px;}
+.border-w-l-6-lg, .border-w-l-6-lg-H:hover {border-left-width: 6px;}
+.border-w-l-7-lg, .border-w-l-7-lg-H:hover {border-left-width: 7px;}
+.border-w-l-8-lg, .border-w-l-8-lg-H:hover {border-left-width: 8px;}
+.border-w-l-9-lg, .border-w-l-9-lg-H:hover {border-left-width: 9px;}
+.border-w-l-10-lg, .border-w-l-10-lg-H:hover {border-left-width: 10px;}
+
+/* col = float and flex-basis => 100% / 12 */
+.w-col-lg, .w-col-lg-H:hover {width: calc(100% / 12); display: inline-block;}
+.w-col-2-lg, .w-col-2-lg-H:hover {width: calc((100% / 12) * 2); display: inline-block;}
+.w-col-3-lg, .w-col-3-lg-H:hover {width: calc((100% / 12) * 3); display: inline-block;}
+.w-col-4-lg, .w-col-4-lg-H:hover {width: calc((100% / 12) * 4); display: inline-block;}
+.w-col-5-lg, .w-col-5-lg-H:hover {width: calc((100% / 12) * 5); display: inline-block;}
+.w-col-6-lg, .w-col-6-lg-H:hover {width: calc((100% / 12) * 6); display: inline-block;}
+.w-col-7-lg, .w-col-7-lg-H:hover {width: calc((100% / 12) * 7); display: inline-block;}
+.w-col-8-lg, .w-col-8-lg-H:hover {width: calc((100% / 12) * 8); display: inline-block;}
+.w-col-9-lg, .w-col-9-lg-H:hover {width: calc((100% / 12) * 9); display: inline-block;}
+.w-col-10-lg, .w-col-10-lg-H:hover {width: calc((100% / 12) * 10); display: inline-block;}
+.w-col-11-lg, .w-col-11-lg-H:hover {width: calc((100% / 12) * 11); display: inline-block;}
+.w-col-12-lg, .w-col-12-lg-H:hover, .col-full {width: 100%; display: inline-block;}
+.w-col-0-lg, .w-col-0-lg-H:hover {width: auto;}
+
+/* reset font-size for inline-block */
+.fs-0-lg, .fs-0-lg-H:hover {font-size: 0;}
+
+/* fs-name = font-size */
+.fs-xx-lgall-lg, .fs-xx-lgall-lg-H:hover {font-size: xx-lgall;}
+.fs-x-lgall-lg, .fs-x-lgall-lg-H:hover {font-size: x-lgall;}
+.fs-lgaller-lg, .fs-lgaller-lg-H:hover {font-size: smaller;}
+.fs-lgall-lg, .fs-lgall-lg-H:hover {font-size: small;}
+.fs-medium-lg, .fs-medium-lg-H:hover {font-size: medium;}
+.fs-large-lg, .fs-large-lg-H:hover {font-size: large;}
+.fs-larger-lg, .fs-larger-lg-H:hover {font-size: larger;}
+.fs-x-large-lg, .fs-x-large-lg-H:hover {font-size: x-large;}
+.fs-xx-large-lg, .fs-xx-large-lg-H:hover {font-size: xx-large;}
+
+/* fs.num = font-size */
+.fs-1-lg, .fs-1-lg-H:hover {font-size: 0.5rem;}
+.fs-2-lg, .fs-2-lg-H:hover {font-size: 0.75rem;}
+.fs-4-lg, .fs-4-lg-H:hover {font-size: 1.25rem;}
+.fs-5-lg, .fs-5-lg-H:hover {font-size: 1.5rem;}
+.fs-6-lg, .fs-6-lg-H:hover {font-size: 1.75rem;}
+.fs-7-lg, .fs-7-lg-H:hover {font-size: 2rem;}
+.fs-8-lg, .fs-8-lg-H:hover {font-size: 2.25rem;}
+.fs-9-lg, .fs-9-lg-H:hover {font-size: 2.5rem;}
+.fs-10-lg, .fs-10-lg-H:hover {font-size: 2.75rem;}
+.fs-11-lg, .fs-11-lg-H:hover {font-size: 3rem;}
+.fs-12-lg, .fs-12-lg-H:hover {font-size: 3.25rem;}
+.fs-13-lg, .fs-13-lg-H:hover {font-size: 3.5rem;}
+.fs-14-lg, .fs-14-lg-H:hover {font-size: 3.75rem;}
+.fs-15-lg, .fs-15-lg-H:hover {font-size: 4rem;}
+.fs-16-lg, .fs-16-lg-H:hover {font-size: 4rem;}
+.fs-17-lg, .fs-17-lg-H:hover {font-size: 4.25rem;}
+.fs-18-lg, .fs-18-lg-H:hover {font-size: 4.5rem;}
+.fs-19-lg, .fs-19-lg-H:hover {font-size: 4.75rem;}
+.fs-20-lg, .fs-20-lg-H:hover {font-size: 5rem;}
+.fs-3-lg, .fs-3-lg-H:hover, .fs-reset-lg, .fs-reset-lg-H:hover {font-size: 1rem;}
+
+/* letter-spacing-num */
+.letter-spacing-lg, .letter-spacing-lg-H:hover {letter-spacing: 1px;}
+.letter-spacing-2-lg, .letter-spacing-2-lg-H:hover {letter-spacing: 1.25px;}
+.letter-spacing-3-lg, .letter-spacing-3-lg-H:hover {letter-spacing: 1.5px;}
+.letter-spacing-4-lg, .letter-spacing-4-lg-H:hover {letter-spacing: 1.75px;}
+.letter-spacing-5-lg, .letter-spacing-5-lg-H:hover {letter-spacing: 2px;}
+.letter-spacing-6-lg, .letter-spacing-6-lg-H:hover {letter-spacing: 2.25px;}
+.letter-spacing-7-lg, .letter-spacing-7-lg-H:hover {letter-spacing: 2.5px;}
+.letter-spacing-8-lg, .letter-spacing-8-lg-H:hover {letter-spacing: 2.75px;}
+.letter-spacing-9-lg, .letter-spacing-9-lg-H:hover {letter-spacing: 3px;}
+
+/* -letter-spacing-num */
+.-letter-spacing-lg, .-letter-spacing-lg-H:hover {letter-spacing: -1px;}
+.-letter-spacing-2-lg, .-letter-spacing-2-lg-H:hover {letter-spacing: -1.25px;}
+.-letter-spacing-3-lg, .-letter-spacing-3-lg-H:hover {letter-spacing: -1.5px;}
+.-letter-spacing-4-lg, .-letter-spacing-4-lg-H:hover {letter-spacing: -1.75px;}
+.-letter-spacing-5-lg, .-letter-spacing-5-lg-H:hover {letter-spacing: -2px;}
+.-letter-spacing-6-lg, .-letter-spacing-6-lg-H:hover {letter-spacing: -2.25px;}
+.-letter-spacing-7-lg, .-letter-spacing-7-lg-H:hover {letter-spacing: -2.5px;}
+.-letter-spacing-8-lg, .-letter-spacing-8-lg-H:hover {letter-spacing: -2.75px;}
+.-letter-spacing-9-lg, .-letter-spacing-9-lg-H:hover {letter-spacing: -3px;}
+.letter-spacing-0-lg, .letter-spacing-0-lg-H:hover {letter-spacing: 0px;}
+
+/* w-num = width */
+.w-5-lg-A:active {width: 5%;}
+.w-10-lg-A:active {width: 10%;}
+.w-15-lg-A:active {width: 15%;}
+.w-20-lg-A:active {width: 20%;}
+.w-25-lg-A:active {width: 25%;}
+.w-30-lg-A:active {width: 30%;}
+.w-35-lg-A:active {width: 35%;}
+.w-40-lg-A:active {width: 40%;}
+.w-45-lg-A:active {width: 45%;}
+.w-50-lg-A:active {width: 50%;}
+.w-55-lg-A:active {width: 55%;}
+.w-60-lg-A:active {width: 60%;}
+.w-65-lg-A:active {width: 65%;}
+.w-70-lg-A:active {width: 70%;}
+.w-75-lg-A:active {width: 75%;}
+.w-80-lg-A:active {width: 80%;}
+.w-85-lg-A:active {width: 85%;}
+.w-90-lg-A:active {width: 90%;}
+.w-95-lg-A:active {width: 95%;}
+.w-100-A:active, .container-fluid-lg-A:active {width: 100%;}
+
+/* max-w-num = width */
+.max-w-5-lg-A:active {max-width: 5%;}
+.max-w-10-lg-A:active {max-width: 10%;}
+.max-w-15-lg-A:active {max-width: 15%;}
+.max-w-20-lg-A:active {max-width: 20%;}
+.max-w-25-lg-A:active {max-width: 25%;}
+.max-w-30-lg-A:active {max-width: 30%;}
+.max-w-35-lg-A:active {max-width: 35%;}
+.max-w-40-lg-A:active {max-width: 40%;}
+.max-w-45-lg-A:active {max-width: 45%;}
+.max-w-50-lg-A:active {max-width: 50%;}
+.max-w-55-lg-A:active {max-width: 55%;}
+.max-w-60-lg-A:active {max-width: 60%;}
+.max-w-65-lg-A:active {max-width: 65%;}
+.max-w-70-lg-A:active {max-width: 70%;}
+.max-w-75-lg-A:active {max-width: 75%;}
+.max-w-80-lg-A:active {max-width: 80%;}
+.max-w-85-lg-A:active {max-width: 85%;}
+.max-w-90-lg-A:active {max-width: 90%;}
+.max-w-95-lg-A:active {max-width: 95%;}
+.max-w-100-lg-A:active {max-width: 100%;}
+
+/* min-w-num = width */
+.min-w-5-lg-A:active {min-width: 5%;}
+.min-w-10-lg-A:active {min-width: 10%;}
+.min-w-15-lg-A:active {min-width: 15%;}
+.min-w-20-lg-A:active {min-width: 20%;}
+.min-w-25-lg-A:active {min-width: 25%;}
+.min-w-30-lg-A:active {min-width: 30%;}
+.min-w-35-lg-A:active {min-width: 35%;}
+.min-w-40-lg-A:active {min-width: 40%;}
+.min-w-45-lg-A:active {min-width: 45%;}
+.min-w-50-lg-A:active {min-width: 50%;}
+.min-w-55-lg-A:active {min-width: 55%;}
+.min-w-60-lg-A:active {min-width: 60%;}
+.min-w-65-lg-A:active {min-width: 65%;}
+.min-w-70-lg-A:active {min-width: 70%;}
+.min-w-75-lg-A:active {min-width: 75%;}
+.min-w-80-lg-A:active {min-width: 80%;}
+.min-w-85-lg-A:active {min-width: 85%;}
+.min-w-90-lg-A:active {min-width: 90%;}
+.min-w-95-lg-A:active {min-width: 95%;}
+.min-w-100-lg-A:active {min-width: 100%;}
+
+/* w-num_vw = width */
+.w-5vw-lg-A:active {width: 5vw;}
+.w-10vw-lg-A:active {width: 10vw;}
+.w-15vw-lg-A:active {width: 15vw;}
+.w-20vw-lg-A:active {width: 20vw;}
+.w-25vw-lg-A:active {width: 25vw;}
+.w-30vw-lg-A:active {width: 30vw;}
+.w-35vw-lg-A:active {width: 35vw;}
+.w-40vw-lg-A:active {width: 40vw;}
+.w-45vw-lg-A:active {width: 45vw;}
+.w-50vw-lg-A:active {width: 50vw;}
+.w-55vw-lg-A:active {width: 55vw;}
+.w-60vw-lg-A:active {width: 60vw;}
+.w-65vw-lg-A:active {width: 65vw;}
+.w-70vw-lg-A:active {width: 70vw;}
+.w-75vw-lg-A:active {width: 75vw;}
+.w-80vw-lg-A:active {width: 80vw;}
+.w-85vw-lg-A:active {width: 85vw;}
+.w-90vw-lg-A:active {width: 90vw;}
+.w-95vw-lg-A:active {width: 95vw;}
+.w-100vw-lg-A:active {width: 100vw;}
+
+/* max-w-num_vw = width */
+.max-w-5vw-lg-A:active {max-width: 5vw;}
+.max-w-10vw-lg-A:active {max-width: 10vw;}
+.max-w-15vw-lg-A:active {max-width: 15vw;}
+.max-w-20vw-lg-A:active {max-width: 20vw;}
+.max-w-25vw-lg-A:active {max-width: 25vw;}
+.max-w-30vw-lg-A:active {max-width: 30vw;}
+.max-w-35vw-lg-A:active {max-width: 35vw;}
+.max-w-40vw-lg-A:active {max-width: 40vw;}
+.max-w-45vw-lg-A:active {max-width: 45vw;}
+.max-w-50vw-lg-A:active {max-width: 50vw;}
+.max-w-55vw-lg-A:active {max-width: 55vw;}
+.max-w-60vw-lg-A:active {max-width: 60vw;}
+.max-w-65vw-lg-A:active {max-width: 65vw;}
+.max-w-70vw-lg-A:active {max-width: 70vw;}
+.max-w-75vw-lg-A:active {max-width: 75vw;}
+.max-w-80vw-lg-A:active {max-width: 80vw;}
+.max-w-85vw-lg-A:active {max-width: 85vw;}
+.max-w-90vw-lg-A:active {max-width: 90vw;}
+.max-w-95vw-lg-A:active {max-width: 95vw;}
+.max-w-100vw-lg-A:active {max-width: 100vw;}
+
+/* min-w-num_vw = width */
+.min-w-5vw-lg-A:active {min-width: 5vw;}
+.min-w-10vw-lg-A:active {min-width: 10vw;}
+.min-w-15vw-lg-A:active {min-width: 15vw;}
+.min-w-20vw-lg-A:active {min-width: 20vw;}
+.min-w-25vw-lg-A:active {min-width: 25vw;}
+.min-w-30vw-lg-A:active {min-width: 30vw;}
+.min-w-35vw-lg-A:active {min-width: 35vw;}
+.min-w-40vw-lg-A:active {min-width: 40vw;}
+.min-w-45vw-lg-A:active {min-width: 45vw;}
+.min-w-50vw-lg-A:active {min-width: 50vw;}
+.min-w-55vw-lg-A:active {min-width: 55vw;}
+.min-w-60vw-lg-A:active {min-width: 60vw;}
+.min-w-65vw-lg-A:active {min-width: 65vw;}
+.min-w-70vw-lg-A:active {min-width: 70vw;}
+.min-w-75vw-lg-A:active {min-width: 75vw;}
+.min-w-80vw-lg-A:active {min-width: 80vw;}
+.min-w-85vw-lg-A:active {min-width: 85vw;}
+.min-w-90vw-lg-A:active {min-width: 90vw;}
+.min-w-95vw-lg-A:active {min-width: 95vw;}
+.min-w-100vw-lg-A:active {min-width: 100vw;}
+
+/* w-auto */
+.w-auto-lg-A:active {width: auto;}
+
+/* h-num = height */
+.h-5-lg-A:active {height: 5%;}
+.h-10-lg-A:active {height: 10%;}
+.h-15-lg-A:active {height: 15%;}
+.h-20-lg-A:active {height: 20%;}
+.h-25-lg-A:active {height: 25%;}
+.h-30-lg-A:active {height: 30%;}
+.h-35-lg-A:active {height: 35%;}
+.h-40-lg-A:active {height: 40%;}
+.h-45-lg-A:active {height: 45%;}
+.h-50-lg-A:active {height: 50%;}
+.h-55-lg-A:active {height: 55%;}
+.h-60-lg-A:active {height: 60%;}
+.h-65-lg-A:active {height: 65%;}
+.h-70-lg-A:active {height: 70%;}
+.h-75-lg-A:active {height: 75%;}
+.h-80-lg-A:active {height: 80%;}
+.h-85-lg-A:active {height: 85%;}
+.h-90-lg-A:active {height: 90%;}
+.h-95-lg-A:active {height: 95%;}
+.h-100-lg-A:active {height: 100%;}
+
+/* max-h-num = height */
+.max-h-5-lg-A:active {max-height: 5%;}
+.max-h-10-lg-A:active {max-height: 10%;}
+.max-h-15-lg-A:active {max-height: 15%;}
+.max-h-20-lg-A:active {max-height: 20%;}
+.max-h-25-lg-A:active {max-height: 25%;}
+.max-h-30-lg-A:active {max-height: 30%;}
+.max-h-35-lg-A:active {max-height: 35%;}
+.max-h-40-lg-A:active {max-height: 40%;}
+.max-h-45-lg-A:active {max-height: 45%;}
+.max-h-50-lg-A:active {max-height: 50%;}
+.max-h-55-lg-A:active {max-height: 55%;}
+.max-h-60-lg-A:active {max-height: 60%;}
+.max-h-65-lg-A:active {max-height: 65%;}
+.max-h-70-lg-A:active {max-height: 70%;}
+.max-h-75-lg-A:active {max-height: 75%;}
+.max-h-80-lg-A:active {max-height: 80%;}
+.max-h-85-lg-A:active {max-height: 85%;}
+.max-h-90-lg-A:active {max-height: 90%;}
+.max-h-95-lg-A:active {max-height: 95%;}
+.max-h-100-lg-A:active {max-height: 100%;}
+
+/* min-h-num = height */
+.min-h-5-lg-A:active {min-height: 5%;}
+.min-h-10-lg-A:active {min-height: 10%;}
+.min-h-15-lg-A:active {min-height: 15%;}
+.min-h-20-lg-A:active {min-height: 20%;}
+.min-h-25-lg-A:active {min-height: 25%;}
+.min-h-30-lg-A:active {min-height: 30%;}
+.min-h-35-lg-A:active {min-height: 35%;}
+.min-h-40-lg-A:active {min-height: 40%;}
+.min-h-45-lg-A:active {min-height: 45%;}
+.min-h-50-lg-A:active {min-height: 50%;}
+.min-h-55-lg-A:active {min-height: 55%;}
+.min-h-60-lg-A:active {min-height: 60%;}
+.min-h-65-lg-A:active {min-height: 65%;}
+.min-h-70-lg-A:active {min-height: 70%;}
+.min-h-75-lg-A:active {min-height: 75%;}
+.min-h-80-lg-A:active {min-height: 80%;}
+.min-h-85-lg-A:active {min-height: 85%;}
+.min-h-90-lg-A:active {min-height: 90%;}
+.min-h-95-lg-A:active {min-height: 95%;}
+.min-h-100-lg-A:active {min-height: 100%;}
+
+/* h-num_vh = height */
+.h-5vh-lg-A:active {height: 5vh;}
+.h-10vh-lg-A:active {height: 10vh;}
+.h-15vh-lg-A:active {height: 15vh;}
+.h-20vh-lg-A:active {height: 20vh;}
+.h-25vh-lg-A:active {height: 25vh;}
+.h-30vh-lg-A:active {height: 30vh;}
+.h-35vh-lg-A:active {height: 35vh;}
+.h-40vh-lg-A:active {height: 40vh;}
+.h-45vh-lg-A:active {height: 45vh;}
+.h-50vh-lg-A:active {height: 50vh;}
+.h-55vh-lg-A:active {height: 55vh;}
+.h-60vh-lg-A:active {height: 60vh;}
+.h-65vh-lg-A:active {height: 65vh;}
+.h-70vh-lg-A:active {height: 70vh;}
+.h-75vh-lg-A:active {height: 75vh;}
+.h-80vh-lg-A:active {height: 80vh;}
+.h-85vh-lg-A:active {height: 85vh;}
+.h-90vh-lg-A:active {height: 90vh;}
+.h-95vh-lg-A:active {height: 95vh;}
+.h-100vh-lg-A:active {height: 100vh;}
+
+/* max-h-num_vh = height */
+.max-h-5vh-lg-A:active {max-height: 5vh;}
+.max-h-10vh-lg-A:active {max-height: 10vh;}
+.max-h-15vh-lg-A:active {max-height: 15vh;}
+.max-h-20vh-lg-A:active {max-height: 20vh;}
+.max-h-25vh-lg-A:active {max-height: 25vh;}
+.max-h-30vh-lg-A:active {max-height: 30vh;}
+.max-h-35vh-lg-A:active {max-height: 35vh;}
+.max-h-40vh-lg-A:active {max-height: 40vh;}
+.max-h-45vh-lg-A:active {max-height: 45vh;}
+.max-h-50vh-lg-A:active {max-height: 50vh;}
+.max-h-55vh-lg-A:active {max-height: 55vh;}
+.max-h-60vh-lg-A:active {max-height: 60vh;}
+.max-h-65vh-lg-A:active {max-height: 65vh;}
+.max-h-70vh-lg-A:active {max-height: 70vh;}
+.max-h-75vh-lg-A:active {max-height: 75vh;}
+.max-h-80vh-lg-A:active {max-height: 80vh;}
+.max-h-85vh-lg-A:active {max-height: 85vh;}
+.max-h-90vh-lg-A:active {max-height: 90vh;}
+.max-h-95vh-lg-A:active {max-height: 95vh;}
+.max-h-100vh-lg-A:active {max-height: 100vh;}
+
+/* min-h-num_vh = height */
+.min-h-5vh-lg-A:active {min-height: 5vh;}
+.min-h-10vh-lg-A:active {min-height: 10vh;}
+.min-h-15vh-lg-A:active {min-height: 15vh;}
+.min-h-20vh-lg-A:active {min-height: 20vh;}
+.min-h-25vh-lg-A:active {min-height: 25vh;}
+.min-h-30vh-lg-A:active {min-height: 30vh;}
+.min-h-35vh-lg-A:active {min-height: 35vh;}
+.min-h-40vh-lg-A:active {min-height: 40vh;}
+.min-h-45vh-lg-A:active {min-height: 45vh;}
+.min-h-50vh-lg-A:active {min-height: 50vh;}
+.min-h-55vh-lg-A:active {min-height: 55vh;}
+.min-h-60vh-lg-A:active {min-height: 60vh;}
+.min-h-65vh-lg-A:active {min-height: 65vh;}
+.min-h-70vh-lg-A:active {min-height: 70vh;}
+.min-h-75vh-lg-A:active {min-height: 75vh;}
+.min-h-80vh-lg-A:active {min-height: 80vh;}
+.min-h-85vh-lg-A:active {min-height: 85vh;}
+.min-h-90vh-lg-A:active {min-height: 90vh;}
+.min-h-95vh-lg-A:active {min-height: 95vh;}
+.min-h-100vh-lg-A:active {min-height: 100vh;}
+
+/* h-auto */
+.h-auto-A:active{height: auto;}
+
+/* p-num = padding */
+.p-1-lg-A:active {padding: .25rem;}
+.p-2-lg-A:active {padding: .5rem;}
+.p-3-lg-A:active {padding: .75rem;}
+.p-4-lg-A:active {padding: 1rem;}
+.p-5-lg-A:active {padding: 1.25rem;}
+.p-6-lg-A:active {padding: 1.5rem;}
+.p-7-lg-A:active {padding: 1.75rem;}
+.p-8-lg-A:active {padding: 2rem;}
+.p-9-lg-A:active {padding: 2.25rem;}
+.p-10-lg-A:active {padding: 2.5rem;}
+.p-11-lg-A:active {padding: 2.75rem;}
+.p-12-lg-A:active {padding: 3rem;}
+.p-13-lg-A:active {padding: 3.25rem;}
+.p-14-lg-A:active {padding: 3.5rem;}
+.p-15-lg-A:active {padding: 3.75rem;}
+.p-16-lg-A:active {padding: 4rem;}
+.p-17-lg-A:active {padding: 4.25rem;}
+.p-18-lg-A:active {padding: 4.5rem;}
+.p-19-lg-A:active {padding: 4.75rem;}
+.p-20-lg-A:active {padding: 5rem;}
+
+/* pl-num = padding-left */
+.pl-1-lg-A:active {padding-left: .25rem;}
+.pl-2-lg-A:active {padding-left: .5rem;}
+.pl-3-lg-A:active {padding-left: .75rem;}
+.pl-4-lg-A:active {padding-left: 1rem;}
+.pl-5-lg-A:active {padding-left: 1.25rem;}
+.pl-6-lg-A:active {padding-left: 1.5rem;}
+.pl-7-lg-A:active {padding-left: 1.75rem;}
+.pl-8-lg-A:active {padding-left: 2rem;}
+.pl-9-lg-A:active {padding-left: 2.25rem;}
+.pl-10-lg-A:active {padding-left: 2.5rem;}
+.pl-11-lg-A:active {padding-left: 2.75rem;}
+.pl-12-lg-A:active {padding-left: 3rem;}
+.pl-13-lg-A:active {padding-left: 3.25rem;}
+.pl-14-lg-A:active {padding-left: 3.5rem;}
+.pl-15-lg-A:active {padding-left: 3.75rem;}
+.pl-16-lg-A:active {padding-left: 4rem;}
+.pl-17-lg-A:active {padding-left: 4.25rem;}
+.pl-18-lg-A:active {padding-left: 4.5rem;}
+.pl-19-lg-A:active {padding-left: 4.75rem;}
+.pl-20-lg-A:active {padding-left: 5rem;}
+.pl-0-lg-A:active {padding-left: 0;}
+
+/* pr-num = padding-right */
+.pr-1-lg-A:active {padding-right: .25rem;}
+.pr-2-lg-A:active {padding-right: .5rem;}
+.pr-3-lg-A:active {padding-right: .75rem;}
+.pr-4-lg-A:active {padding-right: 1rem;}
+.pr-5-lg-A:active {padding-right: 1.25rem;}
+.pr-6-lg-A:active {padding-right: 1.5rem;}
+.pr-7-lg-A:active {padding-right: 1.75rem;}
+.pr-8-lg-A:active {padding-right: 2rem;}
+.pr-9-lg-A:active {padding-right: 2.25rem;}
+.pr-10-lg-A:active {padding-right: 2.5rem;}
+.pr-11-lg-A:active {padding-right: 2.75rem;}
+.pr-12-lg-A:active {padding-right: 3rem;}
+.pr-13-lg-A:active {padding-right: 3.25rem;}
+.pr-14-lg-A:active {padding-right: 3.5rem;}
+.pr-15-lg-A:active {padding-right: 3.75rem;}
+.pr-16-lg-A:active {padding-right: 4rem;}
+.pr-17-lg-A:active {padding-right: 4.25rem;}
+.pr-18-lg-A:active {padding-right: 4.5rem;}
+.pr-19-lg-A:active {padding-right: 4.75rem;}
+.pr-20-lg-A:active {padding-right: 5rem;}
+.pr-0-lg-A:active {padding-right: 0;}
+
+/* pt-num = padding-top */
+.pt-1-lg-A:active {padding-top: .25rem;}
+.pt-2-lg-A:active {padding-top: .5rem;}
+.pt-3-lg-A:active {padding-top: .75rem;}
+.pt-4-lg-A:active {padding-top: 1rem;}
+.pt-5-lg-A:active {padding-top: 1.25rem;}
+.pt-6-lg-A:active {padding-top: 1.5rem;}
+.pt-7-lg-A:active {padding-top: 1.75rem;}
+.pt-8-lg-A:active {padding-top: 2rem;}
+.pt-9-lg-A:active {padding-top: 2.25rem;}
+.pt-10-lg-A:active {padding-top: 2.5rem;}
+.pt-11-lg-A:active {padding-top: 2.75rem;}
+.pt-12-lg-A:active {padding-top: 3rem;}
+.pt-13-lg-A:active {padding-top: 3.25rem;}
+.pt-14-lg-A:active {padding-top: 3.5rem;}
+.pt-15-lg-A:active {padding-top: 3.75rem;}
+.pt-16-lg-A:active {padding-top: 4rem;}
+.pt-17-lg-A:active {padding-top: 4.25rem;}
+.pt-18-lg-A:active {padding-top: 4.5rem;}
+.pt-19-lg-A:active {padding-top: 4.75rem;}
+.pt-20-lg-A:active {padding-top: 5rem;}
+.pt-0-lg-A:active {padding-top: 0;}
+
+/* pb-num = padding-bottom */
+.pb-1-lg-A:active {padding-bottom: .25rem;}
+.pb-2-lg-A:active {padding-bottom: .5rem;}
+.pb-3-lg-A:active {padding-bottom: .75rem;}
+.pb-4-lg-A:active {padding-bottom: 1rem;}
+.pb-5-lg-A:active {padding-bottom: 1.25rem;}
+.pb-6-lg-A:active {padding-bottom: 1.5rem;}
+.pb-7-lg-A:active {padding-bottom: 1.75rem;}
+.pb-8-lg-A:active {padding-bottom: 2rem;}
+.pb-9-lg-A:active {padding-bottom: 2.25rem;}
+.pb-10-lg-A:active {padding-bottom: 2.5rem;}
+.pb-11-lg-A:active {padding-bottom: 2.75rem;}
+.pb-12-lg-A:active {padding-bottom: 3rem;}
+.pb-13-lg-A:active {padding-bottom: 3.25rem;}
+.pb-14-lg-A:active {padding-bottom: 3.5rem;}
+.pb-15-lg-A:active {padding-bottom: 3.75rem;}
+.pb-16-lg-A:active {padding-bottom: 4rem;}
+.pb-17-lg-A:active {padding-bottom: 4.25rem;}
+.pb-18-lg-A:active {padding-bottom: 4.5rem;}
+.pb-19-lg-A:active {padding-bottom: 4.75rem;}
+.pb-20-lg-A:active {padding-bottom: 5rem;}
+.pb-0-lg-A:active {padding-bottom: 0;}
+
+/* px-num = padding-left and padding-right */
+.px-1-lg-A:active {padding-left: .25rem; padding-right: .25rem;}
+.px-2-lg-A:active {padding-left: .5rem; padding-right: .5;}
+.px-3-lg-A:active {padding-left: .75rem; padding-right: .75rem;}
+.px-4-lg-A:active {padding-left: 1rem; padding-right: 1rem;}
+.px-5-lg-A:active {padding-left: 1.25rem; padding-right: 1.25rem;}
+.px-6-lg-A:active {padding-left: 1.5rem; padding-right: 1.5;}
+.px-7-lg-A:active {padding-left: 1.75rem; padding-right: 1.75rem;}
+.px-8-lg-A:active {padding-left: 2rem; padding-right: 2rem;}
+.px-9-lg-A:active {padding-left: 2.25rem; padding-right: 2.25rem;}
+.px-10-lg-A:active {padding-left: 2.5rem; padding-right: 2.5rem;}
+.px-11-lg-A:active {padding-left: 2.75rem; padding-right: 2.75rem;}
+.px-12-lg-A:active {padding-left: 3rem; padding-right: 3rem;}
+.px-13-lg-A:active {padding-left: 3.25rem; padding-right: 3.25rem;}
+.px-14-lg-A:active {padding-left: 3.5rem; padding-right: 3.5rem;}
+.px-15-lg-A:active {padding-left: 3.75rem; padding-right: 3.75rem;}
+.px-16-lg-A:active {padding-left: 4rem; padding-right: 4rem;}
+.px-17-lg-A:active {padding-left: 4.25rem; padding-right: 4.25rem;}
+.px-18-lg-A:active {padding-left: 4.5rem; padding-right: 4.5rem;}
+.px-19-lg-A:active {padding-left: 4.75rem; padding-right: 4.75rem;}
+.px-20-lg-A:active {padding-left: 5rem; padding-right: 5rem;}
+.px-0-lg-A:active {padding-left: 0; padding-right: 0;}
+
+/* py-num = padding-top and padding-bottom */
+.py-1-lg-A:active {padding-top: .25rem; padding-bottom: .25rem;}
+.py-2-lg-A:active {padding-top: .5rem; padding-bottom: .5;}
+.py-3-lg-A:active {padding-top: .75rem; padding-bottom: .75rem;}
+.py-4-lg-A:active {padding-top: 1rem; padding-bottom: 1rem;}
+.py-5-lg-A:active {padding-top: 1.25rem; padding-bottom: 1.25rem;}
+.py-6-lg-A:active {padding-top: 1.5rem; padding-bottom: 1.5;}
+.py-7-lg-A:active {padding-top: 1.75rem; padding-bottom: 1.75rem;}
+.py-8-lg-A:active {padding-top: 2rem; padding-bottom: 2rem;}
+.py-9-lg-A:active {padding-top: 2.25rem; padding-bottom: 2.25rem;}
+.py-10-lg-A:active {padding-top: 2.5rem; padding-bottom: 2.5rem;}
+.py-11-lg-A:active {padding-top: 2.75rem; padding-bottom: 2.75rem;}
+.py-12-lg-A:active {padding-top: 3rem; padding-bottom: 3rem;}
+.py-13-lg-A:active {padding-top: 3.25rem; padding-bottom: 3.25rem;}
+.py-14-lg-A:active {padding-top: 3.5rem; padding-bottom: 3.5rem;}
+.py-15-lg-A:active {padding-top: 3.75rem; padding-bottom: 3.75rem;}
+.py-16-lg-A:active {padding-top: 4rem; padding-bottom: 4rem;}
+.py-17-lg-A:active {padding-top: 4.25rem; padding-bottom: 4.25rem;}
+.py-18-lg-A:active {padding-top: 4.5rem; padding-bottom: 4.5rem;}
+.py-19-lg-A:active {padding-top: 4.75rem; padding-bottom: 4.75rem;}
+.py-20-lg-A:active {padding-top: 5rem; padding-bottom: 5rem;}
+.py-0-lg-A:active {padding-top: 0; padding-bottom: 0;}
+.p-0-lg-A:active {padding: 0;}
+
+/* m-num = margin */
+.m-1-lg-A:active {margin: .25rem;}
+.m-2-lg-A:active {margin: .5rem;}
+.m-3-lg-A:active {margin: .75rem;}
+.m-4-lg-A:active {margin: 1rem;}
+.m-5-lg-A:active {margin: 1.25rem;}
+.m-6-lg-A:active {margin: 1.5rem;}
+.m-7-lg-A:active {margin: 1.75rem;}
+.m-8-lg-A:active {margin: 2rem;}
+.m-9-lg-A:active {margin: 2.25rem;}
+.m-10-lg-A:active {margin: 2.5rem;}
+.m-11-lg-A:active {margin: 2.75rem;}
+.m-12-lg-A:active {margin: 3rem;}
+.m-13-lg-A:active {margin: 3.25rem;}
+.m-14-lg-A:active {margin: 3.5rem;}
+.m-15-lg-A:active {margin: 3.75rem;}
+.m-16-lg-A:active {margin: 4rem;}
+.m-17-lg-A:active {margin: 4.25rem;}
+.m-18-lg-A:active {margin: 4.5rem;}
+.m-19-lg-A:active {margin: 4.75rem;}
+.m-20-lg-A:active {margin: 5rem;}
+
+/* -m-num = margin */
+.-m-1-lg-A:active {margin: -0.25rem;}
+.-m-2-lg-A:active {margin: -0.5rem;}
+.-m-3-lg-A:active {margin: -0.75rem;}
+.-m-4-lg-A:active {margin: -1rem;}
+.-m-5-lg-A:active {margin: -1.25rem;}
+.-m-6-lg-A:active {margin: -1.5rem;}
+.-m-7-lg-A:active {margin: -1.75rem;}
+.-m-8-lg-A:active {margin: -2rem;}
+.-m-9-lg-A:active {margin: -2.25rem;}
+.-m-10-lg-A:active {margin: -2.5rem;}
+.-m-11-lg-A:active {margin: -2.75rem;}
+.-m-12-lg-A:active {margin: -3rem;}
+.-m-13-lg-A:active {margin: -3.25rem;}
+.-m-14-lg-A:active {margin: -3.5rem;}
+.-m-15-lg-A:active {margin: -3.75rem;}
+.-m-16-lg-A:active {margin: -4rem;}
+.-m-17-lg-A:active {margin: -4.25rem;}
+.-m-18-lg-A:active {margin: -4.5rem;}
+.-m-19-lg-A:active {margin: -4.75rem;}
+.-m-20-lg-A:active {margin: -5rem;}
+.m-auto-lg-A:active {margin: 0 auto;}
+
+/* ml-num = margin-left */
+.ml-1-lg-A:active {margin-left: .25rem;}
+.ml-2-lg-A:active {margin-left: .5rem;}
+.ml-3-lg-A:active {margin-left: .75rem;}
+.ml-4-lg-A:active {margin-left: 1rem;}
+.ml-5-lg-A:active {margin-left: 1.25rem;}
+.ml-6-lg-A:active {margin-left: 1.5rem;}
+.ml-7-lg-A:active {margin-left: 1.75rem;}
+.ml-8-lg-A:active {margin-left: 2rem;}
+.ml-9-lg-A:active {margin-left: 2.25rem;}
+.ml-10-lg-A:active {margin-left: 2.5rem;}
+.ml-11-lg-A:active {margin-left: 2.75rem;}
+.ml-12-lg-A:active {margin-left: 3rem;}
+.ml-13-lg-A:active {margin-left: 3.25rem;}
+.ml-14-lg-A:active {margin-left: 3.5rem;}
+.ml-15-lg-A:active {margin-left: 3.75rem;}
+.ml-16-lg-A:active {margin-left: 4rem;}
+.ml-17-lg-A:active {margin-left: 4.25rem;}
+.ml-18-lg-A:active {margin-left: 4.5rem;}
+.ml-19-lg-A:active {margin-left: 4.75rem;}
+.ml-20-lg-A:active {margin-left: 5rem;}
+
+/* -ml-num = margin-left */
+.-ml-1-lg-A:active {margin-left: -0.25rem;}
+.-ml-2-lg-A:active {margin-left: -0.5rem;}
+.-ml-3-lg-A:active {margin-left: -0.75rem;}
+.-ml-4-lg-A:active {margin-left: -1rem;}
+.-ml-5-lg-A:active {margin-left: -1.25rem;}
+.-ml-6-lg-A:active {margin-left: -1.5rem;}
+.-ml-7-lg-A:active {margin-left: -1.75rem;}
+.-ml-8-lg-A:active {margin-left: -2rem;}
+.-ml-9-lg-A:active {margin-left: -2.25rem;}
+.-ml-10-lg-A:active {margin-left: -2.5rem;}
+.-ml-11-lg-A:active {margin-left: -2.75rem;}
+.-ml-12-lg-A:active {margin-left: -3rem;}
+.-ml-13-lg-A:active {margin-left: -3.25rem;}
+.-ml-14-lg-A:active {margin-left: -3.5rem;}
+.-ml-15-lg-A:active {margin-left: -3.75rem;}
+.-ml-16-lg-A:active {margin-left: -4rem;}
+.-ml-17-lg-A:active {margin-left: -4.25rem;}
+.-ml-18-lg-A:active {margin-left: -4.5rem;}
+.-ml-19-lg-A:active {margin-left: -4.75rem;}
+.-ml-20-lg-A:active {margin-left: -5rem;}
+.ml-auto-lg-A:active {margin-left: auto;}
+.ml-0-lg-A:active {margin-left: 0;}
+
+/* mr-num = margin-right */
+.mr-1-lg-A:active {margin-right: .25rem;}
+.mr-2-lg-A:active {margin-right: .5rem;}
+.mr-3-lg-A:active {margin-right: .75rem;}
+.mr-4-lg-A:active {margin-right: 1rem;}
+.mr-5-lg-A:active {margin-right: 1.25rem;}
+.mr-6-lg-A:active {margin-right: 1.5rem;}
+.mr-7-lg-A:active {margin-right: 1.75rem;}
+.mr-8-lg-A:active {margin-right: 2rem;}
+.mr-9-lg-A:active {margin-right: 2.25rem;}
+.mr-10-lg-A:active {margin-right: 2.5rem;}
+.mr-11-lg-A:active {margin-right: 2.75rem;}
+.mr-12-lg-A:active {margin-right: 3rem;}
+.mr-13-lg-A:active {margin-right: 3.25rem;}
+.mr-14-lg-A:active {margin-right: 3.5rem;}
+.mr-15-lg-A:active {margin-right: 3.75rem;}
+.mr-16-lg-A:active {margin-right: 4rem;}
+.mr-17-lg-A:active {margin-right: 4.25rem;}
+.mr-18-lg-A:active {margin-right: 4.5rem;}
+.mr-19-lg-A:active {margin-right: 4.75rem;}
+.mr-20-lg-A:active {margin-right: 5rem;}
+
+/* -mr-num = margin-right */
+.-mr-1-lg-A:active {margin-right: -0.25rem;}
+.-mr-2-lg-A:active {margin-right: -0.5rem;}
+.-mr-3-lg-A:active {margin-right: -0.75rem;}
+.-mr-4-lg-A:active {margin-right: -1rem;}
+.-mr-5-lg-A:active {margin-right: -1.25rem;}
+.-mr-6-lg-A:active {margin-right: -1.5rem;}
+.-mr-7-lg-A:active {margin-right: -1.75rem;}
+.-mr-8-lg-A:active {margin-right: -2rem;}
+.-mr-9-lg-A:active {margin-right: -2.25rem;}
+.-mr-10-lg-A:active {margin-right: -2.5rem;}
+.-mr-11-lg-A:active {margin-right: -2.75rem;}
+.-mr-12-lg-A:active {margin-right: -3rem;}
+.-mr-13-lg-A:active {margin-right: -3.25rem;}
+.-mr-14-lg-A:active {margin-right: -3.5rem;}
+.-mr-15-lg-A:active {margin-right: -3.75rem;}
+.-mr-16-lg-A:active {margin-right: -4rem;}
+.-mr-17-lg-A:active {margin-right: -4.25rem;}
+.-mr-18-lg-A:active {margin-right: -4.5rem;}
+.-mr-19-lg-A:active {margin-right: -4.75rem;}
+.-mr-20-lg-A:active {margin-right: -5rem;}
+.mr-auto-lg-A:active {margin-right: auto;}
+.mr-0-lg-A:active {margin-right: 0;}
+
+/* mt-num = margin-top */
+.mt-1-lg-A:active {margin-top: .25rem;}
+.mt-2-lg-A:active {margin-top: .5rem;}
+.mt-3-lg-A:active {margin-top: .75rem;}
+.mt-4-lg-A:active {margin-top: 1rem;}
+.mt-5-lg-A:active {margin-top: 1.25rem;}
+.mt-6-lg-A:active {margin-top: 1.5rem;}
+.mt-7-lg-A:active {margin-top: 1.75rem;}
+.mt-8-lg-A:active {margin-top: 2rem;}
+.mt-9-lg-A:active {margin-top: 2.25rem;}
+.mt-10-lg-A:active {margin-top: 2.5rem;}
+.mt-11-lg-A:active {margin-top: 2.75rem;}
+.mt-12-lg-A:active {margin-top: 3rem;}
+.mt-13-lg-A:active {margin-top: 3.25rem;}
+.mt-14-lg-A:active {margin-top: 3.5rem;}
+.mt-15-lg-A:active {margin-top: 3.75rem;}
+.mt-16-lg-A:active {margin-top: 4rem;}
+.mt-17-lg-A:active {margin-top: 4.25rem;}
+.mt-18-lg-A:active {margin-top: 4.5rem;}
+.mt-19-lg-A:active {margin-top: 4.75rem;}
+.mt-20-lg-A:active {margin-top: 5rem;}
+
+/* -mt-num = margin-top */
+.-mt-1-lg-A:active {margin-top: -0.25rem;}
+.-mt-2-lg-A:active {margin-top: -0.5rem;}
+.-mt-3-lg-A:active {margin-top: -0.75rem;}
+.-mt-4-lg-A:active {margin-top: -1rem;}
+.-mt-5-lg-A:active {margin-top: -1.25rem;}
+.-mt-6-lg-A:active {margin-top: -1.5rem;}
+.-mt-7-lg-A:active {margin-top: -1.75rem;}
+.-mt-8-lg-A:active {margin-top: -2rem;}
+.-mt-9-lg-A:active {margin-top: -2.25rem;}
+.-mt-10-lg-A:active {margin-top: -2.5rem;}
+.-mt-11-lg-A:active {margin-top: -2.75rem;}
+.-mt-12-lg-A:active {margin-top: -3rem;}
+.-mt-13-lg-A:active {margin-top: -3.25rem;}
+.-mt-14-lg-A:active {margin-top: -3.5rem;}
+.-mt-15-lg-A:active {margin-top: -3.75rem;}
+.-mt-16-lg-A:active {margin-top: -4rem;}
+.-mt-17-lg-A:active {margin-top: -4.25rem;}
+.-mt-18-lg-A:active {margin-top: -4.5rem;}
+.-mt-19-lg-A:active {margin-top: -4.75rem;}
+.-mt-20-lg-A:active {margin-top: -5rem;}
+.mt-auto-lg-A:active {margin-top: auto;}
+.mt-0-lg-A:active {margin-top: 0;}
+
+/* mb-num = margin-bottom */
+.mb-1-lg-A:active {margin-bottom: .25rem;}
+.mb-2-lg-A:active {margin-bottom: .5rem;}
+.mb-3-lg-A:active {margin-bottom: .75rem;}
+.mb-4-lg-A:active {margin-bottom: 1rem;}
+.mb-5-lg-A:active {margin-bottom: 1.25rem;}
+.mb-6-lg-A:active {margin-bottom: 1.5rem;}
+.mb-7-lg-A:active {margin-bottom: 1.75rem;}
+.mb-8-lg-A:active {margin-bottom: 2rem;}
+.mb-9-lg-A:active {margin-bottom: 2.25rem;}
+.mb-10-lg-A:active {margin-bottom: 2.5rem;}
+.mb-11-lg-A:active {margin-bottom: 2.75rem;}
+.mb-12-lg-A:active {margin-bottom: 3rem;}
+.mb-13-lg-A:active {margin-bottom: 3.25rem;}
+.mb-14-lg-A:active {margin-bottom: 3.5rem;}
+.mb-15-lg-A:active {margin-bottom: 3.75rem;}
+.mb-16-lg-A:active {margin-bottom: 4rem;}
+.mb-17-lg-A:active {margin-bottom: 4.25rem;}
+.mb-18-lg-A:active {margin-bottom: 4.5rem;}
+.mb-19-lg-A:active {margin-bottom: 4.75rem;}
+.mb-20-lg-A:active {margin-bottom: 5rem;}
+
+/* -mb-num = margin-bottom */
+.-mb-1-lg-A:active {margin-bottom: -0.25rem;}
+.-mb-2-lg-A:active {margin-bottom: -0.5rem;}
+.-mb-3-lg-A:active {margin-bottom: -0.75rem;}
+.-mb-4-lg-A:active {margin-bottom: -1rem;}
+.-mb-5-lg-A:active {margin-bottom: -1.25rem;}
+.-mb-6-lg-A:active {margin-bottom: -1.5rem;}
+.-mb-7-lg-A:active {margin-bottom: -1.75rem;}
+.-mb-8-lg-A:active {margin-bottom: -2rem;}
+.-mb-9-lg-A:active {margin-bottom: -2.25rem;}
+.-mb-10-lg-A:active {margin-bottom: -2.5rem;}
+.-mb-11-lg-A:active {margin-bottom: -2.75rem;}
+.-mb-12-lg-A:active {margin-bottom: -3rem;}
+.-mb-13-lg-A:active {margin-bottom: -3.25rem;}
+.-mb-14-lg-A:active {margin-bottom: -3.5rem;}
+.-mb-15-lg-A:active {margin-bottom: -3.75rem;}
+.-mb-16-lg-A:active {margin-bottom: -4rem;}
+.-mb-17-lg-A:active {margin-bottom: -4.25rem;}
+.-mb-18-lg-A:active {margin-bottom: -4.5rem;}
+.-mb-19-lg-A:active {margin-bottom: -4.75rem;}
+.-mb-20-lg-A:active {margin-bottom: -5rem;}
+.mb-auto-lg-A:active {margin-bottom: auto;}
+.mb-0-lg-A:active {margin-bottom: 0;}
+
+/* mx-num = margin-left and margin-right */
+.mx-1-lg-A:active {margin-left: .25rem; margin-right: .25rem;}
+.mx-2-lg-A:active {margin-left: .5rem; margin-right: .5;}
+.mx-3-lg-A:active {margin-left: .75rem; margin-right: .75rem;}
+.mx-4-lg-A:active {margin-left: 1rem; margin-right: 1rem;}
+.mx-5-lg-A:active {margin-left: 1.25rem; margin-right: 1.25rem;}
+.mx-6-lg-A:active {margin-left: 1.5rem; margin-right: 1.5rem;}
+.mx-7-lg-A:active {margin-left: 1.75rem; margin-right: 1.75rem;}
+.mx-8-lg-A:active {margin-left: 2rem; margin-right: 2rem;}
+.mx-9-lg-A:active {margin-left: 2.25rem; margin-right: 2.25rem;}
+.mx-10-lg-A:active {margin-left: 2.5rem; margin-right: 2.5rem;}
+.mx-11-lg-A:active {margin-left: 2.75rem; margin-right: 2.75rem;}
+.mx-12-lg-A:active {margin-left: 3rem; margin-right: 3rem;}
+.mx-13-lg-A:active {margin-left: 3.25rem; margin-right: 3.25rem;}
+.mx-14-lg-A:active {margin-left: 3.5rem; margin-right: 3.5rem;}
+.mx-15-lg-A:active {margin-left: 3.75rem; margin-right: 3.75rem;}
+.mx-16-lg-A:active {margin-left: 4rem; margin-right: 4rem;}
+.mx-17-lg-A:active {margin-left: 4.25rem; margin-right: 4.25rem;}
+.mx-18-lg-A:active {margin-left: 4.5rem; margin-right: 4.5rem;}
+.mx-19-lg-A:active {margin-left: 4.75rem; margin-right: 4.75rem;}
+.mx-20-lg-A:active {margin-left: 5rem; margin-right: 5rem;}
+
+/* -mx-num = margin-left and margin-right */
+.-mx-1-lg-A:active {margin-left: -0.25rem; margin-right: -0.25rem;}
+.-mx-2-lg-A:active {margin-left: -0.5rem; margin-right: -0.5;}
+.-mx-3-lg-A:active {margin-left: -0.75rem; margin-right: -0.75rem;}
+.-mx-4-lg-A:active {margin-left: -1rem; margin-right: -1rem;}
+.-mx-5-lg-A:active {margin-left: -1.25rem; margin-right: -1.25rem;}
+.-mx-6-lg-A:active {margin-left: -1.5rem; margin-right: -1.5rem;}
+.-mx-7-lg-A:active {margin-left: -1.75rem; margin-right: -1.75rem;}
+.-mx-8-lg-A:active {margin-left: -2rem; margin-right: -2rem;}
+.-mx-9-lg-A:active {margin-left: -2.25rem; margin-right: -2.25rem;}
+.-mx-10-lg-A:active {margin-left: -2.5rem; margin-right: -2.5rem;}
+.-mx-11-lg-A:active {margin-left: -2.75rem; margin-right: -2.75rem;}
+.-mx-12-lg-A:active {margin-left: -3rem; margin-right: -3rem;}
+.-mx-13-lg-A:active {margin-left: -3.25rem; margin-right: -3.25rem;}
+.-mx-14-lg-A:active {margin-left: -3.5rem; margin-right: -3.5rem;}
+.-mx-15-lg-A:active {margin-left: -3.75rem; margin-right: -3.75rem;}
+.-mx-16-lg-A:active {margin-left: -4rem; margin-right: -4rem;}
+.-mx-17-lg-A:active {margin-left: -4.25rem; margin-right: -4.25rem;}
+.-mx-18-lg-A:active {margin-left: -4.5rem; margin-right: -4.5rem;}
+.-mx-19-lg-A:active {margin-left: -4.75rem; margin-right: -4.75rem;}
+.-mx-20-lg-A:active {margin-left: -5rem; margin-right: -5rem;}
+.mx-0-lg-A:active {margin-left: 0; margin-right: 0;}
+
+/* my-num = margin-top and margin-bottom */
+.my-1-lg-A:active {margin-top: .25rem; margin-bottom: .25rem;}
+.my-2-lg-A:active {margin-top: .5rem; margin-bottom: .5;}
+.my-3-lg-A:active {margin-top: .75rem; margin-bottom: .75rem;}
+.my-4-lg-A:active {margin-top: 1rem; margin-bottom: 1rem;}
+.my-5-lg-A:active {margin-top: 1.25rem; margin-bottom: 1.25rem;}
+.my-6-lg-A:active {margin-top: 1.5rem; margin-bottom: 1.5;}
+.my-7-lg-A:active {margin-top: 1.75rem; margin-bottom: 1.75rem;}
+.my-8-lg-A:active {margin-top: 2rem; margin-bottom: 2rem;}
+.my-9-lg-A:active {margin-top: 2.25rem; margin-bottom: 2.25rem;}
+.my-10-lg-A:active {margin-top: 2.5rem; margin-bottom: 2.5rem;}
+.my-11-lg-A:active {margin-top: 2.75rem; margin-bottom: 2.75rem;}
+.my-12-lg-A:active {margin-top: 3rem; margin-bottom: 3rem;}
+.my-13-lg-A:active {margin-top: 3.25rem; margin-bottom: 3.25rem;}
+.my-14-lg-A:active {margin-top: 3.5rem; margin-bottom: 3.5rem;}
+.my-15-lg-A:active {margin-top: 3.75rem; margin-bottom: 3.75rem;}
+.my-16-lg-A:active {margin-top: 4rem; margin-bottom: 4rem;}
+.my-17-lg-A:active {margin-top: 4.25rem; margin-bottom: 4.25rem;}
+.my-18-lg-A:active {margin-top: 4.5rem; margin-bottom: 4.5rem;}
+.my-19-lg-A:active {margin-top: 4.75rem; margin-bottom: 4.75rem;}
+.my-20-lg-A:active {margin-top: 5rem; margin-bottom: 5rem;}
+
+/* -my-num = margin-top and margin-bottom */
+.-my-1-lg-A:active {margin-top: -0.25rem; margin-bottom: -0.25rem;}
+.-my-2-lg-A:active {margin-top: -0.5rem; margin-bottom: -0.5;}
+.-my-3-lg-A:active {margin-top: -0.75rem; margin-bottom: -0.75rem;}
+.-my-4-lg-A:active {margin-top: -1rem; margin-bottom: -1rem;}
+.-my-5-lg-A:active {margin-top: -1.25rem; margin-bottom: -1.25rem;}
+.-my-6-lg-A:active {margin-top: -1.5rem; margin-bottom: -1.5;}
+.-my-7-lg-A:active {margin-top: -1.75rem; margin-bottom: -1.75rem;}
+.-my-8-lg-A:active {margin-top: -2rem; margin-bottom: -2rem;}
+.-my-9-lg-A:active {margin-top: -2.25rem; margin-bottom: -2.25rem;}
+.-my-10-lg-A:active {margin-top: -2.5rem; margin-bottom: -2.5rem;}
+.-my-11-lg-A:active {margin-top: -2.75rem; margin-bottom: -2.75rem;}
+.-my-12-lg-A:active {margin-top: -3rem; margin-bottom: -3rem;}
+.-my-13-lg-A:active {margin-top: -3.25rem; margin-bottom: -3.25rem;}
+.-my-14-lg-A:active {margin-top: -3.5rem; margin-bottom: -3.5rem;}
+.-my-15-lg-A:active {margin-top: -3.75rem; margin-bottom: -3.75rem;}
+.-my-16-lg-A:active {margin-top: -4rem; margin-bottom: -4rem;}
+.-my-17-lg-A:active {margin-top: -4.25rem; margin-bottom: -4.25rem;}
+.-my-18-lg-A:active {margin-top: -4.5rem; margin-bottom: -4.5rem;}
+.-my-19-lg-A:active {margin-top: -4.75rem; margin-bottom: -4.75rem;}
+.-my-20-lg-A:active {margin-top: -5rem; margin-bottom: -5rem;}
+.my-0-lg-A:active {margin-top: 0; margin-bottom: 0;}
+.m-0-lg-A:active {margin: 0;}
+
+/* border */
+.border-lg-A:active {border: 1px solid currentColor;}
+.border-2-lg-A:active {border: 2px solid currentColor;}
+.border-3-lg-A:active {border: 3px solid currentColor;}
+.border-4-lg-A:active {border: 4px solid currentColor;}
+.border-5-lg-A:active {border: 5px solid currentColor;}
+.border-6-lg-A:active {border: 6px solid currentColor;}
+.border-7-lg-A:active {border: 7px solid currentColor;}
+.border-8-lg-A:active {border: 8px solid currentColor;}
+.border-9-lg-A:active {border: 9px solid currentColor;}
+.border-10-lg-A:active {border: 10px solid currentColor;}
+
+/* border-t */
+.border-t-lg-A:active {border-top: 1px solid currentColor;}
+.border-t-2-lg-A:active {border-top: 2px solid currentColor;}
+.border-t-3-lg-A:active {border-top: 3px solid currentColor;}
+.border-t-4-lg-A:active {border-top: 4px solid currentColor;}
+.border-t-5-lg-A:active {border-top: 5px solid currentColor;}
+.border-t-6-lg-A:active {border-top: 6px solid currentColor;}
+.border-t-7-lg-A:active {border-top: 7px solid currentColor;}
+.border-t-8-lg-A:active {border-top: 8px solid currentColor;}
+.border-t-9-lg-A:active {border-top: 9px solid currentColor;}
+.border-t-10-lg-A:active {border-top: 10px solid currentColor;}
+
+/* border-b */
+.border-b-lg-A:active {border-bottom: 1px solid currentColor;}
+.border-b-2-lg-A:active {border-bottom: 2px solid currentColor;}
+.border-b-3-lg-A:active {border-bottom: 3px solid currentColor;}
+.border-b-4-lg-A:active {border-bottom: 4px solid currentColor;}
+.border-b-5-lg-A:active {border-bottom: 5px solid currentColor;}
+.border-b-6-lg-A:active {border-bottom: 6px solid currentColor;}
+.border-b-7-lg-A:active {border-bottom: 7px solid currentColor;}
+.border-b-8-lg-A:active {border-bottom: 8px solid currentColor;}
+.border-b-9-lg-A:active {border-bottom: 9px solid currentColor;}
+.border-b-10-lg-A:active {border-bottom: 10px solid currentColor;}
+
+/* border-r */
+.border-r-lg-A:active {border-right: 1px solid currentColor;}
+.border-r-2-lg-A:active {border-right: 2px solid currentColor;}
+.border-r-3-lg-A:active {border-right: 3px solid currentColor;}
+.border-r-4-lg-A:active {border-right: 4px solid currentColor;}
+.border-r-5-lg-A:active {border-right: 5px solid currentColor;}
+.border-r-6-lg-A:active {border-right: 6px solid currentColor;}
+.border-r-7-lg-A:active {border-right: 7px solid currentColor;}
+.border-r-8-lg-A:active {border-right: 8px solid currentColor;}
+.border-r-9-lg-A:active {border-right: 9px solid currentColor;}
+.border-r-10-lg-A:active {border-right: 10px solid currentColor;}
+
+/* border-l */
+.border-l-lg-A:active {border-left: 1px solid currentColor;}
+.border-l-2-lg-A:active {border-left: 2px solid currentColor;}
+.border-l-3-lg-A:active {border-left: 3px solid currentColor;}
+.border-l-4-lg-A:active {border-left: 4px solid currentColor;}
+.border-l-5-lg-A:active {border-left: 5px solid currentColor;}
+.border-l-6-lg-A:active {border-left: 6px solid currentColor;}
+.border-l-7-lg-A:active {border-left: 7px solid currentColor;}
+.border-l-8-lg-A:active {border-left: 8px solid currentColor;}
+.border-l-9-lg-A:active {border-left: 9px solid currentColor;}
+.border-l-10-lg-A:active {border-left: 10px solid currentColor;}
+
+/* border-width */
+.border-w-1-lg-A:active {border-width: 1px;}
+.border-w-2-lg-A:active {border-width: 2px;}
+.border-w-3-lg-A:active {border-width: 3px;}
+.border-w-4-lg-A:active {border-width: 4px;}
+.border-w-5-lg-A:active {border-width: 5px;}
+.border-w-6-lg-A:active {border-width: 6px;}
+.border-w-7-lg-A:active {border-width: 7px;}
+.border-w-8-lg-A:active {border-width: 8px;}
+.border-w-9-lg-A:active {border-width: 9px;}
+.border-w-10-lg-A:active {border-width: 10px;}
+
+/* border-top-width */
+.border-w-t-1-lg-A:active {border-top-width: 1px;}
+.border-w-t-2-lg-A:active {border-top-width: 2px;}
+.border-w-t-3-lg-A:active {border-top-width: 3px;}
+.border-w-t-4-lg-A:active {border-top-width: 4px;}
+.border-w-t-5-lg-A:active {border-top-width: 5px;}
+.border-w-t-6-lg-A:active {border-top-width: 6px;}
+.border-w-t-7-lg-A:active {border-top-width: 7px;}
+.border-w-t-8-lg-A:active {border-top-width: 8px;}
+.border-w-t-9-lg-A:active {border-top-width: 9px;}
+.border-w-t-10-lg-A:active {border-top-width: 10px;}
+
+/* border-right-width */
+.border-w-r-1-lg-A:active {border-right-width: 1px;}
+.border-w-r-2-lg-A:active {border-right-width: 2px;}
+.border-w-r-3-lg-A:active {border-right-width: 3px;}
+.border-w-r-4-lg-A:active {border-right-width: 4px;}
+.border-w-r-5-lg-A:active {border-right-width: 5px;}
+.border-w-r-6-lg-A:active {border-right-width: 6px;}
+.border-w-r-7-lg-A:active {border-right-width: 7px;}
+.border-w-r-8-lg-A:active {border-right-width: 8px;}
+.border-w-r-9-lg-A:active {border-right-width: 9px;}
+.border-w-r-10-lg-A:active {border-right-width: 10px;}
+
+/* border-bottom-width */
+.border-w-b-1-lg-A:active {border-bottom-width: 1px;}
+.border-w-b-2-lg-A:active {border-bottom-width: 2px;}
+.border-w-b-3-lg-A:active {border-bottom-width: 3px;}
+.border-w-b-4-lg-A:active {border-bottom-width: 4px;}
+.border-w-b-5-lg-A:active {border-bottom-width: 5px;}
+.border-w-b-6-lg-A:active {border-bottom-width: 6px;}
+.border-w-b-7-lg-A:active {border-bottom-width: 7px;}
+.border-w-b-8-lg-A:active {border-bottom-width: 8px;}
+.border-w-b-9-lg-A:active {border-bottom-width: 9px;}
+.border-w-b-10-lg-A:active {border-bottom-width: 10px;}
+
+/* border-left-width */
+.border-w-l-1-lg-A:active {border-left-width: 1px;}
+.border-w-l-2-lg-A:active {border-left-width: 2px;}
+.border-w-l-3-lg-A:active {border-left-width: 3px;}
+.border-w-l-4-lg-A:active {border-left-width: 4px;}
+.border-w-l-5-lg-A:active {border-left-width: 5px;}
+.border-w-l-6-lg-A:active {border-left-width: 6px;}
+.border-w-l-7-lg-A:active {border-left-width: 7px;}
+.border-w-l-8-lg-A:active {border-left-width: 8px;}
+.border-w-l-9-lg-A:active {border-left-width: 9px;}
+.border-w-l-10-lg-A:active {border-left-width: 10px;}
+
+/* col = float and flex-basis => 100% / 12 */
+.w-col-lg-A:active {width: calc(100% / 12); display: inline-block;}
+.w-col-2-lg-A:active {width: calc((100% / 12) * 2); display: inline-block;}
+.w-col-3-lg-A:active {width: calc((100% / 12) * 3); display: inline-block;}
+.w-col-4-lg-A:active {width: calc((100% / 12) * 4); display: inline-block;}
+.w-col-5-lg-A:active {width: calc((100% / 12) * 5); display: inline-block;}
+.w-col-6-lg-A:active {width: calc((100% / 12) * 6); display: inline-block;}
+.w-col-7-lg-A:active {width: calc((100% / 12) * 7); display: inline-block;}
+.w-col-8-lg-A:active {width: calc((100% / 12) * 8); display: inline-block;}
+.w-col-9-lg-A:active {width: calc((100% / 12) * 9); display: inline-block;}
+.w-col-10-lg-A:active {width: calc((100% / 12) * 10); display: inline-block;}
+.w-col-11-lg-A:active {width: calc((100% / 12) * 11); display: inline-block;}
+.w-col-12-A:active, .col-full {width: 100%; display: inline-block;}
+.w-col-0-lg-A:active {width: auto;}
+
+/* fs-name = font-size */
+.fs-xx-lgall-lg-A:active {font-size: xx-lgall;}
+.fs-x-lgall-lg-A:active {font-size: x-lgall;}
+.fs-lgaller-lg-A:active {font-size: smaller;}
+.fs-lgall-lg-A:active {font-size: small;}
+.fs-medium-lg-A:active {font-size: medium;}
+.fs-large-lg-A:active {font-size: large;}
+.fs-larger-lg-A:active {font-size: larger;}
+.fs-x-large-lg-A:active {font-size: x-large;}
+.fs-xx-large-lg-A:active {font-size: xx-large;}
+
+/* fs.num = font-size */
+.fs-1-lg-A:active {font-size: 0.5rem;}
+.fs-2-lg-A:active {font-size: 0.75rem;}
+.fs-4-lg-A:active {font-size: 1.25rem;}
+.fs-5-lg-A:active {font-size: 1.5rem;}
+.fs-6-lg-A:active {font-size: 1.75rem;}
+.fs-7-lg-A:active {font-size: 2rem;}
+.fs-8-lg-A:active {font-size: 2.25rem;}
+.fs-9-lg-A:active {font-size: 2.5rem;}
+.fs-10-lg-A:active {font-size: 2.75rem;}
+.fs-11-lg-A:active {font-size: 3rem;}
+.fs-12-lg-A:active {font-size: 3.25rem;}
+.fs-13-lg-A:active {font-size: 3.5rem;}
+.fs-14-lg-A:active {font-size: 3.75rem;}
+.fs-15-lg-A:active {font-size: 4rem;}
+.fs-16-lg-A:active {font-size: 4rem;}
+.fs-17-lg-A:active {font-size: 4.25rem;}
+.fs-18-lg-A:active {font-size: 4.5rem;}
+.fs-19-lg-A:active {font-size: 4.75rem;}
+.fs-20-lg-A:active {font-size: 5rem;}
+.fs-3-A:active, .fs-reset-lg-A:active {font-size: 1rem;}
+
+/* letter-spacing-num */
+.letter-spacing-lg-A:active {letter-spacing: 1px;}
+.letter-spacing-2-lg-A:active {letter-spacing: 1.25px;}
+.letter-spacing-3-lg-A:active {letter-spacing: 1.5px;}
+.letter-spacing-4-lg-A:active {letter-spacing: 1.75px;}
+.letter-spacing-5-lg-A:active {letter-spacing: 2px;}
+.letter-spacing-6-lg-A:active {letter-spacing: 2.25px;}
+.letter-spacing-7-lg-A:active {letter-spacing: 2.5px;}
+.letter-spacing-8-lg-A:active {letter-spacing: 2.75px;}
+.letter-spacing-9-lg-A:active {letter-spacing: 3px;}
+
+/* -letter-spacing-num */
+.-letter-spacing-lg-A:active {letter-spacing: -1px;}
+.-letter-spacing-2-lg-A:active {letter-spacing: -1.25px;}
+.-letter-spacing-3-lg-A:active {letter-spacing: -1.5px;}
+.-letter-spacing-4-lg-A:active {letter-spacing: -1.75px;}
+.-letter-spacing-5-lg-A:active {letter-spacing: -2px;}
+.-letter-spacing-6-lg-A:active {letter-spacing: -2.25px;}
+.-letter-spacing-7-lg-A:active {letter-spacing: -2.5px;}
+.-letter-spacing-8-lg-A:active {letter-spacing: -2.75px;}
+.-letter-spacing-9-lg-A:active {letter-spacing: -3px;}
+.letter-spacing-0-lg-A:active {letter-spacing: 0px;}
+}
