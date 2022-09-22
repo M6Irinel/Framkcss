@@ -1477,12 +1477,14 @@
 
 /* transition-all */
 .transition-all, .transition-all-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all, .transition-all-H:hover {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all, .transition-all-H:hover {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all, .transition-all-H:hover {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all, .transition-all-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all, .transition-all-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all, .transition-all-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform, .transition-transform-H:hover {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color, .transition-color-H:hover {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color, .transition-bg-color-H:hover {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter, .transition-filter-H:hover {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w, .transition-w-H:hover {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h, .transition-h-H:hover {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p, .transition-p-H:hover {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m, .transition-m-H:hover {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease, .ease-H:hover {transition-timing-function: ease;}
@@ -5337,12 +5339,14 @@
 
 /* transition-all */
 .transition-all-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-A:active {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-A:active {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-A:active {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-A:active {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-A:active {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-A:active {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-A:active {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-A:active {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-A:active {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-A:active {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-A:active {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-A:active {transition-timing-function: ease;}
@@ -9194,12 +9198,14 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 
 /* transition-all */
 .transition-all-sm, .transition-all-sm-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm, .transition-all-sm-H:hover {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm, .transition-all-sm-H:hover {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm, .transition-all-sm-H:hover {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm, .transition-all-sm-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm, .transition-all-sm-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm, .transition-all-sm-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-sm, .transition-transform-sm-H:hover {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-sm, .transition-color-sm-H:hover {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-sm, .transition-bg-color-sm-H:hover {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-sm, .transition-filter-sm-H:hover {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-sm, .transition-w-sm-H:hover {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-sm, .transition-h-sm-H:hover {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-sm, .transition-p-sm-H:hover {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-sm, .transition-m-sm-H:hover {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-sm, .ease-sm-H:hover {transition-timing-function: ease;}
@@ -13045,12 +13051,14 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 
 /* transition-all */
 .transition-all-sm-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm-A:active {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm-A:active {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm-A:active {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-sm-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-sm-A:active {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-sm-A:active {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-sm-A:active {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-sm-A:active {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-sm-A:active {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-sm-A:active {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-sm-A:active {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-sm-A:active {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-sm-A:active {transition-timing-function: ease;}
@@ -16906,12 +16914,14 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 
 /* transition-all */
 .transition-all-md, .transition-all-md-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md, .transition-all-md-H:hover {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md, .transition-all-md-H:hover {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md, .transition-all-md-H:hover {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md, .transition-all-md-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md, .transition-all-md-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md, .transition-all-md-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-md, .transition-transform-md-H:hover {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-md, .transition-color-md-H:hover {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-md, .transition-bg-color-md-H:hover {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-md, .transition-filter-md-H:hover {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-md, .transition-w-md-H:hover {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-md, .transition-h-md-H:hover {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-md, .transition-p-md-H:hover {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-md, .transition-m-md-H:hover {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-md, .ease-md-H:hover {transition-timing-function: ease;}
@@ -20757,12 +20767,14 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 
 /* transition-all */
 .transition-all-md-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md-A:active {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md-A:active {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md-A:active {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-md-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-md-A:active {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-md-A:active {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-md-A:active {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-md-A:active {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-md-A:active {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-md-A:active {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-md-A:active {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-md-A:active {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-md-A:active {transition-timing-function: ease;}
@@ -24615,12 +24627,14 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 
 /* transition-all */
 .transition-all-lg, .transition-all-lg-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg, .transition-all-lg-H:hover {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg, .transition-all-lg-H:hover {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg, .transition-all-lg-H:hover {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg, .transition-all-lg-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg, .transition-all-lg-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg, .transition-all-lg-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-lg, .transition-transform-lg-H:hover {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-lg, .transition-color-lg-H:hover {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-lg, .transition-bg-color-lg-H:hover {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-lg, .transition-filter-lg-H:hover {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-lg, .transition-w-lg-H:hover {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-lg, .transition-h-lg-H:hover {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-lg, .transition-p-lg-H:hover {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-lg, .transition-m-lg-H:hover {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-lg, .ease-lg-H:hover {transition-timing-function: ease;}
@@ -28466,12 +28480,14 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 
 /* transition-all */
 .transition-all-lg-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg-A:active {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg-A:active {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg-A:active {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-lg-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-lg-A:active {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-lg-A:active {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-lg-A:active {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-lg-A:active {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-lg-A:active {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-lg-A:active {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-lg-A:active {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-lg-A:active {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-lg-A:active {transition-timing-function: ease;}
@@ -32325,12 +32341,14 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 
 /* transition-all */
 .transition-all-xl, .transition-all-xl-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl, .transition-all-xl-H:hover {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl, .transition-all-xl-H:hover {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl, .transition-all-xl-H:hover {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl, .transition-all-xl-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl, .transition-all-xl-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl, .transition-all-xl-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-xl, .transition-transform-xl-H:hover {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-xl, .transition-color-xl-H:hover {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-xl, .transition-bg-color-xl-H:hover {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-xl, .transition-filter-xl-H:hover {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-xl, .transition-w-xl-H:hover {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-xl, .transition-h-xl-H:hover {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-xl, .transition-p-xl-H:hover {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-xl, .transition-m-xl-H:hover {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-xl, .ease-xl-H:hover {transition-timing-function: ease;}
@@ -36176,12 +36194,14 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 
 /* transition-all */
 .transition-all-xl-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl-A:active {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl-A:active {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl-A:active {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xl-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-xl-A:active {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-xl-A:active {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-xl-A:active {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-xl-A:active {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-xl-A:active {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-xl-A:active {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-xl-A:active {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-xl-A:active {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-xl-A:active {transition-timing-function: ease;}
@@ -40035,12 +40055,14 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 
 /* transition-all */
 .transition-all-xxl, .transition-all-xxl-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl, .transition-all-xxl-H:hover {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl, .transition-all-xxl-H:hover {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl, .transition-all-xxl-H:hover {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl, .transition-all-xxl-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl, .transition-all-xxl-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl, .transition-all-xxl-H:hover {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-xxl, .transition-transform-xxl-H:hover {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-xxl, .transition-color-xxl-H:hover {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-xxl, .transition-bg-color-xxl-H:hover {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-xxl, .transition-filter-xxl-H:hover {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-xxl, .transition-w-xxl-H:hover {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-xxl, .transition-h-xxl-H:hover {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-xxl, .transition-p-xxl-H:hover {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-xxl, .transition-m-xxl-H:hover {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-xxl, .ease-xxl-H:hover {transition-timing-function: ease;}
@@ -43886,12 +43908,14 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 
 /* transition-all */
 .transition-all-xxl-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl-A:active {transition: transform; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl-A:active {transition: color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl-A:active {transition: background-color; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
-.transition-all-xxl-A:active {transition: all; transition-property: all; -o-transition: all; -moz-transition: all; -webkit-transition: all;}
+.transition-transform-xxl-A:active {transition: transform; transition-property: transform; -o-transition: transform; -moz-transition: transform; -webkit-transition: transform;}
+.transition-color-xxl-A:active {transition: color; transition-property: color; -o-transition: color; -moz-transition: color; -webkit-transition: color;}
+.transition-bg-color-xxl-A:active {transition: background-color; transition-property: background-color; -o-transition: background-color; -moz-transition: background-color; -webkit-transition: background-color;}
+.transition-filter-xxl-A:active {transition: filter; transition-property: filter; -o-transition: filter; -moz-transition: filter; -webkit-transition: filter;}
+.transition-w-xxl-A:active {transition: width; transition-property: width; -o-transition: width; -moz-transition: width; -webkit-transition: width;}
+.transition-h-xxl-A:active {transition: height; transition-property: height; -o-transition: height; -moz-transition: height; -webkit-transition: height;}
+.transition-p-xxl-A:active {transition: padding; transition-property: padding; -o-transition: padding; -moz-transition: padding; -webkit-transition: padding;}
+.transition-m-xxl-A:active {transition: margin; transition-property: margin; -o-transition: margin; -moz-transition: margin; -webkit-transition: margin;}
 
 /* ease = transition-timing-function */
 .ease-xxl-A:active {transition-timing-function: ease;}
