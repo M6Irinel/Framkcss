@@ -3944,1217 +3944,1217 @@
 .fluid-img-A:active, .fluid-video-A:active {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
-.w-5-A:active {width: 5%;}
-.w-10-A:active {width: 10%;}
-.w-15-A:active {width: 15%;}
-.w-20-A:active {width: 20%;}
-.w-25-A:active {width: 25%;}
-.w-30-A:active {width: 30%;}
-.w-35-A:active {width: 35%;}
-.w-40-A:active {width: 40%;}
-.w-45-A:active {width: 45%;}
-.w-50-A:active {width: 50%;}
-.w-55-A:active {width: 55%;}
-.w-60-A:active {width: 60%;}
-.w-65-A:active {width: 65%;}
-.w-70-A:active {width: 70%;}
-.w-75-A:active {width: 75%;}
-.w-80-A:active {width: 80%;}
-.w-85-A:active {width: 85%;}
-.w-90-A:active {width: 90%;}
-.w-95-A:active {width: 95%;}
-.w-100-A:active, .container-fluid-A:active {width: 100%;}
+.w-5-A:active , .w-5-A-C:active  .C-w-5-A {width: 5%;}
+.w-10-A:active, .w-10-A-C:active .C-w-10-A {width: 10%;}
+.w-15-A:active, .w-15-A-C:active .C-w-15-A {width: 15%;}
+.w-20-A:active, .w-20-A-C:active .C-w-20-A {width: 20%;}
+.w-25-A:active, .w-25-A-C:active .C-w-25-A {width: 25%;}
+.w-30-A:active, .w-30-A-C:active .C-w-30-A {width: 30%;}
+.w-35-A:active, .w-35-A-C:active .C-w-35-A {width: 35%;}
+.w-40-A:active, .w-40-A-C:active .C-w-40-A {width: 40%;}
+.w-45-A:active, .w-45-A-C:active .C-w-45-A {width: 45%;}
+.w-50-A:active, .w-50-A-C:active .C-w-50-A {width: 50%;}
+.w-55-A:active, .w-55-A-C:active .C-w-55-A {width: 55%;}
+.w-60-A:active, .w-60-A-C:active .C-w-60-A {width: 60%;}
+.w-65-A:active, .w-65-A-C:active .C-w-65-A {width: 65%;}
+.w-70-A:active, .w-70-A-C:active .C-w-70-A {width: 70%;}
+.w-75-A:active, .w-75-A-C:active .C-w-75-A {width: 75%;}
+.w-80-A:active, .w-80-A-C:active .C-w-80-A {width: 80%;}
+.w-85-A:active, .w-85-A-C:active .C-w-85-A {width: 85%;}
+.w-90-A:active, .w-90-A-C:active .C-w-90-A {width: 90%;}
+.w-95-A:active, .w-95-A-C:active .C-w-95-A {width: 95%;}
+.w-100-A:active, .container-fluid-A:active, .container-fluid-A-C:active .C-container-fluid-A {width: 100%;}
 
 /* max-w-num = width */
-.max-w-5-A:active {max-width: 5%;}
-.max-w-10-A:active {max-width: 10%;}
-.max-w-15-A:active {max-width: 15%;}
-.max-w-20-A:active {max-width: 20%;}
-.max-w-25-A:active {max-width: 25%;}
-.max-w-30-A:active {max-width: 30%;}
-.max-w-35-A:active {max-width: 35%;}
-.max-w-40-A:active {max-width: 40%;}
-.max-w-45-A:active {max-width: 45%;}
-.max-w-50-A:active {max-width: 50%;}
-.max-w-55-A:active {max-width: 55%;}
-.max-w-60-A:active {max-width: 60%;}
-.max-w-65-A:active {max-width: 65%;}
-.max-w-70-A:active {max-width: 70%;}
-.max-w-75-A:active {max-width: 75%;}
-.max-w-80-A:active {max-width: 80%;}
-.max-w-85-A:active {max-width: 85%;}
-.max-w-90-A:active {max-width: 90%;}
-.max-w-95-A:active {max-width: 95%;}
-.max-w-100-A:active {max-width: 100%;}
+.max-w-5-A:active, .max-w-5-A-C:active .C-max-w-5-A {max-width: 5%;}
+.max-w-10-A:active, .max-w-10-A-C:active .C-max-w-10-A {max-width: 10%;}
+.max-w-15-A:active, .max-w-15-A-C:active .C-max-w-15-A {max-width: 15%;}
+.max-w-20-A:active, .max-w-20-A-C:active .C-max-w-20-A {max-width: 20%;}
+.max-w-25-A:active, .max-w-25-A-C:active .C-max-w-25-A {max-width: 25%;}
+.max-w-30-A:active, .max-w-30-A-C:active .C-max-w-30-A {max-width: 30%;}
+.max-w-35-A:active, .max-w-35-A-C:active .C-max-w-35-A {max-width: 35%;}
+.max-w-40-A:active, .max-w-40-A-C:active .C-max-w-40-A {max-width: 40%;}
+.max-w-45-A:active, .max-w-45-A-C:active .C-max-w-45-A {max-width: 45%;}
+.max-w-50-A:active, .max-w-50-A-C:active .C-max-w-50-A {max-width: 50%;}
+.max-w-55-A:active, .max-w-55-A-C:active .C-max-w-55-A {max-width: 55%;}
+.max-w-60-A:active, .max-w-60-A-C:active .C-max-w-60-A {max-width: 60%;}
+.max-w-65-A:active, .max-w-65-A-C:active .C-max-w-65-A {max-width: 65%;}
+.max-w-70-A:active, .max-w-70-A-C:active .C-max-w-70-A {max-width: 70%;}
+.max-w-75-A:active, .max-w-75-A-C:active .C-max-w-75-A {max-width: 75%;}
+.max-w-80-A:active, .max-w-80-A-C:active .C-max-w-80-A {max-width: 80%;}
+.max-w-85-A:active, .max-w-85-A-C:active .C-max-w-85-A {max-width: 85%;}
+.max-w-90-A:active, .max-w-90-A-C:active .C-max-w-90-A {max-width: 90%;}
+.max-w-95-A:active, .max-w-95-A-C:active .C-max-w-95-A {max-width: 95%;}
+.max-w-100-A:active, .max-w-100-A-C:active .C-max-w-100-A {max-width: 100%;}
 
 /* min-w-num = width */
-.min-w-5-A:active {min-width: 5%;}
-.min-w-10-A:active {min-width: 10%;}
-.min-w-15-A:active {min-width: 15%;}
-.min-w-20-A:active {min-width: 20%;}
-.min-w-25-A:active {min-width: 25%;}
-.min-w-30-A:active {min-width: 30%;}
-.min-w-35-A:active {min-width: 35%;}
-.min-w-40-A:active {min-width: 40%;}
-.min-w-45-A:active {min-width: 45%;}
-.min-w-50-A:active {min-width: 50%;}
-.min-w-55-A:active {min-width: 55%;}
-.min-w-60-A:active {min-width: 60%;}
-.min-w-65-A:active {min-width: 65%;}
-.min-w-70-A:active {min-width: 70%;}
-.min-w-75-A:active {min-width: 75%;}
-.min-w-80-A:active {min-width: 80%;}
-.min-w-85-A:active {min-width: 85%;}
-.min-w-90-A:active {min-width: 90%;}
-.min-w-95-A:active {min-width: 95%;}
-.min-w-100-A:active {min-width: 100%;}
+.min-w-5-A:active, .min-w-5-A-C:active .C-min-w-5-A {min-width: 5%;}
+.min-w-10-A:active, .min-w-10-A-C:active .C-min-w-10-A {min-width: 10%;}
+.min-w-15-A:active, .min-w-15-A-C:active .C-min-w-15-A {min-width: 15%;}
+.min-w-20-A:active, .min-w-20-A-C:active .C-min-w-20-A {min-width: 20%;}
+.min-w-25-A:active, .min-w-25-A-C:active .C-min-w-25-A {min-width: 25%;}
+.min-w-30-A:active, .min-w-30-A-C:active .C-min-w-30-A {min-width: 30%;}
+.min-w-35-A:active, .min-w-35-A-C:active .C-min-w-35-A {min-width: 35%;}
+.min-w-40-A:active, .min-w-40-A-C:active .C-min-w-40-A {min-width: 40%;}
+.min-w-45-A:active, .min-w-45-A-C:active .C-min-w-45-A {min-width: 45%;}
+.min-w-50-A:active, .min-w-50-A-C:active .C-min-w-50-A {min-width: 50%;}
+.min-w-55-A:active, .min-w-55-A-C:active .C-min-w-55-A {min-width: 55%;}
+.min-w-60-A:active, .min-w-60-A-C:active .C-min-w-60-A {min-width: 60%;}
+.min-w-65-A:active, .min-w-65-A-C:active .C-min-w-65-A {min-width: 65%;}
+.min-w-70-A:active, .min-w-70-A-C:active .C-min-w-70-A {min-width: 70%;}
+.min-w-75-A:active, .min-w-75-A-C:active .C-min-w-75-A {min-width: 75%;}
+.min-w-80-A:active, .min-w-80-A-C:active .C-min-w-80-A {min-width: 80%;}
+.min-w-85-A:active, .min-w-85-A-C:active .C-min-w-85-A {min-width: 85%;}
+.min-w-90-A:active, .min-w-90-A-C:active .C-min-w-90-A {min-width: 90%;}
+.min-w-95-A:active, .min-w-95-A-C:active .C-min-w-95-A {min-width: 95%;}
+.min-w-100-A:active, .min-w-100-A-C:active .C-min-w-100-A {min-width: 100%;}
 
 /* w-num_vw = width */
-.w-5vw-A:active {width: 5vw;}
-.w-10vw-A:active {width: 10vw;}
-.w-15vw-A:active {width: 15vw;}
-.w-20vw-A:active {width: 20vw;}
-.w-25vw-A:active {width: 25vw;}
-.w-30vw-A:active {width: 30vw;}
-.w-35vw-A:active {width: 35vw;}
-.w-40vw-A:active {width: 40vw;}
-.w-45vw-A:active {width: 45vw;}
-.w-50vw-A:active {width: 50vw;}
-.w-55vw-A:active {width: 55vw;}
-.w-60vw-A:active {width: 60vw;}
-.w-65vw-A:active {width: 65vw;}
-.w-70vw-A:active {width: 70vw;}
-.w-75vw-A:active {width: 75vw;}
-.w-80vw-A:active {width: 80vw;}
-.w-85vw-A:active {width: 85vw;}
-.w-90vw-A:active {width: 90vw;}
-.w-95vw-A:active {width: 95vw;}
-.w-100vw-A:active {width: 100vw;}
+.w-5vw-A:active, .w-5vw-A-C:active .C-w-5vw-A {width: 5vw;}
+.w-10vw-A:active, .w-10vw-A-C:active .C-w-10vw-A {width: 10vw;}
+.w-15vw-A:active, .w-15vw-A-C:active .C-w-15vw-A {width: 15vw;}
+.w-20vw-A:active, .w-20vw-A-C:active .C-w-20vw-A {width: 20vw;}
+.w-25vw-A:active, .w-25vw-A-C:active .C-w-25vw-A {width: 25vw;}
+.w-30vw-A:active, .w-30vw-A-C:active .C-w-30vw-A {width: 30vw;}
+.w-35vw-A:active, .w-35vw-A-C:active .C-w-35vw-A {width: 35vw;}
+.w-40vw-A:active, .w-40vw-A-C:active .C-w-40vw-A {width: 40vw;}
+.w-45vw-A:active, .w-45vw-A-C:active .C-w-45vw-A {width: 45vw;}
+.w-50vw-A:active, .w-50vw-A-C:active .C-w-50vw-A {width: 50vw;}
+.w-55vw-A:active, .w-55vw-A-C:active .C-w-55vw-A {width: 55vw;}
+.w-60vw-A:active, .w-60vw-A-C:active .C-w-60vw-A {width: 60vw;}
+.w-65vw-A:active, .w-65vw-A-C:active .C-w-65vw-A {width: 65vw;}
+.w-70vw-A:active, .w-70vw-A-C:active .C-w-70vw-A {width: 70vw;}
+.w-75vw-A:active, .w-75vw-A-C:active .C-w-75vw-A {width: 75vw;}
+.w-80vw-A:active, .w-80vw-A-C:active .C-w-80vw-A {width: 80vw;}
+.w-85vw-A:active, .w-85vw-A-C:active .C-w-85vw-A {width: 85vw;}
+.w-90vw-A:active, .w-90vw-A-C:active .C-w-90vw-A {width: 90vw;}
+.w-95vw-A:active, .w-95vw-A-C:active .C-w-95vw-A {width: 95vw;}
+.w-100vw-A:active, .w-100vw-A-C:active .C-w-100vw-A {width: 100vw;}
 
 /* max-w-num_vw = width */
-.max-w-5vw-A:active {max-width: 5vw;}
-.max-w-10vw-A:active {max-width: 10vw;}
-.max-w-15vw-A:active {max-width: 15vw;}
-.max-w-20vw-A:active {max-width: 20vw;}
-.max-w-25vw-A:active {max-width: 25vw;}
-.max-w-30vw-A:active {max-width: 30vw;}
-.max-w-35vw-A:active {max-width: 35vw;}
-.max-w-40vw-A:active {max-width: 40vw;}
-.max-w-45vw-A:active {max-width: 45vw;}
-.max-w-50vw-A:active {max-width: 50vw;}
-.max-w-55vw-A:active {max-width: 55vw;}
-.max-w-60vw-A:active {max-width: 60vw;}
-.max-w-65vw-A:active {max-width: 65vw;}
-.max-w-70vw-A:active {max-width: 70vw;}
-.max-w-75vw-A:active {max-width: 75vw;}
-.max-w-80vw-A:active {max-width: 80vw;}
-.max-w-85vw-A:active {max-width: 85vw;}
-.max-w-90vw-A:active {max-width: 90vw;}
-.max-w-95vw-A:active {max-width: 95vw;}
-.max-w-100vw-A:active {max-width: 100vw;}
+.max-w-5vw-A:active, .max-w-5vw-A-C:active .C-max-w-5vw-A {max-width: 5vw;}
+.max-w-10vw-A:active, .max-w-10vw-A-C:active .C-max-w-10vw-A {max-width: 10vw;}
+.max-w-15vw-A:active, .max-w-15vw-A-C:active .C-max-w-15vw-A {max-width: 15vw;}
+.max-w-20vw-A:active, .max-w-20vw-A-C:active .C-max-w-20vw-A {max-width: 20vw;}
+.max-w-25vw-A:active, .max-w-25vw-A-C:active .C-max-w-25vw-A {max-width: 25vw;}
+.max-w-30vw-A:active, .max-w-30vw-A-C:active .C-max-w-30vw-A {max-width: 30vw;}
+.max-w-35vw-A:active, .max-w-35vw-A-C:active .C-max-w-35vw-A {max-width: 35vw;}
+.max-w-40vw-A:active, .max-w-40vw-A-C:active .C-max-w-40vw-A {max-width: 40vw;}
+.max-w-45vw-A:active, .max-w-45vw-A-C:active .C-max-w-45vw-A {max-width: 45vw;}
+.max-w-50vw-A:active, .max-w-50vw-A-C:active .C-max-w-50vw-A {max-width: 50vw;}
+.max-w-55vw-A:active, .max-w-55vw-A-C:active .C-max-w-55vw-A {max-width: 55vw;}
+.max-w-60vw-A:active, .max-w-60vw-A-C:active .C-max-w-60vw-A {max-width: 60vw;}
+.max-w-65vw-A:active, .max-w-65vw-A-C:active .C-max-w-65vw-A {max-width: 65vw;}
+.max-w-70vw-A:active, .max-w-70vw-A-C:active .C-max-w-70vw-A {max-width: 70vw;}
+.max-w-75vw-A:active, .max-w-75vw-A-C:active .C-max-w-75vw-A {max-width: 75vw;}
+.max-w-80vw-A:active, .max-w-80vw-A-C:active .C-max-w-80vw-A {max-width: 80vw;}
+.max-w-85vw-A:active, .max-w-85vw-A-C:active .C-max-w-85vw-A {max-width: 85vw;}
+.max-w-90vw-A:active, .max-w-90vw-A-C:active .C-max-w-90vw-A {max-width: 90vw;}
+.max-w-95vw-A:active, .max-w-95vw-A-C:active .C-max-w-95vw-A {max-width: 95vw;}
+.max-w-100vw-A:active, .max-w-100vw-A-C:active .C-max-w-100vw-A {max-width: 100vw;}
 
 /* min-w-num_vw = width */
-.min-w-5vw-A:active {min-width: 5vw;}
-.min-w-10vw-A:active {min-width: 10vw;}
-.min-w-15vw-A:active {min-width: 15vw;}
-.min-w-20vw-A:active {min-width: 20vw;}
-.min-w-25vw-A:active {min-width: 25vw;}
-.min-w-30vw-A:active {min-width: 30vw;}
-.min-w-35vw-A:active {min-width: 35vw;}
-.min-w-40vw-A:active {min-width: 40vw;}
-.min-w-45vw-A:active {min-width: 45vw;}
-.min-w-50vw-A:active {min-width: 50vw;}
-.min-w-55vw-A:active {min-width: 55vw;}
-.min-w-60vw-A:active {min-width: 60vw;}
-.min-w-65vw-A:active {min-width: 65vw;}
-.min-w-70vw-A:active {min-width: 70vw;}
-.min-w-75vw-A:active {min-width: 75vw;}
-.min-w-80vw-A:active {min-width: 80vw;}
-.min-w-85vw-A:active {min-width: 85vw;}
-.min-w-90vw-A:active {min-width: 90vw;}
-.min-w-95vw-A:active {min-width: 95vw;}
-.min-w-100vw-A:active {min-width: 100vw;}
+.min-w-5vw-A:active, .min-w-5vw-A-C:active .C-min-w-5vw-A {min-width: 5vw;}
+.min-w-10vw-A:active, .min-w-10vw-A-C:active .C-min-w-10vw-A {min-width: 10vw;}
+.min-w-15vw-A:active, .min-w-15vw-A-C:active .C-min-w-15vw-A {min-width: 15vw;}
+.min-w-20vw-A:active, .min-w-20vw-A-C:active .C-min-w-20vw-A {min-width: 20vw;}
+.min-w-25vw-A:active, .min-w-25vw-A-C:active .C-min-w-25vw-A {min-width: 25vw;}
+.min-w-30vw-A:active, .min-w-30vw-A-C:active .C-min-w-30vw-A {min-width: 30vw;}
+.min-w-35vw-A:active, .min-w-35vw-A-C:active .C-min-w-35vw-A {min-width: 35vw;}
+.min-w-40vw-A:active, .min-w-40vw-A-C:active .C-min-w-40vw-A {min-width: 40vw;}
+.min-w-45vw-A:active, .min-w-45vw-A-C:active .C-min-w-45vw-A {min-width: 45vw;}
+.min-w-50vw-A:active, .min-w-50vw-A-C:active .C-min-w-50vw-A {min-width: 50vw;}
+.min-w-55vw-A:active, .min-w-55vw-A-C:active .C-min-w-55vw-A {min-width: 55vw;}
+.min-w-60vw-A:active, .min-w-60vw-A-C:active .C-min-w-60vw-A {min-width: 60vw;}
+.min-w-65vw-A:active, .min-w-65vw-A-C:active .C-min-w-65vw-A {min-width: 65vw;}
+.min-w-70vw-A:active, .min-w-70vw-A-C:active .C-min-w-70vw-A {min-width: 70vw;}
+.min-w-75vw-A:active, .min-w-75vw-A-C:active .C-min-w-75vw-A {min-width: 75vw;}
+.min-w-80vw-A:active, .min-w-80vw-A-C:active .C-min-w-80vw-A {min-width: 80vw;}
+.min-w-85vw-A:active, .min-w-85vw-A-C:active .C-min-w-85vw-A {min-width: 85vw;}
+.min-w-90vw-A:active, .min-w-90vw-A-C:active .C-min-w-90vw-A {min-width: 90vw;}
+.min-w-95vw-A:active, .min-w-95vw-A-C:active .C-min-w-95vw-A {min-width: 95vw;}
+.min-w-100vw-A:active, .min-w-100vw-A-C:active .C-min-w-100vw-A {min-width: 100vw;}
 
 /* w-auto */
-.w-auto-A:active {width: auto;}
+.w-auto-A:active, .w-auto-A-C:active .C-w-auto-A {width: auto;}
 
 /* h-num = height */
-.h-5-A:active {height: 5%;}
-.h-10-A:active {height: 10%;}
-.h-15-A:active {height: 15%;}
-.h-20-A:active {height: 20%;}
-.h-25-A:active {height: 25%;}
-.h-30-A:active {height: 30%;}
-.h-35-A:active {height: 35%;}
-.h-40-A:active {height: 40%;}
-.h-45-A:active {height: 45%;}
-.h-50-A:active {height: 50%;}
-.h-55-A:active {height: 55%;}
-.h-60-A:active {height: 60%;}
-.h-65-A:active {height: 65%;}
-.h-70-A:active {height: 70%;}
-.h-75-A:active {height: 75%;}
-.h-80-A:active {height: 80%;}
-.h-85-A:active {height: 85%;}
-.h-90-A:active {height: 90%;}
-.h-95-A:active {height: 95%;}
-.h-100-A:active {height: 100%;}
+.h-5-A:active, .h-5-A-C:active .C-h-5-A {height: 5%;}
+.h-10-A:active, .h-10-A-C:active .C-h-10-A {height: 10%;}
+.h-15-A:active, .h-15-A-C:active .C-h-15-A {height: 15%;}
+.h-20-A:active, .h-20-A-C:active .C-h-20-A {height: 20%;}
+.h-25-A:active, .h-25-A-C:active .C-h-25-A {height: 25%;}
+.h-30-A:active, .h-30-A-C:active .C-h-30-A {height: 30%;}
+.h-35-A:active, .h-35-A-C:active .C-h-35-A {height: 35%;}
+.h-40-A:active, .h-40-A-C:active .C-h-40-A {height: 40%;}
+.h-45-A:active, .h-45-A-C:active .C-h-45-A {height: 45%;}
+.h-50-A:active, .h-50-A-C:active .C-h-50-A {height: 50%;}
+.h-55-A:active, .h-55-A-C:active .C-h-55-A {height: 55%;}
+.h-60-A:active, .h-60-A-C:active .C-h-60-A {height: 60%;}
+.h-65-A:active, .h-65-A-C:active .C-h-65-A {height: 65%;}
+.h-70-A:active, .h-70-A-C:active .C-h-70-A {height: 70%;}
+.h-75-A:active, .h-75-A-C:active .C-h-75-A {height: 75%;}
+.h-80-A:active, .h-80-A-C:active .C-h-80-A {height: 80%;}
+.h-85-A:active, .h-85-A-C:active .C-h-85-A {height: 85%;}
+.h-90-A:active, .h-90-A-C:active .C-h-90-A {height: 90%;}
+.h-95-A:active, .h-95-A-C:active .C-h-95-A {height: 95%;}
+.h-100-A:active, .h-100-A-C:active .C-h-100-A {height: 100%;}
 
 /* max-h-num = height */
-.max-h-5-A:active {max-height: 5%;}
-.max-h-10-A:active {max-height: 10%;}
-.max-h-15-A:active {max-height: 15%;}
-.max-h-20-A:active {max-height: 20%;}
-.max-h-25-A:active {max-height: 25%;}
-.max-h-30-A:active {max-height: 30%;}
-.max-h-35-A:active {max-height: 35%;}
-.max-h-40-A:active {max-height: 40%;}
-.max-h-45-A:active {max-height: 45%;}
-.max-h-50-A:active {max-height: 50%;}
-.max-h-55-A:active {max-height: 55%;}
-.max-h-60-A:active {max-height: 60%;}
-.max-h-65-A:active {max-height: 65%;}
-.max-h-70-A:active {max-height: 70%;}
-.max-h-75-A:active {max-height: 75%;}
-.max-h-80-A:active {max-height: 80%;}
-.max-h-85-A:active {max-height: 85%;}
-.max-h-90-A:active {max-height: 90%;}
-.max-h-95-A:active {max-height: 95%;}
-.max-h-100-A:active {max-height: 100%;}
+.max-h-5-A:active, .max-h-5-A-C:active .C-max-h-5-A {max-height: 5%;}
+.max-h-10-A:active, .max-h-10-A-C:active .C-max-h-10-A {max-height: 10%;}
+.max-h-15-A:active, .max-h-15-A-C:active .C-max-h-15-A {max-height: 15%;}
+.max-h-20-A:active, .max-h-20-A-C:active .C-max-h-20-A {max-height: 20%;}
+.max-h-25-A:active, .max-h-25-A-C:active .C-max-h-25-A {max-height: 25%;}
+.max-h-30-A:active, .max-h-30-A-C:active .C-max-h-30-A {max-height: 30%;}
+.max-h-35-A:active, .max-h-35-A-C:active .C-max-h-35-A {max-height: 35%;}
+.max-h-40-A:active, .max-h-40-A-C:active .C-max-h-40-A {max-height: 40%;}
+.max-h-45-A:active, .max-h-45-A-C:active .C-max-h-45-A {max-height: 45%;}
+.max-h-50-A:active, .max-h-50-A-C:active .C-max-h-50-A {max-height: 50%;}
+.max-h-55-A:active, .max-h-55-A-C:active .C-max-h-55-A {max-height: 55%;}
+.max-h-60-A:active, .max-h-60-A-C:active .C-max-h-60-A {max-height: 60%;}
+.max-h-65-A:active, .max-h-65-A-C:active .C-max-h-65-A {max-height: 65%;}
+.max-h-70-A:active, .max-h-70-A-C:active .C-max-h-70-A {max-height: 70%;}
+.max-h-75-A:active, .max-h-75-A-C:active .C-max-h-75-A {max-height: 75%;}
+.max-h-80-A:active, .max-h-80-A-C:active .C-max-h-80-A {max-height: 80%;}
+.max-h-85-A:active, .max-h-85-A-C:active .C-max-h-85-A {max-height: 85%;}
+.max-h-90-A:active, .max-h-90-A-C:active .C-max-h-90-A {max-height: 90%;}
+.max-h-95-A:active, .max-h-95-A-C:active .C-max-h-95-A {max-height: 95%;}
+.max-h-100-A:active, .max-h-100-A-C:active .C-max-h-100-A {max-height: 100%;}
 
 /* min-h-num = height */
-.min-h-5-A:active {min-height: 5%;}
-.min-h-10-A:active {min-height: 10%;}
-.min-h-15-A:active {min-height: 15%;}
-.min-h-20-A:active {min-height: 20%;}
-.min-h-25-A:active {min-height: 25%;}
-.min-h-30-A:active {min-height: 30%;}
-.min-h-35-A:active {min-height: 35%;}
-.min-h-40-A:active {min-height: 40%;}
-.min-h-45-A:active {min-height: 45%;}
-.min-h-50-A:active {min-height: 50%;}
-.min-h-55-A:active {min-height: 55%;}
-.min-h-60-A:active {min-height: 60%;}
-.min-h-65-A:active {min-height: 65%;}
-.min-h-70-A:active {min-height: 70%;}
-.min-h-75-A:active {min-height: 75%;}
-.min-h-80-A:active {min-height: 80%;}
-.min-h-85-A:active {min-height: 85%;}
-.min-h-90-A:active {min-height: 90%;}
-.min-h-95-A:active {min-height: 95%;}
-.min-h-100-A:active {min-height: 100%;}
+.min-h-5-A:active, .min-h-5-A-C:active .C-min-h-5-A {min-height: 5%;}
+.min-h-10-A:active, .min-h-10-A-C:active .C-min-h-10-A {min-height: 10%;}
+.min-h-15-A:active, .min-h-15-A-C:active .C-min-h-15-A {min-height: 15%;}
+.min-h-20-A:active, .min-h-20-A-C:active .C-min-h-20-A {min-height: 20%;}
+.min-h-25-A:active, .min-h-25-A-C:active .C-min-h-25-A {min-height: 25%;}
+.min-h-30-A:active, .min-h-30-A-C:active .C-min-h-30-A {min-height: 30%;}
+.min-h-35-A:active, .min-h-35-A-C:active .C-min-h-35-A {min-height: 35%;}
+.min-h-40-A:active, .min-h-40-A-C:active .C-min-h-40-A {min-height: 40%;}
+.min-h-45-A:active, .min-h-45-A-C:active .C-min-h-45-A {min-height: 45%;}
+.min-h-50-A:active, .min-h-50-A-C:active .C-min-h-50-A {min-height: 50%;}
+.min-h-55-A:active, .min-h-55-A-C:active .C-min-h-55-A {min-height: 55%;}
+.min-h-60-A:active, .min-h-60-A-C:active .C-min-h-60-A {min-height: 60%;}
+.min-h-65-A:active, .min-h-65-A-C:active .C-min-h-65-A {min-height: 65%;}
+.min-h-70-A:active, .min-h-70-A-C:active .C-min-h-70-A {min-height: 70%;}
+.min-h-75-A:active, .min-h-75-A-C:active .C-min-h-75-A {min-height: 75%;}
+.min-h-80-A:active, .min-h-80-A-C:active .C-min-h-80-A {min-height: 80%;}
+.min-h-85-A:active, .min-h-85-A-C:active .C-min-h-85-A {min-height: 85%;}
+.min-h-90-A:active, .min-h-90-A-C:active .C-min-h-90-A {min-height: 90%;}
+.min-h-95-A:active, .min-h-95-A-C:active .C-min-h-95-A {min-height: 95%;}
+.min-h-100-A:active, .min-h-100-A-C:active .C-min-h-100-A {min-height: 100%;}
 
 /* h-num_vh = height */
-.h-5vh-A:active {height: 5vh;}
-.h-10vh-A:active {height: 10vh;}
-.h-15vh-A:active {height: 15vh;}
-.h-20vh-A:active {height: 20vh;}
-.h-25vh-A:active {height: 25vh;}
-.h-30vh-A:active {height: 30vh;}
-.h-35vh-A:active {height: 35vh;}
-.h-40vh-A:active {height: 40vh;}
-.h-45vh-A:active {height: 45vh;}
-.h-50vh-A:active {height: 50vh;}
-.h-55vh-A:active {height: 55vh;}
-.h-60vh-A:active {height: 60vh;}
-.h-65vh-A:active {height: 65vh;}
-.h-70vh-A:active {height: 70vh;}
-.h-75vh-A:active {height: 75vh;}
-.h-80vh-A:active {height: 80vh;}
-.h-85vh-A:active {height: 85vh;}
-.h-90vh-A:active {height: 90vh;}
-.h-95vh-A:active {height: 95vh;}
-.h-100vh-A:active {height: 100vh;}
+.h-5vh-A:active, .h-5vh-A-C:active .C-h-5vh-A {height: 5vh;}
+.h-10vh-A:active, .h-10vh-A-C:active .C-h-10vh-A {height: 10vh;}
+.h-15vh-A:active, .h-15vh-A-C:active .C-h-15vh-A {height: 15vh;}
+.h-20vh-A:active, .h-20vh-A-C:active .C-h-20vh-A {height: 20vh;}
+.h-25vh-A:active, .h-25vh-A-C:active .C-h-25vh-A {height: 25vh;}
+.h-30vh-A:active, .h-30vh-A-C:active .C-h-30vh-A {height: 30vh;}
+.h-35vh-A:active, .h-35vh-A-C:active .C-h-35vh-A {height: 35vh;}
+.h-40vh-A:active, .h-40vh-A-C:active .C-h-40vh-A {height: 40vh;}
+.h-45vh-A:active, .h-45vh-A-C:active .C-h-45vh-A {height: 45vh;}
+.h-50vh-A:active, .h-50vh-A-C:active .C-h-50vh-A {height: 50vh;}
+.h-55vh-A:active, .h-55vh-A-C:active .C-h-55vh-A {height: 55vh;}
+.h-60vh-A:active, .h-60vh-A-C:active .C-h-60vh-A {height: 60vh;}
+.h-65vh-A:active, .h-65vh-A-C:active .C-h-65vh-A {height: 65vh;}
+.h-70vh-A:active, .h-70vh-A-C:active .C-h-70vh-A {height: 70vh;}
+.h-75vh-A:active, .h-75vh-A-C:active .C-h-75vh-A {height: 75vh;}
+.h-80vh-A:active, .h-80vh-A-C:active .C-h-80vh-A {height: 80vh;}
+.h-85vh-A:active, .h-85vh-A-C:active .C-h-85vh-A {height: 85vh;}
+.h-90vh-A:active, .h-90vh-A-C:active .C-h-90vh-A {height: 90vh;}
+.h-95vh-A:active, .h-95vh-A-C:active .C-h-95vh-A {height: 95vh;}
+.h-100vh-A:active, .h-100vh-A-C:active .C-h-100vh-A {height: 100vh;}
 
 /* max-h-num_vh = height */
-.max-h-5vh-A:active {max-height: 5vh;}
-.max-h-10vh-A:active {max-height: 10vh;}
-.max-h-15vh-A:active {max-height: 15vh;}
-.max-h-20vh-A:active {max-height: 20vh;}
-.max-h-25vh-A:active {max-height: 25vh;}
-.max-h-30vh-A:active {max-height: 30vh;}
-.max-h-35vh-A:active {max-height: 35vh;}
-.max-h-40vh-A:active {max-height: 40vh;}
-.max-h-45vh-A:active {max-height: 45vh;}
-.max-h-50vh-A:active {max-height: 50vh;}
-.max-h-55vh-A:active {max-height: 55vh;}
-.max-h-60vh-A:active {max-height: 60vh;}
-.max-h-65vh-A:active {max-height: 65vh;}
-.max-h-70vh-A:active {max-height: 70vh;}
-.max-h-75vh-A:active {max-height: 75vh;}
-.max-h-80vh-A:active {max-height: 80vh;}
-.max-h-85vh-A:active {max-height: 85vh;}
-.max-h-90vh-A:active {max-height: 90vh;}
-.max-h-95vh-A:active {max-height: 95vh;}
-.max-h-100vh-A:active {max-height: 100vh;}
+.max-h-5vh-A:active, .max-h-5vh-A-C:active .C-max-h-5vh-A {max-height: 5vh;}
+.max-h-10vh-A:active, .max-h-10vh-A-C:active .C-max-h-10vh-A {max-height: 10vh;}
+.max-h-15vh-A:active, .max-h-15vh-A-C:active .C-max-h-15vh-A {max-height: 15vh;}
+.max-h-20vh-A:active, .max-h-20vh-A-C:active .C-max-h-20vh-A {max-height: 20vh;}
+.max-h-25vh-A:active, .max-h-25vh-A-C:active .C-max-h-25vh-A {max-height: 25vh;}
+.max-h-30vh-A:active, .max-h-30vh-A-C:active .C-max-h-30vh-A {max-height: 30vh;}
+.max-h-35vh-A:active, .max-h-35vh-A-C:active .C-max-h-35vh-A {max-height: 35vh;}
+.max-h-40vh-A:active, .max-h-40vh-A-C:active .C-max-h-40vh-A {max-height: 40vh;}
+.max-h-45vh-A:active, .max-h-45vh-A-C:active .C-max-h-45vh-A {max-height: 45vh;}
+.max-h-50vh-A:active, .max-h-50vh-A-C:active .C-max-h-50vh-A {max-height: 50vh;}
+.max-h-55vh-A:active, .max-h-55vh-A-C:active .C-max-h-55vh-A {max-height: 55vh;}
+.max-h-60vh-A:active, .max-h-60vh-A-C:active .C-max-h-60vh-A {max-height: 60vh;}
+.max-h-65vh-A:active, .max-h-65vh-A-C:active .C-max-h-65vh-A {max-height: 65vh;}
+.max-h-70vh-A:active, .max-h-70vh-A-C:active .C-max-h-70vh-A {max-height: 70vh;}
+.max-h-75vh-A:active, .max-h-75vh-A-C:active .C-max-h-75vh-A {max-height: 75vh;}
+.max-h-80vh-A:active, .max-h-80vh-A-C:active .C-max-h-80vh-A {max-height: 80vh;}
+.max-h-85vh-A:active, .max-h-85vh-A-C:active .C-max-h-85vh-A {max-height: 85vh;}
+.max-h-90vh-A:active, .max-h-90vh-A-C:active .C-max-h-90vh-A {max-height: 90vh;}
+.max-h-95vh-A:active, .max-h-95vh-A-C:active .C-max-h-95vh-A {max-height: 95vh;}
+.max-h-100vh-A:active, .max-h-100vh-A-C:active .C-max-h-100vh-A {max-height: 100vh;}
 
 /* min-h-num_vh = height */
-.min-h-5vh-A:active {min-height: 5vh;}
-.min-h-10vh-A:active {min-height: 10vh;}
-.min-h-15vh-A:active {min-height: 15vh;}
-.min-h-20vh-A:active {min-height: 20vh;}
-.min-h-25vh-A:active {min-height: 25vh;}
-.min-h-30vh-A:active {min-height: 30vh;}
-.min-h-35vh-A:active {min-height: 35vh;}
-.min-h-40vh-A:active {min-height: 40vh;}
-.min-h-45vh-A:active {min-height: 45vh;}
-.min-h-50vh-A:active {min-height: 50vh;}
-.min-h-55vh-A:active {min-height: 55vh;}
-.min-h-60vh-A:active {min-height: 60vh;}
-.min-h-65vh-A:active {min-height: 65vh;}
-.min-h-70vh-A:active {min-height: 70vh;}
-.min-h-75vh-A:active {min-height: 75vh;}
-.min-h-80vh-A:active {min-height: 80vh;}
-.min-h-85vh-A:active {min-height: 85vh;}
-.min-h-90vh-A:active {min-height: 90vh;}
-.min-h-95vh-A:active {min-height: 95vh;}
-.min-h-100vh-A:active {min-height: 100vh;}
+.min-h-5vh-A:active, .min-h-5vh-A-C:active .C-min-h-5vh-A {min-height: 5vh;}
+.min-h-10vh-A:active, .min-h-10vh-A-C:active .C-min-h-10vh-A {min-height: 10vh;}
+.min-h-15vh-A:active, .min-h-15vh-A-C:active .C-min-h-15vh-A {min-height: 15vh;}
+.min-h-20vh-A:active, .min-h-20vh-A-C:active .C-min-h-20vh-A {min-height: 20vh;}
+.min-h-25vh-A:active, .min-h-25vh-A-C:active .C-min-h-25vh-A {min-height: 25vh;}
+.min-h-30vh-A:active, .min-h-30vh-A-C:active .C-min-h-30vh-A {min-height: 30vh;}
+.min-h-35vh-A:active, .min-h-35vh-A-C:active .C-min-h-35vh-A {min-height: 35vh;}
+.min-h-40vh-A:active, .min-h-40vh-A-C:active .C-min-h-40vh-A {min-height: 40vh;}
+.min-h-45vh-A:active, .min-h-45vh-A-C:active .C-min-h-45vh-A {min-height: 45vh;}
+.min-h-50vh-A:active, .min-h-50vh-A-C:active .C-min-h-50vh-A {min-height: 50vh;}
+.min-h-55vh-A:active, .min-h-55vh-A-C:active .C-min-h-55vh-A {min-height: 55vh;}
+.min-h-60vh-A:active, .min-h-60vh-A-C:active .C-min-h-60vh-A {min-height: 60vh;}
+.min-h-65vh-A:active, .min-h-65vh-A-C:active .C-min-h-65vh-A {min-height: 65vh;}
+.min-h-70vh-A:active, .min-h-70vh-A-C:active .C-min-h-70vh-A {min-height: 70vh;}
+.min-h-75vh-A:active, .min-h-75vh-A-C:active .C-min-h-75vh-A {min-height: 75vh;}
+.min-h-80vh-A:active, .min-h-80vh-A-C:active .C-min-h-80vh-A {min-height: 80vh;}
+.min-h-85vh-A:active, .min-h-85vh-A-C:active .C-min-h-85vh-A {min-height: 85vh;}
+.min-h-90vh-A:active, .min-h-90vh-A-C:active .C-min-h-90vh-A {min-height: 90vh;}
+.min-h-95vh-A:active, .min-h-95vh-A-C:active .C-min-h-95vh-A {min-height: 95vh;}
+.min-h-100vh-A:active, .min-h-100vh-A-C:active .C-min-h-100vh-A {min-height: 100vh;}
 
 /* h-auto */
-.h-auto-A:active{height: auto;}
+.h-auto-A:active, .h-auto-A-C:active .C-h-auto-A {height: auto;}
 
 /* display */
-.d-none-A:active, .remove-A:active {display: none;}
-.block-A:active {display: block;}
-.inline-A:active {display: inline;}
-.inline-block-A:active {display: inline-block;}
-.flex-A:active {display: flex;}
-.inline-flex-A:active {display: inline-flex;}
-.grid-A:active {display: grid;}
-.table-A:active {display: table;}
+.d-none-A:active, .d-none-A-C:active .C-d-none-A, .remove-A:active, .remove-A-C:active .C-remove-A {display: none;}
+.block-A:active, .block-A-C:active .C-block-A {display: block;}
+.inline-A:active, .inline-A-C:active .C-inline-A {display: inline;}
+.inline-block-A:active, .inline-block-A-C:active .C-inline-block-A {display: inline-block;}
+.flex-A:active, .flex-A-C:active .C-flex-A {display: flex;}
+.inline-flex-A:active, .inline-flex-A-C:active .C-inline-flex-A {display: inline-flex;}
+.grid-A:active, .grid-A-C:active .C-grid-A {display: grid;}
+.table-A:active, .table-A-C:active .C-table-A {display: table;}
 
 /* color */
-.white-A:active {color: #fff;}
-.black-A:active {color: #000;}
+.white-A:active, .white-A-C:active .C-white-A {color: #fff;}
+.black-A:active, .black-A-C:active .C-black-A {color: #000;}
 
 /* gray-num-A:active or grey-num-A:active color pallet */
-.gray-1-A:active, .grey-1-A:active {color: #e6e6e6;}
-.gray-2-A:active, .grey-2-A:active {color: #cccccc;}
-.gray-3-A:active, .grey-3-A:active {color: #b3b3b3;}
-.gray-4-A:active, .grey-4-A:active {color: #999999;}
-.gray-5-A:active, .grey-5-A:active {color: #808080;}
-.gray-6-A:active, .grey-6-A:active {color: #666666;}
-.gray-7-A:active, .grey-7-A:active {color: #4d4d4d;}
-.gray-8-A:active, .grey-8-A:active {color: #333333;}
-.gray-9-A:active, .grey-9-A:active {color: #1a1a1a;}
+.gray-1-A:active, .gray-1-A-C:active .C-gray-1-A, .grey-1-A:active, .grey-1-A-C:active .C-grey-1-A {color: #e6e6e6;}
+.gray-2-A:active, .gray-2-A-C:active .C-gray-2-A, .grey-2-A:active, .grey-2-A-C:active .C-grey-2-A {color: #cccccc;}
+.gray-3-A:active, .gray-3-A-C:active .C-gray-3-A, .grey-3-A:active, .grey-3-A-C:active .C-grey-3-A {color: #b3b3b3;}
+.gray-4-A:active, .gray-4-A-C:active .C-gray-4-A, .grey-4-A:active, .grey-4-A-C:active .C-grey-4-A {color: #999999;}
+.gray-5-A:active, .gray-5-A-C:active .C-gray-5-A, .grey-5-A:active, .grey-5-A-C:active .C-grey-5-A {color: #808080;}
+.gray-6-A:active, .gray-6-A-C:active .C-gray-6-A, .grey-6-A:active, .grey-6-A-C:active .C-grey-6-A {color: #666666;}
+.gray-7-A:active, .gray-7-A-C:active .C-gray-7-A, .grey-7-A:active, .grey-7-A-C:active .C-grey-7-A {color: #4d4d4d;}
+.gray-8-A:active, .gray-8-A-C:active .C-gray-8-A, .grey-8-A:active, .grey-8-A-C:active .C-grey-8-A {color: #333333;}
+.gray-9-A:active, .gray-9-A-C:active .C-gray-9-A, .grey-9-A:active, .grey-9-A-C:active .C-grey-9-A {color: #1a1a1a;}
 
 /* red-num color pallet */
-.red-1-A:active {color: #ffcccc;}
-.red-2-A:active {color: #ff9999;}
-.red-3-A:active {color: #ff6666;}
-.red-4-A:active {color: #ff3333;}
-.red-5-A:active, .red-A:active {color: #ff0000;}
-.red-6-A:active {color: #cc0000;}
-.red-7-A:active {color: #990000;}
-.red-8-A:active {color: #660000;}
-.red-9-A:active {color: #330000;}
+.red-1-A:active, .red-1-A-C:active .C-red-1-A {color: #ffcccc;}
+.red-2-A:active, .red-2-A-C:active .C-red-2-A {color: #ff9999;}
+.red-3-A:active, .red-3-A-C:active .C-red-3-A {color: #ff6666;}
+.red-4-A:active, .red-4-A-C:active .C-red-4-A {color: #ff3333;}
+.red-5-A:active, .red-5-A-C:active .C-red-5-A, .red-A:active, .red-A-C:active .C-red-A {color: #ff0000;}
+.red-6-A:active, .red-6-A-C:active .C-red-6-A {color: #cc0000;}
+.red-7-A:active, .red-7-A-C:active .C-red-7-A {color: #990000;}
+.red-8-A:active, .red-8-A-C:active .C-red-8-A {color: #660000;}
+.red-9-A:active, .red-9-A-C:active .C-red-9-A {color: #330000;}
 
 /* blue-num color pallet */
-.blue-1-A:active {color: #ccccff;}
-.blue-2-A:active {color: #9999ff;}
-.blue-3-A:active {color: #6666ff;}
-.blue-4-A:active {color: #3333ff;}
-.blue-5-A:active, .blue-A:active {color: #0000ff;}
-.blue-6-A:active {color: #0000cc;}
-.blue-7-A:active {color: #000099;}
-.blue-8-A:active {color: #000066;}
-.blue-9-A:active {color: #000033;}
+.blue-1-A:active, .blue-1-A-C:active .C-blue-1-A {color: #ccccff;}
+.blue-2-A:active, .blue-2-A-C:active .C-blue-2-A {color: #9999ff;}
+.blue-3-A:active, .blue-3-A-C:active .C-blue-3-A {color: #6666ff;}
+.blue-4-A:active, .blue-4-A-C:active .C-blue-4-A {color: #3333ff;}
+.blue-5-A:active, .blue-5-A-C:active .C-blue-5-A, .blue-A:active, .blue-A-C:active .C-blue-A {color: #0000ff;}
+.blue-6-A:active, .blue-6-A-C:active .C-blue-6-A {color: #0000cc;}
+.blue-7-A:active, .blue-7-A-C:active .C-blue-7-A {color: #000099;}
+.blue-8-A:active, .blue-8-A-C:active .C-blue-8-A {color: #000066;}
+.blue-9-A:active, .blue-9-A-C:active .C-blue-9-A {color: #000033;}
 
 /* green-num color pallet */
-.green-1-A:active {color: #ccffcc;}
-.green-2-A:active {color: #99ff99;}
-.green-3-A:active {color: #66ff66;}
-.green-4-A:active {color: #33ff33;}
-.green-5-A:active, .green-A:active {color: #00ff00;}
-.green-6-A:active {color: #00cc00;}
-.green-7-A:active {color: #009900;}
-.green-8-A:active {color: #006600;}
-.green-9-A:active {color: #003300;}
+.green-1-A:active, .green-1-A-C:active .C-green-1-A {color: #ccffcc;}
+.green-2-A:active, .green-2-A-C:active .C-green-2-A {color: #99ff99;}
+.green-3-A:active, .green-3-A-C:active .C-green-3-A {color: #66ff66;}
+.green-4-A:active, .green-4-A-C:active .C-green-4-A {color: #33ff33;}
+.green-5-A:active, .green-5-A-C:active .C-green-5-A, .green-A:active,  .green-A-C:active  .C-green-A {color: #00ff00;}
+.green-6-A:active, .green-6-A-C:active .C-green-6-A {color: #00cc00;}
+.green-7-A:active, .green-7-A-C:active .C-green-7-A {color: #009900;}
+.green-8-A:active, .green-8-A-C:active .C-green-8-A {color: #006600;}
+.green-9-A:active, .green-9-A-C:active .C-green-9-A {color: #003300;}
 
 /* yellow-num color pallet */
-.yellow-1-A:active {color: #ffffcc;}
-.yellow-2-A:active {color: #ffff99;}
-.yellow-3-A:active {color: #ffff66;}
-.yellow-4-A:active {color: #ffff33;}
-.yellow-5-A:active, .yellow-A:active {color: #ffff00;}
-.yellow-6-A:active {color: #cccc00;}
-.yellow-7-A:active {color: #999900;}
-.yellow-8-A:active {color: #666600;}
-.yellow-9-A:active {color: #333300;}
+.yellow-1-A:active, .yellow-1-A-C:active .C-yellow-1-A {color: #ffffcc;}
+.yellow-2-A:active, .yellow-2-A-C:active .C-yellow-2-A {color: #ffff99;}
+.yellow-3-A:active, .yellow-3-A-C:active .C-yellow-3-A {color: #ffff66;}
+.yellow-4-A:active, .yellow-4-A-C:active .C-yellow-4-A {color: #ffff33;}
+.yellow-5-A:active, .yellow-5-A-C:active .C-yellow-5-A, .yellow-A:active, .yellow-A-C:active .C-yellow-A {color: #ffff00;}
+.yellow-6-A:active, .yellow-6-A-C:active .C-yellow-6-A {color: #cccc00;}
+.yellow-7-A:active, .yellow-7-A-C:active .C-yellow-7-A {color: #999900;}
+.yellow-8-A:active, .yellow-8-A-C:active .C-yellow-8-A {color: #666600;}
+.yellow-9-A:active, .yellow-9-A-C:active .C-yellow-9-A {color: #333300;}
 
 /* orange-num color pallet */
-.orange-A:active {color: #ffa500;}
-.orange-1-A:active {color: #ffedcc;}
-.orange-2-A:active {color: #ffdb99;}
-.orange-3-A:active {color: #ffc966;}
-.orange-4-A:active {color: #ffb833;}
-.orange-5-A:active {color: #ffa600;}
-.orange-6-A:active {color: #cc8500;}
-.orange-7-A:active {color: #996300;}
-.orange-8-A:active {color: #664200;}
-.orange-9-A:active {color: #332100;}
+.orange-A:active, .orange-A-C:active .C-orange-A {color: #ffa500;}
+.orange-1-A:active, .orange-1-A-C:active .C-orange-1-A {color: #ffedcc;}
+.orange-2-A:active, .orange-2-A-C:active .C-orange-2-A {color: #ffdb99;}
+.orange-3-A:active, .orange-3-A-C:active .C-orange-3-A {color: #ffc966;}
+.orange-4-A:active, .orange-4-A-C:active .C-orange-4-A {color: #ffb833;}
+.orange-5-A:active, .orange-5-A-C:active .C-orange-5-A {color: #ffa600;}
+.orange-6-A:active, .orange-6-A-C:active .C-orange-6-A {color: #cc8500;}
+.orange-7-A:active, .orange-7-A-C:active .C-orange-7-A {color: #996300;}
+.orange-8-A:active, .orange-8-A-C:active .C-orange-8-A {color: #664200;}
+.orange-9-A:active, .orange-9-A-C:active .C-orange-9-A {color: #332100;}
 
 /* violet-num color pallet */
-.violet-A:active {color: #ee82ee;}
-.violet-1-A:active {color: #ffccff;}
-.violet-2-A:active {color: #ff99ff;}
-.violet-3-A:active {color: #ff66ff;}
-.violet-4-A:active {color: #ff33ff;}
-.violet-5-A:active {color: #ff00ff;}
-.violet-6-A:active {color: #cc00cc;}
-.violet-7-A:active {color: #990099;}
-.violet-8-A:active {color: #660066;}
-.violet-9-A:active {color: #330033;}
+.violet-A:active, .violet-A-C:active .C-violet-A {color: #ee82ee;}
+.violet-1-A:active, .violet-1-A-C:active .C-violet-1-A {color: #ffccff;}
+.violet-2-A:active, .violet-2-A-C:active .C-violet-2-A {color: #ff99ff;}
+.violet-3-A:active, .violet-3-A-C:active .C-violet-3-A {color: #ff66ff;}
+.violet-4-A:active, .violet-4-A-C:active .C-violet-4-A {color: #ff33ff;}
+.violet-5-A:active, .violet-5-A-C:active .C-violet-5-A {color: #ff00ff;}
+.violet-6-A:active, .violet-6-A-C:active .C-violet-6-A {color: #cc00cc;}
+.violet-7-A:active, .violet-7-A-C:active .C-violet-7-A {color: #990099;}
+.violet-8-A:active, .violet-8-A-C:active .C-violet-8-A {color: #660066;}
+.violet-9-A:active, .violet-9-A-C:active .C-violet-9-A {color: #330033;}
 
 /* azure-num color pallet */
-.azure-1-A:active {color: #ccffff;}
-.azure-2-A:active {color: #99ffff;}
-.azure-3-A:active {color: #66ffff;}
-.azure-4-A:active {color: #33ffff;}
-.azure-5-A:active {color: #00ffff;}
-.azure-6-A:active {color: #00cccc;}
-.azure-7-A:active {color: #009999;}
-.azure-8-A:active {color: #006666;}
-.azure-9-A:active {color: #003333;}
+.azure-1-A:active, .azure-1-A-C:active .C-azure-1-A {color: #ccffff;}
+.azure-2-A:active, .azure-2-A-C:active .C-azure-2-A {color: #99ffff;}
+.azure-3-A:active, .azure-3-A-C:active .C-azure-3-A {color: #66ffff;}
+.azure-4-A:active, .azure-4-A-C:active .C-azure-4-A {color: #33ffff;}
+.azure-5-A:active, .azure-5-A-C:active .C-azure-5-A {color: #00ffff;}
+.azure-6-A:active, .azure-6-A-C:active .C-azure-6-A {color: #00cccc;}
+.azure-7-A:active, .azure-7-A-C:active .C-azure-7-A {color: #009999;}
+.azure-8-A:active, .azure-8-A-C:active .C-azure-8-A {color: #006666;}
+.azure-9-A:active, .azure-9-A-C:active .C-azure-9-A {color: #003333;}
 
-.aliceblue-A:active {color:aliceblue;}
-.antiquewhite-A:active {color:antiquewhite;}
-.aqua-A:active {color:aqua;}
-.aquamarine-A:active {color:aquamarine;}
-.azure-A:active {color:azure;}
-.beige-A:active {color:beige;}
-.bisque-A:active {color:bisque;}
-.blueviolet-A:active {color:blueviolet;}
-.brown-A:active {color:brown;}
-.burlywood-A:active {color:burlywood;}
-.cadetblue-A:active {color:cadetblue;}
-.chartreuse-A:active {color:chartreuse;}
-.chocolate-A:active {color:chocolate;}
-.coral-A:active {color:coral;}
-.cornflowerblue-A:active {color:cornflowerblue;}
-.cornsilk-A:active {color:cornsilk;}
-.crimson-A:active {color:crimson;}
-.cyan-A:active {color:cyan;}
-.darkblue-A:active {color:darkblue;}
-.darkcyan-A:active {color:darkcyan;}
-.darkgoldenrod-A:active {color:darkgoldenrod;}
-.darkgray-A:active, .darkgrey-A:active {color:darkgray;}
-.darkgreen-A:active {color:darkgreen;}
-.darkkhaki-A:active {color:darkkhaki;}
-.darkmagenta-A:active {color:darkmagenta;}
-.darkolivegreen-A:active {color:darkolivegreen;}
-.darkorange-A:active {color:darkorange;}
-.darkorchid-A:active {color:darkorchid;}
-.darkred-A:active {color:darkred;}
-.darksalmon-A:active {color:darksalmon;}
-.darkseagreen-A:active {color:darkseagreen;}
-.darkslateblue-A:active {color:darkslateblue;}
-.darkslategray-A:active, .darkslategrey-A:active {color:darkslategray;}
-.darkturquoise-A:active {color:darkturquoise;}
-.darkviolet-A:active {color:darkviolet;}
-.deeppink-A:active {color:deeppink;}
-.deepskyblue-A:active {color:deepskyblue;}
-.dimgray-A:active, .dimgrey-A:active {color:dimgray;}
-.dodgerblue-A:active {color:dodgerblue;}
-.firebrick-A:active {color:firebrick;}
-.floralwhite-A:active {color:floralwhite;}
-.forestgreen-A:active {color:forestgreen;}
-.fuchsia-A:active {color:fuchsia;}
-.gainsboro-A:active {color:gainsboro;}
-.ghostwhite-A:active {color:ghostwhite;}
-.gold-A:active {color:gold;}
-.goldenrod-A:active {color:goldenrod;}
-.honeydew-A:active {color:honeydew;}
-.hotpink-A:active {color:hotpink;}
-.indianred-A:active {color:indianred;}
-.indigo-A:active {color:indigo;}
-.ivory-A:active {color:ivory;}
-.khaki-A:active {color:khaki;}
-.lavender-A:active {color:lavender;}
-.lavenderblush-A:active {color:lavenderblush;}
-.lawngreen-A:active {color:lawngreen;}
-.lemonchiffon-A:active {color:lemonchiffon;}
-.lightblue-A:active {color:lightblue;}
-.lightcoral-A:active {color:lightcoral;}
-.lightcyan-A:active {color:lightcyan;}
-.lightgoldenrodyellow-A:active {color:lightgoldenrodyellow;}
-.lightgray-A:active, .lightgrey-A:active {color:lightgray;}
-.lightgreen-A:active {color:lightgreen;}
-.lightpink-A:active {color:lightpink;}
-.lightsalmon-A:active {color:lightsalmon;}
-.lightseagreen-A:active {color:lightseagreen;}
-.lightskyblue-A:active {color:lightskyblue;}
-.lightslategray-A:active, .lightslategrey-A:active {color:lightslategray;}
-.lightsteelblue-A:active {color:lightsteelblue;}
-.lightyellow-A:active {color:lightyellow;}
-.lime-A:active {color:lime;}
-.limegreen-A:active {color:limegreen;}
-.linen-A:active {color:linen;}
-.magenta-A:active {color:magenta;}
-.maroon-A:active {color:maroon;}
-.mediumaquamarine-A:active {color:mediumaquamarine;}
-.mediumblue-A:active {color:mediumblue;}
-.mediumorchid-A:active {color:mediumorchid;}
-.mediumpurple-A:active {color:mediumpurple;}
-.mediumseagreen-A:active {color:mediumseagreen;}
-.mediumslateblue-A:active {color:mediumslateblue;}
-.mediumspringgreen-A:active {color:mediumspringgreen;}
-.mediumturquoise-A:active {color:mediumturquoise;}
-.mediumvioletred-A:active {color:mediumvioletred;}
-.midnightblue-A:active {color:midnightblue;}
-.mintcream-A:active {color:mintcream;}
-.mistyrose-A:active {color:mistyrose;}
-.moccasin-A:active {color:moccasin;}
-.navajowhite-A:active {color:navajowhite;}
-.navy-A:active {color:navy;}
-.oldlace-A:active {color:oldlace;}
-.olive-A:active {color:olive;}
-.olivedrab-A:active {color:olivedrab;}
-.orangered-A:active {color:orangered;}
-.orchid-A:active {color:orchid;}
-.palegoldenrod-A:active {color:palegoldenrod;}
-.palegreen-A:active {color:palegreen;}
-.paleturquoise-A:active {color:paleturquoise;}
-.palevioletred-A:active {color:palevioletred;}
-.papayawhip-A:active {color:papayawhip;}
-.peachpuff-A:active {color:peachpuff;}
-.peru-A:active {color:peru;}
-.pink-A:active {color:pink;}
-.plum-A:active {color:plum;}
-.powderblue-A:active {color:powderblue;}
-.purple-A:active {color:purple;}
-.rebeccapurple-A:active {color:rebeccapurple;}
-.rosybrown-A:active {color:rosybrown;}
-.royalblue-A:active {color:royalblue;}
-.saddlebrown-A:active {color:saddlebrown;}
-.salmon-A:active {color:salmon;}
-.sandybrown-A:active {color:sandybrown;}
-.seagreen-A:active {color:seagreen;}
-.seashell-A:active {color:seashell;}
-.sienna-A:active {color:sienna;}
-.silver-A:active {color:silver;}
-.skyblue-A:active {color:skyblue;}
-.slateblue-A:active {color:slateblue;}
-.slategray-A:active, .slategrey-A:active {color:slategray;}
-.snow-A:active {color:snow;}
-.springgreen-A:active {color:springgreen;}
-.steelblue-A:active {color:steelblue;}
-.tan-A:active {color:tan;}
-.teal-A:active {color:teal;}
-.thistle-A:active {color:thistle;}
-.tomato-A:active {color:tomato;}
-.turquoise-A:active {color:turquoise;}
-.violet-A:active {color:violet;}
-.wheat-A:active {color:wheat;}
-.whitesmoke-A:active {color:whitesmoke;}
-.yellowgreen-A:active {color:yellowgreen;}
+.aliceblue-A:active, .aliceblue-A-C:active .C-aliceblue-A {color:aliceblue;}
+.antiquewhite-A:active, .antiquewhite-A-C:active .C-antiquewhite-A {color:antiquewhite;}
+.aqua-A:active, .aqua-A-C:active .C-aqua-A {color:aqua;}
+.aquamarine-A:active, .aquamarine-A-C:active .C-aquamarine-A {color:aquamarine;}
+.azure-A:active, .azure-A-C:active .C-azure-A {color:azure;}
+.beige-A:active, .beige-A-C:active .C-beige-A {color:beige;}
+.bisque-A:active, .bisque-A-C:active .C-bisque-A {color:bisque;}
+.blueviolet-A:active, .blueviolet-A-C:active .C-blueviolet-A {color:blueviolet;}
+.brown-A:active, .brown-A-C:active .C-brown-A {color:brown;}
+.burlywood-A:active, .burlywood-A-C:active .C-burlywood-A {color:burlywood;}
+.cadetblue-A:active, .cadetblue-A-C:active .C-cadetblue-A {color:cadetblue;}
+.chartreuse-A:active, .chartreuse-A-C:active .C-chartreuse-A {color:chartreuse;}
+.chocolate-A:active, .chocolate-A-C:active .C-chocolate-A {color:chocolate;}
+.coral-A:active, .coral-A-C:active .C-coral-A {color:coral;}
+.cornflowerblue-A:active, .cornflowerblue-A-C:active .C-cornflowerblue-A {color:cornflowerblue;}
+.cornsilk-A:active, .cornsilk-A-C:active .C-cornsilk-A {color:cornsilk;}
+.crimson-A:active, .crimson-A-C:active .C-crimson-A {color:crimson;}
+.cyan-A:active, .cyan-A-C:active .C-cyan-A {color:cyan;}
+.darkblue-A:active, .darkblue-A-C:active .C-darkblue-A {color:darkblue;}
+.darkcyan-A:active, .darkcyan-A-C:active .C-darkcyan-A {color:darkcyan;}
+.darkgoldenrod-A:active, .darkgoldenrod-A-C:active .C-darkgoldenrod-A {color:darkgoldenrod;}
+.darkgray-A:active, .darkgray-A-C:active .C-darkgray-A, .darkgrey-A:active, .darkgrey-A-C:active .C-darkgrey-A {color:darkgray;}
+.darkgreen-A:active, .darkgreen-A-C:active .C-darkgreen-A {color:darkgreen;}
+.darkkhaki-A:active, .darkkhaki-A-C:active .C-darkkhaki-A {color:darkkhaki;}
+.darkmagenta-A:active, .darkmagenta-A-C:active .C-darkmagenta-A {color:darkmagenta;}
+.darkolivegreen-A:active, .darkolivegreen-A-C:active .C-darkolivegreen-A {color:darkolivegreen;}
+.darkorange-A:active, .darkorange-A-C:active .C-darkorange-A {color:darkorange;}
+.darkorchid-A:active, .darkorchid-A-C:active .C-darkorchid-A {color:darkorchid;}
+.darkred-A:active, .darkred-A-C:active .C-darkred-A {color:darkred;}
+.darksalmon-A:active, .darksalmon-A-C:active .C-darksalmon-A {color:darksalmon;}
+.darkseagreen-A:active, .darkseagreen-A-C:active .C-darkseagreen-A {color:darkseagreen;}
+.darkslateblue-A:active, .darkslateblue-A-C:active .C-darkslateblue-A {color:darkslateblue;}
+.darkslategray-A:active, .darkslategray-A-C:active .C-darkslategray-A, .darkslategrey-A:active, .darkslategrey-A-C:active .C-darkslategrey-A {color:darkslategray;}
+.darkturquoise-A:active, .darkturquoise-A-C:active .C-darkturquoise-A {color:darkturquoise;}
+.darkviolet-A:active, .darkviolet-A-C:active .C-darkviolet-A {color:darkviolet;}
+.deeppink-A:active, .deeppink-A-C:active .C-deeppink-A {color:deeppink;}
+.deepskyblue-A:active, .deepskyblue-A-C:active .C-deepskyblue-A {color:deepskyblue;}
+.dimgray-A:active, .dimgray-A-C:active .C-dimgray-A, .dimgrey-A:active, .dimgrey-A-C:active .C-dimgrey-A {color:dimgray;}
+.dodgerblue-A:active, .dodgerblue-A-C:active .C-dodgerblue-A {color:dodgerblue;}
+.firebrick-A:active, .firebrick-A-C:active .C-firebrick-A {color:firebrick;}
+.floralwhite-A:active, .floralwhite-A-C:active .C-floralwhite-A {color:floralwhite;}
+.forestgreen-A:active, .forestgreen-A-C:active .C-forestgreen-A {color:forestgreen;}
+.fuchsia-A:active, .fuchsia-A-C:active .C-fuchsia-A {color:fuchsia;}
+.gainsboro-A:active, .gainsboro-A-C:active .C-gainsboro-A {color:gainsboro;}
+.ghostwhite-A:active, .ghostwhite-A-C:active .C-ghostwhite-A {color:ghostwhite;}
+.gold-A:active, .gold-A-C:active .C-gold-A {color:gold;}
+.goldenrod-A:active, .goldenrod-A-C:active .C-goldenrod-A {color:goldenrod;}
+.honeydew-A:active, .honeydew-A-C:active .C-honeydew-A {color:honeydew;}
+.hotpink-A:active, .hotpink-A-C:active .C-hotpink-A {color:hotpink;}
+.indianred-A:active, .indianred-A-C:active .C-indianred-A {color:indianred;}
+.indigo-A:active, .indigo-A-C:active .C-indigo-A {color:indigo;}
+.ivory-A:active, .ivory-A-C:active .C-ivory-A {color:ivory;}
+.khaki-A:active, .khaki-A-C:active .C-khaki-A {color:khaki;}
+.lavender-A:active, .lavender-A-C:active .C-lavender-A {color:lavender;}
+.lavenderblush-A:active, .lavenderblush-A-C:active .C-lavenderblush-A {color:lavenderblush;}
+.lawngreen-A:active, .lawngreen-A-C:active .C-lawngreen-A {color:lawngreen;}
+.lemonchiffon-A:active, .lemonchiffon-A-C:active .C-lemonchiffon-A {color:lemonchiffon;}
+.lightblue-A:active, .lightblue-A-C:active .C-lightblue-A {color:lightblue;}
+.lightcoral-A:active, .lightcoral-A-C:active .C-lightcoral-A {color:lightcoral;}
+.lightcyan-A:active, .lightcyan-A-C:active .C-lightcyan-A {color:lightcyan;}
+.lightgoldenrodyellow-A:active, .lightgoldenrodyellow-A-C:active .C-lightgoldenrodyellow-A {color:lightgoldenrodyellow;}
+.lightgray-A:active, .lightgray-A-C:active .C-lightgray-A, .lightgrey-A:active, .lightgrey-A-C:active .C-lightgrey-A {color:lightgray;}
+.lightgreen-A:active, .lightgreen-A-C:active .C-lightgreen-A {color:lightgreen;}
+.lightpink-A:active, .lightpink-A-C:active .C-lightpink-A {color:lightpink;}
+.lightsalmon-A:active, .lightsalmon-A-C:active .C-lightsalmon-A {color:lightsalmon;}
+.lightseagreen-A:active, .lightseagreen-A-C:active .C-lightseagreen-A {color:lightseagreen;}
+.lightskyblue-A:active, .lightskyblue-A-C:active .C-lightskyblue-A {color:lightskyblue;}
+.lightslategray-A:active, .lightslategray-A-C:active .C-lightslategray-A, .lightslategrey-A:active, .lightslategrey-A-C:active .C-lightslategrey-A {color:lightslategray;}
+.lightsteelblue-A:active, .lightsteelblue-A-C:active .C-lightsteelblue-A {color:lightsteelblue;}
+.lightyellow-A:active, .lightyellow-A-C:active .C-lightyellow-A {color:lightyellow;}
+.lime-A:active, .lime-A-C:active .C-lime-A {color:lime;}
+.limegreen-A:active, .limegreen-A-C:active .C-limegreen-A {color:limegreen;}
+.linen-A:active, .linen-A-C:active .C-linen-A {color:linen;}
+.magenta-A:active, .magenta-A-C:active .C-magenta-A {color:magenta;}
+.maroon-A:active, .maroon-A-C:active .C-maroon-A {color:maroon;}
+.mediumaquamarine-A:active, .mediumaquamarine-A-C:active .C-mediumaquamarine-A {color:mediumaquamarine;}
+.mediumblue-A:active, .mediumblue-A-C:active .C-mediumblue-A {color:mediumblue;}
+.mediumorchid-A:active, .mediumorchid-A-C:active .C-mediumorchid-A {color:mediumorchid;}
+.mediumpurple-A:active, .mediumpurple-A-C:active .C-mediumpurple-A {color:mediumpurple;}
+.mediumseagreen-A:active, .mediumseagreen-A-C:active .C-mediumseagreen-A {color:mediumseagreen;}
+.mediumslateblue-A:active, .mediumslateblue-A-C:active .C-mediumslateblue-A {color:mediumslateblue;}
+.mediumspringgreen-A:active, .mediumspringgreen-A-C:active .C-mediumspringgreen-A {color:mediumspringgreen;}
+.mediumturquoise-A:active, .mediumturquoise-A-C:active .C-mediumturquoise-A {color:mediumturquoise;}
+.mediumvioletred-A:active, .mediumvioletred-A-C:active .C-mediumvioletred-A {color:mediumvioletred;}
+.midnightblue-A:active, .midnightblue-A-C:active .C-midnightblue-A {color:midnightblue;}
+.mintcream-A:active, .mintcream-A-C:active .C-mintcream-A {color:mintcream;}
+.mistyrose-A:active, .mistyrose-A-C:active .C-mistyrose-A {color:mistyrose;}
+.moccasin-A:active, .moccasin-A-C:active .C-moccasin-A {color:moccasin;}
+.navajowhite-A:active, .navajowhite-A-C:active .C-navajowhite-A {color:navajowhite;}
+.navy-A:active, .navy-A-C:active .C-navy-A {color:navy;}
+.oldlace-A:active, .oldlace-A-C:active .C-oldlace-A {color:oldlace;}
+.olive-A:active, .olive-A-C:active .C-olive-A {color:olive;}
+.olivedrab-A:active, .olivedrab-A-C:active .C-olivedrab-A {color:olivedrab;}
+.orangered-A:active, .orangered-A-C:active .C-orangered-A {color:orangered;}
+.orchid-A:active, .orchid-A-C:active .C-orchid-A {color:orchid;}
+.palegoldenrod-A:active, .palegoldenrod-A-C:active .C-palegoldenrod-A {color:palegoldenrod;}
+.palegreen-A:active, .palegreen-A-C:active .C-palegreen-A {color:palegreen;}
+.paleturquoise-A:active, .paleturquoise-A-C:active .C-paleturquoise-A {color:paleturquoise;}
+.palevioletred-A:active, .palevioletred-A-C:active .C-palevioletred-A {color:palevioletred;}
+.papayawhip-A:active, .papayawhip-A-C:active .C-papayawhip-A {color:papayawhip;}
+.peachpuff-A:active, .peachpuff-A-C:active .C-peachpuff-A {color:peachpuff;}
+.peru-A:active, .peru-A-C:active .C-peru-A {color:peru;}
+.pink-A:active, .pink-A-C:active .C-pink-A {color:pink;}
+.plum-A:active, .plum-A-C:active .C-plum-A {color:plum;}
+.powderblue-A:active, .powderblue-A-C:active .C-powderblue-A {color:powderblue;}
+.purple-A:active, .purple-A-C:active .C-purple-A {color:purple;}
+.rebeccapurple-A:active, .rebeccapurple-A-C:active .C-rebeccapurple-A {color:rebeccapurple;}
+.rosybrown-A:active, .rosybrown-A-C:active .C-rosybrown-A {color:rosybrown;}
+.royalblue-A:active, .royalblue-A-C:active .C-royalblue-A {color:royalblue;}
+.saddlebrown-A:active, .saddlebrown-A-C:active .C-saddlebrown-A {color:saddlebrown;}
+.salmon-A:active, .salmon-A-C:active .C-salmon-A {color:salmon;}
+.sandybrown-A:active, .sandybrown-A-C:active .C-sandybrown-A {color:sandybrown;}
+.seagreen-A:active, .seagreen-A-C:active .C-seagreen-A {color:seagreen;}
+.seashell-A:active, .seashell-A-C:active .C-seashell-A {color:seashell;}
+.sienna-A:active, .sienna-A-C:active .C-sienna-A {color:sienna;}
+.silver-A:active, .silver-A-C:active .C-silver-A {color:silver;}
+.skyblue-A:active, .skyblue-A-C:active .C-skyblue-A {color:skyblue;}
+.slateblue-A:active, .slateblue-A-C:active .C-slateblue-A {color:slateblue;}
+.slategray-A:active, .slategray-A-C:active .C-slategray-A, .slategrey-A:active, .slategrey-A-C:active .C-slategrey-A {color:slategray;}
+.snow-A:active, .snow-A-C:active .C-snow-A {color:snow;}
+.springgreen-A:active, .springgreen-A-C:active .C-springgreen-A {color:springgreen;}
+.steelblue-A:active, .steelblue-A-C:active .C-steelblue-A {color:steelblue;}
+.tan-A:active, .tan-A-C:active .C-tan-A {color:tan;}
+.teal-A:active, .teal-A-C:active .C-teal-A {color:teal;}
+.thistle-A:active, .thistle-A-C:active .C-thistle-A {color:thistle;}
+.tomato-A:active, .tomato-A-C:active .C-tomato-A {color:tomato;}
+.turquoise-A:active, .turquoise-A-C:active .C-turquoise-A {color:turquoise;}
+.violet-A:active, .violet-A-C:active .C-violet-A {color:violet;}
+.wheat-A:active, .wheat-A-C:active .C-wheat-A {color:wheat;}
+.whitesmoke-A:active, .whitesmoke-A-C:active .C-whitesmoke-A {color:whitesmoke;}
+.yellowgreen-A:active, .yellowgreen-A-C:active .C-yellowgreen-A {color:yellowgreen;}
 
 /* bg-color = background-color */
-.bg-white-A:active {background-color: #fff;}
-.bg-black-A:active {background-color: #000;}
+.bg-white-A:active, .bg-white-A-C:active .C-bg-white-A {background-color: #fff;}
+.bg-black-A:active, .bg-black-A-C:active .C-bg-black-A {background-color: #000;}
 
 /* bg-gray-num or bg-grey-num color pallet */
-.bg-gray-1-A:active, .bg-grey-1-A:active {background-color: #e6e6e6;}
-.bg-gray-2-A:active, .bg-grey-2-A:active {background-color: #cccccc;}
-.bg-gray-3-A:active, .bg-grey-3-A:active {background-color: #b3b3b3;}
-.bg-gray-4-A:active, .bg-grey-4-A:active {background-color: #999999;}
-.bg-gray-5-A:active, .bg-grey-5-A:active {background-color: #808080;}
-.bg-gray-6-A:active, .bg-grey-6-A:active {background-color: #666666;}
-.bg-gray-7-A:active, .bg-grey-7-A:active {background-color: #4d4d4d;}
-.bg-gray-8-A:active, .bg-grey-8-A:active {background-color: #333333;}
-.bg-gray-9-A:active, .bg-grey-9-A:active {background-color: #1a1a1a;}
+.bg-gray-1-A:active, .bg-gray-1-A-C:active .C-bg-gray-1-A, .bg-grey-1-A:active, .bg-grey-1-A-C:active .C-bg-grey-1-A {background-color: #e6e6e6;}
+.bg-gray-2-A:active, .bg-gray-2-A-C:active .C-bg-gray-2-A, .bg-grey-2-A:active, .bg-grey-2-A-C:active .C-bg-grey-2-A {background-color: #cccccc;}
+.bg-gray-3-A:active, .bg-gray-3-A-C:active .C-bg-gray-3-A, .bg-grey-3-A:active, .bg-grey-3-A-C:active .C-bg-grey-3-A {background-color: #b3b3b3;}
+.bg-gray-4-A:active, .bg-gray-4-A-C:active .C-bg-gray-4-A, .bg-grey-4-A:active, .bg-grey-4-A-C:active .C-bg-grey-4-A {background-color: #999999;}
+.bg-gray-5-A:active, .bg-gray-5-A-C:active .C-bg-gray-5-A, .bg-grey-5-A:active, .bg-grey-5-A-C:active .C-bg-grey-5-A {background-color: #808080;}
+.bg-gray-6-A:active, .bg-gray-6-A-C:active .C-bg-gray-6-A, .bg-grey-6-A:active, .bg-grey-6-A-C:active .C-bg-grey-6-A {background-color: #666666;}
+.bg-gray-7-A:active, .bg-gray-7-A-C:active .C-bg-gray-7-A, .bg-grey-7-A:active, .bg-grey-7-A-C:active .C-bg-grey-7-A {background-color: #4d4d4d;}
+.bg-gray-8-A:active, .bg-gray-8-A-C:active .C-bg-gray-8-A, .bg-grey-8-A:active, .bg-grey-8-A-C:active .C-bg-grey-8-A {background-color: #333333;}
+.bg-gray-9-A:active, .bg-gray-9-A-C:active .C-bg-gray-9-A, .bg-grey-9-A:active, .bg-grey-9-A-C:active .C-bg-grey-9-A {background-color: #1a1a1a;}
 
 /* bg-red-num background-color pallet */
-.bg-red-1-A:active {background-color: #ffcccc;}
-.bg-red-2-A:active {background-color: #ff9999;}
-.bg-red-3-A:active {background-color: #ff6666;}
-.bg-red-4-A:active {background-color: #ff3333;}
-.bg-red-5-A:active, .bg-red-A:active {background-color: #ff0000;}
-.bg-red-6-A:active {background-color: #cc0000;}
-.bg-red-7-A:active {background-color: #990000;}
-.bg-red-8-A:active {background-color: #660000;}
-.bg-red-9-A:active {background-color: #330000;}
+.bg-red-1-A:active, .bg-red-1-A-C:active .C-bg-red-1-A {background-color: #ffcccc;}
+.bg-red-2-A:active, .bg-red-2-A-C:active .C-bg-red-2-A {background-color: #ff9999;}
+.bg-red-3-A:active, .bg-red-3-A-C:active .C-bg-red-3-A {background-color: #ff6666;}
+.bg-red-4-A:active, .bg-red-4-A-C:active .C-bg-red-4-A {background-color: #ff3333;}
+.bg-red-5-A:active, .bg-red-5-A-C:active .C-bg-red-5-A, .bg-red-A:active, .bg-red-A-C:active .C-bg-red-A {background-color: #ff0000;}
+.bg-red-6-A:active, .bg-red-6-A-C:active .C-bg-red-6-A {background-color: #cc0000;}
+.bg-red-7-A:active, .bg-red-7-A-C:active .C-bg-red-7-A {background-color: #990000;}
+.bg-red-8-A:active, .bg-red-8-A-C:active .C-bg-red-8-A {background-color: #660000;}
+.bg-red-9-A:active, .bg-red-9-A-C:active .C-bg-red-9-A {background-color: #330000;}
 
 /* bg-blue-num background-color pallet */
-.bg-blue-1-A:active {background-color: #ccccff;}
-.bg-blue-2-A:active {background-color: #9999ff;}
-.bg-blue-3-A:active {background-color: #6666ff;}
-.bg-blue-4-A:active {background-color: #3333ff;}
-.bg-blue-5-A:active, .bg-blue-A:active {background-color: #0000ff;}
-.bg-blue-6-A:active {background-color: #0000cc;}
-.bg-blue-7-A:active {background-color: #000099;}
-.bg-blue-8-A:active {background-color: #000066;}
-.bg-blue-9-A:active {background-color: #000033;}
+.bg-blue-1-A:active, .bg-blue-1-A-C:active .C-bg-blue-1-A {background-color: #ccccff;}
+.bg-blue-2-A:active, .bg-blue-2-A-C:active .C-bg-blue-2-A {background-color: #9999ff;}
+.bg-blue-3-A:active, .bg-blue-3-A-C:active .C-bg-blue-3-A {background-color: #6666ff;}
+.bg-blue-4-A:active, .bg-blue-4-A-C:active .C-bg-blue-4-A {background-color: #3333ff;}
+.bg-blue-5-A:active, .bg-blue-5-A-C:active .C-bg-blue-5-A, .bg-blue-A:active, .bg-blue-A-C:active .C-bg-blue-A {background-color: #0000ff;}
+.bg-blue-6-A:active, .bg-blue-6-A-C:active .C-bg-blue-6-A {background-color: #0000cc;}
+.bg-blue-7-A:active, .bg-blue-7-A-C:active .C-bg-blue-7-A {background-color: #000099;}
+.bg-blue-8-A:active, .bg-blue-8-A-C:active .C-bg-blue-8-A {background-color: #000066;}
+.bg-blue-9-A:active, .bg-blue-9-A-C:active .C-bg-blue-9-A {background-color: #000033;}
 
 /* bg-green-num background-color pallet */
-.bg-green-1-A:active {background-color: #ccffcc;}
-.bg-green-2-A:active {background-color: #99ff99;}
-.bg-green-3-A:active {background-color: #66ff66;}
-.bg-green-4-A:active {background-color: #33ff33;}
-.bg-green-5-A:active, .bg-green-A:active {background-color: #00ff00;}
-.bg-green-6-A:active {background-color: #00cc00;}
-.bg-green-7-A:active {background-color: #009900;}
-.bg-green-8-A:active {background-color: #006600;}
-.bg-green-9-A:active {background-color: #003300;}
+.bg-green-1-A:active, .bg-green-1-A-C:active .C-bg-green-1-A {background-color: #ccffcc;}
+.bg-green-2-A:active, .bg-green-2-A-C:active .C-bg-green-2-A {background-color: #99ff99;}
+.bg-green-3-A:active, .bg-green-3-A-C:active .C-bg-green-3-A {background-color: #66ff66;}
+.bg-green-4-A:active, .bg-green-4-A-C:active .C-bg-green-4-A {background-color: #33ff33;}
+.bg-green-5-A:active, .bg-green-5-A-C:active .C-bg-green-5-A, .bg-green-A:active, .bg-green-A-C:active .C-bg-green-A {background-color: #00ff00;}
+.bg-green-6-A:active, .bg-green-6-A-C:active .C-bg-green-6-A {background-color: #00cc00;}
+.bg-green-7-A:active, .bg-green-7-A-C:active .C-bg-green-7-A {background-color: #009900;}
+.bg-green-8-A:active, .bg-green-8-A-C:active .C-bg-green-8-A {background-color: #006600;}
+.bg-green-9-A:active, .bg-green-9-A-C:active .C-bg-green-9-A {background-color: #003300;}
 
 /* bg-text-yellow-num background-color pallet */
-.bg-yellow-1-A:active {background-color: #ffffcc;}
-.bg-yellow-2-A:active {background-color: #ffff99;}
-.bg-yellow-3-A:active {background-color: #ffff66;}
-.bg-yellow-4-A:active {background-color: #ffff33;}
-.bg-yellow-5-A:active, .bg-yellow-A:active {background-color: #ffff00;}
-.bg-yellow-6-A:active {background-color: #cccc00;}
-.bg-yellow-7-A:active {background-color: #999900;}
-.bg-yellow-8-A:active {background-color: #666600;}
-.bg-yellow-9-A:active {background-color: #333300;}
+.bg-yellow-1-A:active, .bg-yellow-1-A-C:active .C-bg-yellow-1-A {background-color: #ffffcc;}
+.bg-yellow-2-A:active, .bg-yellow-2-A-C:active .C-bg-yellow-2-A {background-color: #ffff99;}
+.bg-yellow-3-A:active, .bg-yellow-3-A-C:active .C-bg-yellow-3-A {background-color: #ffff66;}
+.bg-yellow-4-A:active, .bg-yellow-4-A-C:active .C-bg-yellow-4-A {background-color: #ffff33;}
+.bg-yellow-5-A:active, .bg-yellow-5-A-C:active .C-bg-yellow-5-A, .bg-yellow-A:active, .bg-yellow-A-C:active .C-bg-yellow-A {background-color: #ffff00;}
+.bg-yellow-6-A:active, .bg-yellow-6-A-C:active .C-bg-yellow-6-A {background-color: #cccc00;}
+.bg-yellow-7-A:active, .bg-yellow-7-A-C:active .C-bg-yellow-7-A {background-color: #999900;}
+.bg-yellow-8-A:active, .bg-yellow-8-A-C:active .C-bg-yellow-8-A {background-color: #666600;}
+.bg-yellow-9-A:active, .bg-yellow-9-A-C:active .C-bg-yellow-9-A {background-color: #333300;}
 
 /* bg-orange-num background-color pallet */
-.bg-orange-A:active {background-color: #ffa500;}
-.bg-orange-1-A:active {background-color: #ffedcc;}
-.bg-orange-2-A:active {background-color: #ffdb99;}
-.bg-orange-3-A:active {background-color: #ffc966;}
-.bg-orange-4-A:active {background-color: #ffb833;}
-.bg-orange-5-A:active {background-color: #ffa600;}
-.bg-orange-6-A:active {background-color: #cc8500;}
-.bg-orange-7-A:active {background-color: #996300;}
-.bg-orange-8-A:active {background-color: #664200;}
-.bg-orange-9-A:active {background-color: #332100;}
+.bg-orange-A:active, .bg-orange-A-C:active .C-bg-orange-A {background-color: #ffa500;}
+.bg-orange-1-A:active, .bg-orange-1-A-C:active .C-bg-orange-1-A {background-color: #ffedcc;}
+.bg-orange-2-A:active, .bg-orange-2-A-C:active .C-bg-orange-2-A {background-color: #ffdb99;}
+.bg-orange-3-A:active, .bg-orange-3-A-C:active .C-bg-orange-3-A {background-color: #ffc966;}
+.bg-orange-4-A:active, .bg-orange-4-A-C:active .C-bg-orange-4-A {background-color: #ffb833;}
+.bg-orange-5-A:active, .bg-orange-5-A-C:active .C-bg-orange-5-A {background-color: #ffa600;}
+.bg-orange-6-A:active, .bg-orange-6-A-C:active .C-bg-orange-6-A {background-color: #cc8500;}
+.bg-orange-7-A:active, .bg-orange-7-A-C:active .C-bg-orange-7-A {background-color: #996300;}
+.bg-orange-8-A:active, .bg-orange-8-A-C:active .C-bg-orange-8-A {background-color: #664200;}
+.bg-orange-9-A:active, .bg-orange-9-A-C:active .C-bg-orange-9-A {background-color: #332100;}
 
 /* bg-violet-num background-color pallet */
-.bg-violet-A:active {background-color: #ee82ee;}
-.bg-violet-1-A:active {background-color: #ffccff;}
-.bg-violet-2-A:active {background-color: #ff99ff;}
-.bg-violet-3-A:active {background-color: #ff66ff;}
-.bg-violet-4-A:active {background-color: #ff33ff;}
-.bg-violet-5-A:active {background-color: #ff00ff;}
-.bg-violet-6-A:active {background-color: #cc00cc;}
-.bg-violet-7-A:active {background-color: #990099;}
-.bg-violet-8-A:active {background-color: #660066;}
-.bg-violet-9-A:active {background-color: #330033;}
+.bg-violet-A:active, .bg-violet-A-C:active .C-bg-violet-A {background-color: #ee82ee;}
+.bg-violet-1-A:active, .bg-violet-1-A-C:active .C-bg-violet-1-A {background-color: #ffccff;}
+.bg-violet-2-A:active, .bg-violet-2-A-C:active .C-bg-violet-2-A {background-color: #ff99ff;}
+.bg-violet-3-A:active, .bg-violet-3-A-C:active .C-bg-violet-3-A {background-color: #ff66ff;}
+.bg-violet-4-A:active, .bg-violet-4-A-C:active .C-bg-violet-4-A {background-color: #ff33ff;}
+.bg-violet-5-A:active, .bg-violet-5-A-C:active .C-bg-violet-5-A {background-color: #ff00ff;}
+.bg-violet-6-A:active, .bg-violet-6-A-C:active .C-bg-violet-6-A {background-color: #cc00cc;}
+.bg-violet-7-A:active, .bg-violet-7-A-C:active .C-bg-violet-7-A {background-color: #990099;}
+.bg-violet-8-A:active, .bg-violet-8-A-C:active .C-bg-violet-8-A {background-color: #660066;}
+.bg-violet-9-A:active, .bg-violet-9-A-C:active .C-bg-violet-9-A {background-color: #330033;}
 
 /* bg-azure-num background-color pallet */
-.bg-azure-1-A:active {background-color: #ccffff;}
-.bg-azure-2-A:active {background-color: #99ffff;}
-.bg-azure-3-A:active {background-color: #66ffff;}
-.bg-azure-4-A:active {background-color: #33ffff;}
-.bg-azure-5-A:active {background-color: #00ffff;}
-.bg-azure-6-A:active {background-color: #00cccc;}
-.bg-azure-7-A:active {background-color: #009999;}
-.bg-azure-8-A:active {background-color: #006666;}
-.bg-azure-9-A:active {background-color: #003333;}
+.bg-azure-1-A:active, .bg-azure-1-A-C:active .C-bg-azure-1-A {background-color: #ccffff;}
+.bg-azure-2-A:active, .bg-azure-2-A-C:active .C-bg-azure-2-A {background-color: #99ffff;}
+.bg-azure-3-A:active, .bg-azure-3-A-C:active .C-bg-azure-3-A {background-color: #66ffff;}
+.bg-azure-4-A:active, .bg-azure-4-A-C:active .C-bg-azure-4-A {background-color: #33ffff;}
+.bg-azure-5-A:active, .bg-azure-5-A-C:active .C-bg-azure-5-A {background-color: #00ffff;}
+.bg-azure-6-A:active, .bg-azure-6-A-C:active .C-bg-azure-6-A {background-color: #00cccc;}
+.bg-azure-7-A:active, .bg-azure-7-A-C:active .C-bg-azure-7-A {background-color: #009999;}
+.bg-azure-8-A:active, .bg-azure-8-A-C:active .C-bg-azure-8-A {background-color: #006666;}
+.bg-azure-9-A:active, .bg-azure-9-A-C:active .C-bg-azure-9-A {background-color: #003333;}
 
-.bg-aliceblue-A:active {background-color:aliceblue;}
-.bg-antiquewhite-A:active {background-color:antiquewhite;}
-.bg-aqua-A:active {background-color:aqua;}
-.bg-aquamarine-A:active {background-color:aquamarine;}
-.bg-azure-A:active {background-color:azure;}
-.bg-beige-A:active {background-color:beige;}
-.bg-bisque-A:active {background-color:bisque;}
-.bg-blueviolet-A:active {background-color:blueviolet;}
-.bg-brown-A:active {background-color:brown;}
-.bg-burlywood-A:active {background-color:burlywood;}
-.bg-cadetblue-A:active {background-color:cadetblue;}
-.bg-chartreuse-A:active {background-color:chartreuse;}
-.bg-chocolate-A:active {background-color:chocolate;}
-.bg-coral-A:active {background-color:coral;}
-.bg-cornflowerblue-A:active {background-color:cornflowerblue;}
-.bg-cornsilk-A:active {background-color:cornsilk;}
-.bg-crimson-A:active {background-color:crimson;}
-.bg-cyan-A:active {background-color:cyan;}
-.bg-darkblue-A:active {background-color:darkblue;}
-.bg-darkcyan-A:active {background-color:darkcyan;}
-.bg-darkgoldenrod-A:active {background-color:darkgoldenrod;}
-.bg-darkgray-A:active, .bg-darkgrey-A:active {background-color:darkgray;}
-.bg-darkgreen-A:active {background-color:darkgreen;}
-.bg-darkkhaki-A:active {background-color:darkkhaki;}
-.bg-darkmagenta-A:active {background-color:darkmagenta;}
-.bg-darkolivegreen-A:active {background-color:darkolivegreen;}
-.bg-darkorange-A:active {background-color:darkorange;}
-.bg-darkorchid-A:active {background-color:darkorchid;}
-.bg-darkred-A:active {background-color:darkred;}
-.bg-darksalmon-A:active {background-color:darksalmon;}
-.bg-darkseagreen-A:active {background-color:darkseagreen;}
-.bg-darkslateblue-A:active {background-color:darkslateblue;}
-.bg-darkslategray-A:active, .bg-darkslategrey-A:active {background-color:darkslategray;}
-.bg-darkturquoise-A:active {background-color:darkturquoise;}
-.bg-darkviolet-A:active {background-color:darkviolet;}
-.bg-deeppink-A:active {background-color:deeppink;}
-.bg-deepskyblue-A:active {background-color:deepskyblue;}
-.bg-dimgray-A:active, .bg-dimgrey-A:active {background-color:dimgray;}
-.bg-dodgerblue-A:active {background-color:dodgerblue;}
-.bg-firebrick-A:active {background-color:firebrick;}
-.bg-floralwhite-A:active {background-color:floralwhite;}
-.bg-forestgreen-A:active {background-color:forestgreen;}
-.bg-fuchsia-A:active {background-color:fuchsia;}
-.bg-gainsboro-A:active {background-color:gainsboro;}
-.bg-ghostwhite-A:active {background-color:ghostwhite;}
-.bg-gold-A:active {background-color:gold;}
-.bg-goldenrod-A:active {background-color:goldenrod;}
-.bg-honeydew-A:active {background-color:honeydew;}
-.bg-hotpink-A:active {background-color:hotpink;}
-.bg-indianred-A:active {background-color:indianred;}
-.bg-indigo-A:active {background-color:indigo;}
-.bg-ivory-A:active {background-color:ivory;}
-.bg-khaki-A:active {background-color:khaki;}
-.bg-lavender-A:active {background-color:lavender;}
-.bg-lavenderblush-A:active {background-color:lavenderblush;}
-.bg-lawngreen-A:active {background-color:lawngreen;}
-.bg-lemonchiffon-A:active {background-color:lemonchiffon;}
-.bg-lightblue-A:active {background-color:lightblue;}
-.bg-lightcoral-A:active {background-color:lightcoral;}
-.bg-lightcyan-A:active {background-color:lightcyan;}
-.bg-lightgoldenrodyellow-A:active {background-color:lightgoldenrodyellow;}
-.bg-lightgray-A:active, .bg-lightgrey-A:active {background-color:lightgray;}
-.bg-lightgreen-A:active {background-color:lightgreen;}
-.bg-lightpink-A:active {background-color:lightpink;}
-.bg-lightsalmon-A:active {background-color:lightsalmon;}
-.bg-lightseagreen-A:active {background-color:lightseagreen;}
-.bg-lightskyblue-A:active {background-color:lightskyblue;}
-.bg-lightslategray-A:active, .bg-lightslategrey-A:active {background-color:lightslategray;}
-.bg-lightsteelblue-A:active {background-color:lightsteelblue;}
-.bg-lightyellow-A:active {background-color:lightyellow;}
-.bg-lime-A:active {background-color:lime;}
-.bg-limegreen-A:active {background-color:limegreen;}
-.bg-linen-A:active {background-color:linen;}
-.bg-magenta-A:active {background-color:magenta;}
-.bg-maroon-A:active {background-color:maroon;}
-.bg-mediumaquamarine-A:active {background-color:mediumaquamarine;}
-.bg-mediumblue-A:active {background-color:mediumblue;}
-.bg-mediumorchid-A:active {background-color:mediumorchid;}
-.bg-mediumpurple-A:active {background-color:mediumpurple;}
-.bg-mediumseagreen-A:active {background-color:mediumseagreen;}
-.bg-mediumslateblue-A:active {background-color:mediumslateblue;}
-.bg-mediumspringgreen-A:active {background-color:mediumspringgreen;}
-.bg-mediumturquoise-A:active {background-color:mediumturquoise;}
-.bg-mediumvioletred-A:active {background-color:mediumvioletred;}
-.bg-midnightblue-A:active {background-color:midnightblue;}
-.bg-mintcream-A:active {background-color:mintcream;}
-.bg-mistyrose-A:active {background-color:mistyrose;}
-.bg-moccasin-A:active {background-color:moccasin;}
-.bg-navajowhite-A:active {background-color:navajowhite;}
-.bg-navy-A:active {background-color:navy;}
-.bg-oldlace-A:active {background-color:oldlace;}
-.bg-olive-A:active {background-color:olive;}
-.bg-olivedrab-A:active {background-color:olivedrab;}
-.bg-orangered-A:active {background-color:orangered;}
-.bg-orchid-A:active {background-color:orchid;}
-.bg-palegoldenrod-A:active {background-color:palegoldenrod;}
-.bg-palegreen-A:active {background-color:palegreen;}
-.bg-paleturquoise-A:active {background-color:paleturquoise;}
-.bg-palevioletred-A:active {background-color:palevioletred;}
-.bg-papayawhip-A:active {background-color:papayawhip;}
-.bg-peachpuff-A:active {background-color:peachpuff;}
-.bg-peru-A:active {background-color:peru;}
-.bg-pink-A:active {background-color:pink;}
-.bg-plum-A:active {background-color:plum;}
-.bg-powderblue-A:active {background-color:powderblue;}
-.bg-purple-A:active {background-color:purple;}
-.bg-rebeccapurple-A:active {background-color:rebeccapurple;}
-.bg-rosybrown-A:active {background-color:rosybrown;}
-.bg-royalblue-A:active {background-color:royalblue;}
-.bg-saddlebrown-A:active {background-color:saddlebrown;}
-.bg-salmon-A:active {background-color:salmon;}
-.bg-sandybrown-A:active {background-color:sandybrown;}
-.bg-seagreen-A:active {background-color:seagreen;}
-.bg-seashell-A:active {background-color:seashell;}
-.bg-sienna-A:active {background-color:sienna;}
-.bg-silver-A:active {background-color:silver;}
-.bg-skyblue-A:active {background-color:skyblue;}
-.bg-slateblue-A:active {background-color:slateblue;}
-.bg-slategray-A:active, .bg-slategrey-A:active {background-color:slategray;}
-.bg-snow-A:active {background-color:snow;}
-.bg-springgreen-A:active {background-color:springgreen;}
-.bg-steelblue-A:active {background-color:steelblue;}
-.bg-tan-A:active {background-color:tan;}
-.bg-teal-A:active {background-color:teal;}
-.bg-thistle-A:active {background-color:thistle;}
-.bg-tomato-A:active {background-color:tomato;}
-.bg-turquoise-A:active {background-color:turquoise;}
-.bg-violet-A:active {background-color:violet;}
-.bg-wheat-A:active {background-color:wheat;}
-.bg-whitesmoke-A:active {background-color:whitesmoke;}
-.bg-yellowgreen-A:active {background-color:yellowgreen;}
+.bg-aliceblue-A:active, .bg-aliceblue-A-C:active .C-bg-aliceblue-A {background-color:aliceblue;}
+.bg-antiquewhite-A:active, .bg-antiquewhite-A-C:active .C-bg-antiquewhite-A {background-color:antiquewhite;}
+.bg-aqua-A:active, .bg-aqua-A-C:active .C-bg-aqua-A {background-color:aqua;}
+.bg-aquamarine-A:active, .bg-aquamarine-A-C:active .C-bg-aquamarine-A {background-color:aquamarine;}
+.bg-azure-A:active, .bg-azure-A-C:active .C-bg-azure-A {background-color:azure;}
+.bg-beige-A:active, .bg-beige-A-C:active .C-bg-beige-A {background-color:beige;}
+.bg-bisque-A:active, .bg-bisque-A-C:active .C-bg-bisque-A {background-color:bisque;}
+.bg-blueviolet-A:active, .bg-blueviolet-A-C:active .C-bg-blueviolet-A {background-color:blueviolet;}
+.bg-brown-A:active, .bg-brown-A-C:active .C-bg-brown-A {background-color:brown;}
+.bg-burlywood-A:active, .bg-burlywood-A-C:active .C-bg-burlywood-A {background-color:burlywood;}
+.bg-cadetblue-A:active, .bg-cadetblue-A-C:active .C-bg-cadetblue-A {background-color:cadetblue;}
+.bg-chartreuse-A:active, .bg-chartreuse-A-C:active .C-bg-chartreuse-A {background-color:chartreuse;}
+.bg-chocolate-A:active, .bg-chocolate-A-C:active .C-bg-chocolate-A {background-color:chocolate;}
+.bg-coral-A:active, .bg-coral-A-C:active .C-bg-coral-A {background-color:coral;}
+.bg-cornflowerblue-A:active, .bg-cornflowerblue-A-C:active .C-bg-cornflowerblue-A {background-color:cornflowerblue;}
+.bg-cornsilk-A:active, .bg-cornsilk-A-C:active .C-bg-cornsilk-A {background-color:cornsilk;}
+.bg-crimson-A:active, .bg-crimson-A-C:active .C-bg-crimson-A {background-color:crimson;}
+.bg-cyan-A:active, .bg-cyan-A-C:active .C-bg-cyan-A {background-color:cyan;}
+.bg-darkblue-A:active, .bg-darkblue-A-C:active .C-bg-darkblue-A {background-color:darkblue;}
+.bg-darkcyan-A:active, .bg-darkcyan-A-C:active .C-bg-darkcyan-A {background-color:darkcyan;}
+.bg-darkgoldenrod-A:active, .bg-darkgoldenrod-A-C:active .C-bg-darkgoldenrod-A {background-color:darkgoldenrod;}
+.bg-darkgray-A:active, .bg-darkgray-A-C:active .C-bg-darkgray-A, .bg-darkgrey-A:active, .bg-darkgrey-A-C:active .C-bg-darkgrey-A {background-color:darkgray;}
+.bg-darkgreen-A:active, .bg-darkgreen-A-C:active .C-bg-darkgreen-A {background-color:darkgreen;}
+.bg-darkkhaki-A:active, .bg-darkkhaki-A-C:active .C-bg-darkkhaki-A {background-color:darkkhaki;}
+.bg-darkmagenta-A:active, .bg-darkmagenta-A-C:active .C-bg-darkmagenta-A {background-color:darkmagenta;}
+.bg-darkolivegreen-A:active, .bg-darkolivegreen-A-C:active .C-bg-darkolivegreen-A {background-color:darkolivegreen;}
+.bg-darkorange-A:active, .bg-darkorange-A-C:active .C-bg-darkorange-A {background-color:darkorange;}
+.bg-darkorchid-A:active, .bg-darkorchid-A-C:active .C-bg-darkorchid-A {background-color:darkorchid;}
+.bg-darkred-A:active, .bg-darkred-A-C:active .C-bg-darkred-A {background-color:darkred;}
+.bg-darksalmon-A:active, .bg-darksalmon-A-C:active .C-bg-darksalmon-A {background-color:darksalmon;}
+.bg-darkseagreen-A:active, .bg-darkseagreen-A-C:active .C-bg-darkseagreen-A {background-color:darkseagreen;}
+.bg-darkslateblue-A:active, .bg-darkslateblue-A-C:active .C-bg-darkslateblue-A {background-color:darkslateblue;}
+.bg-darkslategray-A:active, .bg-darkslategray-A-C:active .C-bg-darkslategray-A, .bg-darkslategrey-A:active, .bg-darkslategrey-A-C:active .C-bg-darkslategrey-A {background-color:darkslategray;}
+.bg-darkturquoise-A:active, .bg-darkturquoise-A-C:active .C-bg-darkturquoise-A {background-color:darkturquoise;}
+.bg-darkviolet-A:active, .bg-darkviolet-A-C:active .C-bg-darkviolet-A {background-color:darkviolet;}
+.bg-deeppink-A:active, .bg-deeppink-A-C:active .C-bg-deeppink-A {background-color:deeppink;}
+.bg-deepskyblue-A:active, .bg-deepskyblue-A-C:active .C-bg-deepskyblue-A {background-color:deepskyblue;}
+.bg-dimgray-A:active, .bg-dimgray-A-C:active .C-bg-dimgray-A, .bg-dimgrey-A:active, .bg-dimgrey-A-C:active .C-bg-dimgrey-A {background-color:dimgray;}
+.bg-dodgerblue-A:active, .bg-dodgerblue-A-C:active .C-bg-dodgerblue-A {background-color:dodgerblue;}
+.bg-firebrick-A:active, .bg-firebrick-A-C:active .C-bg-firebrick-A {background-color:firebrick;}
+.bg-floralwhite-A:active, .bg-floralwhite-A-C:active .C-bg-floralwhite-A {background-color:floralwhite;}
+.bg-forestgreen-A:active, .bg-forestgreen-A-C:active .C-bg-forestgreen-A {background-color:forestgreen;}
+.bg-fuchsia-A:active, .bg-fuchsia-A-C:active .C-bg-fuchsia-A {background-color:fuchsia;}
+.bg-gainsboro-A:active, .bg-gainsboro-A-C:active .C-bg-gainsboro-A {background-color:gainsboro;}
+.bg-ghostwhite-A:active, .bg-ghostwhite-A-C:active .C-bg-ghostwhite-A {background-color:ghostwhite;}
+.bg-gold-A:active, .bg-gold-A-C:active .C-bg-gold-A {background-color:gold;}
+.bg-goldenrod-A:active, .bg-goldenrod-A-C:active .C-bg-goldenrod-A {background-color:goldenrod;}
+.bg-honeydew-A:active, .bg-honeydew-A-C:active .C-bg-honeydew-A {background-color:honeydew;}
+.bg-hotpink-A:active, .bg-hotpink-A-C:active .C-bg-hotpink-A {background-color:hotpink;}
+.bg-indianred-A:active, .bg-indianred-A-C:active .C-bg-indianred-A {background-color:indianred;}
+.bg-indigo-A:active, .bg-indigo-A-C:active .C-bg-indigo-A {background-color:indigo;}
+.bg-ivory-A:active, .bg-ivory-A-C:active .C-bg-ivory-A {background-color:ivory;}
+.bg-khaki-A:active, .bg-khaki-A-C:active .C-bg-khaki-A {background-color:khaki;}
+.bg-lavender-A:active, .bg-lavender-A-C:active .C-bg-lavender-A {background-color:lavender;}
+.bg-lavenderblush-A:active, .bg-lavenderblush-A-C:active .C-bg-lavenderblush-A {background-color:lavenderblush;}
+.bg-lawngreen-A:active, .bg-lawngreen-A-C:active .C-bg-lawngreen-A {background-color:lawngreen;}
+.bg-lemonchiffon-A:active, .bg-lemonchiffon-A-C:active .C-bg-lemonchiffon-A {background-color:lemonchiffon;}
+.bg-lightblue-A:active, .bg-lightblue-A-C:active .C-bg-lightblue-A {background-color:lightblue;}
+.bg-lightcoral-A:active, .bg-lightcoral-A-C:active .C-bg-lightcoral-A {background-color:lightcoral;}
+.bg-lightcyan-A:active, .bg-lightcyan-A-C:active .C-bg-lightcyan-A {background-color:lightcyan;}
+.bg-lightgoldenrodyellow-A:active, .bg-lightgoldenrodyellow-A-C:active .C-bg-lightgoldenrodyellow-A {background-color:lightgoldenrodyellow;}
+.bg-lightgray-A:active, .bg-lightgray-A-C:active .C-bg-lightgray-A, .bg-lightgrey-A:active, .bg-lightgrey-A-C:active .C-bg-lightgrey-A {background-color:lightgray;}
+.bg-lightgreen-A:active, .bg-lightgreen-A-C:active .C-bg-lightgreen-A {background-color:lightgreen;}
+.bg-lightpink-A:active, .bg-lightpink-A-C:active .C-bg-lightpink-A {background-color:lightpink;}
+.bg-lightsalmon-A:active, .bg-lightsalmon-A-C:active .C-bg-lightsalmon-A {background-color:lightsalmon;}
+.bg-lightseagreen-A:active, .bg-lightseagreen-A-C:active .C-bg-lightseagreen-A {background-color:lightseagreen;}
+.bg-lightskyblue-A:active, .bg-lightskyblue-A-C:active .C-bg-lightskyblue-A {background-color:lightskyblue;}
+.bg-lightslategray-A:active, .bg-lightslategray-A-C:active .C-bg-lightslategray-A, .bg-lightslategrey-A:active, .bg-lightslategrey-A-C:active .C-bg-lightslategrey-A {background-color:lightslategray;}
+.bg-lightsteelblue-A:active, .bg-lightsteelblue-A-C:active .C-bg-lightsteelblue-A {background-color:lightsteelblue;}
+.bg-lightyellow-A:active, .bg-lightyellow-A-C:active .C-bg-lightyellow-A {background-color:lightyellow;}
+.bg-lime-A:active, .bg-lime-A-C:active .C-bg-lime-A {background-color:lime;}
+.bg-limegreen-A:active, .bg-limegreen-A-C:active .C-bg-limegreen-A {background-color:limegreen;}
+.bg-linen-A:active, .bg-linen-A-C:active .C-bg-linen-A {background-color:linen;}
+.bg-magenta-A:active, .bg-magenta-A-C:active .C-bg-magenta-A {background-color:magenta;}
+.bg-maroon-A:active, .bg-maroon-A-C:active .C-bg-maroon-A {background-color:maroon;}
+.bg-mediumaquamarine-A:active, .bg-mediumaquamarine-A-C:active .C-bg-mediumaquamarine-A {background-color:mediumaquamarine;}
+.bg-mediumblue-A:active, .bg-mediumblue-A-C:active .C-bg-mediumblue-A {background-color:mediumblue;}
+.bg-mediumorchid-A:active, .bg-mediumorchid-A-C:active .C-bg-mediumorchid-A {background-color:mediumorchid;}
+.bg-mediumpurple-A:active, .bg-mediumpurple-A-C:active .C-bg-mediumpurple-A {background-color:mediumpurple;}
+.bg-mediumseagreen-A:active, .bg-mediumseagreen-A-C:active .C-bg-mediumseagreen-A {background-color:mediumseagreen;}
+.bg-mediumslateblue-A:active, .bg-mediumslateblue-A-C:active .C-bg-mediumslateblue-A {background-color:mediumslateblue;}
+.bg-mediumspringgreen-A:active, .bg-mediumspringgreen-A-C:active .C-bg-mediumspringgreen-A {background-color:mediumspringgreen;}
+.bg-mediumturquoise-A:active, .bg-mediumturquoise-A-C:active .C-bg-mediumturquoise-A {background-color:mediumturquoise;}
+.bg-mediumvioletred-A:active, .bg-mediumvioletred-A-C:active .C-bg-mediumvioletred-A {background-color:mediumvioletred;}
+.bg-midnightblue-A:active, .bg-midnightblue-A-C:active .C-bg-midnightblue-A {background-color:midnightblue;}
+.bg-mintcream-A:active, .bg-mintcream-A-C:active .C-bg-mintcream-A {background-color:mintcream;}
+.bg-mistyrose-A:active, .bg-mistyrose-A-C:active .C-bg-mistyrose-A {background-color:mistyrose;}
+.bg-moccasin-A:active, .bg-moccasin-A-C:active .C-bg-moccasin-A {background-color:moccasin;}
+.bg-navajowhite-A:active, .bg-navajowhite-A-C:active .C-bg-navajowhite-A {background-color:navajowhite;}
+.bg-navy-A:active, .bg-navy-A-C:active .C-bg-navy-A {background-color:navy;}
+.bg-oldlace-A:active, .bg-oldlace-A-C:active .C-bg-oldlace-A {background-color:oldlace;}
+.bg-olive-A:active, .bg-olive-A-C:active .C-bg-olive-A {background-color:olive;}
+.bg-olivedrab-A:active, .bg-olivedrab-A-C:active .C-bg-olivedrab-A {background-color:olivedrab;}
+.bg-orangered-A:active, .bg-orangered-A-C:active .C-bg-orangered-A {background-color:orangered;}
+.bg-orchid-A:active, .bg-orchid-A-C:active .C-bg-orchid-A {background-color:orchid;}
+.bg-palegoldenrod-A:active, .bg-palegoldenrod-A-C:active .C-bg-palegoldenrod-A {background-color:palegoldenrod;}
+.bg-palegreen-A:active, .bg-palegreen-A-C:active .C-bg-palegreen-A {background-color:palegreen;}
+.bg-paleturquoise-A:active, .bg-paleturquoise-A-C:active .C-bg-paleturquoise-A {background-color:paleturquoise;}
+.bg-palevioletred-A:active, .bg-palevioletred-A-C:active .C-bg-palevioletred-A {background-color:palevioletred;}
+.bg-papayawhip-A:active, .bg-papayawhip-A-C:active .C-bg-papayawhip-A {background-color:papayawhip;}
+.bg-peachpuff-A:active, .bg-peachpuff-A-C:active .C-bg-peachpuff-A {background-color:peachpuff;}
+.bg-peru-A:active, .bg-peru-A-C:active .C-bg-peru-A {background-color:peru;}
+.bg-pink-A:active, .bg-pink-A-C:active .C-bg-pink-A {background-color:pink;}
+.bg-plum-A:active, .bg-plum-A-C:active .C-bg-plum-A {background-color:plum;}
+.bg-powderblue-A:active, .bg-powderblue-A-C:active .C-bg-powderblue-A {background-color:powderblue;}
+.bg-purple-A:active, .bg-purple-A-C:active .C-bg-purple-A {background-color:purple;}
+.bg-rebeccapurple-A:active, .bg-rebeccapurple-A-C:active .C-bg-rebeccapurple-A {background-color:rebeccapurple;}
+.bg-rosybrown-A:active, .bg-rosybrown-A-C:active .C-bg-rosybrown-A {background-color:rosybrown;}
+.bg-royalblue-A:active, .bg-royalblue-A-C:active .C-bg-royalblue-A {background-color:royalblue;}
+.bg-saddlebrown-A:active, .bg-saddlebrown-A-C:active .C-bg-saddlebrown-A {background-color:saddlebrown;}
+.bg-salmon-A:active, .bg-salmon-A-C:active .C-bg-salmon-A {background-color:salmon;}
+.bg-sandybrown-A:active, .bg-sandybrown-A-C:active .C-bg-sandybrown-A {background-color:sandybrown;}
+.bg-seagreen-A:active, .bg-seagreen-A-C:active .C-bg-seagreen-A {background-color:seagreen;}
+.bg-seashell-A:active, .bg-seashell-A-C:active .C-bg-seashell-A {background-color:seashell;}
+.bg-sienna-A:active, .bg-sienna-A-C:active .C-bg-sienna-A {background-color:sienna;}
+.bg-silver-A:active, .bg-silver-A-C:active .C-bg-silver-A {background-color:silver;}
+.bg-skyblue-A:active, .bg-skyblue-A-C:active .C-bg-skyblue-A {background-color:skyblue;}
+.bg-slateblue-A:active, .bg-slateblue-A-C:active .C-bg-slateblue-A {background-color:slateblue;}
+.bg-slategray-A:active, .bg-slategray-A-C:active .C-bg-slategray-A, .bg-slategrey-A:active, .bg-slategrey-A-C:active .C-bg-slategrey-A {background-color:slategray;}
+.bg-snow-A:active, .bg-snow-A-C:active .C-bg-snow-A {background-color:snow;}
+.bg-springgreen-A:active, .bg-springgreen-A-C:active .C-bg-springgreen-A {background-color:springgreen;}
+.bg-steelblue-A:active, .bg-steelblue-A-C:active .C-bg-steelblue-A {background-color:steelblue;}
+.bg-tan-A:active, .bg-tan-A-C:active .C-bg-tan-A {background-color:tan;}
+.bg-teal-A:active, .bg-teal-A-C:active .C-bg-teal-A {background-color:teal;}
+.bg-thistle-A:active, .bg-thistle-A-C:active .C-bg-thistle-A {background-color:thistle;}
+.bg-tomato-A:active, .bg-tomato-A-C:active .C-bg-tomato-A {background-color:tomato;}
+.bg-turquoise-A:active, .bg-turquoise-A-C:active .C-bg-turquoise-A {background-color:turquoise;}
+.bg-violet-A:active, .bg-violet-A-C:active .C-bg-violet-A {background-color:violet;}
+.bg-wheat-A:active, .bg-wheat-A-C:active .C-bg-wheat-A {background-color:wheat;}
+.bg-whitesmoke-A:active, .bg-whitesmoke-A-C:active .C-bg-whitesmoke-A {background-color:whitesmoke;}
+.bg-yellowgreen-A:active, .bg-yellowgreen-A-C:active .C-bg-yellowgreen-A {background-color:yellowgreen;}
 
 /* p-num = padding */
-.p-1-A:active {padding: .25rem;}
-.p-2-A:active {padding: .5rem;}
-.p-3-A:active {padding: .75rem;}
-.p-4-A:active {padding: 1rem;}
-.p-5-A:active {padding: 1.25rem;}
-.p-6-A:active {padding: 1.5rem;}
-.p-7-A:active {padding: 1.75rem;}
-.p-8-A:active {padding: 2rem;}
-.p-9-A:active {padding: 2.25rem;}
-.p-10-A:active {padding: 2.5rem;}
-.p-11-A:active {padding: 2.75rem;}
-.p-12-A:active {padding: 3rem;}
-.p-13-A:active {padding: 3.25rem;}
-.p-14-A:active {padding: 3.5rem;}
-.p-15-A:active {padding: 3.75rem;}
-.p-16-A:active {padding: 4rem;}
-.p-17-A:active {padding: 4.25rem;}
-.p-18-A:active {padding: 4.5rem;}
-.p-19-A:active {padding: 4.75rem;}
-.p-20-A:active {padding: 5rem;}
+.p-1-A:active, .p-1-A-C:active .C-p-1-A {padding: .25rem;}
+.p-2-A:active, .p-2-A-C:active .C-p-2-A {padding: .5rem;}
+.p-3-A:active, .p-3-A-C:active .C-p-3-A {padding: .75rem;}
+.p-4-A:active, .p-4-A-C:active .C-p-4-A {padding: 1rem;}
+.p-5-A:active, .p-5-A-C:active .C-p-5-A {padding: 1.25rem;}
+.p-6-A:active, .p-6-A-C:active .C-p-6-A {padding: 1.5rem;}
+.p-7-A:active, .p-7-A-C:active .C-p-7-A {padding: 1.75rem;}
+.p-8-A:active, .p-8-A-C:active .C-p-8-A {padding: 2rem;}
+.p-9-A:active, .p-9-A-C:active .C-p-9-A {padding: 2.25rem;}
+.p-10-A:active, .p-10-A-C:active .C-p-10-A {padding: 2.5rem;}
+.p-11-A:active, .p-11-A-C:active .C-p-11-A {padding: 2.75rem;}
+.p-12-A:active, .p-12-A-C:active .C-p-12-A {padding: 3rem;}
+.p-13-A:active, .p-13-A-C:active .C-p-13-A {padding: 3.25rem;}
+.p-14-A:active, .p-14-A-C:active .C-p-14-A {padding: 3.5rem;}
+.p-15-A:active, .p-15-A-C:active .C-p-15-A {padding: 3.75rem;}
+.p-16-A:active, .p-16-A-C:active .C-p-16-A {padding: 4rem;}
+.p-17-A:active, .p-17-A-C:active .C-p-17-A {padding: 4.25rem;}
+.p-18-A:active, .p-18-A-C:active .C-p-18-A {padding: 4.5rem;}
+.p-19-A:active, .p-19-A-C:active .C-p-19-A {padding: 4.75rem;}
+.p-20-A:active, .p-20-A-C:active .C-p-20-A {padding: 5rem;}
 
 /* pl-num = padding-left */
-.pl-1-A:active {padding-left: .25rem;}
-.pl-2-A:active {padding-left: .5rem;}
-.pl-3-A:active {padding-left: .75rem;}
-.pl-4-A:active {padding-left: 1rem;}
-.pl-5-A:active {padding-left: 1.25rem;}
-.pl-6-A:active {padding-left: 1.5rem;}
-.pl-7-A:active {padding-left: 1.75rem;}
-.pl-8-A:active {padding-left: 2rem;}
-.pl-9-A:active {padding-left: 2.25rem;}
-.pl-10-A:active {padding-left: 2.5rem;}
-.pl-11-A:active {padding-left: 2.75rem;}
-.pl-12-A:active {padding-left: 3rem;}
-.pl-13-A:active {padding-left: 3.25rem;}
-.pl-14-A:active {padding-left: 3.5rem;}
-.pl-15-A:active {padding-left: 3.75rem;}
-.pl-16-A:active {padding-left: 4rem;}
-.pl-17-A:active {padding-left: 4.25rem;}
-.pl-18-A:active {padding-left: 4.5rem;}
-.pl-19-A:active {padding-left: 4.75rem;}
-.pl-20-A:active {padding-left: 5rem;}
-.pl-0-A:active {padding-left: 0;}
+.pl-1-A:active, .pl-1-A-C:active .C-pl-1-A {padding-left: .25rem;}
+.pl-2-A:active, .pl-2-A-C:active .C-pl-2-A {padding-left: .5rem;}
+.pl-3-A:active, .pl-3-A-C:active .C-pl-3-A {padding-left: .75rem;}
+.pl-4-A:active, .pl-4-A-C:active .C-pl-4-A {padding-left: 1rem;}
+.pl-5-A:active, .pl-5-A-C:active .C-pl-5-A {padding-left: 1.25rem;}
+.pl-6-A:active, .pl-6-A-C:active .C-pl-6-A {padding-left: 1.5rem;}
+.pl-7-A:active, .pl-7-A-C:active .C-pl-7-A {padding-left: 1.75rem;}
+.pl-8-A:active, .pl-8-A-C:active .C-pl-8-A {padding-left: 2rem;}
+.pl-9-A:active, .pl-9-A-C:active .C-pl-9-A {padding-left: 2.25rem;}
+.pl-10-A:active, .pl-10-A-C:active .C-pl-10-A {padding-left: 2.5rem;}
+.pl-11-A:active, .pl-11-A-C:active .C-pl-11-A {padding-left: 2.75rem;}
+.pl-12-A:active, .pl-12-A-C:active .C-pl-12-A {padding-left: 3rem;}
+.pl-13-A:active, .pl-13-A-C:active .C-pl-13-A {padding-left: 3.25rem;}
+.pl-14-A:active, .pl-14-A-C:active .C-pl-14-A {padding-left: 3.5rem;}
+.pl-15-A:active, .pl-15-A-C:active .C-pl-15-A {padding-left: 3.75rem;}
+.pl-16-A:active, .pl-16-A-C:active .C-pl-16-A {padding-left: 4rem;}
+.pl-17-A:active, .pl-17-A-C:active .C-pl-17-A {padding-left: 4.25rem;}
+.pl-18-A:active, .pl-18-A-C:active .C-pl-18-A {padding-left: 4.5rem;}
+.pl-19-A:active, .pl-19-A-C:active .C-pl-19-A {padding-left: 4.75rem;}
+.pl-20-A:active, .pl-20-A-C:active .C-pl-20-A {padding-left: 5rem;}
+.pl-0-A:active, .pl-0-A-C:active .C-pl-0-A {padding-left: 0;}
 
 /* pr-num = padding-right */
-.pr-1-A:active {padding-right: .25rem;}
-.pr-2-A:active {padding-right: .5rem;}
-.pr-3-A:active {padding-right: .75rem;}
-.pr-4-A:active {padding-right: 1rem;}
-.pr-5-A:active {padding-right: 1.25rem;}
-.pr-6-A:active {padding-right: 1.5rem;}
-.pr-7-A:active {padding-right: 1.75rem;}
-.pr-8-A:active {padding-right: 2rem;}
-.pr-9-A:active {padding-right: 2.25rem;}
-.pr-10-A:active {padding-right: 2.5rem;}
-.pr-11-A:active {padding-right: 2.75rem;}
-.pr-12-A:active {padding-right: 3rem;}
-.pr-13-A:active {padding-right: 3.25rem;}
-.pr-14-A:active {padding-right: 3.5rem;}
-.pr-15-A:active {padding-right: 3.75rem;}
-.pr-16-A:active {padding-right: 4rem;}
-.pr-17-A:active {padding-right: 4.25rem;}
-.pr-18-A:active {padding-right: 4.5rem;}
-.pr-19-A:active {padding-right: 4.75rem;}
-.pr-20-A:active {padding-right: 5rem;}
-.pr-0-A:active {padding-right: 0;}
+.pr-1-A:active, .pr-1-A-C:active .C-pr-1-A {padding-right: .25rem;}
+.pr-2-A:active, .pr-2-A-C:active .C-pr-2-A {padding-right: .5rem;}
+.pr-3-A:active, .pr-3-A-C:active .C-pr-3-A {padding-right: .75rem;}
+.pr-4-A:active, .pr-4-A-C:active .C-pr-4-A {padding-right: 1rem;}
+.pr-5-A:active, .pr-5-A-C:active .C-pr-5-A {padding-right: 1.25rem;}
+.pr-6-A:active, .pr-6-A-C:active .C-pr-6-A {padding-right: 1.5rem;}
+.pr-7-A:active, .pr-7-A-C:active .C-pr-7-A {padding-right: 1.75rem;}
+.pr-8-A:active, .pr-8-A-C:active .C-pr-8-A {padding-right: 2rem;}
+.pr-9-A:active, .pr-9-A-C:active .C-pr-9-A {padding-right: 2.25rem;}
+.pr-10-A:active, .pr-10-A-C:active .C-pr-10-A {padding-right: 2.5rem;}
+.pr-11-A:active, .pr-11-A-C:active .C-pr-11-A {padding-right: 2.75rem;}
+.pr-12-A:active, .pr-12-A-C:active .C-pr-12-A {padding-right: 3rem;}
+.pr-13-A:active, .pr-13-A-C:active .C-pr-13-A {padding-right: 3.25rem;}
+.pr-14-A:active, .pr-14-A-C:active .C-pr-14-A {padding-right: 3.5rem;}
+.pr-15-A:active, .pr-15-A-C:active .C-pr-15-A {padding-right: 3.75rem;}
+.pr-16-A:active, .pr-16-A-C:active .C-pr-16-A {padding-right: 4rem;}
+.pr-17-A:active, .pr-17-A-C:active .C-pr-17-A {padding-right: 4.25rem;}
+.pr-18-A:active, .pr-18-A-C:active .C-pr-18-A {padding-right: 4.5rem;}
+.pr-19-A:active, .pr-19-A-C:active .C-pr-19-A {padding-right: 4.75rem;}
+.pr-20-A:active, .pr-20-A-C:active .C-pr-20-A {padding-right: 5rem;}
+.pr-0-A:active, .pr-0-A-C:active .C-pr-0-A {padding-right: 0;}
 
 /* pt-num = padding-top */
-.pt-1-A:active {padding-top: .25rem;}
-.pt-2-A:active {padding-top: .5rem;}
-.pt-3-A:active {padding-top: .75rem;}
-.pt-4-A:active {padding-top: 1rem;}
-.pt-5-A:active {padding-top: 1.25rem;}
-.pt-6-A:active {padding-top: 1.5rem;}
-.pt-7-A:active {padding-top: 1.75rem;}
-.pt-8-A:active {padding-top: 2rem;}
-.pt-9-A:active {padding-top: 2.25rem;}
-.pt-10-A:active {padding-top: 2.5rem;}
-.pt-11-A:active {padding-top: 2.75rem;}
-.pt-12-A:active {padding-top: 3rem;}
-.pt-13-A:active {padding-top: 3.25rem;}
-.pt-14-A:active {padding-top: 3.5rem;}
-.pt-15-A:active {padding-top: 3.75rem;}
-.pt-16-A:active {padding-top: 4rem;}
-.pt-17-A:active {padding-top: 4.25rem;}
-.pt-18-A:active {padding-top: 4.5rem;}
-.pt-19-A:active {padding-top: 4.75rem;}
-.pt-20-A:active {padding-top: 5rem;}
-.pt-0-A:active {padding-top: 0;}
+.pt-1-A:active, .pt-1-A-C:active .C-pt-1-A {padding-top: .25rem;}
+.pt-2-A:active, .pt-2-A-C:active .C-pt-2-A {padding-top: .5rem;}
+.pt-3-A:active, .pt-3-A-C:active .C-pt-3-A {padding-top: .75rem;}
+.pt-4-A:active, .pt-4-A-C:active .C-pt-4-A {padding-top: 1rem;}
+.pt-5-A:active, .pt-5-A-C:active .C-pt-5-A {padding-top: 1.25rem;}
+.pt-6-A:active, .pt-6-A-C:active .C-pt-6-A {padding-top: 1.5rem;}
+.pt-7-A:active, .pt-7-A-C:active .C-pt-7-A {padding-top: 1.75rem;}
+.pt-8-A:active, .pt-8-A-C:active .C-pt-8-A {padding-top: 2rem;}
+.pt-9-A:active, .pt-9-A-C:active .C-pt-9-A {padding-top: 2.25rem;}
+.pt-10-A:active, .pt-10-A-C:active .C-pt-10-A {padding-top: 2.5rem;}
+.pt-11-A:active, .pt-11-A-C:active .C-pt-11-A {padding-top: 2.75rem;}
+.pt-12-A:active, .pt-12-A-C:active .C-pt-12-A {padding-top: 3rem;}
+.pt-13-A:active, .pt-13-A-C:active .C-pt-13-A {padding-top: 3.25rem;}
+.pt-14-A:active, .pt-14-A-C:active .C-pt-14-A {padding-top: 3.5rem;}
+.pt-15-A:active, .pt-15-A-C:active .C-pt-15-A {padding-top: 3.75rem;}
+.pt-16-A:active, .pt-16-A-C:active .C-pt-16-A {padding-top: 4rem;}
+.pt-17-A:active, .pt-17-A-C:active .C-pt-17-A {padding-top: 4.25rem;}
+.pt-18-A:active, .pt-18-A-C:active .C-pt-18-A {padding-top: 4.5rem;}
+.pt-19-A:active, .pt-19-A-C:active .C-pt-19-A {padding-top: 4.75rem;}
+.pt-20-A:active, .pt-20-A-C:active .C-pt-20-A {padding-top: 5rem;}
+.pt-0-A:active, .pt-0-A-C:active .C-pt-0-A {padding-top: 0;}
 
 /* pb-num = padding-bottom */
-.pb-1-A:active {padding-bottom: .25rem;}
-.pb-2-A:active {padding-bottom: .5rem;}
-.pb-3-A:active {padding-bottom: .75rem;}
-.pb-4-A:active {padding-bottom: 1rem;}
-.pb-5-A:active {padding-bottom: 1.25rem;}
-.pb-6-A:active {padding-bottom: 1.5rem;}
-.pb-7-A:active {padding-bottom: 1.75rem;}
-.pb-8-A:active {padding-bottom: 2rem;}
-.pb-9-A:active {padding-bottom: 2.25rem;}
-.pb-10-A:active {padding-bottom: 2.5rem;}
-.pb-11-A:active {padding-bottom: 2.75rem;}
-.pb-12-A:active {padding-bottom: 3rem;}
-.pb-13-A:active {padding-bottom: 3.25rem;}
-.pb-14-A:active {padding-bottom: 3.5rem;}
-.pb-15-A:active {padding-bottom: 3.75rem;}
-.pb-16-A:active {padding-bottom: 4rem;}
-.pb-17-A:active {padding-bottom: 4.25rem;}
-.pb-18-A:active {padding-bottom: 4.5rem;}
-.pb-19-A:active {padding-bottom: 4.75rem;}
-.pb-20-A:active {padding-bottom: 5rem;}
-.pb-0-A:active {padding-bottom: 0;}
+.pb-1-A:active, .pb-1-A-C:active .C-pb-1-A {padding-bottom: .25rem;}
+.pb-2-A:active, .pb-2-A-C:active .C-pb-2-A {padding-bottom: .5rem;}
+.pb-3-A:active, .pb-3-A-C:active .C-pb-3-A {padding-bottom: .75rem;}
+.pb-4-A:active, .pb-4-A-C:active .C-pb-4-A {padding-bottom: 1rem;}
+.pb-5-A:active, .pb-5-A-C:active .C-pb-5-A {padding-bottom: 1.25rem;}
+.pb-6-A:active, .pb-6-A-C:active .C-pb-6-A {padding-bottom: 1.5rem;}
+.pb-7-A:active, .pb-7-A-C:active .C-pb-7-A {padding-bottom: 1.75rem;}
+.pb-8-A:active, .pb-8-A-C:active .C-pb-8-A {padding-bottom: 2rem;}
+.pb-9-A:active, .pb-9-A-C:active .C-pb-9-A {padding-bottom: 2.25rem;}
+.pb-10-A:active, .pb-10-A-C:active .C-pb-10-A {padding-bottom: 2.5rem;}
+.pb-11-A:active, .pb-11-A-C:active .C-pb-11-A {padding-bottom: 2.75rem;}
+.pb-12-A:active, .pb-12-A-C:active .C-pb-12-A {padding-bottom: 3rem;}
+.pb-13-A:active, .pb-13-A-C:active .C-pb-13-A {padding-bottom: 3.25rem;}
+.pb-14-A:active, .pb-14-A-C:active .C-pb-14-A {padding-bottom: 3.5rem;}
+.pb-15-A:active, .pb-15-A-C:active .C-pb-15-A {padding-bottom: 3.75rem;}
+.pb-16-A:active, .pb-16-A-C:active .C-pb-16-A {padding-bottom: 4rem;}
+.pb-17-A:active, .pb-17-A-C:active .C-pb-17-A {padding-bottom: 4.25rem;}
+.pb-18-A:active, .pb-18-A-C:active .C-pb-18-A {padding-bottom: 4.5rem;}
+.pb-19-A:active, .pb-19-A-C:active .C-pb-19-A {padding-bottom: 4.75rem;}
+.pb-20-A:active, .pb-20-A-C:active .C-pb-20-A {padding-bottom: 5rem;}
+.pb-0-A:active, .pb-0-A-C:active .C-pb-0-A {padding-bottom: 0;}
 
 /* px-num = padding-left and padding-right */
-.px-1-A:active {padding-left: .25rem; padding-right: .25rem;}
-.px-2-A:active {padding-left: .5rem; padding-right: .5rem;}
-.px-3-A:active {padding-left: .75rem; padding-right: .75rem;}
-.px-4-A:active {padding-left: 1rem; padding-right: 1rem;}
-.px-5-A:active {padding-left: 1.25rem; padding-right: 1.25rem;}
-.px-6-A:active {padding-left: 1.5rem; padding-right: 1.5rem;}
-.px-7-A:active {padding-left: 1.75rem; padding-right: 1.75rem;}
-.px-8-A:active {padding-left: 2rem; padding-right: 2rem;}
-.px-9-A:active {padding-left: 2.25rem; padding-right: 2.25rem;}
-.px-10-A:active {padding-left: 2.5rem; padding-right: 2.5rem;}
-.px-11-A:active {padding-left: 2.75rem; padding-right: 2.75rem;}
-.px-12-A:active {padding-left: 3rem; padding-right: 3rem;}
-.px-13-A:active {padding-left: 3.25rem; padding-right: 3.25rem;}
-.px-14-A:active {padding-left: 3.5rem; padding-right: 3.5rem;}
-.px-15-A:active {padding-left: 3.75rem; padding-right: 3.75rem;}
-.px-16-A:active {padding-left: 4rem; padding-right: 4rem;}
-.px-17-A:active {padding-left: 4.25rem; padding-right: 4.25rem;}
-.px-18-A:active {padding-left: 4.5rem; padding-right: 4.5rem;}
-.px-19-A:active {padding-left: 4.75rem; padding-right: 4.75rem;}
-.px-20-A:active {padding-left: 5rem; padding-right: 5rem;}
-.px-0-A:active {padding-left: 0; padding-right: 0;}
+.px-1-A:active, .px-1-A-C:active .C-px-1-A {padding-left: .25rem; padding-right: .25rem;}
+.px-2-A:active, .px-2-A-C:active .C-px-2-A {padding-left: .5rem; padding-right: .5rem;}
+.px-3-A:active, .px-3-A-C:active .C-px-3-A {padding-left: .75rem; padding-right: .75rem;}
+.px-4-A:active, .px-4-A-C:active .C-px-4-A {padding-left: 1rem; padding-right: 1rem;}
+.px-5-A:active, .px-5-A-C:active .C-px-5-A {padding-left: 1.25rem; padding-right: 1.25rem;}
+.px-6-A:active, .px-6-A-C:active .C-px-6-A {padding-left: 1.5rem; padding-right: 1.5rem;}
+.px-7-A:active, .px-7-A-C:active .C-px-7-A {padding-left: 1.75rem; padding-right: 1.75rem;}
+.px-8-A:active, .px-8-A-C:active .C-px-8-A {padding-left: 2rem; padding-right: 2rem;}
+.px-9-A:active, .px-9-A-C:active .C-px-9-A {padding-left: 2.25rem; padding-right: 2.25rem;}
+.px-10-A:active, .px-10-A-C:active .C-px-10-A {padding-left: 2.5rem; padding-right: 2.5rem;}
+.px-11-A:active, .px-11-A-C:active .C-px-11-A {padding-left: 2.75rem; padding-right: 2.75rem;}
+.px-12-A:active, .px-12-A-C:active .C-px-12-A {padding-left: 3rem; padding-right: 3rem;}
+.px-13-A:active, .px-13-A-C:active .C-px-13-A {padding-left: 3.25rem; padding-right: 3.25rem;}
+.px-14-A:active, .px-14-A-C:active .C-px-14-A {padding-left: 3.5rem; padding-right: 3.5rem;}
+.px-15-A:active, .px-15-A-C:active .C-px-15-A {padding-left: 3.75rem; padding-right: 3.75rem;}
+.px-16-A:active, .px-16-A-C:active .C-px-16-A {padding-left: 4rem; padding-right: 4rem;}
+.px-17-A:active, .px-17-A-C:active .C-px-17-A {padding-left: 4.25rem; padding-right: 4.25rem;}
+.px-18-A:active, .px-18-A-C:active .C-px-18-A {padding-left: 4.5rem; padding-right: 4.5rem;}
+.px-19-A:active, .px-19-A-C:active .C-px-19-A {padding-left: 4.75rem; padding-right: 4.75rem;}
+.px-20-A:active, .px-20-A-C:active .C-px-20-A {padding-left: 5rem; padding-right: 5rem;}
+.px-0-A:active, .px-0-A-C:active .C-px-0-A {padding-left: 0; padding-right: 0;}
 
 /* py-num = padding-top and padding-bottom */
-.py-1-A:active {padding-top: .25rem; padding-bottom: .25rem;}
-.py-2-A:active {padding-top: .5rem; padding-bottom: .5rem;}
-.py-3-A:active {padding-top: .75rem; padding-bottom: .75rem;}
-.py-4-A:active {padding-top: 1rem; padding-bottom: 1rem;}
-.py-5-A:active {padding-top: 1.25rem; padding-bottom: 1.25rem;}
-.py-6-A:active {padding-top: 1.5rem; padding-bottom: 1.5rem;}
-.py-7-A:active {padding-top: 1.75rem; padding-bottom: 1.75rem;}
-.py-8-A:active {padding-top: 2rem; padding-bottom: 2rem;}
-.py-9-A:active {padding-top: 2.25rem; padding-bottom: 2.25rem;}
-.py-10-A:active {padding-top: 2.5rem; padding-bottom: 2.5rem;}
-.py-11-A:active {padding-top: 2.75rem; padding-bottom: 2.75rem;}
-.py-12-A:active {padding-top: 3rem; padding-bottom: 3rem;}
-.py-13-A:active {padding-top: 3.25rem; padding-bottom: 3.25rem;}
-.py-14-A:active {padding-top: 3.5rem; padding-bottom: 3.5rem;}
-.py-15-A:active {padding-top: 3.75rem; padding-bottom: 3.75rem;}
-.py-16-A:active {padding-top: 4rem; padding-bottom: 4rem;}
-.py-17-A:active {padding-top: 4.25rem; padding-bottom: 4.25rem;}
-.py-18-A:active {padding-top: 4.5rem; padding-bottom: 4.5rem;}
-.py-19-A:active {padding-top: 4.75rem; padding-bottom: 4.75rem;}
-.py-20-A:active {padding-top: 5rem; padding-bottom: 5rem;}
-.py-0-A:active {padding-top: 0; padding-bottom: 0;}
-.p-0-A:active {padding: 0;}
+.py-1-A:active, .py-1-A-C:active .C-py-1-A {padding-top: .25rem; padding-bottom: .25rem;}
+.py-2-A:active, .py-2-A-C:active .C-py-2-A {padding-top: .5rem; padding-bottom: .5rem;}
+.py-3-A:active, .py-3-A-C:active .C-py-3-A {padding-top: .75rem; padding-bottom: .75rem;}
+.py-4-A:active, .py-4-A-C:active .C-py-4-A {padding-top: 1rem; padding-bottom: 1rem;}
+.py-5-A:active, .py-5-A-C:active .C-py-5-A {padding-top: 1.25rem; padding-bottom: 1.25rem;}
+.py-6-A:active, .py-6-A-C:active .C-py-6-A {padding-top: 1.5rem; padding-bottom: 1.5rem;}
+.py-7-A:active, .py-7-A-C:active .C-py-7-A {padding-top: 1.75rem; padding-bottom: 1.75rem;}
+.py-8-A:active, .py-8-A-C:active .C-py-8-A {padding-top: 2rem; padding-bottom: 2rem;}
+.py-9-A:active, .py-9-A-C:active .C-py-9-A {padding-top: 2.25rem; padding-bottom: 2.25rem;}
+.py-10-A:active, .py-10-A-C:active .C-py-10-A {padding-top: 2.5rem; padding-bottom: 2.5rem;}
+.py-11-A:active, .py-11-A-C:active .C-py-11-A {padding-top: 2.75rem; padding-bottom: 2.75rem;}
+.py-12-A:active, .py-12-A-C:active .C-py-12-A {padding-top: 3rem; padding-bottom: 3rem;}
+.py-13-A:active, .py-13-A-C:active .C-py-13-A {padding-top: 3.25rem; padding-bottom: 3.25rem;}
+.py-14-A:active, .py-14-A-C:active .C-py-14-A {padding-top: 3.5rem; padding-bottom: 3.5rem;}
+.py-15-A:active, .py-15-A-C:active .C-py-15-A {padding-top: 3.75rem; padding-bottom: 3.75rem;}
+.py-16-A:active, .py-16-A-C:active .C-py-16-A {padding-top: 4rem; padding-bottom: 4rem;}
+.py-17-A:active, .py-17-A-C:active .C-py-17-A {padding-top: 4.25rem; padding-bottom: 4.25rem;}
+.py-18-A:active, .py-18-A-C:active .C-py-18-A {padding-top: 4.5rem; padding-bottom: 4.5rem;}
+.py-19-A:active, .py-19-A-C:active .C-py-19-A {padding-top: 4.75rem; padding-bottom: 4.75rem;}
+.py-20-A:active, .py-20-A-C:active .C-py-20-A {padding-top: 5rem; padding-bottom: 5rem;}
+.py-0-A:active, .py-0-A-C:active .C-py-0-A {padding-top: 0; padding-bottom: 0;}
+.p-0-A:active, .p-0-A-C:active .C-p-0-A {padding: 0;}
 
 /* m-num = margin */
-.m-1-A:active {margin: .25rem;}
-.m-2-A:active {margin: .5rem;}
-.m-3-A:active {margin: .75rem;}
-.m-4-A:active {margin: 1rem;}
-.m-5-A:active {margin: 1.25rem;}
-.m-6-A:active {margin: 1.5rem;}
-.m-7-A:active {margin: 1.75rem;}
-.m-8-A:active {margin: 2rem;}
-.m-9-A:active {margin: 2.25rem;}
-.m-10-A:active {margin: 2.5rem;}
-.m-11-A:active {margin: 2.75rem;}
-.m-12-A:active {margin: 3rem;}
-.m-13-A:active {margin: 3.25rem;}
-.m-14-A:active {margin: 3.5rem;}
-.m-15-A:active {margin: 3.75rem;}
-.m-16-A:active {margin: 4rem;}
-.m-17-A:active {margin: 4.25rem;}
-.m-18-A:active {margin: 4.5rem;}
-.m-19-A:active {margin: 4.75rem;}
-.m-20-A:active {margin: 5rem;}
+.m-1-A:active, .m-1-A-C:active .C-m-1-A {margin: .25rem;}
+.m-2-A:active, .m-2-A-C:active .C-m-2-A {margin: .5rem;}
+.m-3-A:active, .m-3-A-C:active .C-m-3-A {margin: .75rem;}
+.m-4-A:active, .m-4-A-C:active .C-m-4-A {margin: 1rem;}
+.m-5-A:active, .m-5-A-C:active .C-m-5-A {margin: 1.25rem;}
+.m-6-A:active, .m-6-A-C:active .C-m-6-A {margin: 1.5rem;}
+.m-7-A:active, .m-7-A-C:active .C-m-7-A {margin: 1.75rem;}
+.m-8-A:active, .m-8-A-C:active .C-m-8-A {margin: 2rem;}
+.m-9-A:active, .m-9-A-C:active .C-m-9-A {margin: 2.25rem;}
+.m-10-A:active, .m-10-A-C:active .C-m-10-A {margin: 2.5rem;}
+.m-11-A:active, .m-11-A-C:active .C-m-11-A {margin: 2.75rem;}
+.m-12-A:active, .m-12-A-C:active .C-m-12-A {margin: 3rem;}
+.m-13-A:active, .m-13-A-C:active .C-m-13-A {margin: 3.25rem;}
+.m-14-A:active, .m-14-A-C:active .C-m-14-A {margin: 3.5rem;}
+.m-15-A:active, .m-15-A-C:active .C-m-15-A {margin: 3.75rem;}
+.m-16-A:active, .m-16-A-C:active .C-m-16-A {margin: 4rem;}
+.m-17-A:active, .m-17-A-C:active .C-m-17-A {margin: 4.25rem;}
+.m-18-A:active, .m-18-A-C:active .C-m-18-A {margin: 4.5rem;}
+.m-19-A:active, .m-19-A-C:active .C-m-19-A {margin: 4.75rem;}
+.m-20-A:active, .m-20-A-C:active .C-m-20-A {margin: 5rem;}
 
 /* -m-num = margin */
-.-m-1-A:active {margin: -0.25rem;}
-.-m-2-A:active {margin: -0.5rem;}
-.-m-3-A:active {margin: -0.75rem;}
-.-m-4-A:active {margin: -1rem;}
-.-m-5-A:active {margin: -1.25rem;}
-.-m-6-A:active {margin: -1.5rem;}
-.-m-7-A:active {margin: -1.75rem;}
-.-m-8-A:active {margin: -2rem;}
-.-m-9-A:active {margin: -2.25rem;}
-.-m-10-A:active {margin: -2.5rem;}
-.-m-11-A:active {margin: -2.75rem;}
-.-m-12-A:active {margin: -3rem;}
-.-m-13-A:active {margin: -3.25rem;}
-.-m-14-A:active {margin: -3.5rem;}
-.-m-15-A:active {margin: -3.75rem;}
-.-m-16-A:active {margin: -4rem;}
-.-m-17-A:active {margin: -4.25rem;}
-.-m-18-A:active {margin: -4.5rem;}
-.-m-19-A:active {margin: -4.75rem;}
-.-m-20-A:active {margin: -5rem;}
-.m-auto-A:active {margin: 0 auto;}
+.-m-1-A:active, .-m-1-A-C:active .C--m-1-A {margin: -0.25rem;}
+.-m-2-A:active, .-m-2-A-C:active .C--m-2-A {margin: -0.5rem;}
+.-m-3-A:active, .-m-3-A-C:active .C--m-3-A {margin: -0.75rem;}
+.-m-4-A:active, .-m-4-A-C:active .C--m-4-A {margin: -1rem;}
+.-m-5-A:active, .-m-5-A-C:active .C--m-5-A {margin: -1.25rem;}
+.-m-6-A:active, .-m-6-A-C:active .C--m-6-A {margin: -1.5rem;}
+.-m-7-A:active, .-m-7-A-C:active .C--m-7-A {margin: -1.75rem;}
+.-m-8-A:active, .-m-8-A-C:active .C--m-8-A {margin: -2rem;}
+.-m-9-A:active, .-m-9-A-C:active .C--m-9-A {margin: -2.25rem;}
+.-m-10-A:active, .-m-10-A-C:active .C--m-10-A {margin: -2.5rem;}
+.-m-11-A:active, .-m-11-A-C:active .C--m-11-A {margin: -2.75rem;}
+.-m-12-A:active, .-m-12-A-C:active .C--m-12-A {margin: -3rem;}
+.-m-13-A:active, .-m-13-A-C:active .C--m-13-A {margin: -3.25rem;}
+.-m-14-A:active, .-m-14-A-C:active .C--m-14-A {margin: -3.5rem;}
+.-m-15-A:active, .-m-15-A-C:active .C--m-15-A {margin: -3.75rem;}
+.-m-16-A:active, .-m-16-A-C:active .C--m-16-A {margin: -4rem;}
+.-m-17-A:active, .-m-17-A-C:active .C--m-17-A {margin: -4.25rem;}
+.-m-18-A:active, .-m-18-A-C:active .C--m-18-A {margin: -4.5rem;}
+.-m-19-A:active, .-m-19-A-C:active .C--m-19-A {margin: -4.75rem;}
+.-m-20-A:active, .-m-20-A-C:active .C--m-20-A {margin: -5rem;}
+.m-auto-A:active, .m-auto-A-C:active .C-m-auto-A {margin: 0 auto;}
 
 /* ml-num = margin-left */
-.ml-1-A:active {margin-left: .25rem;}
-.ml-2-A:active {margin-left: .5rem;}
-.ml-3-A:active {margin-left: .75rem;}
-.ml-4-A:active {margin-left: 1rem;}
-.ml-5-A:active {margin-left: 1.25rem;}
-.ml-6-A:active {margin-left: 1.5rem;}
-.ml-7-A:active {margin-left: 1.75rem;}
-.ml-8-A:active {margin-left: 2rem;}
-.ml-9-A:active {margin-left: 2.25rem;}
-.ml-10-A:active {margin-left: 2.5rem;}
-.ml-11-A:active {margin-left: 2.75rem;}
-.ml-12-A:active {margin-left: 3rem;}
-.ml-13-A:active {margin-left: 3.25rem;}
-.ml-14-A:active {margin-left: 3.5rem;}
-.ml-15-A:active {margin-left: 3.75rem;}
-.ml-16-A:active {margin-left: 4rem;}
-.ml-17-A:active {margin-left: 4.25rem;}
-.ml-18-A:active {margin-left: 4.5rem;}
-.ml-19-A:active {margin-left: 4.75rem;}
-.ml-20-A:active {margin-left: 5rem;}
+.ml-1-A:active, .ml-1-A-C:active .C-ml-1-A {margin-left: .25rem;}
+.ml-2-A:active, .ml-2-A-C:active .C-ml-2-A {margin-left: .5rem;}
+.ml-3-A:active, .ml-3-A-C:active .C-ml-3-A {margin-left: .75rem;}
+.ml-4-A:active, .ml-4-A-C:active .C-ml-4-A {margin-left: 1rem;}
+.ml-5-A:active, .ml-5-A-C:active .C-ml-5-A {margin-left: 1.25rem;}
+.ml-6-A:active, .ml-6-A-C:active .C-ml-6-A {margin-left: 1.5rem;}
+.ml-7-A:active, .ml-7-A-C:active .C-ml-7-A {margin-left: 1.75rem;}
+.ml-8-A:active, .ml-8-A-C:active .C-ml-8-A {margin-left: 2rem;}
+.ml-9-A:active, .ml-9-A-C:active .C-ml-9-A {margin-left: 2.25rem;}
+.ml-10-A:active, .ml-10-A-C:active .C-ml-10-A {margin-left: 2.5rem;}
+.ml-11-A:active, .ml-11-A-C:active .C-ml-11-A {margin-left: 2.75rem;}
+.ml-12-A:active, .ml-12-A-C:active .C-ml-12-A {margin-left: 3rem;}
+.ml-13-A:active, .ml-13-A-C:active .C-ml-13-A {margin-left: 3.25rem;}
+.ml-14-A:active, .ml-14-A-C:active .C-ml-14-A {margin-left: 3.5rem;}
+.ml-15-A:active, .ml-15-A-C:active .C-ml-15-A {margin-left: 3.75rem;}
+.ml-16-A:active, .ml-16-A-C:active .C-ml-16-A {margin-left: 4rem;}
+.ml-17-A:active, .ml-17-A-C:active .C-ml-17-A {margin-left: 4.25rem;}
+.ml-18-A:active, .ml-18-A-C:active .C-ml-18-A {margin-left: 4.5rem;}
+.ml-19-A:active, .ml-19-A-C:active .C-ml-19-A {margin-left: 4.75rem;}
+.ml-20-A:active, .ml-20-A-C:active .C-ml-20-A {margin-left: 5rem;}
 
 /* -ml-num = margin-left */
-.-ml-1-A:active {margin-left: -0.25rem;}
-.-ml-2-A:active {margin-left: -0.5rem;}
-.-ml-3-A:active {margin-left: -0.75rem;}
-.-ml-4-A:active {margin-left: -1rem;}
-.-ml-5-A:active {margin-left: -1.25rem;}
-.-ml-6-A:active {margin-left: -1.5rem;}
-.-ml-7-A:active {margin-left: -1.75rem;}
-.-ml-8-A:active {margin-left: -2rem;}
-.-ml-9-A:active {margin-left: -2.25rem;}
-.-ml-10-A:active {margin-left: -2.5rem;}
-.-ml-11-A:active {margin-left: -2.75rem;}
-.-ml-12-A:active {margin-left: -3rem;}
-.-ml-13-A:active {margin-left: -3.25rem;}
-.-ml-14-A:active {margin-left: -3.5rem;}
-.-ml-15-A:active {margin-left: -3.75rem;}
-.-ml-16-A:active {margin-left: -4rem;}
-.-ml-17-A:active {margin-left: -4.25rem;}
-.-ml-18-A:active {margin-left: -4.5rem;}
-.-ml-19-A:active {margin-left: -4.75rem;}
-.-ml-20-A:active {margin-left: -5rem;}
-.ml-auto-A:active {margin-left: auto;}
-.ml-0-A:active {margin-left: 0;}
+.-ml-1-A:active, .-ml-1-A-C:active .C--ml-1-A {margin-left: -0.25rem;}
+.-ml-2-A:active, .-ml-2-A-C:active .C--ml-2-A {margin-left: -0.5rem;}
+.-ml-3-A:active, .-ml-3-A-C:active .C--ml-3-A {margin-left: -0.75rem;}
+.-ml-4-A:active, .-ml-4-A-C:active .C--ml-4-A {margin-left: -1rem;}
+.-ml-5-A:active, .-ml-5-A-C:active .C--ml-5-A {margin-left: -1.25rem;}
+.-ml-6-A:active, .-ml-6-A-C:active .C--ml-6-A {margin-left: -1.5rem;}
+.-ml-7-A:active, .-ml-7-A-C:active .C--ml-7-A {margin-left: -1.75rem;}
+.-ml-8-A:active, .-ml-8-A-C:active .C--ml-8-A {margin-left: -2rem;}
+.-ml-9-A:active, .-ml-9-A-C:active .C--ml-9-A {margin-left: -2.25rem;}
+.-ml-10-A:active, .-ml-10-A-C:active .C--ml-10-A {margin-left: -2.5rem;}
+.-ml-11-A:active, .-ml-11-A-C:active .C--ml-11-A {margin-left: -2.75rem;}
+.-ml-12-A:active, .-ml-12-A-C:active .C--ml-12-A {margin-left: -3rem;}
+.-ml-13-A:active, .-ml-13-A-C:active .C--ml-13-A {margin-left: -3.25rem;}
+.-ml-14-A:active, .-ml-14-A-C:active .C--ml-14-A {margin-left: -3.5rem;}
+.-ml-15-A:active, .-ml-15-A-C:active .C--ml-15-A {margin-left: -3.75rem;}
+.-ml-16-A:active, .-ml-16-A-C:active .C--ml-16-A {margin-left: -4rem;}
+.-ml-17-A:active, .-ml-17-A-C:active .C--ml-17-A {margin-left: -4.25rem;}
+.-ml-18-A:active, .-ml-18-A-C:active .C--ml-18-A {margin-left: -4.5rem;}
+.-ml-19-A:active, .-ml-19-A-C:active .C--ml-19-A {margin-left: -4.75rem;}
+.-ml-20-A:active, .-ml-20-A-C:active .C--ml-20-A {margin-left: -5rem;}
+.ml-auto-A:active, .ml-auto-A-C:active .C-ml-auto-A {margin-left: auto;}
+.ml-0-A:active, .ml-0-A-C:active .C-ml-0-A {margin-left: 0;}
 
 /* mr-num = margin-right */
-.mr-1-A:active {margin-right: .25rem;}
-.mr-2-A:active {margin-right: .5rem;}
-.mr-3-A:active {margin-right: .75rem;}
-.mr-4-A:active {margin-right: 1rem;}
-.mr-5-A:active {margin-right: 1.25rem;}
-.mr-6-A:active {margin-right: 1.5rem;}
-.mr-7-A:active {margin-right: 1.75rem;}
-.mr-8-A:active {margin-right: 2rem;}
-.mr-9-A:active {margin-right: 2.25rem;}
-.mr-10-A:active {margin-right: 2.5rem;}
-.mr-11-A:active {margin-right: 2.75rem;}
-.mr-12-A:active {margin-right: 3rem;}
-.mr-13-A:active {margin-right: 3.25rem;}
-.mr-14-A:active {margin-right: 3.5rem;}
-.mr-15-A:active {margin-right: 3.75rem;}
-.mr-16-A:active {margin-right: 4rem;}
-.mr-17-A:active {margin-right: 4.25rem;}
-.mr-18-A:active {margin-right: 4.5rem;}
-.mr-19-A:active {margin-right: 4.75rem;}
-.mr-20-A:active {margin-right: 5rem;}
+.mr-1-A:active, .mr-1-A-C:active .C-mr-1-A {margin-right: .25rem;}
+.mr-2-A:active, .mr-2-A-C:active .C-mr-2-A {margin-right: .5rem;}
+.mr-3-A:active, .mr-3-A-C:active .C-mr-3-A {margin-right: .75rem;}
+.mr-4-A:active, .mr-4-A-C:active .C-mr-4-A {margin-right: 1rem;}
+.mr-5-A:active, .mr-5-A-C:active .C-mr-5-A {margin-right: 1.25rem;}
+.mr-6-A:active, .mr-6-A-C:active .C-mr-6-A {margin-right: 1.5rem;}
+.mr-7-A:active, .mr-7-A-C:active .C-mr-7-A {margin-right: 1.75rem;}
+.mr-8-A:active, .mr-8-A-C:active .C-mr-8-A {margin-right: 2rem;}
+.mr-9-A:active, .mr-9-A-C:active .C-mr-9-A {margin-right: 2.25rem;}
+.mr-10-A:active, .mr-10-A-C:active .C-mr-10-A {margin-right: 2.5rem;}
+.mr-11-A:active, .mr-11-A-C:active .C-mr-11-A {margin-right: 2.75rem;}
+.mr-12-A:active, .mr-12-A-C:active .C-mr-12-A {margin-right: 3rem;}
+.mr-13-A:active, .mr-13-A-C:active .C-mr-13-A {margin-right: 3.25rem;}
+.mr-14-A:active, .mr-14-A-C:active .C-mr-14-A {margin-right: 3.5rem;}
+.mr-15-A:active, .mr-15-A-C:active .C-mr-15-A {margin-right: 3.75rem;}
+.mr-16-A:active, .mr-16-A-C:active .C-mr-16-A {margin-right: 4rem;}
+.mr-17-A:active, .mr-17-A-C:active .C-mr-17-A {margin-right: 4.25rem;}
+.mr-18-A:active, .mr-18-A-C:active .C-mr-18-A {margin-right: 4.5rem;}
+.mr-19-A:active, .mr-19-A-C:active .C-mr-19-A {margin-right: 4.75rem;}
+.mr-20-A:active, .mr-20-A-C:active .C-mr-20-A {margin-right: 5rem;}
 
 /* -mr-num = margin-right */
-.-mr-1-A:active {margin-right: -0.25rem;}
-.-mr-2-A:active {margin-right: -0.5rem;}
-.-mr-3-A:active {margin-right: -0.75rem;}
-.-mr-4-A:active {margin-right: -1rem;}
-.-mr-5-A:active {margin-right: -1.25rem;}
-.-mr-6-A:active {margin-right: -1.5rem;}
-.-mr-7-A:active {margin-right: -1.75rem;}
-.-mr-8-A:active {margin-right: -2rem;}
-.-mr-9-A:active {margin-right: -2.25rem;}
-.-mr-10-A:active {margin-right: -2.5rem;}
-.-mr-11-A:active {margin-right: -2.75rem;}
-.-mr-12-A:active {margin-right: -3rem;}
-.-mr-13-A:active {margin-right: -3.25rem;}
-.-mr-14-A:active {margin-right: -3.5rem;}
-.-mr-15-A:active {margin-right: -3.75rem;}
-.-mr-16-A:active {margin-right: -4rem;}
-.-mr-17-A:active {margin-right: -4.25rem;}
-.-mr-18-A:active {margin-right: -4.5rem;}
-.-mr-19-A:active {margin-right: -4.75rem;}
-.-mr-20-A:active {margin-right: -5rem;}
-.mr-auto-A:active {margin-right: auto;}
-.mr-0-A:active {margin-right: 0;}
+.-mr-1-A:active, .-mr-1-A-C:active .C--mr-1-A {margin-right: -0.25rem;}
+.-mr-2-A:active, .-mr-2-A-C:active .C--mr-2-A {margin-right: -0.5rem;}
+.-mr-3-A:active, .-mr-3-A-C:active .C--mr-3-A {margin-right: -0.75rem;}
+.-mr-4-A:active, .-mr-4-A-C:active .C--mr-4-A {margin-right: -1rem;}
+.-mr-5-A:active, .-mr-5-A-C:active .C--mr-5-A {margin-right: -1.25rem;}
+.-mr-6-A:active, .-mr-6-A-C:active .C--mr-6-A {margin-right: -1.5rem;}
+.-mr-7-A:active, .-mr-7-A-C:active .C--mr-7-A {margin-right: -1.75rem;}
+.-mr-8-A:active, .-mr-8-A-C:active .C--mr-8-A {margin-right: -2rem;}
+.-mr-9-A:active, .-mr-9-A-C:active .C--mr-9-A {margin-right: -2.25rem;}
+.-mr-10-A:active, .-mr-10-A-C:active .C--mr-10-A {margin-right: -2.5rem;}
+.-mr-11-A:active, .-mr-11-A-C:active .C--mr-11-A {margin-right: -2.75rem;}
+.-mr-12-A:active, .-mr-12-A-C:active .C--mr-12-A {margin-right: -3rem;}
+.-mr-13-A:active, .-mr-13-A-C:active .C--mr-13-A {margin-right: -3.25rem;}
+.-mr-14-A:active, .-mr-14-A-C:active .C--mr-14-A {margin-right: -3.5rem;}
+.-mr-15-A:active, .-mr-15-A-C:active .C--mr-15-A {margin-right: -3.75rem;}
+.-mr-16-A:active, .-mr-16-A-C:active .C--mr-16-A {margin-right: -4rem;}
+.-mr-17-A:active, .-mr-17-A-C:active .C--mr-17-A {margin-right: -4.25rem;}
+.-mr-18-A:active, .-mr-18-A-C:active .C--mr-18-A {margin-right: -4.5rem;}
+.-mr-19-A:active, .-mr-19-A-C:active .C--mr-19-A {margin-right: -4.75rem;}
+.-mr-20-A:active, .-mr-20-A-C:active .C--mr-20-A {margin-right: -5rem;}
+.mr-auto-A:active, .mr-auto-A-C:active .C-mr-auto-A {margin-right: auto;}
+.mr-0-A:active, .mr-0-A-C:active .C-mr-0-A {margin-right: 0;}
 
 /* mt-num = margin-top */
-.mt-1-A:active {margin-top: .25rem;}
-.mt-2-A:active {margin-top: .5rem;}
-.mt-3-A:active {margin-top: .75rem;}
-.mt-4-A:active {margin-top: 1rem;}
-.mt-5-A:active {margin-top: 1.25rem;}
-.mt-6-A:active {margin-top: 1.5rem;}
-.mt-7-A:active {margin-top: 1.75rem;}
-.mt-8-A:active {margin-top: 2rem;}
-.mt-9-A:active {margin-top: 2.25rem;}
-.mt-10-A:active {margin-top: 2.5rem;}
-.mt-11-A:active {margin-top: 2.75rem;}
-.mt-12-A:active {margin-top: 3rem;}
-.mt-13-A:active {margin-top: 3.25rem;}
-.mt-14-A:active {margin-top: 3.5rem;}
-.mt-15-A:active {margin-top: 3.75rem;}
-.mt-16-A:active {margin-top: 4rem;}
-.mt-17-A:active {margin-top: 4.25rem;}
-.mt-18-A:active {margin-top: 4.5rem;}
-.mt-19-A:active {margin-top: 4.75rem;}
-.mt-20-A:active {margin-top: 5rem;}
+.mt-1-A:active, .mt-1-A-C:active .C-mt-1-A {margin-top: .25rem;}
+.mt-2-A:active, .mt-2-A-C:active .C-mt-2-A {margin-top: .5rem;}
+.mt-3-A:active, .mt-3-A-C:active .C-mt-3-A {margin-top: .75rem;}
+.mt-4-A:active, .mt-4-A-C:active .C-mt-4-A {margin-top: 1rem;}
+.mt-5-A:active, .mt-5-A-C:active .C-mt-5-A {margin-top: 1.25rem;}
+.mt-6-A:active, .mt-6-A-C:active .C-mt-6-A {margin-top: 1.5rem;}
+.mt-7-A:active, .mt-7-A-C:active .C-mt-7-A {margin-top: 1.75rem;}
+.mt-8-A:active, .mt-8-A-C:active .C-mt-8-A {margin-top: 2rem;}
+.mt-9-A:active, .mt-9-A-C:active .C-mt-9-A {margin-top: 2.25rem;}
+.mt-10-A:active, .mt-10-A-C:active .C-mt-10-A {margin-top: 2.5rem;}
+.mt-11-A:active, .mt-11-A-C:active .C-mt-11-A {margin-top: 2.75rem;}
+.mt-12-A:active, .mt-12-A-C:active .C-mt-12-A {margin-top: 3rem;}
+.mt-13-A:active, .mt-13-A-C:active .C-mt-13-A {margin-top: 3.25rem;}
+.mt-14-A:active, .mt-14-A-C:active .C-mt-14-A {margin-top: 3.5rem;}
+.mt-15-A:active, .mt-15-A-C:active .C-mt-15-A {margin-top: 3.75rem;}
+.mt-16-A:active, .mt-16-A-C:active .C-mt-16-A {margin-top: 4rem;}
+.mt-17-A:active, .mt-17-A-C:active .C-mt-17-A {margin-top: 4.25rem;}
+.mt-18-A:active, .mt-18-A-C:active .C-mt-18-A {margin-top: 4.5rem;}
+.mt-19-A:active, .mt-19-A-C:active .C-mt-19-A {margin-top: 4.75rem;}
+.mt-20-A:active, .mt-20-A-C:active .C-mt-20-A {margin-top: 5rem;}
 
 /* -mt-num = margin-top */
-.-mt-1-A:active {margin-top: -0.25rem;}
-.-mt-2-A:active {margin-top: -0.5rem;}
-.-mt-3-A:active {margin-top: -0.75rem;}
-.-mt-4-A:active {margin-top: -1rem;}
-.-mt-5-A:active {margin-top: -1.25rem;}
-.-mt-6-A:active {margin-top: -1.5rem;}
-.-mt-7-A:active {margin-top: -1.75rem;}
-.-mt-8-A:active {margin-top: -2rem;}
-.-mt-9-A:active {margin-top: -2.25rem;}
-.-mt-10-A:active {margin-top: -2.5rem;}
-.-mt-11-A:active {margin-top: -2.75rem;}
-.-mt-12-A:active {margin-top: -3rem;}
-.-mt-13-A:active {margin-top: -3.25rem;}
-.-mt-14-A:active {margin-top: -3.5rem;}
-.-mt-15-A:active {margin-top: -3.75rem;}
-.-mt-16-A:active {margin-top: -4rem;}
-.-mt-17-A:active {margin-top: -4.25rem;}
-.-mt-18-A:active {margin-top: -4.5rem;}
-.-mt-19-A:active {margin-top: -4.75rem;}
-.-mt-20-A:active {margin-top: -5rem;}
-.mt-auto-A:active {margin-top: auto;}
-.mt-0-A:active {margin-top: 0;}
+.-mt-1-A:active, .-mt-1-A-C:active .C--mt-1-A {margin-top: -0.25rem;}
+.-mt-2-A:active, .-mt-2-A-C:active .C--mt-2-A {margin-top: -0.5rem;}
+.-mt-3-A:active, .-mt-3-A-C:active .C--mt-3-A {margin-top: -0.75rem;}
+.-mt-4-A:active, .-mt-4-A-C:active .C--mt-4-A {margin-top: -1rem;}
+.-mt-5-A:active, .-mt-5-A-C:active .C--mt-5-A {margin-top: -1.25rem;}
+.-mt-6-A:active, .-mt-6-A-C:active .C--mt-6-A {margin-top: -1.5rem;}
+.-mt-7-A:active, .-mt-7-A-C:active .C--mt-7-A {margin-top: -1.75rem;}
+.-mt-8-A:active, .-mt-8-A-C:active .C--mt-8-A {margin-top: -2rem;}
+.-mt-9-A:active, .-mt-9-A-C:active .C--mt-9-A {margin-top: -2.25rem;}
+.-mt-10-A:active, .-mt-10-A-C:active .C--mt-10-A {margin-top: -2.5rem;}
+.-mt-11-A:active, .-mt-11-A-C:active .C--mt-11-A {margin-top: -2.75rem;}
+.-mt-12-A:active, .-mt-12-A-C:active .C--mt-12-A {margin-top: -3rem;}
+.-mt-13-A:active, .-mt-13-A-C:active .C--mt-13-A {margin-top: -3.25rem;}
+.-mt-14-A:active, .-mt-14-A-C:active .C--mt-14-A {margin-top: -3.5rem;}
+.-mt-15-A:active, .-mt-15-A-C:active .C--mt-15-A {margin-top: -3.75rem;}
+.-mt-16-A:active, .-mt-16-A-C:active .C--mt-16-A {margin-top: -4rem;}
+.-mt-17-A:active, .-mt-17-A-C:active .C--mt-17-A {margin-top: -4.25rem;}
+.-mt-18-A:active, .-mt-18-A-C:active .C--mt-18-A {margin-top: -4.5rem;}
+.-mt-19-A:active, .-mt-19-A-C:active .C--mt-19-A {margin-top: -4.75rem;}
+.-mt-20-A:active, .-mt-20-A-C:active .C--mt-20-A {margin-top: -5rem;}
+.mt-auto-A:active, .mt-auto-A-C:active .C-mt-auto-A {margin-top: auto;}
+.mt-0-A:active, .mt-0-A-C:active .C-mt-0-A {margin-top: 0;}
 
 /* mb-num = margin-bottom */
-.mb-1-A:active {margin-bottom: .25rem;}
-.mb-2-A:active {margin-bottom: .5rem;}
-.mb-3-A:active {margin-bottom: .75rem;}
-.mb-4-A:active {margin-bottom: 1rem;}
-.mb-5-A:active {margin-bottom: 1.25rem;}
-.mb-6-A:active {margin-bottom: 1.5rem;}
-.mb-7-A:active {margin-bottom: 1.75rem;}
-.mb-8-A:active {margin-bottom: 2rem;}
-.mb-9-A:active {margin-bottom: 2.25rem;}
-.mb-10-A:active {margin-bottom: 2.5rem;}
-.mb-11-A:active {margin-bottom: 2.75rem;}
-.mb-12-A:active {margin-bottom: 3rem;}
-.mb-13-A:active {margin-bottom: 3.25rem;}
-.mb-14-A:active {margin-bottom: 3.5rem;}
-.mb-15-A:active {margin-bottom: 3.75rem;}
-.mb-16-A:active {margin-bottom: 4rem;}
-.mb-17-A:active {margin-bottom: 4.25rem;}
-.mb-18-A:active {margin-bottom: 4.5rem;}
-.mb-19-A:active {margin-bottom: 4.75rem;}
-.mb-20-A:active {margin-bottom: 5rem;}
+.mb-1-A:active, .mb-1-A-C:active .C-mb-1-A {margin-bottom: .25rem;}
+.mb-2-A:active, .mb-2-A-C:active .C-mb-2-A {margin-bottom: .5rem;}
+.mb-3-A:active, .mb-3-A-C:active .C-mb-3-A {margin-bottom: .75rem;}
+.mb-4-A:active, .mb-4-A-C:active .C-mb-4-A {margin-bottom: 1rem;}
+.mb-5-A:active, .mb-5-A-C:active .C-mb-5-A {margin-bottom: 1.25rem;}
+.mb-6-A:active, .mb-6-A-C:active .C-mb-6-A {margin-bottom: 1.5rem;}
+.mb-7-A:active, .mb-7-A-C:active .C-mb-7-A {margin-bottom: 1.75rem;}
+.mb-8-A:active, .mb-8-A-C:active .C-mb-8-A {margin-bottom: 2rem;}
+.mb-9-A:active, .mb-9-A-C:active .C-mb-9-A {margin-bottom: 2.25rem;}
+.mb-10-A:active, .mb-10-A-C:active .C-mb-10-A {margin-bottom: 2.5rem;}
+.mb-11-A:active, .mb-11-A-C:active .C-mb-11-A {margin-bottom: 2.75rem;}
+.mb-12-A:active, .mb-12-A-C:active .C-mb-12-A {margin-bottom: 3rem;}
+.mb-13-A:active, .mb-13-A-C:active .C-mb-13-A {margin-bottom: 3.25rem;}
+.mb-14-A:active, .mb-14-A-C:active .C-mb-14-A {margin-bottom: 3.5rem;}
+.mb-15-A:active, .mb-15-A-C:active .C-mb-15-A {margin-bottom: 3.75rem;}
+.mb-16-A:active, .mb-16-A-C:active .C-mb-16-A {margin-bottom: 4rem;}
+.mb-17-A:active, .mb-17-A-C:active .C-mb-17-A {margin-bottom: 4.25rem;}
+.mb-18-A:active, .mb-18-A-C:active .C-mb-18-A {margin-bottom: 4.5rem;}
+.mb-19-A:active, .mb-19-A-C:active .C-mb-19-A {margin-bottom: 4.75rem;}
+.mb-20-A:active, .mb-20-A-C:active .C-mb-20-A {margin-bottom: 5rem;}
 
 /* -mb-num = margin-bottom */
-.-mb-1-A:active {margin-bottom: -0.25rem;}
-.-mb-2-A:active {margin-bottom: -0.5rem;}
-.-mb-3-A:active {margin-bottom: -0.75rem;}
-.-mb-4-A:active {margin-bottom: -1rem;}
-.-mb-5-A:active {margin-bottom: -1.25rem;}
-.-mb-6-A:active {margin-bottom: -1.5rem;}
-.-mb-7-A:active {margin-bottom: -1.75rem;}
-.-mb-8-A:active {margin-bottom: -2rem;}
-.-mb-9-A:active {margin-bottom: -2.25rem;}
-.-mb-10-A:active {margin-bottom: -2.5rem;}
-.-mb-11-A:active {margin-bottom: -2.75rem;}
-.-mb-12-A:active {margin-bottom: -3rem;}
-.-mb-13-A:active {margin-bottom: -3.25rem;}
-.-mb-14-A:active {margin-bottom: -3.5rem;}
-.-mb-15-A:active {margin-bottom: -3.75rem;}
-.-mb-16-A:active {margin-bottom: -4rem;}
-.-mb-17-A:active {margin-bottom: -4.25rem;}
-.-mb-18-A:active {margin-bottom: -4.5rem;}
-.-mb-19-A:active {margin-bottom: -4.75rem;}
-.-mb-20-A:active {margin-bottom: -5rem;}
-.mb-auto-A:active {margin-bottom: auto;}
-.mb-0-A:active {margin-bottom: 0;}
+.-mb-1-A:active, .-mb-1-A-C:active .C--mb-1-A {margin-bottom: -0.25rem;}
+.-mb-2-A:active, .-mb-2-A-C:active .C--mb-2-A {margin-bottom: -0.5rem;}
+.-mb-3-A:active, .-mb-3-A-C:active .C--mb-3-A {margin-bottom: -0.75rem;}
+.-mb-4-A:active, .-mb-4-A-C:active .C--mb-4-A {margin-bottom: -1rem;}
+.-mb-5-A:active, .-mb-5-A-C:active .C--mb-5-A {margin-bottom: -1.25rem;}
+.-mb-6-A:active, .-mb-6-A-C:active .C--mb-6-A {margin-bottom: -1.5rem;}
+.-mb-7-A:active, .-mb-7-A-C:active .C--mb-7-A {margin-bottom: -1.75rem;}
+.-mb-8-A:active, .-mb-8-A-C:active .C--mb-8-A {margin-bottom: -2rem;}
+.-mb-9-A:active, .-mb-9-A-C:active .C--mb-9-A {margin-bottom: -2.25rem;}
+.-mb-10-A:active, .-mb-10-A-C:active .C--mb-10-A {margin-bottom: -2.5rem;}
+.-mb-11-A:active, .-mb-11-A-C:active .C--mb-11-A {margin-bottom: -2.75rem;}
+.-mb-12-A:active, .-mb-12-A-C:active .C--mb-12-A {margin-bottom: -3rem;}
+.-mb-13-A:active, .-mb-13-A-C:active .C--mb-13-A {margin-bottom: -3.25rem;}
+.-mb-14-A:active, .-mb-14-A-C:active .C--mb-14-A {margin-bottom: -3.5rem;}
+.-mb-15-A:active, .-mb-15-A-C:active .C--mb-15-A {margin-bottom: -3.75rem;}
+.-mb-16-A:active, .-mb-16-A-C:active .C--mb-16-A {margin-bottom: -4rem;}
+.-mb-17-A:active, .-mb-17-A-C:active .C--mb-17-A {margin-bottom: -4.25rem;}
+.-mb-18-A:active, .-mb-18-A-C:active .C--mb-18-A {margin-bottom: -4.5rem;}
+.-mb-19-A:active, .-mb-19-A-C:active .C--mb-19-A {margin-bottom: -4.75rem;}
+.-mb-20-A:active, .-mb-20-A-C:active .C--mb-20-A {margin-bottom: -5rem;}
+.mb-auto-A:active, .mb-auto-A-C:active .C-mb-auto-A {margin-bottom: auto;}
+.mb-0-A:active, .mb-0-A-C:active .C-mb-0-A {margin-bottom: 0;}
 
 /* mx-num = margin-left and margin-right */
-.mx-1-A:active {margin-left: .25rem; margin-right: .25rem;}
-.mx-2-A:active {margin-left: .5rem; margin-right: .5rem;}
-.mx-3-A:active {margin-left: .75rem; margin-right: .75rem;}
-.mx-4-A:active {margin-left: 1rem; margin-right: 1rem;}
-.mx-5-A:active {margin-left: 1.25rem; margin-right: 1.25rem;}
-.mx-6-A:active {margin-left: 1.5rem; margin-right: 1.5rem;}
-.mx-7-A:active {margin-left: 1.75rem; margin-right: 1.75rem;}
-.mx-8-A:active {margin-left: 2rem; margin-right: 2rem;}
-.mx-9-A:active {margin-left: 2.25rem; margin-right: 2.25rem;}
-.mx-10-A:active {margin-left: 2.5rem; margin-right: 2.5rem;}
-.mx-11-A:active {margin-left: 2.75rem; margin-right: 2.75rem;}
-.mx-12-A:active {margin-left: 3rem; margin-right: 3rem;}
-.mx-13-A:active {margin-left: 3.25rem; margin-right: 3.25rem;}
-.mx-14-A:active {margin-left: 3.5rem; margin-right: 3.5rem;}
-.mx-15-A:active {margin-left: 3.75rem; margin-right: 3.75rem;}
-.mx-16-A:active {margin-left: 4rem; margin-right: 4rem;}
-.mx-17-A:active {margin-left: 4.25rem; margin-right: 4.25rem;}
-.mx-18-A:active {margin-left: 4.5rem; margin-right: 4.5rem;}
-.mx-19-A:active {margin-left: 4.75rem; margin-right: 4.75rem;}
-.mx-20-A:active {margin-left: 5rem; margin-right: 5rem;}
+.mx-1-A:active, .mx-1-A-C:active .C-mx-1-A {margin-left: .25rem; margin-right: .25rem;}
+.mx-2-A:active, .mx-2-A-C:active .C-mx-2-A {margin-left: .5rem; margin-right: .5rem;}
+.mx-3-A:active, .mx-3-A-C:active .C-mx-3-A {margin-left: .75rem; margin-right: .75rem;}
+.mx-4-A:active, .mx-4-A-C:active .C-mx-4-A {margin-left: 1rem; margin-right: 1rem;}
+.mx-5-A:active, .mx-5-A-C:active .C-mx-5-A {margin-left: 1.25rem; margin-right: 1.25rem;}
+.mx-6-A:active, .mx-6-A-C:active .C-mx-6-A {margin-left: 1.5rem; margin-right: 1.5rem;}
+.mx-7-A:active, .mx-7-A-C:active .C-mx-7-A {margin-left: 1.75rem; margin-right: 1.75rem;}
+.mx-8-A:active, .mx-8-A-C:active .C-mx-8-A {margin-left: 2rem; margin-right: 2rem;}
+.mx-9-A:active, .mx-9-A-C:active .C-mx-9-A {margin-left: 2.25rem; margin-right: 2.25rem;}
+.mx-10-A:active, .mx-10-A-C:active .C-mx-10-A {margin-left: 2.5rem; margin-right: 2.5rem;}
+.mx-11-A:active, .mx-11-A-C:active .C-mx-11-A {margin-left: 2.75rem; margin-right: 2.75rem;}
+.mx-12-A:active, .mx-12-A-C:active .C-mx-12-A {margin-left: 3rem; margin-right: 3rem;}
+.mx-13-A:active, .mx-13-A-C:active .C-mx-13-A {margin-left: 3.25rem; margin-right: 3.25rem;}
+.mx-14-A:active, .mx-14-A-C:active .C-mx-14-A {margin-left: 3.5rem; margin-right: 3.5rem;}
+.mx-15-A:active, .mx-15-A-C:active .C-mx-15-A {margin-left: 3.75rem; margin-right: 3.75rem;}
+.mx-16-A:active, .mx-16-A-C:active .C-mx-16-A {margin-left: 4rem; margin-right: 4rem;}
+.mx-17-A:active, .mx-17-A-C:active .C-mx-17-A {margin-left: 4.25rem; margin-right: 4.25rem;}
+.mx-18-A:active, .mx-18-A-C:active .C-mx-18-A {margin-left: 4.5rem; margin-right: 4.5rem;}
+.mx-19-A:active, .mx-19-A-C:active .C-mx-19-A {margin-left: 4.75rem; margin-right: 4.75rem;}
+.mx-20-A:active, .mx-20-A-C:active .C-mx-20-A {margin-left: 5rem; margin-right: 5rem;}
 
 /* -mx-num = margin-left and margin-right */
-.-mx-1-A:active {margin-left: -0.25rem; margin-right: -0.25rem;}
-.-mx-2-A:active {margin-left: -0.5rem; margin-right: -0.5rem;}
-.-mx-3-A:active {margin-left: -0.75rem; margin-right: -0.75rem;}
-.-mx-4-A:active {margin-left: -1rem; margin-right: -1rem;}
-.-mx-5-A:active {margin-left: -1.25rem; margin-right: -1.25rem;}
-.-mx-6-A:active {margin-left: -1.5rem; margin-right: -1.5rem;}
-.-mx-7-A:active {margin-left: -1.75rem; margin-right: -1.75rem;}
-.-mx-8-A:active {margin-left: -2rem; margin-right: -2rem;}
-.-mx-9-A:active {margin-left: -2.25rem; margin-right: -2.25rem;}
-.-mx-10-A:active {margin-left: -2.5rem; margin-right: -2.5rem;}
-.-mx-11-A:active {margin-left: -2.75rem; margin-right: -2.75rem;}
-.-mx-12-A:active {margin-left: -3rem; margin-right: -3rem;}
-.-mx-13-A:active {margin-left: -3.25rem; margin-right: -3.25rem;}
-.-mx-14-A:active {margin-left: -3.5rem; margin-right: -3.5rem;}
-.-mx-15-A:active {margin-left: -3.75rem; margin-right: -3.75rem;}
-.-mx-16-A:active {margin-left: -4rem; margin-right: -4rem;}
-.-mx-17-A:active {margin-left: -4.25rem; margin-right: -4.25rem;}
-.-mx-18-A:active {margin-left: -4.5rem; margin-right: -4.5rem;}
-.-mx-19-A:active {margin-left: -4.75rem; margin-right: -4.75rem;}
-.-mx-20-A:active {margin-left: -5rem; margin-right: -5rem;}
-.mx-0-A:active {margin-left: 0; margin-right: 0;}
+.-mx-1-A:active, .-mx-1-A-C:active .C--mx-1-A {margin-left: -0.25rem; margin-right: -0.25rem;}
+.-mx-2-A:active, .-mx-2-A-C:active .C--mx-2-A {margin-left: -0.5rem; margin-right: -0.5rem;}
+.-mx-3-A:active, .-mx-3-A-C:active .C--mx-3-A {margin-left: -0.75rem; margin-right: -0.75rem;}
+.-mx-4-A:active, .-mx-4-A-C:active .C--mx-4-A {margin-left: -1rem; margin-right: -1rem;}
+.-mx-5-A:active, .-mx-5-A-C:active .C--mx-5-A {margin-left: -1.25rem; margin-right: -1.25rem;}
+.-mx-6-A:active, .-mx-6-A-C:active .C--mx-6-A {margin-left: -1.5rem; margin-right: -1.5rem;}
+.-mx-7-A:active, .-mx-7-A-C:active .C--mx-7-A {margin-left: -1.75rem; margin-right: -1.75rem;}
+.-mx-8-A:active, .-mx-8-A-C:active .C--mx-8-A {margin-left: -2rem; margin-right: -2rem;}
+.-mx-9-A:active, .-mx-9-A-C:active .C--mx-9-A {margin-left: -2.25rem; margin-right: -2.25rem;}
+.-mx-10-A:active, .-mx-10-A-C:active .C--mx-10-A {margin-left: -2.5rem; margin-right: -2.5rem;}
+.-mx-11-A:active, .-mx-11-A-C:active .C--mx-11-A {margin-left: -2.75rem; margin-right: -2.75rem;}
+.-mx-12-A:active, .-mx-12-A-C:active .C--mx-12-A {margin-left: -3rem; margin-right: -3rem;}
+.-mx-13-A:active, .-mx-13-A-C:active .C--mx-13-A {margin-left: -3.25rem; margin-right: -3.25rem;}
+.-mx-14-A:active, .-mx-14-A-C:active .C--mx-14-A {margin-left: -3.5rem; margin-right: -3.5rem;}
+.-mx-15-A:active, .-mx-15-A-C:active .C--mx-15-A {margin-left: -3.75rem; margin-right: -3.75rem;}
+.-mx-16-A:active, .-mx-16-A-C:active .C--mx-16-A {margin-left: -4rem; margin-right: -4rem;}
+.-mx-17-A:active, .-mx-17-A-C:active .C--mx-17-A {margin-left: -4.25rem; margin-right: -4.25rem;}
+.-mx-18-A:active, .-mx-18-A-C:active .C--mx-18-A {margin-left: -4.5rem; margin-right: -4.5rem;}
+.-mx-19-A:active, .-mx-19-A-C:active .C--mx-19-A {margin-left: -4.75rem; margin-right: -4.75rem;}
+.-mx-20-A:active, .-mx-20-A-C:active .C--mx-20-A {margin-left: -5rem; margin-right: -5rem;}
+.mx-0-A:active, .mx-0-A-C:active .C-mx-0-A {margin-left: 0; margin-right: 0;}
 
 /* my-num = margin-top and margin-bottom */
-.my-1-A:active {margin-top: .25rem; margin-bottom: .25rem;}
-.my-2-A:active {margin-top: .5rem; margin-bottom: .5rem;}
-.my-3-A:active {margin-top: .75rem; margin-bottom: .75rem;}
-.my-4-A:active {margin-top: 1rem; margin-bottom: 1rem;}
-.my-5-A:active {margin-top: 1.25rem; margin-bottom: 1.25rem;}
-.my-6-A:active {margin-top: 1.5rem; margin-bottom: 1.5rem;}
-.my-7-A:active {margin-top: 1.75rem; margin-bottom: 1.75rem;}
-.my-8-A:active {margin-top: 2rem; margin-bottom: 2rem;}
-.my-9-A:active {margin-top: 2.25rem; margin-bottom: 2.25rem;}
-.my-10-A:active {margin-top: 2.5rem; margin-bottom: 2.5rem;}
-.my-11-A:active {margin-top: 2.75rem; margin-bottom: 2.75rem;}
-.my-12-A:active {margin-top: 3rem; margin-bottom: 3rem;}
-.my-13-A:active {margin-top: 3.25rem; margin-bottom: 3.25rem;}
-.my-14-A:active {margin-top: 3.5rem; margin-bottom: 3.5rem;}
-.my-15-A:active {margin-top: 3.75rem; margin-bottom: 3.75rem;}
-.my-16-A:active {margin-top: 4rem; margin-bottom: 4rem;}
-.my-17-A:active {margin-top: 4.25rem; margin-bottom: 4.25rem;}
-.my-18-A:active {margin-top: 4.5rem; margin-bottom: 4.5rem;}
-.my-19-A:active {margin-top: 4.75rem; margin-bottom: 4.75rem;}
-.my-20-A:active {margin-top: 5rem; margin-bottom: 5rem;}
+.my-1-A:active, .my-1-A-C:active .C-my-1-A {margin-top: .25rem; margin-bottom: .25rem;}
+.my-2-A:active, .my-2-A-C:active .C-my-2-A {margin-top: .5rem; margin-bottom: .5rem;}
+.my-3-A:active, .my-3-A-C:active .C-my-3-A {margin-top: .75rem; margin-bottom: .75rem;}
+.my-4-A:active, .my-4-A-C:active .C-my-4-A {margin-top: 1rem; margin-bottom: 1rem;}
+.my-5-A:active, .my-5-A-C:active .C-my-5-A {margin-top: 1.25rem; margin-bottom: 1.25rem;}
+.my-6-A:active, .my-6-A-C:active .C-my-6-A {margin-top: 1.5rem; margin-bottom: 1.5rem;}
+.my-7-A:active, .my-7-A-C:active .C-my-7-A {margin-top: 1.75rem; margin-bottom: 1.75rem;}
+.my-8-A:active, .my-8-A-C:active .C-my-8-A {margin-top: 2rem; margin-bottom: 2rem;}
+.my-9-A:active, .my-9-A-C:active .C-my-9-A {margin-top: 2.25rem; margin-bottom: 2.25rem;}
+.my-10-A:active, .my-10-A-C:active .C-my-10-A {margin-top: 2.5rem; margin-bottom: 2.5rem;}
+.my-11-A:active, .my-11-A-C:active .C-my-11-A {margin-top: 2.75rem; margin-bottom: 2.75rem;}
+.my-12-A:active, .my-12-A-C:active .C-my-12-A {margin-top: 3rem; margin-bottom: 3rem;}
+.my-13-A:active, .my-13-A-C:active .C-my-13-A {margin-top: 3.25rem; margin-bottom: 3.25rem;}
+.my-14-A:active, .my-14-A-C:active .C-my-14-A {margin-top: 3.5rem; margin-bottom: 3.5rem;}
+.my-15-A:active, .my-15-A-C:active .C-my-15-A {margin-top: 3.75rem; margin-bottom: 3.75rem;}
+.my-16-A:active, .my-16-A-C:active .C-my-16-A {margin-top: 4rem; margin-bottom: 4rem;}
+.my-17-A:active, .my-17-A-C:active .C-my-17-A {margin-top: 4.25rem; margin-bottom: 4.25rem;}
+.my-18-A:active, .my-18-A-C:active .C-my-18-A {margin-top: 4.5rem; margin-bottom: 4.5rem;}
+.my-19-A:active, .my-19-A-C:active .C-my-19-A {margin-top: 4.75rem; margin-bottom: 4.75rem;}
+.my-20-A:active, .my-20-A-C:active .C-my-20-A {margin-top: 5rem; margin-bottom: 5rem;}
 
 /* -my-num = margin-top and margin-bottom */
-.-my-1-A:active {margin-top: -0.25rem; margin-bottom: -0.25rem;}
-.-my-2-A:active {margin-top: -0.5rem; margin-bottom: -0.5rem;}
-.-my-3-A:active {margin-top: -0.75rem; margin-bottom: -0.75rem;}
-.-my-4-A:active {margin-top: -1rem; margin-bottom: -1rem;}
-.-my-5-A:active {margin-top: -1.25rem; margin-bottom: -1.25rem;}
-.-my-6-A:active {margin-top: -1.5rem; margin-bottom: -1.5rem;}
-.-my-7-A:active {margin-top: -1.75rem; margin-bottom: -1.75rem;}
-.-my-8-A:active {margin-top: -2rem; margin-bottom: -2rem;}
-.-my-9-A:active {margin-top: -2.25rem; margin-bottom: -2.25rem;}
-.-my-10-A:active {margin-top: -2.5rem; margin-bottom: -2.5rem;}
-.-my-11-A:active {margin-top: -2.75rem; margin-bottom: -2.75rem;}
-.-my-12-A:active {margin-top: -3rem; margin-bottom: -3rem;}
-.-my-13-A:active {margin-top: -3.25rem; margin-bottom: -3.25rem;}
-.-my-14-A:active {margin-top: -3.5rem; margin-bottom: -3.5rem;}
-.-my-15-A:active {margin-top: -3.75rem; margin-bottom: -3.75rem;}
-.-my-16-A:active {margin-top: -4rem; margin-bottom: -4rem;}
-.-my-17-A:active {margin-top: -4.25rem; margin-bottom: -4.25rem;}
-.-my-18-A:active {margin-top: -4.5rem; margin-bottom: -4.5rem;}
-.-my-19-A:active {margin-top: -4.75rem; margin-bottom: -4.75rem;}
-.-my-20-A:active {margin-top: -5rem; margin-bottom: -5rem;}
-.my-0-A:active {margin-top: 0; margin-bottom: 0;}
-.m-0-A:active {margin: 0;}
+.-my-1-A:active, .-my-1-A-C:active .C--my-1-A {margin-top: -0.25rem; margin-bottom: -0.25rem;}
+.-my-2-A:active, .-my-2-A-C:active .C--my-2-A {margin-top: -0.5rem; margin-bottom: -0.5rem;}
+.-my-3-A:active, .-my-3-A-C:active .C--my-3-A {margin-top: -0.75rem; margin-bottom: -0.75rem;}
+.-my-4-A:active, .-my-4-A-C:active .C--my-4-A {margin-top: -1rem; margin-bottom: -1rem;}
+.-my-5-A:active, .-my-5-A-C:active .C--my-5-A {margin-top: -1.25rem; margin-bottom: -1.25rem;}
+.-my-6-A:active, .-my-6-A-C:active .C--my-6-A {margin-top: -1.5rem; margin-bottom: -1.5rem;}
+.-my-7-A:active, .-my-7-A-C:active .C--my-7-A {margin-top: -1.75rem; margin-bottom: -1.75rem;}
+.-my-8-A:active, .-my-8-A-C:active .C--my-8-A {margin-top: -2rem; margin-bottom: -2rem;}
+.-my-9-A:active, .-my-9-A-C:active .C--my-9-A {margin-top: -2.25rem; margin-bottom: -2.25rem;}
+.-my-10-A:active, .-my-10-A-C:active .C--my-10-A {margin-top: -2.5rem; margin-bottom: -2.5rem;}
+.-my-11-A:active, .-my-11-A-C:active .C--my-11-A {margin-top: -2.75rem; margin-bottom: -2.75rem;}
+.-my-12-A:active, .-my-12-A-C:active .C--my-12-A {margin-top: -3rem; margin-bottom: -3rem;}
+.-my-13-A:active, .-my-13-A-C:active .C--my-13-A {margin-top: -3.25rem; margin-bottom: -3.25rem;}
+.-my-14-A:active, .-my-14-A-C:active .C--my-14-A {margin-top: -3.5rem; margin-bottom: -3.5rem;}
+.-my-15-A:active, .-my-15-A-C:active .C--my-15-A {margin-top: -3.75rem; margin-bottom: -3.75rem;}
+.-my-16-A:active, .-my-16-A-C:active .C--my-16-A {margin-top: -4rem; margin-bottom: -4rem;}
+.-my-17-A:active, .-my-17-A-C:active .C--my-17-A {margin-top: -4.25rem; margin-bottom: -4.25rem;}
+.-my-18-A:active, .-my-18-A-C:active .C--my-18-A {margin-top: -4.5rem; margin-bottom: -4.5rem;}
+.-my-19-A:active, .-my-19-A-C:active .C--my-19-A {margin-top: -4.75rem; margin-bottom: -4.75rem;}
+.-my-20-A:active, .-my-20-A-C:active .C--my-20-A {margin-top: -5rem; margin-bottom: -5rem;}
+.my-0-A:active, .my-0-A-C:active .C-my-0-A {margin-top: 0; margin-bottom: 0;}
+.m-0-A:active, .m-0-A-C:active .C-m-0-A {margin: 0;}
 
 /* obj-fit = object-fit */
 .obj-contain-A:active {width: 100%; height: 100%; object-fit: contain;}
