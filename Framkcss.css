@@ -284,6 +284,7 @@
 .inline-flex, .inline-flex-H:hover, .inline-flex-H-C:hover .C-inline-flex-H {display: inline-flex;}
 .grid, .grid-H:hover, .grid-H-C:hover .C-grid-H {display: grid;}
 .table, .table-H:hover, .table-H-C:hover .C-table-H {display: table;}
+.contents, .contents-H:hover, .contents-H-C:hover .C-contents-H {display: contents;}
 
 /* color */
 .white, .white-H:hover, .white-H-C:hover .C-white-H {color: #fff;}
@@ -3151,6 +3152,7 @@
 .grow-18, .grow-18-H:hover, .grow-18-H-C:hover .C-grow-18-H {flex-grow: 18;}
 .grow-19, .grow-19-H:hover, .grow-19-H-C:hover .C-grow-19-H {flex-grow: 19;}
 .grow-20, .grow-20-H:hover, .grow-20-H-C:hover .C-grow-20-H {flex-grow: 20;}
+.grow-0, .grow-0-H:hover, .grow-0-H-C:hover .C-grow-0-H {flex-grow: 0;}
 
 /* order */
 .order-1, .order-1-H:hover, .order-1-H-C:hover .C-order-1-H {order: 1;}
@@ -3400,9 +3402,9 @@
 .g-col-7, .g-col-7-H:hover, .g-col-7-H-C:hover .C-g-col-7-H, .col-7, .col-7-H:hover, .col-7-H-C:hover .C-col-7-H {grid-column: span 7;}
 .g-col-8, .g-col-8-H:hover, .g-col-8-H-C:hover .C-g-col-8-H, .col-8, .col-8-H:hover, .col-8-H-C:hover .C-col-8-H {grid-column: span 8;}
 .g-col-9, .g-col-9-H:hover, .g-col-9-H-C:hover .C-g-col-9-H, .col-9, .col-9-H:hover, .col-9-H-C:hover .C-col-9-H {grid-column: span 9;}
-.g-col-10, .g-col-10-H:hover, .g-col-10-H-C:hover .C-g-col-10-H, .col-10, .col-10-H:hover, .col-10-H-C:hover .C-col-10-H, .row-10 .col-full, .row-10 .col-full-H:hover, .row-10 .col-full-H-C:hover .row-10 .C-col-full-H, .grid-10 .col-full, .grid-10 .col-full-H:hover, .grid-10 .col-full-H-C:hover .grid-10 .C-col-full-H {grid-column: span 10;}
+.g-col-10, .g-col-10-H:hover, .g-col-10-H-C:hover .C-g-col-10-H, .col-10, .col-10-H:hover, .col-10-H-C:hover .C-col-10-H, .row-10 .col-full, .row-10 .col-full-H:hover, .col-full-H-C:hover .row-10 .C-col-full-H, .grid-10 .col-full, .grid-10 .col-full-H:hover, .col-full-H-C:hover .grid-10 .C-col-full-H {grid-column: span 10;}
 .g-col-11, .g-col-11-H:hover, .g-col-11-H-C:hover .C-g-col-11-H, .col-11, .col-11-H:hover, .col-11-H-C:hover .C-col-11-H {grid-column: span 11;}
-.g-col-12, .g-col-12-H:hover, .g-col-12-H-C:hover .C-g-col-12-H, .row .col-full, .row .col-full-H:hover, .row .col-full-H-C:hover .row .C-col-full-H, .grid-12 .col-full, .grid-12 .col-full-H:hover, .grid-12 .col-full-H-C:hover .grid-12 .C-col-full-H, .col-12, .col-12-H:hover, .col-12-H-C:hover .C-col-12-H {grid-column: span 12;}
+.g-col-12, .g-col-12-H:hover, .g-col-12-H-C:hover .C-g-col-12-H, .row .col-full, .row .col-full-H:hover, .col-full-H-C:hover .row .C-col-full-H, .grid-12 .col-full, .grid-12 .col-full-H:hover, .col-full-H-C:hover .grid-12 .C-col-full-H, .col-12, .col-12-H:hover, .col-12-H-C:hover .C-col-12-H {grid-column: span 12;}
 
 /* reset font-size for inline-block */
 .fs-0, .fs-0-H:hover, .fs-0-H-C:hover .C-fs-0-H {font-size: 0;}
@@ -3533,105 +3535,105 @@
 .translate-0, .translate-0-H:hover, .translate-0-H-C:hover .C-translate-0-H {transform: translate(0%, 0%);}
 
 /* scale-num */
-.scale, .scale-H:hover, .scale-H-C:hover .C-scale-H {transform: scale(1.1);}
-.scale-2, .scale-2-H:hover, .scale-2-H-C:hover .C-scale-2-H {transform: scale(1.2);}
-.scale-3, .scale-3-H:hover, .scale-3-H-C:hover .C-scale-3-H {transform: scale(1.3);}
-.scale-4, .scale-4-H:hover, .scale-4-H-C:hover .C-scale-4-H {transform: scale(1.4);}
-.scale-5, .scale-5-H:hover, .scale-5-H-C:hover .C-scale-5-H {transform: scale(1.5);}
-.scale-6, .scale-6-H:hover, .scale-6-H-C:hover .C-scale-6-H {transform: scale(1.6);}
-.scale-7, .scale-7-H:hover, .scale-7-H-C:hover .C-scale-7-H {transform: scale(1.7);}
-.scale-8, .scale-8-H:hover, .scale-8-H-C:hover .C-scale-8-H {transform: scale(1.8);}
-.scale-9, .scale-9-H:hover, .scale-9-H-C:hover .C-scale-9-H {transform: scale(1.9);}
-.scale-10, .scale-10-H:hover, .scale-10-H-C:hover .C-scale-10-H {transform: scale(2);}
-.scale-11, .scale-11-H:hover, .scale-11-H-C:hover .C-scale-11-H {transform: scale(2.1);}
-.scale-12, .scale-12-H:hover, .scale-12-H-C:hover .C-scale-12-H {transform: scale(2.2);}
-.scale-13, .scale-13-H:hover, .scale-13-H-C:hover .C-scale-13-H {transform: scale(2.3);}
-.scale-14, .scale-14-H:hover, .scale-14-H-C:hover .C-scale-14-H {transform: scale(2.4);}
-.scale-15, .scale-15-H:hover, .scale-15-H-C:hover .C-scale-15-H {transform: scale(2.5);}
-.scale-16, .scale-16-H:hover, .scale-16-H-C:hover .C-scale-16-H {transform: scale(2.6);}
-.scale-17, .scale-17-H:hover, .scale-17-H-C:hover .C-scale-17-H {transform: scale(2.7);}
-.scale-18, .scale-18-H:hover, .scale-18-H-C:hover .C-scale-18-H {transform: scale(2.8);}
-.scale-19, .scale-19-H:hover, .scale-19-H-C:hover .C-scale-19-H {transform: scale(2.9);}
-.scale-20, .scale-20-H:hover, .scale-20-H-C:hover .C-scale-20-H {transform: scale(3);}
+.scale, .scale-H:hover, .scale-H-C:hover .C-scale-H {transform: scale(1.03);}
+.scale-2, .scale-2-H:hover, .scale-2-H-C:hover .C-scale-2-H {transform: scale(1.06);}
+.scale-3, .scale-3-H:hover, .scale-3-H-C:hover .C-scale-3-H {transform: scale(1.09);}
+.scale-4, .scale-4-H:hover, .scale-4-H-C:hover .C-scale-4-H {transform: scale(1.12);}
+.scale-5, .scale-5-H:hover, .scale-5-H-C:hover .C-scale-5-H {transform: scale(1.15);}
+.scale-6, .scale-6-H:hover, .scale-6-H-C:hover .C-scale-6-H {transform: scale(1.18);}
+.scale-7, .scale-7-H:hover, .scale-7-H-C:hover .C-scale-7-H {transform: scale(1.21);}
+.scale-8, .scale-8-H:hover, .scale-8-H-C:hover .C-scale-8-H {transform: scale(1.24);}
+.scale-9, .scale-9-H:hover, .scale-9-H-C:hover .C-scale-9-H {transform: scale(1.27);}
+.scale-10, .scale-10-H:hover, .scale-10-H-C:hover .C-scale-10-H {transform: scale(1.3);}
+.scale-11, .scale-11-H:hover, .scale-11-H-C:hover .C-scale-11-H {transform: scale(1.33);}
+.scale-12, .scale-12-H:hover, .scale-12-H-C:hover .C-scale-12-H {transform: scale(1.36);}
+.scale-13, .scale-13-H:hover, .scale-13-H-C:hover .C-scale-13-H {transform: scale(1.39);}
+.scale-14, .scale-14-H:hover, .scale-14-H-C:hover .C-scale-14-H {transform: scale(1.42);}
+.scale-15, .scale-15-H:hover, .scale-15-H-C:hover .C-scale-15-H {transform: scale(1.45);}
+.scale-16, .scale-16-H:hover, .scale-16-H-C:hover .C-scale-16-H {transform: scale(1.48);}
+.scale-17, .scale-17-H:hover, .scale-17-H-C:hover .C-scale-17-H {transform: scale(1.51);}
+.scale-18, .scale-18-H:hover, .scale-18-H-C:hover .C-scale-18-H {transform: scale(1.54);}
+.scale-19, .scale-19-H:hover, .scale-19-H-C:hover .C-scale-19-H {transform: scale(1.57);}
+.scale-20, .scale-20-H:hover, .scale-20-H-C:hover .C-scale-20-H {transform: scale(1.6);}
 
 /* -scale-num */
-.-scale, .-scale-H:hover, .-scale-H-C:hover .C--scale-H {transform: scale(0.95);}
-.-scale-2, .-scale-2-H:hover, .-scale-2-H-C:hover .C--scale-2-H {transform: scale(0.9);}
-.-scale-3, .-scale-3-H:hover, .-scale-3-H-C:hover .C--scale-3-H {transform: scale(0.85);}
-.-scale-4, .-scale-4-H:hover, .-scale-4-H-C:hover .C--scale-4-H {transform: scale(0.8);}
-.-scale-5, .-scale-5-H:hover, .-scale-5-H-C:hover .C--scale-5-H {transform: scale(0.75);}
-.-scale-6, .-scale-6-H:hover, .-scale-6-H-C:hover .C--scale-6-H {transform: scale(0.7);}
-.-scale-7, .-scale-7-H:hover, .-scale-7-H-C:hover .C--scale-7-H {transform: scale(0.65);}
-.-scale-8, .-scale-8-H:hover, .-scale-8-H-C:hover .C--scale-8-H {transform: scale(0.6);}
-.-scale-9, .-scale-9-H:hover, .-scale-9-H-C:hover .C--scale-9-H {transform: scale(0.55);}
+.-scale, .-scale-H:hover, .-scale-H-C:hover .C--scale-H {transform: scale(0.97);}
+.-scale-2, .-scale-2-H:hover, .-scale-2-H-C:hover .C--scale-2-H {transform: scale(0.94);}
+.-scale-3, .-scale-3-H:hover, .-scale-3-H-C:hover .C--scale-3-H {transform: scale(0.91);}
+.-scale-4, .-scale-4-H:hover, .-scale-4-H-C:hover .C--scale-4-H {transform: scale(0.88);}
+.-scale-5, .-scale-5-H:hover, .-scale-5-H-C:hover .C--scale-5-H {transform: scale(0.85);}
+.-scale-6, .-scale-6-H:hover, .-scale-6-H-C:hover .C--scale-6-H {transform: scale(0.82);}
+.-scale-7, .-scale-7-H:hover, .-scale-7-H-C:hover .C--scale-7-H {transform: scale(0.79);}
+.-scale-8, .-scale-8-H:hover, .-scale-8-H-C:hover .C--scale-8-H {transform: scale(0.76);}
+.-scale-9, .-scale-9-H:hover, .-scale-9-H-C:hover .C--scale-9-H {transform: scale(0.73);}
 .scale-0, .scale-0-H:hover, .scale-0-H-C:hover .C-scale-0-H {transform: scale(1);}
 
 /* scale-X-num */
-.scale-X, .scale-X-H:hover, .scale-X-H-C:hover .C-scale-X-H {transform: scaleX(1.1);}
-.scale-X-2, .scale-X-2-H:hover, .scale-X-2-H-C:hover .C-scale-X-2-H {transform: scaleX(1.2);}
-.scale-X-3, .scale-X-3-H:hover, .scale-X-3-H-C:hover .C-scale-X-3-H {transform: scaleX(1.3);}
-.scale-X-4, .scale-X-4-H:hover, .scale-X-4-H-C:hover .C-scale-X-4-H {transform: scaleX(1.4);}
-.scale-X-5, .scale-X-5-H:hover, .scale-X-5-H-C:hover .C-scale-X-5-H {transform: scaleX(1.5);}
-.scale-X-6, .scale-X-6-H:hover, .scale-X-6-H-C:hover .C-scale-X-6-H {transform: scaleX(1.6);}
-.scale-X-7, .scale-X-7-H:hover, .scale-X-7-H-C:hover .C-scale-X-7-H {transform: scaleX(1.7);}
-.scale-X-8, .scale-X-8-H:hover, .scale-X-8-H-C:hover .C-scale-X-8-H {transform: scaleX(1.8);}
-.scale-X-9, .scale-X-9-H:hover, .scale-X-9-H-C:hover .C-scale-X-9-H {transform: scaleX(1.9);}
-.scale-X-10, .scale-X-10-H:hover, .scale-X-10-H-C:hover .C-scale-X-10-H {transform: scaleX(2);}
-.scale-X-11, .scale-X-11-H:hover, .scale-X-11-H-C:hover .C-scale-X-11-H {transform: scaleX(2.1);}
-.scale-X-12, .scale-X-12-H:hover, .scale-X-12-H-C:hover .C-scale-X-12-H {transform: scaleX(2.2);}
-.scale-X-13, .scale-X-13-H:hover, .scale-X-13-H-C:hover .C-scale-X-13-H {transform: scaleX(2.3);}
-.scale-X-14, .scale-X-14-H:hover, .scale-X-14-H-C:hover .C-scale-X-14-H {transform: scaleX(2.4);}
-.scale-X-15, .scale-X-15-H:hover, .scale-X-15-H-C:hover .C-scale-X-15-H {transform: scaleX(2.5);}
-.scale-X-16, .scale-X-16-H:hover, .scale-X-16-H-C:hover .C-scale-X-16-H {transform: scaleX(2.6);}
-.scale-X-17, .scale-X-17-H:hover, .scale-X-17-H-C:hover .C-scale-X-17-H {transform: scaleX(2.7);}
-.scale-X-18, .scale-X-18-H:hover, .scale-X-18-H-C:hover .C-scale-X-18-H {transform: scaleX(2.8);}
-.scale-X-19, .scale-X-19-H:hover, .scale-X-19-H-C:hover .C-scale-X-19-H {transform: scaleX(2.9);}
-.scale-X-20, .scale-X-20-H:hover, .scale-X-20-H-C:hover .C-scale-X-20-H {transform: scaleX(3);}
+.scale-X, .scale-X-H:hover, .scale-X-H-C:hover .C-scale-X-H {transform: scaleX(1.03);}
+.scale-X-2, .scale-X-2-H:hover, .scale-X-2-H-C:hover .C-scale-X-2-H {transform: scaleX(1.06);}
+.scale-X-3, .scale-X-3-H:hover, .scale-X-3-H-C:hover .C-scale-X-3-H {transform: scaleX(1.09);}
+.scale-X-4, .scale-X-4-H:hover, .scale-X-4-H-C:hover .C-scale-X-4-H {transform: scaleX(1.12);}
+.scale-X-5, .scale-X-5-H:hover, .scale-X-5-H-C:hover .C-scale-X-5-H {transform: scaleX(1.15);}
+.scale-X-6, .scale-X-6-H:hover, .scale-X-6-H-C:hover .C-scale-X-6-H {transform: scaleX(1.18);}
+.scale-X-7, .scale-X-7-H:hover, .scale-X-7-H-C:hover .C-scale-X-7-H {transform: scaleX(1.21);}
+.scale-X-8, .scale-X-8-H:hover, .scale-X-8-H-C:hover .C-scale-X-8-H {transform: scaleX(1.24);}
+.scale-X-9, .scale-X-9-H:hover, .scale-X-9-H-C:hover .C-scale-X-9-H {transform: scaleX(1.27);}
+.scale-X-10, .scale-X-10-H:hover, .scale-X-10-H-C:hover .C-scale-X-10-H {transform: scaleX(1.3);}
+.scale-X-11, .scale-X-11-H:hover, .scale-X-11-H-C:hover .C-scale-X-11-H {transform: scaleX(1.33);}
+.scale-X-12, .scale-X-12-H:hover, .scale-X-12-H-C:hover .C-scale-X-12-H {transform: scaleX(1.36);}
+.scale-X-13, .scale-X-13-H:hover, .scale-X-13-H-C:hover .C-scale-X-13-H {transform: scaleX(1.39);}
+.scale-X-14, .scale-X-14-H:hover, .scale-X-14-H-C:hover .C-scale-X-14-H {transform: scaleX(1.42);}
+.scale-X-15, .scale-X-15-H:hover, .scale-X-15-H-C:hover .C-scale-X-15-H {transform: scaleX(1.45);}
+.scale-X-16, .scale-X-16-H:hover, .scale-X-16-H-C:hover .C-scale-X-16-H {transform: scaleX(1.48);}
+.scale-X-17, .scale-X-17-H:hover, .scale-X-17-H-C:hover .C-scale-X-17-H {transform: scaleX(1.51);}
+.scale-X-18, .scale-X-18-H:hover, .scale-X-18-H-C:hover .C-scale-X-18-H {transform: scaleX(1.54);}
+.scale-X-19, .scale-X-19-H:hover, .scale-X-19-H-C:hover .C-scale-X-19-H {transform: scaleX(1.57);}
+.scale-X-20, .scale-X-20-H:hover, .scale-X-20-H-C:hover .C-scale-X-20-H {transform: scaleX(1.6);}
 
 /* -scale-X-num */
-.-scale-X, .-scale-X:hover, .-scale-X-C:hover .C--scale-X {transform: scaleX(0.95);}
-.-scale-X-2, .-scale-X-2-H:hover, .-scale-X-2-H-C:hover .C--scale-X-2-H {transform: scaleX(0.9);}
-.-scale-X-3, .-scale-X-3-H:hover, .-scale-X-3-H-C:hover .C--scale-X-3-H {transform: scaleX(0.85);}
-.-scale-X-4, .-scale-X-4-H:hover, .-scale-X-4-H-C:hover .C--scale-X-4-H {transform: scaleX(0.8);}
-.-scale-X-5, .-scale-X-5-H:hover, .-scale-X-5-H-C:hover .C--scale-X-5-H {transform: scaleX(0.75);}
-.-scale-X-6, .-scale-X-6-H:hover, .-scale-X-6-H-C:hover .C--scale-X-6-H {transform: scaleX(0.7);}
-.-scale-X-7, .-scale-X-7-H:hover, .-scale-X-7-H-C:hover .C--scale-X-7-H {transform: scaleX(0.65);}
-.-scale-X-8, .-scale-X-8-H:hover, .-scale-X-8-H-C:hover .C--scale-X-8-H {transform: scaleX(0.6);}
-.-scale-X-9, .-scale-X-9-H:hover, .-scale-X-9-H-C:hover .C--scale-X-9-H {transform: scaleX(0.55);}
+.-scale-X, .-scale-X:hover, .-scale-X-C:hover .C--scale-X {transform: scaleX(0.97);}
+.-scale-X-2, .-scale-X-2-H:hover, .-scale-X-2-H-C:hover .C--scale-X-2-H {transform: scaleX(0.94);}
+.-scale-X-3, .-scale-X-3-H:hover, .-scale-X-3-H-C:hover .C--scale-X-3-H {transform: scaleX(0.91);}
+.-scale-X-4, .-scale-X-4-H:hover, .-scale-X-4-H-C:hover .C--scale-X-4-H {transform: scaleX(0.88);}
+.-scale-X-5, .-scale-X-5-H:hover, .-scale-X-5-H-C:hover .C--scale-X-5-H {transform: scaleX(0.85);}
+.-scale-X-6, .-scale-X-6-H:hover, .-scale-X-6-H-C:hover .C--scale-X-6-H {transform: scaleX(0.82);}
+.-scale-X-7, .-scale-X-7-H:hover, .-scale-X-7-H-C:hover .C--scale-X-7-H {transform: scaleX(0.79);}
+.-scale-X-8, .-scale-X-8-H:hover, .-scale-X-8-H-C:hover .C--scale-X-8-H {transform: scaleX(0.76);}
+.-scale-X-9, .-scale-X-9-H:hover, .-scale-X-9-H-C:hover .C--scale-X-9-H {transform: scaleX(0.73);}
 .scale-X-0, .scale-X-0-H:hover, .scale-X-0-H-C:hover .C-scale-X-0-H {transform: scaleX(1);}
 
 /* scale-Y-num */
-.scale-Y, .scale-Y-H:hover, .scale-Y-H-C:hover .C-scale-Y-H {transform: scaleY(1.1);}
-.scale-Y-2, .scale-Y-2-H:hover, .scale-Y-2-H-C:hover .C-scale-Y-2-H {transform: scaleY(1.2);}
-.scale-Y-3, .scale-Y-3-H:hover, .scale-Y-3-H-C:hover .C-scale-Y-3-H {transform: scaleY(1.3);}
-.scale-Y-4, .scale-Y-4-H:hover, .scale-Y-4-H-C:hover .C-scale-Y-4-H {transform: scaleY(1.4);}
-.scale-Y-5, .scale-Y-5-H:hover, .scale-Y-5-H-C:hover .C-scale-Y-5-H {transform: scaleY(1.5);}
-.scale-Y-6, .scale-Y-6-H:hover, .scale-Y-6-H-C:hover .C-scale-Y-6-H {transform: scaleY(1.6);}
-.scale-Y-7, .scale-Y-7-H:hover, .scale-Y-7-H-C:hover .C-scale-Y-7-H {transform: scaleY(1.7);}
-.scale-Y-8, .scale-Y-8-H:hover, .scale-Y-8-H-C:hover .C-scale-Y-8-H {transform: scaleY(1.8);}
-.scale-Y-9, .scale-Y-9-H:hover, .scale-Y-9-H-C:hover .C-scale-Y-9-H {transform: scaleY(1.9);}
-.scale-Y-10, .scale-Y-10-H:hover, .scale-Y-10-H-C:hover .C-scale-Y-10-H {transform: scaleY(2);}
-.scale-Y-11, .scale-Y-11-H:hover, .scale-Y-11-H-C:hover .C-scale-Y-11-H {transform: scaleY(2.1);}
-.scale-Y-12, .scale-Y-12-H:hover, .scale-Y-12-H-C:hover .C-scale-Y-12-H {transform: scaleY(2.2);}
-.scale-Y-13, .scale-Y-13-H:hover, .scale-Y-13-H-C:hover .C-scale-Y-13-H {transform: scaleY(2.3);}
-.scale-Y-14, .scale-Y-14-H:hover, .scale-Y-14-H-C:hover .C-scale-Y-14-H {transform: scaleY(2.4);}
-.scale-Y-15, .scale-Y-15-H:hover, .scale-Y-15-H-C:hover .C-scale-Y-15-H {transform: scaleY(2.5);}
-.scale-Y-16, .scale-Y-16-H:hover, .scale-Y-16-H-C:hover .C-scale-Y-16-H {transform: scaleY(2.6);}
-.scale-Y-17, .scale-Y-17-H:hover, .scale-Y-17-H-C:hover .C-scale-Y-17-H {transform: scaleY(2.7);}
-.scale-Y-18, .scale-Y-18-H:hover, .scale-Y-18-H-C:hover .C-scale-Y-18-H {transform: scaleY(2.8);}
-.scale-Y-19, .scale-Y-19-H:hover, .scale-Y-19-H-C:hover .C-scale-Y-19-H {transform: scaleY(2.9);}
-.scale-Y-20, .scale-Y-20-H:hover, .scale-Y-20-H-C:hover .C-scale-Y-20-H {transform: scaleY(3);}
+.scale-Y, .scale-Y-H:hover, .scale-Y-H-C:hover .C-scale-Y-H {transform: scaleY(1.03);}
+.scale-Y-2, .scale-Y-2-H:hover, .scale-Y-2-H-C:hover .C-scale-Y-2-H {transform: scaleY(1.06);}
+.scale-Y-3, .scale-Y-3-H:hover, .scale-Y-3-H-C:hover .C-scale-Y-3-H {transform: scaleY(1.09);}
+.scale-Y-4, .scale-Y-4-H:hover, .scale-Y-4-H-C:hover .C-scale-Y-4-H {transform: scaleY(1.12);}
+.scale-Y-5, .scale-Y-5-H:hover, .scale-Y-5-H-C:hover .C-scale-Y-5-H {transform: scaleY(1.15);}
+.scale-Y-6, .scale-Y-6-H:hover, .scale-Y-6-H-C:hover .C-scale-Y-6-H {transform: scaleY(1.18);}
+.scale-Y-7, .scale-Y-7-H:hover, .scale-Y-7-H-C:hover .C-scale-Y-7-H {transform: scaleY(1.21);}
+.scale-Y-8, .scale-Y-8-H:hover, .scale-Y-8-H-C:hover .C-scale-Y-8-H {transform: scaleY(1.24);}
+.scale-Y-9, .scale-Y-9-H:hover, .scale-Y-9-H-C:hover .C-scale-Y-9-H {transform: scaleY(1.27);}
+.scale-Y-10, .scale-Y-10-H:hover, .scale-Y-10-H-C:hover .C-scale-Y-10-H {transform: scaleY(1.3);}
+.scale-Y-11, .scale-Y-11-H:hover, .scale-Y-11-H-C:hover .C-scale-Y-11-H {transform: scaleY(1.33);}
+.scale-Y-12, .scale-Y-12-H:hover, .scale-Y-12-H-C:hover .C-scale-Y-12-H {transform: scaleY(1.36);}
+.scale-Y-13, .scale-Y-13-H:hover, .scale-Y-13-H-C:hover .C-scale-Y-13-H {transform: scaleY(1.39);}
+.scale-Y-14, .scale-Y-14-H:hover, .scale-Y-14-H-C:hover .C-scale-Y-14-H {transform: scaleY(1.42);}
+.scale-Y-15, .scale-Y-15-H:hover, .scale-Y-15-H-C:hover .C-scale-Y-15-H {transform: scaleY(1.45);}
+.scale-Y-16, .scale-Y-16-H:hover, .scale-Y-16-H-C:hover .C-scale-Y-16-H {transform: scaleY(1.48);}
+.scale-Y-17, .scale-Y-17-H:hover, .scale-Y-17-H-C:hover .C-scale-Y-17-H {transform: scaleY(1.51);}
+.scale-Y-18, .scale-Y-18-H:hover, .scale-Y-18-H-C:hover .C-scale-Y-18-H {transform: scaleY(1.54);}
+.scale-Y-19, .scale-Y-19-H:hover, .scale-Y-19-H-C:hover .C-scale-Y-19-H {transform: scaleY(1.57);}
+.scale-Y-20, .scale-Y-20-H:hover, .scale-Y-20-H-C:hover .C-scale-Y-20-H {transform: scaleY(1.6);}
 
 /* -scale-Y-num */
-.-scale-Y, .-scale-Y-H:hover, .-scale-Y-H-C:hover .C--scale-Y {transform: scaleY(0.95);}
-.-scale-Y-2, .-scale-Y-2-H:hover, .-scale-Y-2-H-C:hover .C--scale-Y-2-H {transform: scaleY(0.9);}
-.-scale-Y-3, .-scale-Y-3-H:hover, .-scale-Y-3-H-C:hover .C--scale-Y-3-H {transform: scaleY(0.85);}
-.-scale-Y-4, .-scale-Y-4-H:hover, .-scale-Y-4-H-C:hover .C--scale-Y-4-H {transform: scaleY(0.8);}
-.-scale-Y-5, .-scale-Y-5-H:hover, .-scale-Y-5-H-C:hover .C--scale-Y-5-H {transform: scaleY(0.75);}
-.-scale-Y-6, .-scale-Y-6-H:hover, .-scale-Y-6-H-C:hover .C--scale-Y-6-H {transform: scaleY(0.7);}
-.-scale-Y-7, .-scale-Y-7-H:hover, .-scale-Y-7-H-C:hover .C--scale-Y-7-H {transform: scaleY(0.65);}
-.-scale-Y-8, .-scale-Y-8-H:hover, .-scale-Y-8-H-C:hover .C--scale-Y-8-H {transform: scaleY(0.6);}
-.-scale-Y-9, .-scale-Y-9-H:hover, .-scale-Y-9-H-C:hover .C--scale-Y-9-H {transform: scaleY(0.55);}
+.-scale-Y, .-scale-Y-H:hover, .-scale-Y-H-C:hover .C--scale-Y {transform: scaleY(0.97);}
+.-scale-Y-2, .-scale-Y-2-H:hover, .-scale-Y-2-H-C:hover .C--scale-Y-2-H {transform: scaleY(0.94);}
+.-scale-Y-3, .-scale-Y-3-H:hover, .-scale-Y-3-H-C:hover .C--scale-Y-3-H {transform: scaleY(0.91);}
+.-scale-Y-4, .-scale-Y-4-H:hover, .-scale-Y-4-H-C:hover .C--scale-Y-4-H {transform: scaleY(0.88);}
+.-scale-Y-5, .-scale-Y-5-H:hover, .-scale-Y-5-H-C:hover .C--scale-Y-5-H {transform: scaleY(0.85);}
+.-scale-Y-6, .-scale-Y-6-H:hover, .-scale-Y-6-H-C:hover .C--scale-Y-6-H {transform: scaleY(0.82);}
+.-scale-Y-7, .-scale-Y-7-H:hover, .-scale-Y-7-H-C:hover .C--scale-Y-7-H {transform: scaleY(0.79);}
+.-scale-Y-8, .-scale-Y-8-H:hover, .-scale-Y-8-H-C:hover .C--scale-Y-8-H {transform: scaleY(0.76);}
+.-scale-Y-9, .-scale-Y-9-H:hover, .-scale-Y-9-H-C:hover .C--scale-Y-9-H {transform: scaleY(0.73);}
 .scale-Y-0, .scale-Y-0-H:hover, .scale-Y-0-H-C:hover .C-scale-Y-0-H {transform: scaleY(1);}
 
 /* rotate */
@@ -4222,6 +4224,7 @@
 .inline-flex-A:active, .inline-flex-A-C:active .C-inline-flex-A {display: inline-flex !important;}
 .grid-A:active, .grid-A-C:active .C-grid-A {display: grid !important;}
 .table-A:active, .table-A-C:active .C-table-A {display: table !important;}
+.contents-A:active, .contents-A-C:active .C-contents-A {display: contents !important;}
 
 /* color */
 .white-A:active, .white-A-C:active .C-white-A {color: #fff !important;}
@@ -7089,6 +7092,7 @@
 .grow-18-A:active, .grow-18-A-C:active .C-grow-18-A {flex-grow: 18 !important;}
 .grow-19-A:active, .grow-19-A-C:active .C-grow-19-A {flex-grow: 19 !important;}
 .grow-20-A:active, .grow-20-A-C:active .C-grow-20-A {flex-grow: 20 !important;}
+.grow-0-A:active, .grow-0-H-A:active .C-grow-0-A {flex-grow: 0 !important;}
 
 /* order */
 .order-1-A:active, .order-1-A-C:active .C-order-1-A {order: 1 !important;}
@@ -7338,9 +7342,9 @@
 .g-col-7-A:active, .g-col-7-A-C:active .C-g-col-7-A, .col-7-A:active, .col-7-A-C:active .C-col-7-A {grid-column: span 7 !important;}
 .g-col-8-A:active, .g-col-8-A-C:active .C-g-col-8-A, .col-8-A:active, .col-8-A-C:active .C-col-8-A {grid-column: span 8 !important;}
 .g-col-9-A:active, .g-col-9-A-C:active .C-g-col-9-A, .col-9-A:active, .col-9-A-C:active .C-col-9-A {grid-column: span 9 !important;}
-.g-col-10-A:active, .g-col-10-A-C:active .C-g-col-10-A, .col-10-A:active, .row-10 .col-full-A:active, .row-10 .col-full-A-C:active .row-10 .C-col-full-A, .grid-10 .col-full-A:active, .grid-10 .col-full-A-C:active .grid-10 .C-col-full-A {grid-column: span 10 !important;}
+.g-col-10-A:active, .g-col-10-A-C:active .C-g-col-10-A, .col-10-A:active, .row-10 .col-full-A:active, .col-full-A-C:active .row-10 .C-col-full-A, .grid-10 .col-full-A:active, .col-full-A-C:active .grid-10 .C-col-full-A {grid-column: span 10 !important;}
 .g-col-11-A:active, .g-col-11-A-C:active .C-g-col-11-A, .col-11-A:active, .col-11-A-C:active .C-col-11-A {grid-column: span 11 !important;}
-.g-col-12-A:active, .g-col-12-A-C:active .C-g-col-12-A, .row .col-full-A:active, .row .col-full-A-C:active .row .C-col-full-A, .grid-12 .col-full-A:active, .grid-12 .col-full-A-C:active .grid-12 .C-col-full-A, .col-12-A:active, .col-12-A-C:active .C-col-12-A {grid-column: span 12 !important;}
+.g-col-12-A:active, .g-col-12-A-C:active .C-g-col-12-A, .row .col-full-A:active, .col-full-A-C:active .row .C-col-full-A, .grid-12 .col-full-A:active, .col-full-A-C:active .grid-12 .C-col-full-A, .col-12-A:active, .col-12-A-C:active .C-col-12-A {grid-column: span 12 !important;}
 
 /* reset font-size for inline-block */
 .fs-0-A:active, .fs-0-A-C:active .C-fs-0-A {font-size: 0 !important;}
@@ -7471,105 +7475,105 @@
 .translate-0-A:active, .translate-0-A-C:active .C-translate-0-A {transform: translate(0%, 0%) !important;}
 
 /* scale-num */
-.scale-A:active, .scale-A-C:active .C-scale-A {transform: scale(1.1) !important;}
-.scale-2-A:active, .scale-2-A-C:active .C-scale-2-A {transform: scale(1.2) !important;}
-.scale-3-A:active, .scale-3-A-C:active .C-scale-3-A {transform: scale(1.3) !important;}
-.scale-4-A:active, .scale-4-A-C:active .C-scale-4-A {transform: scale(1.4) !important;}
-.scale-5-A:active, .scale-5-A-C:active .C-scale-5-A {transform: scale(1.5) !important;}
-.scale-6-A:active, .scale-6-A-C:active .C-scale-6-A {transform: scale(1.6) !important;}
-.scale-7-A:active, .scale-7-A-C:active .C-scale-7-A {transform: scale(1.7) !important;}
-.scale-8-A:active, .scale-8-A-C:active .C-scale-8-A {transform: scale(1.8) !important;}
-.scale-9-A:active, .scale-9-A-C:active .C-scale-9-A {transform: scale(1.9) !important;}
-.scale-10-A:active, .scale-10-A-C:active .C-scale-10-A {transform: scale(2) !important;}
-.scale-11-A:active, .scale-11-A-C:active .C-scale-11-A {transform: scale(2.1) !important;}
-.scale-12-A:active, .scale-12-A-C:active .C-scale-12-A {transform: scale(2.2) !important;}
-.scale-13-A:active, .scale-13-A-C:active .C-scale-13-A {transform: scale(2.3) !important;}
-.scale-14-A:active, .scale-14-A-C:active .C-scale-14-A {transform: scale(2.4) !important;}
-.scale-15-A:active, .scale-15-A-C:active .C-scale-15-A {transform: scale(2.5) !important;}
-.scale-16-A:active, .scale-16-A-C:active .C-scale-16-A {transform: scale(2.6) !important;}
-.scale-17-A:active, .scale-17-A-C:active .C-scale-17-A {transform: scale(2.7) !important;}
-.scale-18-A:active, .scale-18-A-C:active .C-scale-18-A {transform: scale(2.8) !important;}
-.scale-19-A:active, .scale-19-A-C:active .C-scale-19-A {transform: scale(2.9) !important;}
-.scale-20-A:active, .scale-20-A-C:active .C-scale-20-A {transform: scale(3) !important;}
+.scale-A:active, .scale-A-C:active .C-scale-A {transform: scale(1.03) !important;}
+.scale-2-A:active, .scale-2-A-C:active .C-scale-2-A {transform: scale(1.06) !important;}
+.scale-3-A:active, .scale-3-A-C:active .C-scale-3-A {transform: scale(1.09) !important;}
+.scale-4-A:active, .scale-4-A-C:active .C-scale-4-A {transform: scale(1.12) !important;}
+.scale-5-A:active, .scale-5-A-C:active .C-scale-5-A {transform: scale(1.15) !important;}
+.scale-6-A:active, .scale-6-A-C:active .C-scale-6-A {transform: scale(1.18) !important;}
+.scale-7-A:active, .scale-7-A-C:active .C-scale-7-A {transform: scale(1.21) !important;}
+.scale-8-A:active, .scale-8-A-C:active .C-scale-8-A {transform: scale(1.24) !important;}
+.scale-9-A:active, .scale-9-A-C:active .C-scale-9-A {transform: scale(1.27) !important;}
+.scale-10-A:active, .scale-10-A-C:active .C-scale-10-A {transform: scale(1.3) !important;}
+.scale-11-A:active, .scale-11-A-C:active .C-scale-11-A {transform: scale(1.33) !important;}
+.scale-12-A:active, .scale-12-A-C:active .C-scale-12-A {transform: scale(1.36) !important;}
+.scale-13-A:active, .scale-13-A-C:active .C-scale-13-A {transform: scale(1.39) !important;}
+.scale-14-A:active, .scale-14-A-C:active .C-scale-14-A {transform: scale(1.42) !important;}
+.scale-15-A:active, .scale-15-A-C:active .C-scale-15-A {transform: scale(1.45) !important;}
+.scale-16-A:active, .scale-16-A-C:active .C-scale-16-A {transform: scale(1.48) !important;}
+.scale-17-A:active, .scale-17-A-C:active .C-scale-17-A {transform: scale(1.51) !important;}
+.scale-18-A:active, .scale-18-A-C:active .C-scale-18-A {transform: scale(1.54) !important;}
+.scale-19-A:active, .scale-19-A-C:active .C-scale-19-A {transform: scale(1.57) !important;}
+.scale-20-A:active, .scale-20-A-C:active .C-scale-20-A {transform: scale(1.6) !important;}
 
 /* -scale-num */
-.-scale-A:active, .-scale-A-C:active .C--scale-A {transform: scale(0.95) !important;}
-.-scale-2-A:active, .-scale-2-A-C:active .C--scale-2-A {transform: scale(0.9) !important;}
-.-scale-3-A:active, .-scale-3-A-C:active .C--scale-3-A {transform: scale(0.85) !important;}
-.-scale-4-A:active, .-scale-4-A-C:active .C--scale-4-A {transform: scale(0.8) !important;}
-.-scale-5-A:active, .-scale-5-A-C:active .C--scale-5-A {transform: scale(0.75) !important;}
-.-scale-6-A:active, .-scale-6-A-C:active .C--scale-6-A {transform: scale(0.7) !important;}
-.-scale-7-A:active, .-scale-7-A-C:active .C--scale-7-A {transform: scale(0.65) !important;}
-.-scale-8-A:active, .-scale-8-A-C:active .C--scale-8-A {transform: scale(0.6) !important;}
-.-scale-9-A:active, .-scale-9-A-C:active .C--scale-9-A {transform: scale(0.55) !important;}
+.-scale-A:active, .-scale-A-C:active .C--scale-A {transform: scale(0.97) !important;}
+.-scale-2-A:active, .-scale-2-A-C:active .C--scale-2-A {transform: scale(0.94) !important;}
+.-scale-3-A:active, .-scale-3-A-C:active .C--scale-3-A {transform: scale(0.91) !important;}
+.-scale-4-A:active, .-scale-4-A-C:active .C--scale-4-A {transform: scale(0.88) !important;}
+.-scale-5-A:active, .-scale-5-A-C:active .C--scale-5-A {transform: scale(0.85) !important;}
+.-scale-6-A:active, .-scale-6-A-C:active .C--scale-6-A {transform: scale(0.82) !important;}
+.-scale-7-A:active, .-scale-7-A-C:active .C--scale-7-A {transform: scale(0.79) !important;}
+.-scale-8-A:active, .-scale-8-A-C:active .C--scale-8-A {transform: scale(0.76) !important;}
+.-scale-9-A:active, .-scale-9-A-C:active .C--scale-9-A {transform: scale(0.73) !important;}
 .scale-0-A:active, .scale-0-A-C:active .C-scale-0-A {transform: scale(1) !important;}
 
 /* scale-X-num */
-.scale-X-A:active, .scale-X-A-C:active .C-scale-X-A {transform: scaleX(1.1) !important;}
-.scale-X-2-A:active, .scale-X-2-A-C:active .C-scale-X-2-A {transform: scaleX(1.2) !important;}
-.scale-X-3-A:active, .scale-X-3-A-C:active .C-scale-X-3-A {transform: scaleX(1.3) !important;}
-.scale-X-4-A:active, .scale-X-4-A-C:active .C-scale-X-4-A {transform: scaleX(1.4) !important;}
-.scale-X-5-A:active, .scale-X-5-A-C:active .C-scale-X-5-A {transform: scaleX(1.5) !important;}
-.scale-X-6-A:active, .scale-X-6-A-C:active .C-scale-X-6-A {transform: scaleX(1.6) !important;}
-.scale-X-7-A:active, .scale-X-7-A-C:active .C-scale-X-7-A {transform: scaleX(1.7) !important;}
-.scale-X-8-A:active, .scale-X-8-A-C:active .C-scale-X-8-A {transform: scaleX(1.8) !important;}
-.scale-X-9-A:active, .scale-X-9-A-C:active .C-scale-X-9-A {transform: scaleX(1.9) !important;}
-.scale-X-10-A:active, .scale-X-10-A-C:active .C-scale-X-10-A {transform: scaleX(2) !important;}
-.scale-X-11-A:active, .scale-X-11-A-C:active .C-scale-X-11-A {transform: scaleX(2.1) !important;}
-.scale-X-12-A:active, .scale-X-12-A-C:active .C-scale-X-12-A {transform: scaleX(2.2) !important;}
-.scale-X-13-A:active, .scale-X-13-A-C:active .C-scale-X-13-A {transform: scaleX(2.3) !important;}
-.scale-X-14-A:active, .scale-X-14-A-C:active .C-scale-X-14-A {transform: scaleX(2.4) !important;}
-.scale-X-15-A:active, .scale-X-15-A-C:active .C-scale-X-15-A {transform: scaleX(2.5) !important;}
-.scale-X-16-A:active, .scale-X-16-A-C:active .C-scale-X-16-A {transform: scaleX(2.6) !important;}
-.scale-X-17-A:active, .scale-X-17-A-C:active .C-scale-X-17-A {transform: scaleX(2.7) !important;}
-.scale-X-18-A:active, .scale-X-18-A-C:active .C-scale-X-18-A {transform: scaleX(2.8) !important;}
-.scale-X-19-A:active, .scale-X-19-A-C:active .C-scale-X-19-A {transform: scaleX(2.9) !important;}
-.scale-X-20-A:active, .scale-X-20-A-C:active .C-scale-X-20-A {transform: scaleX(3) !important;}
+.scale-X-A:active, .scale-X-A-C:active .C-scale-X-A {transform: scaleX(1.03) !important;}
+.scale-X-2-A:active, .scale-X-2-A-C:active .C-scale-X-2-A {transform: scaleX(1.06) !important;}
+.scale-X-3-A:active, .scale-X-3-A-C:active .C-scale-X-3-A {transform: scaleX(1.09) !important;}
+.scale-X-4-A:active, .scale-X-4-A-C:active .C-scale-X-4-A {transform: scaleX(1.12) !important;}
+.scale-X-5-A:active, .scale-X-5-A-C:active .C-scale-X-5-A {transform: scaleX(1.15) !important;}
+.scale-X-6-A:active, .scale-X-6-A-C:active .C-scale-X-6-A {transform: scaleX(1.18) !important;}
+.scale-X-7-A:active, .scale-X-7-A-C:active .C-scale-X-7-A {transform: scaleX(1.21) !important;}
+.scale-X-8-A:active, .scale-X-8-A-C:active .C-scale-X-8-A {transform: scaleX(1.24) !important;}
+.scale-X-9-A:active, .scale-X-9-A-C:active .C-scale-X-9-A {transform: scaleX(1.27) !important;}
+.scale-X-10-A:active, .scale-X-10-A-C:active .C-scale-X-10-A {transform: scaleX(1.3) !important;}
+.scale-X-11-A:active, .scale-X-11-A-C:active .C-scale-X-11-A {transform: scaleX(1.33) !important;}
+.scale-X-12-A:active, .scale-X-12-A-C:active .C-scale-X-12-A {transform: scaleX(1.36) !important;}
+.scale-X-13-A:active, .scale-X-13-A-C:active .C-scale-X-13-A {transform: scaleX(1.39) !important;}
+.scale-X-14-A:active, .scale-X-14-A-C:active .C-scale-X-14-A {transform: scaleX(1.42) !important;}
+.scale-X-15-A:active, .scale-X-15-A-C:active .C-scale-X-15-A {transform: scaleX(1.45) !important;}
+.scale-X-16-A:active, .scale-X-16-A-C:active .C-scale-X-16-A {transform: scaleX(1.48) !important;}
+.scale-X-17-A:active, .scale-X-17-A-C:active .C-scale-X-17-A {transform: scaleX(1.51) !important;}
+.scale-X-18-A:active, .scale-X-18-A-C:active .C-scale-X-18-A {transform: scaleX(1.54) !important;}
+.scale-X-19-A:active, .scale-X-19-A-C:active .C-scale-X-19-A {transform: scaleX(1.57) !important;}
+.scale-X-20-A:active, .scale-X-20-A-C:active .C-scale-X-20-A {transform: scaleX(1.6) !important;}
 
 /* -scale-X-num */
-.-scale-X-A:active, .-scale-X-A-C:active .C--scale-X-A {transform: scaleX(0.95) !important;}
-.-scale-X-2-A:active, .-scale-X-2-A-C:active .C--scale-X-2-A {transform: scaleX(0.9) !important;}
-.-scale-X-3-A:active, .-scale-X-3-A-C:active .C--scale-X-3-A {transform: scaleX(0.85) !important;}
-.-scale-X-4-A:active, .-scale-X-4-A-C:active .C--scale-X-4-A {transform: scaleX(0.8) !important;}
-.-scale-X-5-A:active, .-scale-X-5-A-C:active .C--scale-X-5-A {transform: scaleX(0.75) !important;}
-.-scale-X-6-A:active, .-scale-X-6-A-C:active .C--scale-X-6-A {transform: scaleX(0.7) !important;}
-.-scale-X-7-A:active, .-scale-X-7-A-C:active .C--scale-X-7-A {transform: scaleX(0.65) !important;}
-.-scale-X-8-A:active, .-scale-X-8-A-C:active .C--scale-X-8-A {transform: scaleX(0.6) !important;}
-.-scale-X-9-A:active, .-scale-X-9-A-C:active .C--scale-X-9-A {transform: scaleX(0.55) !important;}
+.-scale-X-A:active, .-scale-X-A-C:active .C--scale-X-A {transform: scaleX(0.97) !important;}
+.-scale-X-2-A:active, .-scale-X-2-A-C:active .C--scale-X-2-A {transform: scaleX(0.94) !important;}
+.-scale-X-3-A:active, .-scale-X-3-A-C:active .C--scale-X-3-A {transform: scaleX(0.91) !important;}
+.-scale-X-4-A:active, .-scale-X-4-A-C:active .C--scale-X-4-A {transform: scaleX(0.88) !important;}
+.-scale-X-5-A:active, .-scale-X-5-A-C:active .C--scale-X-5-A {transform: scaleX(0.85) !important;}
+.-scale-X-6-A:active, .-scale-X-6-A-C:active .C--scale-X-6-A {transform: scaleX(0.82) !important;}
+.-scale-X-7-A:active, .-scale-X-7-A-C:active .C--scale-X-7-A {transform: scaleX(0.79) !important;}
+.-scale-X-8-A:active, .-scale-X-8-A-C:active .C--scale-X-8-A {transform: scaleX(0.76) !important;}
+.-scale-X-9-A:active, .-scale-X-9-A-C:active .C--scale-X-9-A {transform: scaleX(0.73) !important;}
 .scale-X-0-A:active, .scale-X-0-A-C:active .C-scale-X-0-A {transform: scaleX(1) !important;}
 
 /* scale-Y-num */
-.scale-Y-A:active, .scale-Y-A-C:active .C-scale-Y-A {transform: scaleY(1.1) !important;}
-.scale-Y-2-A:active, .scale-Y-2-A-C:active .C-scale-Y-2-A {transform: scaleY(1.2) !important;}
-.scale-Y-3-A:active, .scale-Y-3-A-C:active .C-scale-Y-3-A {transform: scaleY(1.3) !important;}
-.scale-Y-4-A:active, .scale-Y-4-A-C:active .C-scale-Y-4-A {transform: scaleY(1.4) !important;}
-.scale-Y-5-A:active, .scale-Y-5-A-C:active .C-scale-Y-5-A {transform: scaleY(1.5) !important;}
-.scale-Y-6-A:active, .scale-Y-6-A-C:active .C-scale-Y-6-A {transform: scaleY(1.6) !important;}
-.scale-Y-7-A:active, .scale-Y-7-A-C:active .C-scale-Y-7-A {transform: scaleY(1.7) !important;}
-.scale-Y-8-A:active, .scale-Y-8-A-C:active .C-scale-Y-8-A {transform: scaleY(1.8) !important;}
-.scale-Y-9-A:active, .scale-Y-9-A-C:active .C-scale-Y-9-A {transform: scaleY(1.9) !important;}
-.scale-Y-10-A:active, .scale-Y-10-A-C:active .C-scale-Y-10-A {transform: scaleY(2) !important;}
-.scale-Y-11-A:active, .scale-Y-11-A-C:active .C-scale-Y-11-A {transform: scaleY(2.1) !important;}
-.scale-Y-12-A:active, .scale-Y-12-A-C:active .C-scale-Y-12-A {transform: scaleY(2.2) !important;}
-.scale-Y-13-A:active, .scale-Y-13-A-C:active .C-scale-Y-13-A {transform: scaleY(2.3) !important;}
-.scale-Y-14-A:active, .scale-Y-14-A-C:active .C-scale-Y-14-A {transform: scaleY(2.4) !important;}
-.scale-Y-15-A:active, .scale-Y-15-A-C:active .C-scale-Y-15-A {transform: scaleY(2.5) !important;}
-.scale-Y-16-A:active, .scale-Y-16-A-C:active .C-scale-Y-16-A {transform: scaleY(2.6) !important;}
-.scale-Y-17-A:active, .scale-Y-17-A-C:active .C-scale-Y-17-A {transform: scaleY(2.7) !important;}
-.scale-Y-18-A:active, .scale-Y-18-A-C:active .C-scale-Y-18-A {transform: scaleY(2.8) !important;}
-.scale-Y-19-A:active, .scale-Y-19-A-C:active .C-scale-Y-19-A {transform: scaleY(2.9) !important;}
-.scale-Y-20-A:active, .scale-Y-20-A-C:active .C-scale-Y-20-A {transform: scaleY(3) !important;}
+.scale-Y-A:active, .scale-Y-A-C:active .C-scale-Y-A {transform: scaleY(1.03) !important;}
+.scale-Y-2-A:active, .scale-Y-2-A-C:active .C-scale-Y-2-A {transform: scaleY(1.06) !important;}
+.scale-Y-3-A:active, .scale-Y-3-A-C:active .C-scale-Y-3-A {transform: scaleY(1.09) !important;}
+.scale-Y-4-A:active, .scale-Y-4-A-C:active .C-scale-Y-4-A {transform: scaleY(1.12) !important;}
+.scale-Y-5-A:active, .scale-Y-5-A-C:active .C-scale-Y-5-A {transform: scaleY(1.15) !important;}
+.scale-Y-6-A:active, .scale-Y-6-A-C:active .C-scale-Y-6-A {transform: scaleY(1.18) !important;}
+.scale-Y-7-A:active, .scale-Y-7-A-C:active .C-scale-Y-7-A {transform: scaleY(1.21) !important;}
+.scale-Y-8-A:active, .scale-Y-8-A-C:active .C-scale-Y-8-A {transform: scaleY(1.24) !important;}
+.scale-Y-9-A:active, .scale-Y-9-A-C:active .C-scale-Y-9-A {transform: scaleY(1.27) !important;}
+.scale-Y-10-A:active, .scale-Y-10-A-C:active .C-scale-Y-10-A {transform: scaleY(1.3) !important;}
+.scale-Y-11-A:active, .scale-Y-11-A-C:active .C-scale-Y-11-A {transform: scaleY(1.33) !important;}
+.scale-Y-12-A:active, .scale-Y-12-A-C:active .C-scale-Y-12-A {transform: scaleY(1.36) !important;}
+.scale-Y-13-A:active, .scale-Y-13-A-C:active .C-scale-Y-13-A {transform: scaleY(1.39) !important;}
+.scale-Y-14-A:active, .scale-Y-14-A-C:active .C-scale-Y-14-A {transform: scaleY(1.42) !important;}
+.scale-Y-15-A:active, .scale-Y-15-A-C:active .C-scale-Y-15-A {transform: scaleY(1.45) !important;}
+.scale-Y-16-A:active, .scale-Y-16-A-C:active .C-scale-Y-16-A {transform: scaleY(1.48) !important;}
+.scale-Y-17-A:active, .scale-Y-17-A-C:active .C-scale-Y-17-A {transform: scaleY(1.51) !important;}
+.scale-Y-18-A:active, .scale-Y-18-A-C:active .C-scale-Y-18-A {transform: scaleY(1.54) !important;}
+.scale-Y-19-A:active, .scale-Y-19-A-C:active .C-scale-Y-19-A {transform: scaleY(1.57) !important;}
+.scale-Y-20-A:active, .scale-Y-20-A-C:active .C-scale-Y-20-A {transform: scaleY(1.6) !important;}
 
 /* -scale-Y-num */
-.-scale-Y-A:active, .-scale-Y-A-C:active .C--scale-Y-A {transform: scaleY(0.95) !important;}
-.-scale-Y-2-A:active, .-scale-Y-2-A-C:active .C--scale-Y-2-A {transform: scaleY(0.9) !important;}
-.-scale-Y-3-A:active, .-scale-Y-3-A-C:active .C--scale-Y-3-A {transform: scaleY(0.85) !important;}
-.-scale-Y-4-A:active, .-scale-Y-4-A-C:active .C--scale-Y-4-A {transform: scaleY(0.8) !important;}
-.-scale-Y-5-A:active, .-scale-Y-5-A-C:active .C--scale-Y-5-A {transform: scaleY(0.75) !important;}
-.-scale-Y-6-A:active, .-scale-Y-6-A-C:active .C--scale-Y-6-A {transform: scaleY(0.7) !important;}
-.-scale-Y-7-A:active, .-scale-Y-7-A-C:active .C--scale-Y-7-A {transform: scaleY(0.65) !important;}
-.-scale-Y-8-A:active, .-scale-Y-8-A-C:active .C--scale-Y-8-A {transform: scaleY(0.6) !important;}
-.-scale-Y-9-A:active, .-scale-Y-9-A-C:active .C--scale-Y-9-A {transform: scaleY(0.55) !important;}
+.-scale-Y-A:active, .-scale-Y-A-C:active .C--scale-Y-A {transform: scaleY(0.97) !important;}
+.-scale-Y-2-A:active, .-scale-Y-2-A-C:active .C--scale-Y-2-A {transform: scaleY(0.94) !important;}
+.-scale-Y-3-A:active, .-scale-Y-3-A-C:active .C--scale-Y-3-A {transform: scaleY(0.91) !important;}
+.-scale-Y-4-A:active, .-scale-Y-4-A-C:active .C--scale-Y-4-A {transform: scaleY(0.88) !important;}
+.-scale-Y-5-A:active, .-scale-Y-5-A-C:active .C--scale-Y-5-A {transform: scaleY(0.85) !important;}
+.-scale-Y-6-A:active, .-scale-Y-6-A-C:active .C--scale-Y-6-A {transform: scaleY(0.82) !important;}
+.-scale-Y-7-A:active, .-scale-Y-7-A-C:active .C--scale-Y-7-A {transform: scaleY(0.79) !important;}
+.-scale-Y-8-A:active, .-scale-Y-8-A-C:active .C--scale-Y-8-A {transform: scaleY(0.76) !important;}
+.-scale-Y-9-A:active, .-scale-Y-9-A-C:active .C--scale-Y-9-A {transform: scaleY(0.73) !important;}
 .scale-Y-0-A:active, .scale-Y-0-A-C:active .C-scale-Y-0-A {transform: scaleY(1) !important;}
 
 /* rotate */
@@ -8162,6 +8166,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .inline-flex-sm, .inline-flex-sm-H:hover {display: inline-flex;}
 .grid-sm, .grid-sm-H:hover {display: grid;}
 .table-sm, .table-sm-H:hover {display: table;}
+.contents-sm, .contents-sm-H:hover {display: contents;}
 
 /* color */
 .white-sm, .white-sm-H:hover {color: #fff;}
@@ -11029,6 +11034,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .grow-18-sm, .grow-18-sm-H:hover {flex-grow: 18;}
 .grow-19-sm, .grow-19-sm-H:hover {flex-grow: 19;}
 .grow-20-sm, .grow-20-sm-H:hover {flex-grow: 20;}
+.grow-0-sm, .grow-0-sm-H:hover {flex-grow: 0;}
 
 /* order */
 .order-1-sm, .order-1-sm-H:hover {order: 1;}
@@ -11411,105 +11417,105 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .translate-0-sm, .translate-0-sm-H:hover {transform: translate(0%, 0%);}
 
 /* scale-num */
-.scale-sm, .scale-sm-H:hover {transform: scale(1.1);}
-.scale-2-sm, .scale-2-sm-H:hover {transform: scale(1.2);}
-.scale-3-sm, .scale-3-sm-H:hover {transform: scale(1.3);}
-.scale-4-sm, .scale-4-sm-H:hover {transform: scale(1.4);}
-.scale-5-sm, .scale-5-sm-H:hover {transform: scale(1.5);}
-.scale-6-sm, .scale-6-sm-H:hover {transform: scale(1.6);}
-.scale-7-sm, .scale-7-sm-H:hover {transform: scale(1.7);}
-.scale-8-sm, .scale-8-sm-H:hover {transform: scale(1.8);}
-.scale-9-sm, .scale-9-sm-H:hover {transform: scale(1.9);}
-.scale-10-sm, .scale-10-sm-H:hover {transform: scale(2);}
-.scale-11-sm, .scale-11-sm-H:hover {transform: scale(2.1);}
-.scale-12-sm, .scale-12-sm-H:hover {transform: scale(2.2);}
-.scale-13-sm, .scale-13-sm-H:hover {transform: scale(2.3);}
-.scale-14-sm, .scale-14-sm-H:hover {transform: scale(2.4);}
-.scale-15-sm, .scale-15-sm-H:hover {transform: scale(2.5);}
-.scale-16-sm, .scale-16-sm-H:hover {transform: scale(2.6);}
-.scale-17-sm, .scale-17-sm-H:hover {transform: scale(2.7);}
-.scale-18-sm, .scale-18-sm-H:hover {transform: scale(2.8);}
-.scale-19-sm, .scale-19-sm-H:hover {transform: scale(2.9);}
-.scale-20-sm, .scale-20-sm-H:hover {transform: scale(3);}
+.scale-sm, .scale-sm-H:hover {transform: scale(1.03);}
+.scale-2-sm, .scale-2-sm-H:hover {transform: scale(1.06);}
+.scale-3-sm, .scale-3-sm-H:hover {transform: scale(1.09);}
+.scale-4-sm, .scale-4-sm-H:hover {transform: scale(1.12);}
+.scale-5-sm, .scale-5-sm-H:hover {transform: scale(1.15);}
+.scale-6-sm, .scale-6-sm-H:hover {transform: scale(1.18);}
+.scale-7-sm, .scale-7-sm-H:hover {transform: scale(1.21);}
+.scale-8-sm, .scale-8-sm-H:hover {transform: scale(1.24);}
+.scale-9-sm, .scale-9-sm-H:hover {transform: scale(1.27);}
+.scale-10-sm, .scale-10-sm-H:hover {transform: scale(1.3);}
+.scale-11-sm, .scale-11-sm-H:hover {transform: scale(1.33);}
+.scale-12-sm, .scale-12-sm-H:hover {transform: scale(1.36);}
+.scale-13-sm, .scale-13-sm-H:hover {transform: scale(1.39);}
+.scale-14-sm, .scale-14-sm-H:hover {transform: scale(1.42);}
+.scale-15-sm, .scale-15-sm-H:hover {transform: scale(1.45);}
+.scale-16-sm, .scale-16-sm-H:hover {transform: scale(1.48);}
+.scale-17-sm, .scale-17-sm-H:hover {transform: scale(1.51);}
+.scale-18-sm, .scale-18-sm-H:hover {transform: scale(1.54);}
+.scale-19-sm, .scale-19-sm-H:hover {transform: scale(1.57);}
+.scale-20-sm, .scale-20-sm-H:hover {transform: scale(1.6);}
 
 /* -scale-num */
-.-scale-sm, .-scale-sm-H:hover {transform: scale(0.95);}
-.-scale-2-sm, .-scale-2-sm-H:hover {transform: scale(0.9);}
-.-scale-3-sm, .-scale-3-sm-H:hover {transform: scale(0.85);}
-.-scale-4-sm, .-scale-4-sm-H:hover {transform: scale(0.8);}
-.-scale-5-sm, .-scale-5-sm-H:hover {transform: scale(0.75);}
-.-scale-6-sm, .-scale-6-sm-H:hover {transform: scale(0.7);}
-.-scale-7-sm, .-scale-7-sm-H:hover {transform: scale(0.65);}
-.-scale-8-sm, .-scale-8-sm-H:hover {transform: scale(0.6);}
-.-scale-9-sm, .-scale-9-sm-H:hover {transform: scale(0.55);}
+.-scale-sm, .-scale-sm-H:hover {transform: scale(0.97);}
+.-scale-2-sm, .-scale-2-sm-H:hover {transform: scale(0.94);}
+.-scale-3-sm, .-scale-3-sm-H:hover {transform: scale(0.91);}
+.-scale-4-sm, .-scale-4-sm-H:hover {transform: scale(0.88);}
+.-scale-5-sm, .-scale-5-sm-H:hover {transform: scale(0.85);}
+.-scale-6-sm, .-scale-6-sm-H:hover {transform: scale(0.82);}
+.-scale-7-sm, .-scale-7-sm-H:hover {transform: scale(0.79);}
+.-scale-8-sm, .-scale-8-sm-H:hover {transform: scale(0.76);}
+.-scale-9-sm, .-scale-9-sm-H:hover {transform: scale(0.73);}
 .scale-0-sm, .scale-0-sm-H:hover {transform: scale(1);}
 
 /* scale-X-num */
-.scale-X-sm, .scale-X-sm-H:hover {transform: scaleX(1.1);}
-.scale-X-2-sm, .scale-X-2-sm-H:hover {transform: scaleX(1.2);}
-.scale-X-3-sm, .scale-X-3-sm-H:hover {transform: scaleX(1.3);}
-.scale-X-4-sm, .scale-X-4-sm-H:hover {transform: scaleX(1.4);}
-.scale-X-5-sm, .scale-X-5-sm-H:hover {transform: scaleX(1.5);}
-.scale-X-6-sm, .scale-X-6-sm-H:hover {transform: scaleX(1.6);}
-.scale-X-7-sm, .scale-X-7-sm-H:hover {transform: scaleX(1.7);}
-.scale-X-8-sm, .scale-X-8-sm-H:hover {transform: scaleX(1.8);}
-.scale-X-9-sm, .scale-X-9-sm-H:hover {transform: scaleX(1.9);}
-.scale-X-10-sm, .scale-X-10-sm-H:hover {transform: scaleX(2);}
-.scale-X-11-sm, .scale-X-11-sm-H:hover {transform: scaleX(2.1);}
-.scale-X-12-sm, .scale-X-12-sm-H:hover {transform: scaleX(2.2);}
-.scale-X-13-sm, .scale-X-13-sm-H:hover {transform: scaleX(2.3);}
-.scale-X-14-sm, .scale-X-14-sm-H:hover {transform: scaleX(2.4);}
-.scale-X-15-sm, .scale-X-15-sm-H:hover {transform: scaleX(2.5);}
-.scale-X-16-sm, .scale-X-16-sm-H:hover {transform: scaleX(2.6);}
-.scale-X-17-sm, .scale-X-17-sm-H:hover {transform: scaleX(2.7);}
-.scale-X-18-sm, .scale-X-18-sm-H:hover {transform: scaleX(2.8);}
-.scale-X-19-sm, .scale-X-19-sm-H:hover {transform: scaleX(2.9);}
-.scale-X-20-sm, .scale-X-20-sm-H:hover {transform: scaleX(3);}
+.scale-X-sm, .scale-X-sm-H:hover {transform: scaleX(1.03);}
+.scale-X-2-sm, .scale-X-2-sm-H:hover {transform: scaleX(1.06);}
+.scale-X-3-sm, .scale-X-3-sm-H:hover {transform: scaleX(1.09);}
+.scale-X-4-sm, .scale-X-4-sm-H:hover {transform: scaleX(1.12);}
+.scale-X-5-sm, .scale-X-5-sm-H:hover {transform: scaleX(1.15);}
+.scale-X-6-sm, .scale-X-6-sm-H:hover {transform: scaleX(1.18);}
+.scale-X-7-sm, .scale-X-7-sm-H:hover {transform: scaleX(1.21);}
+.scale-X-8-sm, .scale-X-8-sm-H:hover {transform: scaleX(1.24);}
+.scale-X-9-sm, .scale-X-9-sm-H:hover {transform: scaleX(1.27);}
+.scale-X-10-sm, .scale-X-10-sm-H:hover {transform: scaleX(1.3);}
+.scale-X-11-sm, .scale-X-11-sm-H:hover {transform: scaleX(1.33);}
+.scale-X-12-sm, .scale-X-12-sm-H:hover {transform: scaleX(1.36);}
+.scale-X-13-sm, .scale-X-13-sm-H:hover {transform: scaleX(1.39);}
+.scale-X-14-sm, .scale-X-14-sm-H:hover {transform: scaleX(1.42);}
+.scale-X-15-sm, .scale-X-15-sm-H:hover {transform: scaleX(1.45);}
+.scale-X-16-sm, .scale-X-16-sm-H:hover {transform: scaleX(1.48);}
+.scale-X-17-sm, .scale-X-17-sm-H:hover {transform: scaleX(1.51);}
+.scale-X-18-sm, .scale-X-18-sm-H:hover {transform: scaleX(1.54);}
+.scale-X-19-sm, .scale-X-19-sm-H:hover {transform: scaleX(1.57);}
+.scale-X-20-sm, .scale-X-20-sm-H:hover {transform: scaleX(1.6);}
 
 /* -scale-X-num */
-.-scale-X-sm, .-scale-X:hover {transform: scaleX(0.95);}
-.-scale-X-2-sm, .-scale-X-2-sm-H:hover {transform: scaleX(0.9);}
-.-scale-X-3-sm, .-scale-X-3-sm-H:hover {transform: scaleX(0.85);}
-.-scale-X-4-sm, .-scale-X-4-sm-H:hover {transform: scaleX(0.8);}
-.-scale-X-5-sm, .-scale-X-5-sm-H:hover {transform: scaleX(0.75);}
-.-scale-X-6-sm, .-scale-X-6-sm-H:hover {transform: scaleX(0.7);}
-.-scale-X-7-sm, .-scale-X-7-sm-H:hover {transform: scaleX(0.65);}
-.-scale-X-8-sm, .-scale-X-8-sm-H:hover {transform: scaleX(0.6);}
-.-scale-X-9-sm, .-scale-X-9-sm-H:hover {transform: scaleX(0.55);}
+.-scale-X-sm, .-scale-X:hover {transform: scaleX(0.97);}
+.-scale-X-2-sm, .-scale-X-2-sm-H:hover {transform: scaleX(0.94);}
+.-scale-X-3-sm, .-scale-X-3-sm-H:hover {transform: scaleX(0.91);}
+.-scale-X-4-sm, .-scale-X-4-sm-H:hover {transform: scaleX(0.88);}
+.-scale-X-5-sm, .-scale-X-5-sm-H:hover {transform: scaleX(0.85);}
+.-scale-X-6-sm, .-scale-X-6-sm-H:hover {transform: scaleX(0.82);}
+.-scale-X-7-sm, .-scale-X-7-sm-H:hover {transform: scaleX(0.79);}
+.-scale-X-8-sm, .-scale-X-8-sm-H:hover {transform: scaleX(0.76);}
+.-scale-X-9-sm, .-scale-X-9-sm-H:hover {transform: scaleX(0.73);}
 .scale-X-0-sm, .scale-X-0-sm-H:hover {transform: scaleX(1);}
 
 /* scale-Y-num */
-.scale-Y-sm, .scale-Y-sm-H:hover {transform: scaleY(1.1);}
-.scale-Y-2-sm, .scale-Y-2-sm-H:hover {transform: scaleY(1.2);}
-.scale-Y-3-sm, .scale-Y-3-sm-H:hover {transform: scaleY(1.3);}
-.scale-Y-4-sm, .scale-Y-4-sm-H:hover {transform: scaleY(1.4);}
-.scale-Y-5-sm, .scale-Y-5-sm-H:hover {transform: scaleY(1.5);}
-.scale-Y-6-sm, .scale-Y-6-sm-H:hover {transform: scaleY(1.6);}
-.scale-Y-7-sm, .scale-Y-7-sm-H:hover {transform: scaleY(1.7);}
-.scale-Y-8-sm, .scale-Y-8-sm-H:hover {transform: scaleY(1.8);}
-.scale-Y-9-sm, .scale-Y-9-sm-H:hover {transform: scaleY(1.9);}
-.scale-Y-10-sm, .scale-Y-10-sm-H:hover {transform: scaleY(2);}
-.scale-Y-11-sm, .scale-Y-11-sm-H:hover {transform: scaleY(2.1);}
-.scale-Y-12-sm, .scale-Y-12-sm-H:hover {transform: scaleY(2.2);}
-.scale-Y-13-sm, .scale-Y-13-sm-H:hover {transform: scaleY(2.3);}
-.scale-Y-14-sm, .scale-Y-14-sm-H:hover {transform: scaleY(2.4);}
-.scale-Y-15-sm, .scale-Y-15-sm-H:hover {transform: scaleY(2.5);}
-.scale-Y-16-sm, .scale-Y-16-sm-H:hover {transform: scaleY(2.6);}
-.scale-Y-17-sm, .scale-Y-17-sm-H:hover {transform: scaleY(2.7);}
-.scale-Y-18-sm, .scale-Y-18-sm-H:hover {transform: scaleY(2.8);}
-.scale-Y-19-sm, .scale-Y-19-sm-H:hover {transform: scaleY(2.9);}
-.scale-Y-20-sm, .scale-Y-20-sm-H:hover {transform: scaleY(3);}
+.scale-Y-sm, .scale-Y-sm-H:hover {transform: scaleY(1.03);}
+.scale-Y-2-sm, .scale-Y-2-sm-H:hover {transform: scaleY(1.06);}
+.scale-Y-3-sm, .scale-Y-3-sm-H:hover {transform: scaleY(1.09);}
+.scale-Y-4-sm, .scale-Y-4-sm-H:hover {transform: scaleY(1.12);}
+.scale-Y-5-sm, .scale-Y-5-sm-H:hover {transform: scaleY(1.15);}
+.scale-Y-6-sm, .scale-Y-6-sm-H:hover {transform: scaleY(1.18);}
+.scale-Y-7-sm, .scale-Y-7-sm-H:hover {transform: scaleY(1.21);}
+.scale-Y-8-sm, .scale-Y-8-sm-H:hover {transform: scaleY(1.24);}
+.scale-Y-9-sm, .scale-Y-9-sm-H:hover {transform: scaleY(1.27);}
+.scale-Y-10-sm, .scale-Y-10-sm-H:hover {transform: scaleY(1.3);}
+.scale-Y-11-sm, .scale-Y-11-sm-H:hover {transform: scaleY(1.33);}
+.scale-Y-12-sm, .scale-Y-12-sm-H:hover {transform: scaleY(1.36);}
+.scale-Y-13-sm, .scale-Y-13-sm-H:hover {transform: scaleY(1.39);}
+.scale-Y-14-sm, .scale-Y-14-sm-H:hover {transform: scaleY(1.42);}
+.scale-Y-15-sm, .scale-Y-15-sm-H:hover {transform: scaleY(1.45);}
+.scale-Y-16-sm, .scale-Y-16-sm-H:hover {transform: scaleY(1.48);}
+.scale-Y-17-sm, .scale-Y-17-sm-H:hover {transform: scaleY(1.51);}
+.scale-Y-18-sm, .scale-Y-18-sm-H:hover {transform: scaleY(1.54);}
+.scale-Y-19-sm, .scale-Y-19-sm-H:hover {transform: scaleY(1.57);}
+.scale-Y-20-sm, .scale-Y-20-sm-H:hover {transform: scaleY(1.6);}
 
 /* -scale-Y-num */
-.-scale-Y-sm, .-scale-Y:hover {transform: scaleY(0.95);}
-.-scale-Y-2-sm, .-scale-Y-2-sm-H:hover {transform: scaleY(0.9);}
-.-scale-Y-3-sm, .-scale-Y-3-sm-H:hover {transform: scaleY(0.85);}
-.-scale-Y-4-sm, .-scale-Y-4-sm-H:hover {transform: scaleY(0.8);}
-.-scale-Y-5-sm, .-scale-Y-5-sm-H:hover {transform: scaleY(0.75);}
-.-scale-Y-6-sm, .-scale-Y-6-sm-H:hover {transform: scaleY(0.7);}
-.-scale-Y-7-sm, .-scale-Y-7-sm-H:hover {transform: scaleY(0.65);}
-.-scale-Y-8-sm, .-scale-Y-8-sm-H:hover {transform: scaleY(0.6);}
-.-scale-Y-9-sm, .-scale-Y-9-sm-H:hover {transform: scaleY(0.55);}
+.-scale-Y-sm, .-scale-Y:hover {transform: scaleY(0.97);}
+.-scale-Y-2-sm, .-scale-Y-2-sm-H:hover {transform: scaleY(0.94);}
+.-scale-Y-3-sm, .-scale-Y-3-sm-H:hover {transform: scaleY(0.91);}
+.-scale-Y-4-sm, .-scale-Y-4-sm-H:hover {transform: scaleY(0.88);}
+.-scale-Y-5-sm, .-scale-Y-5-sm-H:hover {transform: scaleY(0.85);}
+.-scale-Y-6-sm, .-scale-Y-6-sm-H:hover {transform: scaleY(0.82);}
+.-scale-Y-7-sm, .-scale-Y-7-sm-H:hover {transform: scaleY(0.79);}
+.-scale-Y-8-sm, .-scale-Y-8-sm-H:hover {transform: scaleY(0.76);}
+.-scale-Y-9-sm, .-scale-Y-9-sm-H:hover {transform: scaleY(0.73);}
 .scale-Y-0-sm, .scale-Y-0-sm-H:hover {transform: scaleY(1);}
 
 /* rotate */
@@ -12096,6 +12102,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .inline-flex-sm-A:active {display: inline-flex !important;}
 .grid-sm-A:active {display: grid !important;}
 .table-sm-A:active {display: table !important;}
+.contents-sm-A:active {display: contents !important;}
 
 /* color */
 .white-sm-A:active {color: #fff !important;}
@@ -14964,6 +14971,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .grow-18-sm-A:active {flex-grow: 18 !important;}
 .grow-19-sm-A:active {flex-grow: 19 !important;}
 .grow-20-sm-A:active {flex-grow: 20 !important;}
+.grow-0-sm-A-active {flex-grow: 0 !important;}
 
 /* order */
 .order-1-sm-A:active {order: 1 !important;}
@@ -15348,105 +15356,105 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .translate-0-sm-A:active {transform: translate(0%, 0%) !important;}
 
 /* scale-num */
-.scale-sm-A:active {transform: scale(1.1) !important;}
-.scale-2-sm-A:active {transform: scale(1.2) !important;}
-.scale-3-sm-A:active {transform: scale(1.3) !important;}
-.scale-4-sm-A:active {transform: scale(1.4) !important;}
-.scale-5-sm-A:active {transform: scale(1.5) !important;}
-.scale-6-sm-A:active {transform: scale(1.6) !important;}
-.scale-7-sm-A:active {transform: scale(1.7) !important;}
-.scale-8-sm-A:active {transform: scale(1.8) !important;}
-.scale-9-sm-A:active {transform: scale(1.9) !important;}
-.scale-10-sm-A:active {transform: scale(2) !important;}
-.scale-11-sm-A:active {transform: scale(2.1) !important;}
-.scale-12-sm-A:active {transform: scale(2.2) !important;}
-.scale-13-sm-A:active {transform: scale(2.3) !important;}
-.scale-14-sm-A:active {transform: scale(2.4) !important;}
-.scale-15-sm-A:active {transform: scale(2.5) !important;}
-.scale-16-sm-A:active {transform: scale(2.6) !important;}
-.scale-17-sm-A:active {transform: scale(2.7) !important;}
-.scale-18-sm-A:active {transform: scale(2.8) !important;}
-.scale-19-sm-A:active {transform: scale(2.9) !important;}
-.scale-20-sm-A:active {transform: scale(3) !important;}
+.scale-sm-A:active {transform: scale(1.03) !important;}
+.scale-2-sm-A:active {transform: scale(1.06) !important;}
+.scale-3-sm-A:active {transform: scale(1.09) !important;}
+.scale-4-sm-A:active {transform: scale(1.12) !important;}
+.scale-5-sm-A:active {transform: scale(1.15) !important;}
+.scale-6-sm-A:active {transform: scale(1.18) !important;}
+.scale-7-sm-A:active {transform: scale(1.21) !important;}
+.scale-8-sm-A:active {transform: scale(1.24) !important;}
+.scale-9-sm-A:active {transform: scale(1.27) !important;}
+.scale-10-sm-A:active {transform: scale(1.3) !important;}
+.scale-11-sm-A:active {transform: scale(1.33) !important;}
+.scale-12-sm-A:active {transform: scale(1.36) !important;}
+.scale-13-sm-A:active {transform: scale(1.39) !important;}
+.scale-14-sm-A:active {transform: scale(1.42) !important;}
+.scale-15-sm-A:active {transform: scale(1.45) !important;}
+.scale-16-sm-A:active {transform: scale(1.48) !important;}
+.scale-17-sm-A:active {transform: scale(1.51) !important;}
+.scale-18-sm-A:active {transform: scale(1.54) !important;}
+.scale-19-sm-A:active {transform: scale(1.57) !important;}
+.scale-20-sm-A:active {transform: scale(1.6) !important;}
 
 /* -scale-num */
-.-scale-sm-A:active {transform: scale(0.95) !important;}
-.-scale-2-sm-A:active {transform: scale(0.9) !important;}
-.-scale-3-sm-A:active {transform: scale(0.85) !important;}
-.-scale-4-sm-A:active {transform: scale(0.8) !important;}
-.-scale-5-sm-A:active {transform: scale(0.75) !important;}
-.-scale-6-sm-A:active {transform: scale(0.7) !important;}
-.-scale-7-sm-A:active {transform: scale(0.65) !important;}
-.-scale-8-sm-A:active {transform: scale(0.6) !important;}
-.-scale-9-sm-A:active {transform: scale(0.55) !important;}
+.-scale-sm-A:active {transform: scale(0.97) !important;}
+.-scale-2-sm-A:active {transform: scale(0.94) !important;}
+.-scale-3-sm-A:active {transform: scale(0.91) !important;}
+.-scale-4-sm-A:active {transform: scale(0.88) !important;}
+.-scale-5-sm-A:active {transform: scale(0.85) !important;}
+.-scale-6-sm-A:active {transform: scale(0.82) !important;}
+.-scale-7-sm-A:active {transform: scale(0.79) !important;}
+.-scale-8-sm-A:active {transform: scale(0.76) !important;}
+.-scale-9-sm-A:active {transform: scale(0.73) !important;}
 .scale-0-sm-A:active {transform: scale(1) !important;}
 
 /* scale-X-num */
-.scale-X-sm-A:active {transform: scaleX(1.1) !important;}
-.scale-X-2-sm-A:active {transform: scaleX(1.2) !important;}
-.scale-X-3-sm-A:active {transform: scaleX(1.3) !important;}
-.scale-X-4-sm-A:active {transform: scaleX(1.4) !important;}
-.scale-X-5-sm-A:active {transform: scaleX(1.5) !important;}
-.scale-X-6-sm-A:active {transform: scaleX(1.6) !important;}
-.scale-X-7-sm-A:active {transform: scaleX(1.7) !important;}
-.scale-X-8-sm-A:active {transform: scaleX(1.8) !important;}
-.scale-X-9-sm-A:active {transform: scaleX(1.9) !important;}
-.scale-X-10-sm-A:active {transform: scaleX(2) !important;}
-.scale-X-11-sm-A:active {transform: scaleX(2.1) !important;}
-.scale-X-12-sm-A:active {transform: scaleX(2.2) !important;}
-.scale-X-13-sm-A:active {transform: scaleX(2.3) !important;}
-.scale-X-14-sm-A:active {transform: scaleX(2.4) !important;}
-.scale-X-15-sm-A:active {transform: scaleX(2.5) !important;}
-.scale-X-16-sm-A:active {transform: scaleX(2.6) !important;}
-.scale-X-17-sm-A:active {transform: scaleX(2.7) !important;}
-.scale-X-18-sm-A:active {transform: scaleX(2.8) !important;}
-.scale-X-19-sm-A:active {transform: scaleX(2.9) !important;}
-.scale-X-20-sm-A:active {transform: scaleX(3) !important;}
+.scale-X-sm-A:active {transform: scaleX(1.03) !important;}
+.scale-X-2-sm-A:active {transform: scaleX(1.06) !important;}
+.scale-X-3-sm-A:active {transform: scaleX(1.09) !important;}
+.scale-X-4-sm-A:active {transform: scaleX(1.12) !important;}
+.scale-X-5-sm-A:active {transform: scaleX(1.15) !important;}
+.scale-X-6-sm-A:active {transform: scaleX(1.18) !important;}
+.scale-X-7-sm-A:active {transform: scaleX(1.21) !important;}
+.scale-X-8-sm-A:active {transform: scaleX(1.24) !important;}
+.scale-X-9-sm-A:active {transform: scaleX(1.27) !important;}
+.scale-X-10-sm-A:active {transform: scaleX(1.3) !important;}
+.scale-X-11-sm-A:active {transform: scaleX(1.33) !important;}
+.scale-X-12-sm-A:active {transform: scaleX(1.36) !important;}
+.scale-X-13-sm-A:active {transform: scaleX(1.39) !important;}
+.scale-X-14-sm-A:active {transform: scaleX(1.42) !important;}
+.scale-X-15-sm-A:active {transform: scaleX(1.45) !important;}
+.scale-X-16-sm-A:active {transform: scaleX(1.48) !important;}
+.scale-X-17-sm-A:active {transform: scaleX(1.51) !important;}
+.scale-X-18-sm-A:active {transform: scaleX(1.54) !important;}
+.scale-X-19-sm-A:active {transform: scaleX(1.57) !important;}
+.scale-X-20-sm-A:active {transform: scaleX(1.6) !important;}
 
 /* -scale-X-num */
-.-scale-X:hover {transform: scaleX(0.95) !important;}
-.-scale-X-2-sm-A:active {transform: scaleX(0.9) !important;}
-.-scale-X-3-sm-A:active {transform: scaleX(0.85) !important;}
-.-scale-X-4-sm-A:active {transform: scaleX(0.8) !important;}
-.-scale-X-5-sm-A:active {transform: scaleX(0.75) !important;}
-.-scale-X-6-sm-A:active {transform: scaleX(0.7) !important;}
-.-scale-X-7-sm-A:active {transform: scaleX(0.65) !important;}
-.-scale-X-8-sm-A:active {transform: scaleX(0.6) !important;}
-.-scale-X-9-sm-A:active {transform: scaleX(0.55) !important;}
+.-scale-X:hover {transform: scaleX(0.97) !important;}
+.-scale-X-2-sm-A:active {transform: scaleX(0.94) !important;}
+.-scale-X-3-sm-A:active {transform: scaleX(0.91) !important;}
+.-scale-X-4-sm-A:active {transform: scaleX(0.88) !important;}
+.-scale-X-5-sm-A:active {transform: scaleX(0.85) !important;}
+.-scale-X-6-sm-A:active {transform: scaleX(0.82) !important;}
+.-scale-X-7-sm-A:active {transform: scaleX(0.79) !important;}
+.-scale-X-8-sm-A:active {transform: scaleX(0.76) !important;}
+.-scale-X-9-sm-A:active {transform: scaleX(0.73) !important;}
 .scale-X-0-sm-A:active {transform: scaleX(1) !important;}
 
 /* scale-Y-num */
-.scale-Y-sm-A:active {transform: scaleY(1.1) !important;}
-.scale-Y-2-sm-A:active {transform: scaleY(1.2) !important;}
-.scale-Y-3-sm-A:active {transform: scaleY(1.3) !important;}
-.scale-Y-4-sm-A:active {transform: scaleY(1.4) !important;}
-.scale-Y-5-sm-A:active {transform: scaleY(1.5) !important;}
-.scale-Y-6-sm-A:active {transform: scaleY(1.6) !important;}
-.scale-Y-7-sm-A:active {transform: scaleY(1.7) !important;}
-.scale-Y-8-sm-A:active {transform: scaleY(1.8) !important;}
-.scale-Y-9-sm-A:active {transform: scaleY(1.9) !important;}
-.scale-Y-10-sm-A:active {transform: scaleY(2) !important;}
-.scale-Y-11-sm-A:active {transform: scaleY(2.1) !important;}
-.scale-Y-12-sm-A:active {transform: scaleY(2.2) !important;}
-.scale-Y-13-sm-A:active {transform: scaleY(2.3) !important;}
-.scale-Y-14-sm-A:active {transform: scaleY(2.4) !important;}
-.scale-Y-15-sm-A:active {transform: scaleY(2.5) !important;}
-.scale-Y-16-sm-A:active {transform: scaleY(2.6) !important;}
-.scale-Y-17-sm-A:active {transform: scaleY(2.7) !important;}
-.scale-Y-18-sm-A:active {transform: scaleY(2.8) !important;}
-.scale-Y-19-sm-A:active {transform: scaleY(2.9) !important;}
-.scale-Y-20-sm-A:active {transform: scaleY(3) !important;}
+.scale-Y-sm-A:active {transform: scaleY(1.03) !important;}
+.scale-Y-2-sm-A:active {transform: scaleY(1.06) !important;}
+.scale-Y-3-sm-A:active {transform: scaleY(1.09) !important;}
+.scale-Y-4-sm-A:active {transform: scaleY(1.12) !important;}
+.scale-Y-5-sm-A:active {transform: scaleY(1.15) !important;}
+.scale-Y-6-sm-A:active {transform: scaleY(1.18) !important;}
+.scale-Y-7-sm-A:active {transform: scaleY(1.21) !important;}
+.scale-Y-8-sm-A:active {transform: scaleY(1.24) !important;}
+.scale-Y-9-sm-A:active {transform: scaleY(1.27) !important;}
+.scale-Y-10-sm-A:active {transform: scaleY(1.3) !important;}
+.scale-Y-11-sm-A:active {transform: scaleY(1.33) !important;}
+.scale-Y-12-sm-A:active {transform: scaleY(1.36) !important;}
+.scale-Y-13-sm-A:active {transform: scaleY(1.39) !important;}
+.scale-Y-14-sm-A:active {transform: scaleY(1.42) !important;}
+.scale-Y-15-sm-A:active {transform: scaleY(1.45) !important;}
+.scale-Y-16-sm-A:active {transform: scaleY(1.48) !important;}
+.scale-Y-17-sm-A:active {transform: scaleY(1.51) !important;}
+.scale-Y-18-sm-A:active {transform: scaleY(1.54) !important;}
+.scale-Y-19-sm-A:active {transform: scaleY(1.57) !important;}
+.scale-Y-20-sm-A:active {transform: scaleY(1.6) !important;}
 
 /* -scale-Y-num */
-.-scale-Y:hover {transform: scaleY(0.95) !important;}
-.-scale-Y-2-sm-A:active {transform: scaleY(0.9) !important;}
-.-scale-Y-3-sm-A:active {transform: scaleY(0.85) !important;}
-.-scale-Y-4-sm-A:active {transform: scaleY(0.8) !important;}
-.-scale-Y-5-sm-A:active {transform: scaleY(0.75) !important;}
-.-scale-Y-6-sm-A:active {transform: scaleY(0.7) !important;}
-.-scale-Y-7-sm-A:active {transform: scaleY(0.65) !important;}
-.-scale-Y-8-sm-A:active {transform: scaleY(0.6) !important;}
-.-scale-Y-9-sm-A:active {transform: scaleY(0.55) !important;}
+.-scale-Y:hover {transform: scaleY(0.97) !important;}
+.-scale-Y-2-sm-A:active {transform: scaleY(0.94) !important;}
+.-scale-Y-3-sm-A:active {transform: scaleY(0.91) !important;}
+.-scale-Y-4-sm-A:active {transform: scaleY(0.88) !important;}
+.-scale-Y-5-sm-A:active {transform: scaleY(0.85) !important;}
+.-scale-Y-6-sm-A:active {transform: scaleY(0.82) !important;}
+.-scale-Y-7-sm-A:active {transform: scaleY(0.79) !important;}
+.-scale-Y-8-sm-A:active {transform: scaleY(0.76) !important;}
+.-scale-Y-9-sm-A:active {transform: scaleY(0.73) !important;}
 .scale-Y-0-sm-A:active {transform: scaleY(1) !important;}
 
 /* rotate */
@@ -16039,6 +16047,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .inline-flex-md, .inline-flex-md-H:hover {display: inline-flex;}
 .grid-md, .grid-md-H:hover {display: grid;}
 .table-md, .table-md-H:hover {display: table;}
+.contents-md, .contents-md-H:hover {display: contents;}
 
 /* color */
 .white-md, .white-md-H:hover {color: #fff;}
@@ -18906,6 +18915,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .grow-18-md, .grow-18-md-H:hover {flex-grow: 18;}
 .grow-19-md, .grow-19-md-H:hover {flex-grow: 19;}
 .grow-20-md, .grow-20-md-H:hover {flex-grow: 20;}
+.grow-0-md, .grow-0-md-H:hover {flex-grow: 0;}
 
 /* order */
 .order-1-md, .order-1-md-H:hover {order: 1;}
@@ -19288,105 +19298,105 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .translate-0-md, .translate-0-md-H:hover {transform: translate(0%, 0%);}
 
 /* scale-num */
-.scale-md, .scale-md-H:hover {transform: scale(1.1);}
-.scale-2-md, .scale-2-md-H:hover {transform: scale(1.2);}
-.scale-3-md, .scale-3-md-H:hover {transform: scale(1.3);}
-.scale-4-md, .scale-4-md-H:hover {transform: scale(1.4);}
-.scale-5-md, .scale-5-md-H:hover {transform: scale(1.5);}
-.scale-6-md, .scale-6-md-H:hover {transform: scale(1.6);}
-.scale-7-md, .scale-7-md-H:hover {transform: scale(1.7);}
-.scale-8-md, .scale-8-md-H:hover {transform: scale(1.8);}
-.scale-9-md, .scale-9-md-H:hover {transform: scale(1.9);}
-.scale-10-md, .scale-10-md-H:hover {transform: scale(2);}
-.scale-11-md, .scale-11-md-H:hover {transform: scale(2.1);}
-.scale-12-md, .scale-12-md-H:hover {transform: scale(2.2);}
-.scale-13-md, .scale-13-md-H:hover {transform: scale(2.3);}
-.scale-14-md, .scale-14-md-H:hover {transform: scale(2.4);}
-.scale-15-md, .scale-15-md-H:hover {transform: scale(2.5);}
-.scale-16-md, .scale-16-md-H:hover {transform: scale(2.6);}
-.scale-17-md, .scale-17-md-H:hover {transform: scale(2.7);}
-.scale-18-md, .scale-18-md-H:hover {transform: scale(2.8);}
-.scale-19-md, .scale-19-md-H:hover {transform: scale(2.9);}
-.scale-20-md, .scale-20-md-H:hover {transform: scale(3);}
+.scale-md, .scale-md-H:hover {transform: scale(1.03);}
+.scale-2-md, .scale-2-md-H:hover {transform: scale(1.06);}
+.scale-3-md, .scale-3-md-H:hover {transform: scale(1.09);}
+.scale-4-md, .scale-4-md-H:hover {transform: scale(1.12);}
+.scale-5-md, .scale-5-md-H:hover {transform: scale(1.15);}
+.scale-6-md, .scale-6-md-H:hover {transform: scale(1.18);}
+.scale-7-md, .scale-7-md-H:hover {transform: scale(1.21);}
+.scale-8-md, .scale-8-md-H:hover {transform: scale(1.24);}
+.scale-9-md, .scale-9-md-H:hover {transform: scale(1.27);}
+.scale-10-md, .scale-10-md-H:hover {transform: scale(1.3);}
+.scale-11-md, .scale-11-md-H:hover {transform: scale(1.33);}
+.scale-12-md, .scale-12-md-H:hover {transform: scale(1.36);}
+.scale-13-md, .scale-13-md-H:hover {transform: scale(1.39);}
+.scale-14-md, .scale-14-md-H:hover {transform: scale(1.42);}
+.scale-15-md, .scale-15-md-H:hover {transform: scale(1.45);}
+.scale-16-md, .scale-16-md-H:hover {transform: scale(1.48);}
+.scale-17-md, .scale-17-md-H:hover {transform: scale(1.51);}
+.scale-18-md, .scale-18-md-H:hover {transform: scale(1.54);}
+.scale-19-md, .scale-19-md-H:hover {transform: scale(1.57);}
+.scale-20-md, .scale-20-md-H:hover {transform: scale(1.6);}
 
 /* -scale-num */
-.-scale-md, .-scale-md-H:hover {transform: scale(0.95);}
-.-scale-2-md, .-scale-2-md-H:hover {transform: scale(0.9);}
-.-scale-3-md, .-scale-3-md-H:hover {transform: scale(0.85);}
-.-scale-4-md, .-scale-4-md-H:hover {transform: scale(0.8);}
-.-scale-5-md, .-scale-5-md-H:hover {transform: scale(0.75);}
-.-scale-6-md, .-scale-6-md-H:hover {transform: scale(0.7);}
-.-scale-7-md, .-scale-7-md-H:hover {transform: scale(0.65);}
-.-scale-8-md, .-scale-8-md-H:hover {transform: scale(0.6);}
-.-scale-9-md, .-scale-9-md-H:hover {transform: scale(0.55);}
+.-scale-md, .-scale-md-H:hover {transform: scale(0.97);}
+.-scale-2-md, .-scale-2-md-H:hover {transform: scale(0.94);}
+.-scale-3-md, .-scale-3-md-H:hover {transform: scale(0.91);}
+.-scale-4-md, .-scale-4-md-H:hover {transform: scale(0.88);}
+.-scale-5-md, .-scale-5-md-H:hover {transform: scale(0.85);}
+.-scale-6-md, .-scale-6-md-H:hover {transform: scale(0.82);}
+.-scale-7-md, .-scale-7-md-H:hover {transform: scale(0.79);}
+.-scale-8-md, .-scale-8-md-H:hover {transform: scale(0.76);}
+.-scale-9-md, .-scale-9-md-H:hover {transform: scale(0.73);}
 .scale-0-md, .scale-0-md-H:hover {transform: scale(1);}
 
 /* scale-X-num */
-.scale-X-md, .scale-X-md-H:hover {transform: scaleX(1.1);}
-.scale-X-2-md, .scale-X-2-md-H:hover {transform: scaleX(1.2);}
-.scale-X-3-md, .scale-X-3-md-H:hover {transform: scaleX(1.3);}
-.scale-X-4-md, .scale-X-4-md-H:hover {transform: scaleX(1.4);}
-.scale-X-5-md, .scale-X-5-md-H:hover {transform: scaleX(1.5);}
-.scale-X-6-md, .scale-X-6-md-H:hover {transform: scaleX(1.6);}
-.scale-X-7-md, .scale-X-7-md-H:hover {transform: scaleX(1.7);}
-.scale-X-8-md, .scale-X-8-md-H:hover {transform: scaleX(1.8);}
-.scale-X-9-md, .scale-X-9-md-H:hover {transform: scaleX(1.9);}
-.scale-X-10-md, .scale-X-10-md-H:hover {transform: scaleX(2);}
-.scale-X-11-md, .scale-X-11-md-H:hover {transform: scaleX(2.1);}
-.scale-X-12-md, .scale-X-12-md-H:hover {transform: scaleX(2.2);}
-.scale-X-13-md, .scale-X-13-md-H:hover {transform: scaleX(2.3);}
-.scale-X-14-md, .scale-X-14-md-H:hover {transform: scaleX(2.4);}
-.scale-X-15-md, .scale-X-15-md-H:hover {transform: scaleX(2.5);}
-.scale-X-16-md, .scale-X-16-md-H:hover {transform: scaleX(2.6);}
-.scale-X-17-md, .scale-X-17-md-H:hover {transform: scaleX(2.7);}
-.scale-X-18-md, .scale-X-18-md-H:hover {transform: scaleX(2.8);}
-.scale-X-19-md, .scale-X-19-md-H:hover {transform: scaleX(2.9);}
-.scale-X-20-md, .scale-X-20-md-H:hover {transform: scaleX(3);}
+.scale-X-md, .scale-X-md-H:hover {transform: scaleX(1.03);}
+.scale-X-2-md, .scale-X-2-md-H:hover {transform: scaleX(1.06);}
+.scale-X-3-md, .scale-X-3-md-H:hover {transform: scaleX(1.09);}
+.scale-X-4-md, .scale-X-4-md-H:hover {transform: scaleX(1.12);}
+.scale-X-5-md, .scale-X-5-md-H:hover {transform: scaleX(1.15);}
+.scale-X-6-md, .scale-X-6-md-H:hover {transform: scaleX(1.18);}
+.scale-X-7-md, .scale-X-7-md-H:hover {transform: scaleX(1.21);}
+.scale-X-8-md, .scale-X-8-md-H:hover {transform: scaleX(1.24);}
+.scale-X-9-md, .scale-X-9-md-H:hover {transform: scaleX(1.27);}
+.scale-X-10-md, .scale-X-10-md-H:hover {transform: scaleX(1.3);}
+.scale-X-11-md, .scale-X-11-md-H:hover {transform: scaleX(1.33);}
+.scale-X-12-md, .scale-X-12-md-H:hover {transform: scaleX(1.36);}
+.scale-X-13-md, .scale-X-13-md-H:hover {transform: scaleX(1.39);}
+.scale-X-14-md, .scale-X-14-md-H:hover {transform: scaleX(1.42);}
+.scale-X-15-md, .scale-X-15-md-H:hover {transform: scaleX(1.45);}
+.scale-X-16-md, .scale-X-16-md-H:hover {transform: scaleX(1.48);}
+.scale-X-17-md, .scale-X-17-md-H:hover {transform: scaleX(1.51);}
+.scale-X-18-md, .scale-X-18-md-H:hover {transform: scaleX(1.54);}
+.scale-X-19-md, .scale-X-19-md-H:hover {transform: scaleX(1.57);}
+.scale-X-20-md, .scale-X-20-md-H:hover {transform: scaleX(1.6);}
 
 /* -scale-X-num */
-.-scale-X-md, .-scale-X:hover {transform: scaleX(0.95);}
-.-scale-X-2-md, .-scale-X-2-md-H:hover {transform: scaleX(0.9);}
-.-scale-X-3-md, .-scale-X-3-md-H:hover {transform: scaleX(0.85);}
-.-scale-X-4-md, .-scale-X-4-md-H:hover {transform: scaleX(0.8);}
-.-scale-X-5-md, .-scale-X-5-md-H:hover {transform: scaleX(0.75);}
-.-scale-X-6-md, .-scale-X-6-md-H:hover {transform: scaleX(0.7);}
-.-scale-X-7-md, .-scale-X-7-md-H:hover {transform: scaleX(0.65);}
-.-scale-X-8-md, .-scale-X-8-md-H:hover {transform: scaleX(0.6);}
-.-scale-X-9-md, .-scale-X-9-md-H:hover {transform: scaleX(0.55);}
+.-scale-X-md, .-scale-X:hover {transform: scaleX(0.97);}
+.-scale-X-2-md, .-scale-X-2-md-H:hover {transform: scaleX(0.94);}
+.-scale-X-3-md, .-scale-X-3-md-H:hover {transform: scaleX(0.91);}
+.-scale-X-4-md, .-scale-X-4-md-H:hover {transform: scaleX(0.88);}
+.-scale-X-5-md, .-scale-X-5-md-H:hover {transform: scaleX(0.85);}
+.-scale-X-6-md, .-scale-X-6-md-H:hover {transform: scaleX(0.82);}
+.-scale-X-7-md, .-scale-X-7-md-H:hover {transform: scaleX(0.79);}
+.-scale-X-8-md, .-scale-X-8-md-H:hover {transform: scaleX(0.76);}
+.-scale-X-9-md, .-scale-X-9-md-H:hover {transform: scaleX(0.73);}
 .scale-X-0-md, .scale-X-0-md-H:hover {transform: scaleX(1);}
 
 /* scale-Y-num */
-.scale-Y-md, .scale-Y-md-H:hover {transform: scaleY(1.1);}
-.scale-Y-2-md, .scale-Y-2-md-H:hover {transform: scaleY(1.2);}
-.scale-Y-3-md, .scale-Y-3-md-H:hover {transform: scaleY(1.3);}
-.scale-Y-4-md, .scale-Y-4-md-H:hover {transform: scaleY(1.4);}
-.scale-Y-5-md, .scale-Y-5-md-H:hover {transform: scaleY(1.5);}
-.scale-Y-6-md, .scale-Y-6-md-H:hover {transform: scaleY(1.6);}
-.scale-Y-7-md, .scale-Y-7-md-H:hover {transform: scaleY(1.7);}
-.scale-Y-8-md, .scale-Y-8-md-H:hover {transform: scaleY(1.8);}
-.scale-Y-9-md, .scale-Y-9-md-H:hover {transform: scaleY(1.9);}
-.scale-Y-10-md, .scale-Y-10-md-H:hover {transform: scaleY(2);}
-.scale-Y-11-md, .scale-Y-11-md-H:hover {transform: scaleY(2.1);}
-.scale-Y-12-md, .scale-Y-12-md-H:hover {transform: scaleY(2.2);}
-.scale-Y-13-md, .scale-Y-13-md-H:hover {transform: scaleY(2.3);}
-.scale-Y-14-md, .scale-Y-14-md-H:hover {transform: scaleY(2.4);}
-.scale-Y-15-md, .scale-Y-15-md-H:hover {transform: scaleY(2.5);}
-.scale-Y-16-md, .scale-Y-16-md-H:hover {transform: scaleY(2.6);}
-.scale-Y-17-md, .scale-Y-17-md-H:hover {transform: scaleY(2.7);}
-.scale-Y-18-md, .scale-Y-18-md-H:hover {transform: scaleY(2.8);}
-.scale-Y-19-md, .scale-Y-19-md-H:hover {transform: scaleY(2.9);}
-.scale-Y-20-md, .scale-Y-20-md-H:hover {transform: scaleY(3);}
+.scale-Y-md, .scale-Y-md-H:hover {transform: scaleY(1.03);}
+.scale-Y-2-md, .scale-Y-2-md-H:hover {transform: scaleY(1.06);}
+.scale-Y-3-md, .scale-Y-3-md-H:hover {transform: scaleY(1.09);}
+.scale-Y-4-md, .scale-Y-4-md-H:hover {transform: scaleY(1.12);}
+.scale-Y-5-md, .scale-Y-5-md-H:hover {transform: scaleY(1.15);}
+.scale-Y-6-md, .scale-Y-6-md-H:hover {transform: scaleY(1.18);}
+.scale-Y-7-md, .scale-Y-7-md-H:hover {transform: scaleY(1.21);}
+.scale-Y-8-md, .scale-Y-8-md-H:hover {transform: scaleY(1.24);}
+.scale-Y-9-md, .scale-Y-9-md-H:hover {transform: scaleY(1.27);}
+.scale-Y-10-md, .scale-Y-10-md-H:hover {transform: scaleY(1.3);}
+.scale-Y-11-md, .scale-Y-11-md-H:hover {transform: scaleY(1.33);}
+.scale-Y-12-md, .scale-Y-12-md-H:hover {transform: scaleY(1.36);}
+.scale-Y-13-md, .scale-Y-13-md-H:hover {transform: scaleY(1.39);}
+.scale-Y-14-md, .scale-Y-14-md-H:hover {transform: scaleY(1.42);}
+.scale-Y-15-md, .scale-Y-15-md-H:hover {transform: scaleY(1.45);}
+.scale-Y-16-md, .scale-Y-16-md-H:hover {transform: scaleY(1.48);}
+.scale-Y-17-md, .scale-Y-17-md-H:hover {transform: scaleY(1.51);}
+.scale-Y-18-md, .scale-Y-18-md-H:hover {transform: scaleY(1.54);}
+.scale-Y-19-md, .scale-Y-19-md-H:hover {transform: scaleY(1.57);}
+.scale-Y-20-md, .scale-Y-20-md-H:hover {transform: scaleY(1.6);}
 
 /* -scale-Y-num */
-.-scale-Y-md, .-scale-Y:hover {transform: scaleY(0.95);}
-.-scale-Y-2-md, .-scale-Y-2-md-H:hover {transform: scaleY(0.9);}
-.-scale-Y-3-md, .-scale-Y-3-md-H:hover {transform: scaleY(0.85);}
-.-scale-Y-4-md, .-scale-Y-4-md-H:hover {transform: scaleY(0.8);}
-.-scale-Y-5-md, .-scale-Y-5-md-H:hover {transform: scaleY(0.75);}
-.-scale-Y-6-md, .-scale-Y-6-md-H:hover {transform: scaleY(0.7);}
-.-scale-Y-7-md, .-scale-Y-7-md-H:hover {transform: scaleY(0.65);}
-.-scale-Y-8-md, .-scale-Y-8-md-H:hover {transform: scaleY(0.6);}
-.-scale-Y-9-md, .-scale-Y-9-md-H:hover {transform: scaleY(0.55);}
+.-scale-Y-md, .-scale-Y:hover {transform: scaleY(0.97);}
+.-scale-Y-2-md, .-scale-Y-2-md-H:hover {transform: scaleY(0.94);}
+.-scale-Y-3-md, .-scale-Y-3-md-H:hover {transform: scaleY(0.91);}
+.-scale-Y-4-md, .-scale-Y-4-md-H:hover {transform: scaleY(0.88);}
+.-scale-Y-5-md, .-scale-Y-5-md-H:hover {transform: scaleY(0.85);}
+.-scale-Y-6-md, .-scale-Y-6-md-H:hover {transform: scaleY(0.82);}
+.-scale-Y-7-md, .-scale-Y-7-md-H:hover {transform: scaleY(0.79);}
+.-scale-Y-8-md, .-scale-Y-8-md-H:hover {transform: scaleY(0.76);}
+.-scale-Y-9-md, .-scale-Y-9-md-H:hover {transform: scaleY(0.73);}
 .scale-Y-0-md, .scale-Y-0-md-H:hover {transform: scaleY(1);}
 
 /* rotate */
@@ -19972,6 +19982,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .inline-flex-md-A:active {display: inline-flex !important;}
 .grid-md-A:active {display: grid !important;}
 .table-md-A:active {display: table !important;}
+.contents-md-A:active {display: contents !important;}
 
 /* color */
 .white-md-A:active {color: #fff !important;}
@@ -22839,6 +22850,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .grow-18-md-A:active {flex-grow: 18 !important;}
 .grow-19-md-A:active {flex-grow: 19 !important;}
 .grow-20-md-A:active {flex-grow: 20 !important;}
+.grow-0-md-A-active {flex-grow: 0 !important;}
 
 /* order */
 .order-1-md-A:active {order: 1 !important;}
@@ -23221,105 +23233,105 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .translate-0-md-A:active {transform: translate(0%, 0%) !important;}
 
 /* scale-num */
-.scale-md-A:active {transform: scale(1.1) !important;}
-.scale-2-md-A:active {transform: scale(1.2) !important;}
-.scale-3-md-A:active {transform: scale(1.3) !important;}
-.scale-4-md-A:active {transform: scale(1.4) !important;}
-.scale-5-md-A:active {transform: scale(1.5) !important;}
-.scale-6-md-A:active {transform: scale(1.6) !important;}
-.scale-7-md-A:active {transform: scale(1.7) !important;}
-.scale-8-md-A:active {transform: scale(1.8) !important;}
-.scale-9-md-A:active {transform: scale(1.9) !important;}
-.scale-10-md-A:active {transform: scale(2) !important;}
-.scale-11-md-A:active {transform: scale(2.1) !important;}
-.scale-12-md-A:active {transform: scale(2.2) !important;}
-.scale-13-md-A:active {transform: scale(2.3) !important;}
-.scale-14-md-A:active {transform: scale(2.4) !important;}
-.scale-15-md-A:active {transform: scale(2.5) !important;}
-.scale-16-md-A:active {transform: scale(2.6) !important;}
-.scale-17-md-A:active {transform: scale(2.7) !important;}
-.scale-18-md-A:active {transform: scale(2.8) !important;}
-.scale-19-md-A:active {transform: scale(2.9) !important;}
-.scale-20-md-A:active {transform: scale(3) !important;}
+.scale-md-A:active {transform: scale(1.03) !important;}
+.scale-2-md-A:active {transform: scale(1.06) !important;}
+.scale-3-md-A:active {transform: scale(1.09) !important;}
+.scale-4-md-A:active {transform: scale(1.12) !important;}
+.scale-5-md-A:active {transform: scale(1.15) !important;}
+.scale-6-md-A:active {transform: scale(1.18) !important;}
+.scale-7-md-A:active {transform: scale(1.21) !important;}
+.scale-8-md-A:active {transform: scale(1.24) !important;}
+.scale-9-md-A:active {transform: scale(1.27) !important;}
+.scale-10-md-A:active {transform: scale(1.3) !important;}
+.scale-11-md-A:active {transform: scale(1.33) !important;}
+.scale-12-md-A:active {transform: scale(1.36) !important;}
+.scale-13-md-A:active {transform: scale(1.39) !important;}
+.scale-14-md-A:active {transform: scale(1.42) !important;}
+.scale-15-md-A:active {transform: scale(1.45) !important;}
+.scale-16-md-A:active {transform: scale(1.48) !important;}
+.scale-17-md-A:active {transform: scale(1.51) !important;}
+.scale-18-md-A:active {transform: scale(1.54) !important;}
+.scale-19-md-A:active {transform: scale(1.57) !important;}
+.scale-20-md-A:active {transform: scale(1.6) !important;}
 
 /* -scale-num */
-.-scale-md-A:active {transform: scale(0.95) !important;}
-.-scale-2-md-A:active {transform: scale(0.9) !important;}
-.-scale-3-md-A:active {transform: scale(0.85) !important;}
-.-scale-4-md-A:active {transform: scale(0.8) !important;}
-.-scale-5-md-A:active {transform: scale(0.75) !important;}
-.-scale-6-md-A:active {transform: scale(0.7) !important;}
-.-scale-7-md-A:active {transform: scale(0.65) !important;}
-.-scale-8-md-A:active {transform: scale(0.6) !important;}
-.-scale-9-md-A:active {transform: scale(0.55) !important;}
+.-scale-md-A:active {transform: scale(0.97) !important;}
+.-scale-2-md-A:active {transform: scale(0.94) !important;}
+.-scale-3-md-A:active {transform: scale(0.91) !important;}
+.-scale-4-md-A:active {transform: scale(0.88) !important;}
+.-scale-5-md-A:active {transform: scale(0.85) !important;}
+.-scale-6-md-A:active {transform: scale(0.82) !important;}
+.-scale-7-md-A:active {transform: scale(0.79) !important;}
+.-scale-8-md-A:active {transform: scale(0.76) !important;}
+.-scale-9-md-A:active {transform: scale(0.73) !important;}
 .scale-0-md-A:active {transform: scale(1) !important;}
 
 /* scale-X-num */
-.scale-X-md-A:active {transform: scaleX(1.1) !important;}
-.scale-X-2-md-A:active {transform: scaleX(1.2) !important;}
-.scale-X-3-md-A:active {transform: scaleX(1.3) !important;}
-.scale-X-4-md-A:active {transform: scaleX(1.4) !important;}
-.scale-X-5-md-A:active {transform: scaleX(1.5) !important;}
-.scale-X-6-md-A:active {transform: scaleX(1.6) !important;}
-.scale-X-7-md-A:active {transform: scaleX(1.7) !important;}
-.scale-X-8-md-A:active {transform: scaleX(1.8) !important;}
-.scale-X-9-md-A:active {transform: scaleX(1.9) !important;}
-.scale-X-10-md-A:active {transform: scaleX(2) !important;}
-.scale-X-11-md-A:active {transform: scaleX(2.1) !important;}
-.scale-X-12-md-A:active {transform: scaleX(2.2) !important;}
-.scale-X-13-md-A:active {transform: scaleX(2.3) !important;}
-.scale-X-14-md-A:active {transform: scaleX(2.4) !important;}
-.scale-X-15-md-A:active {transform: scaleX(2.5) !important;}
-.scale-X-16-md-A:active {transform: scaleX(2.6) !important;}
-.scale-X-17-md-A:active {transform: scaleX(2.7) !important;}
-.scale-X-18-md-A:active {transform: scaleX(2.8) !important;}
-.scale-X-19-md-A:active {transform: scaleX(2.9) !important;}
-.scale-X-20-md-A:active {transform: scaleX(3) !important;}
+.scale-X-md-A:active {transform: scaleX(1.03) !important;}
+.scale-X-2-md-A:active {transform: scaleX(1.06) !important;}
+.scale-X-3-md-A:active {transform: scaleX(1.09) !important;}
+.scale-X-4-md-A:active {transform: scaleX(1.12) !important;}
+.scale-X-5-md-A:active {transform: scaleX(1.15) !important;}
+.scale-X-6-md-A:active {transform: scaleX(1.18) !important;}
+.scale-X-7-md-A:active {transform: scaleX(1.21) !important;}
+.scale-X-8-md-A:active {transform: scaleX(1.24) !important;}
+.scale-X-9-md-A:active {transform: scaleX(1.27) !important;}
+.scale-X-10-md-A:active {transform: scaleX(1.3) !important;}
+.scale-X-11-md-A:active {transform: scaleX(1.33) !important;}
+.scale-X-12-md-A:active {transform: scaleX(1.36) !important;}
+.scale-X-13-md-A:active {transform: scaleX(1.39) !important;}
+.scale-X-14-md-A:active {transform: scaleX(1.42) !important;}
+.scale-X-15-md-A:active {transform: scaleX(1.45) !important;}
+.scale-X-16-md-A:active {transform: scaleX(1.48) !important;}
+.scale-X-17-md-A:active {transform: scaleX(1.51) !important;}
+.scale-X-18-md-A:active {transform: scaleX(1.54) !important;}
+.scale-X-19-md-A:active {transform: scaleX(1.57) !important;}
+.scale-X-20-md-A:active {transform: scaleX(1.6) !important;}
 
 /* -scale-X-num */
-.-scale-X:hover {transform: scaleX(0.95) !important;}
-.-scale-X-2-md-A:active {transform: scaleX(0.9) !important;}
-.-scale-X-3-md-A:active {transform: scaleX(0.85) !important;}
-.-scale-X-4-md-A:active {transform: scaleX(0.8) !important;}
-.-scale-X-5-md-A:active {transform: scaleX(0.75) !important;}
-.-scale-X-6-md-A:active {transform: scaleX(0.7) !important;}
-.-scale-X-7-md-A:active {transform: scaleX(0.65) !important;}
-.-scale-X-8-md-A:active {transform: scaleX(0.6) !important;}
-.-scale-X-9-md-A:active {transform: scaleX(0.55) !important;}
+.-scale-X:hover {transform: scaleX(0.97) !important;}
+.-scale-X-2-md-A:active {transform: scaleX(0.94) !important;}
+.-scale-X-3-md-A:active {transform: scaleX(0.91) !important;}
+.-scale-X-4-md-A:active {transform: scaleX(0.88) !important;}
+.-scale-X-5-md-A:active {transform: scaleX(0.85) !important;}
+.-scale-X-6-md-A:active {transform: scaleX(0.82) !important;}
+.-scale-X-7-md-A:active {transform: scaleX(0.79) !important;}
+.-scale-X-8-md-A:active {transform: scaleX(0.76) !important;}
+.-scale-X-9-md-A:active {transform: scaleX(0.73) !important;}
 .scale-X-0-md-A:active {transform: scaleX(1) !important;}
 
 /* scale-Y-num */
-.scale-Y-md-A:active {transform: scaleY(1.1) !important;}
-.scale-Y-2-md-A:active {transform: scaleY(1.2) !important;}
-.scale-Y-3-md-A:active {transform: scaleY(1.3) !important;}
-.scale-Y-4-md-A:active {transform: scaleY(1.4) !important;}
-.scale-Y-5-md-A:active {transform: scaleY(1.5) !important;}
-.scale-Y-6-md-A:active {transform: scaleY(1.6) !important;}
-.scale-Y-7-md-A:active {transform: scaleY(1.7) !important;}
-.scale-Y-8-md-A:active {transform: scaleY(1.8) !important;}
-.scale-Y-9-md-A:active {transform: scaleY(1.9) !important;}
-.scale-Y-10-md-A:active {transform: scaleY(2) !important;}
-.scale-Y-11-md-A:active {transform: scaleY(2.1) !important;}
-.scale-Y-12-md-A:active {transform: scaleY(2.2) !important;}
-.scale-Y-13-md-A:active {transform: scaleY(2.3) !important;}
-.scale-Y-14-md-A:active {transform: scaleY(2.4) !important;}
-.scale-Y-15-md-A:active {transform: scaleY(2.5) !important;}
-.scale-Y-16-md-A:active {transform: scaleY(2.6) !important;}
-.scale-Y-17-md-A:active {transform: scaleY(2.7) !important;}
-.scale-Y-18-md-A:active {transform: scaleY(2.8) !important;}
-.scale-Y-19-md-A:active {transform: scaleY(2.9) !important;}
-.scale-Y-20-md-A:active {transform: scaleY(3) !important;}
+.scale-Y-md-A:active {transform: scaleY(1.03) !important;}
+.scale-Y-2-md-A:active {transform: scaleY(1.06) !important;}
+.scale-Y-3-md-A:active {transform: scaleY(1.09) !important;}
+.scale-Y-4-md-A:active {transform: scaleY(1.12) !important;}
+.scale-Y-5-md-A:active {transform: scaleY(1.15) !important;}
+.scale-Y-6-md-A:active {transform: scaleY(1.18) !important;}
+.scale-Y-7-md-A:active {transform: scaleY(1.21) !important;}
+.scale-Y-8-md-A:active {transform: scaleY(1.24) !important;}
+.scale-Y-9-md-A:active {transform: scaleY(1.27) !important;}
+.scale-Y-10-md-A:active {transform: scaleY(1.3) !important;}
+.scale-Y-11-md-A:active {transform: scaleY(1.33) !important;}
+.scale-Y-12-md-A:active {transform: scaleY(1.36) !important;}
+.scale-Y-13-md-A:active {transform: scaleY(1.39) !important;}
+.scale-Y-14-md-A:active {transform: scaleY(1.42) !important;}
+.scale-Y-15-md-A:active {transform: scaleY(1.45) !important;}
+.scale-Y-16-md-A:active {transform: scaleY(1.48) !important;}
+.scale-Y-17-md-A:active {transform: scaleY(1.51) !important;}
+.scale-Y-18-md-A:active {transform: scaleY(1.54) !important;}
+.scale-Y-19-md-A:active {transform: scaleY(1.57) !important;}
+.scale-Y-20-md-A:active {transform: scaleY(1.6) !important;}
 
 /* -scale-Y-num */
-.-scale-Y:hover {transform: scaleY(0.95) !important;}
-.-scale-Y-2-md-A:active {transform: scaleY(0.9) !important;}
-.-scale-Y-3-md-A:active {transform: scaleY(0.85) !important;}
-.-scale-Y-4-md-A:active {transform: scaleY(0.8) !important;}
-.-scale-Y-5-md-A:active {transform: scaleY(0.75) !important;}
-.-scale-Y-6-md-A:active {transform: scaleY(0.7) !important;}
-.-scale-Y-7-md-A:active {transform: scaleY(0.65) !important;}
-.-scale-Y-8-md-A:active {transform: scaleY(0.6) !important;}
-.-scale-Y-9-md-A:active {transform: scaleY(0.55) !important;}
+.-scale-Y:hover {transform: scaleY(0.97) !important;}
+.-scale-Y-2-md-A:active {transform: scaleY(0.94) !important;}
+.-scale-Y-3-md-A:active {transform: scaleY(0.91) !important;}
+.-scale-Y-4-md-A:active {transform: scaleY(0.88) !important;}
+.-scale-Y-5-md-A:active {transform: scaleY(0.85) !important;}
+.-scale-Y-6-md-A:active {transform: scaleY(0.82) !important;}
+.-scale-Y-7-md-A:active {transform: scaleY(0.79) !important;}
+.-scale-Y-8-md-A:active {transform: scaleY(0.76) !important;}
+.-scale-Y-9-md-A:active {transform: scaleY(0.73) !important;}
 .scale-Y-0-md-A:active {transform: scaleY(1) !important;}
 
 /* rotate */
@@ -23912,6 +23924,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .inline-flex-lg, .inline-flex-lg-H:hover {display: inline-flex;}
 .grid-lg, .grid-lg-H:hover {display: grid;}
 .table-lg, .table-lg-H:hover {display: table;}
+.contents-lg, .contents-lg-H:hover {display: contents;}
 
 /* color */
 .white-lg, .white-lg-H:hover {color: #fff;}
@@ -26779,6 +26792,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .grow-18-lg, .grow-18-lg-H:hover {flex-grow: 18;}
 .grow-19-lg, .grow-19-lg-H:hover {flex-grow: 19;}
 .grow-20-lg, .grow-20-lg-H:hover {flex-grow: 20;}
+.grow-0-lg, .grow-0-lg-H:hover {flex-grow: 0;}
 
 /* order */
 .order-1-lg, .order-1-lg-H:hover {order: 1;}
@@ -27161,105 +27175,105 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .translate-0-lg, .translate-0-lg-H:hover {transform: translate(0%, 0%);}
 
 /* scale-num */
-.scale-lg, .scale-lg-H:hover {transform: scale(1.1);}
-.scale-2-lg, .scale-2-lg-H:hover {transform: scale(1.2);}
-.scale-3-lg, .scale-3-lg-H:hover {transform: scale(1.3);}
-.scale-4-lg, .scale-4-lg-H:hover {transform: scale(1.4);}
-.scale-5-lg, .scale-5-lg-H:hover {transform: scale(1.5);}
-.scale-6-lg, .scale-6-lg-H:hover {transform: scale(1.6);}
-.scale-7-lg, .scale-7-lg-H:hover {transform: scale(1.7);}
-.scale-8-lg, .scale-8-lg-H:hover {transform: scale(1.8);}
-.scale-9-lg, .scale-9-lg-H:hover {transform: scale(1.9);}
-.scale-10-lg, .scale-10-lg-H:hover {transform: scale(2);}
-.scale-11-lg, .scale-11-lg-H:hover {transform: scale(2.1);}
-.scale-12-lg, .scale-12-lg-H:hover {transform: scale(2.2);}
-.scale-13-lg, .scale-13-lg-H:hover {transform: scale(2.3);}
-.scale-14-lg, .scale-14-lg-H:hover {transform: scale(2.4);}
-.scale-15-lg, .scale-15-lg-H:hover {transform: scale(2.5);}
-.scale-16-lg, .scale-16-lg-H:hover {transform: scale(2.6);}
-.scale-17-lg, .scale-17-lg-H:hover {transform: scale(2.7);}
-.scale-18-lg, .scale-18-lg-H:hover {transform: scale(2.8);}
-.scale-19-lg, .scale-19-lg-H:hover {transform: scale(2.9);}
-.scale-20-lg, .scale-20-lg-H:hover {transform: scale(3);}
+.scale-lg, .scale-lg-H:hover {transform: scale(1.03);}
+.scale-2-lg, .scale-2-lg-H:hover {transform: scale(1.06);}
+.scale-3-lg, .scale-3-lg-H:hover {transform: scale(1.09);}
+.scale-4-lg, .scale-4-lg-H:hover {transform: scale(1.12);}
+.scale-5-lg, .scale-5-lg-H:hover {transform: scale(1.15);}
+.scale-6-lg, .scale-6-lg-H:hover {transform: scale(1.18);}
+.scale-7-lg, .scale-7-lg-H:hover {transform: scale(1.21);}
+.scale-8-lg, .scale-8-lg-H:hover {transform: scale(1.24);}
+.scale-9-lg, .scale-9-lg-H:hover {transform: scale(1.27);}
+.scale-10-lg, .scale-10-lg-H:hover {transform: scale(1.3);}
+.scale-11-lg, .scale-11-lg-H:hover {transform: scale(1.33);}
+.scale-12-lg, .scale-12-lg-H:hover {transform: scale(1.36);}
+.scale-13-lg, .scale-13-lg-H:hover {transform: scale(1.39);}
+.scale-14-lg, .scale-14-lg-H:hover {transform: scale(1.42);}
+.scale-15-lg, .scale-15-lg-H:hover {transform: scale(1.45);}
+.scale-16-lg, .scale-16-lg-H:hover {transform: scale(1.48);}
+.scale-17-lg, .scale-17-lg-H:hover {transform: scale(1.51);}
+.scale-18-lg, .scale-18-lg-H:hover {transform: scale(1.54);}
+.scale-19-lg, .scale-19-lg-H:hover {transform: scale(1.57);}
+.scale-20-lg, .scale-20-lg-H:hover {transform: scale(1.6);}
 
 /* -scale-num */
-.-scale-lg, .-scale-lg-H:hover {transform: scale(0.95);}
-.-scale-2-lg, .-scale-2-lg-H:hover {transform: scale(0.9);}
-.-scale-3-lg, .-scale-3-lg-H:hover {transform: scale(0.85);}
-.-scale-4-lg, .-scale-4-lg-H:hover {transform: scale(0.8);}
-.-scale-5-lg, .-scale-5-lg-H:hover {transform: scale(0.75);}
-.-scale-6-lg, .-scale-6-lg-H:hover {transform: scale(0.7);}
-.-scale-7-lg, .-scale-7-lg-H:hover {transform: scale(0.65);}
-.-scale-8-lg, .-scale-8-lg-H:hover {transform: scale(0.6);}
-.-scale-9-lg, .-scale-9-lg-H:hover {transform: scale(0.55);}
+.-scale-lg, .-scale-lg-H:hover {transform: scale(0.97);}
+.-scale-2-lg, .-scale-2-lg-H:hover {transform: scale(0.94);}
+.-scale-3-lg, .-scale-3-lg-H:hover {transform: scale(0.91);}
+.-scale-4-lg, .-scale-4-lg-H:hover {transform: scale(0.88);}
+.-scale-5-lg, .-scale-5-lg-H:hover {transform: scale(0.85);}
+.-scale-6-lg, .-scale-6-lg-H:hover {transform: scale(0.82);}
+.-scale-7-lg, .-scale-7-lg-H:hover {transform: scale(0.79);}
+.-scale-8-lg, .-scale-8-lg-H:hover {transform: scale(0.76);}
+.-scale-9-lg, .-scale-9-lg-H:hover {transform: scale(0.73);}
 .scale-0-lg, .scale-0-lg-H:hover {transform: scale(1);}
 
 /* scale-X-num */
-.scale-X-lg, .scale-X-lg-H:hover {transform: scaleX(1.1);}
-.scale-X-2-lg, .scale-X-2-lg-H:hover {transform: scaleX(1.2);}
-.scale-X-3-lg, .scale-X-3-lg-H:hover {transform: scaleX(1.3);}
-.scale-X-4-lg, .scale-X-4-lg-H:hover {transform: scaleX(1.4);}
-.scale-X-5-lg, .scale-X-5-lg-H:hover {transform: scaleX(1.5);}
-.scale-X-6-lg, .scale-X-6-lg-H:hover {transform: scaleX(1.6);}
-.scale-X-7-lg, .scale-X-7-lg-H:hover {transform: scaleX(1.7);}
-.scale-X-8-lg, .scale-X-8-lg-H:hover {transform: scaleX(1.8);}
-.scale-X-9-lg, .scale-X-9-lg-H:hover {transform: scaleX(1.9);}
-.scale-X-10-lg, .scale-X-10-lg-H:hover {transform: scaleX(2);}
-.scale-X-11-lg, .scale-X-11-lg-H:hover {transform: scaleX(2.1);}
-.scale-X-12-lg, .scale-X-12-lg-H:hover {transform: scaleX(2.2);}
-.scale-X-13-lg, .scale-X-13-lg-H:hover {transform: scaleX(2.3);}
-.scale-X-14-lg, .scale-X-14-lg-H:hover {transform: scaleX(2.4);}
-.scale-X-15-lg, .scale-X-15-lg-H:hover {transform: scaleX(2.5);}
-.scale-X-16-lg, .scale-X-16-lg-H:hover {transform: scaleX(2.6);}
-.scale-X-17-lg, .scale-X-17-lg-H:hover {transform: scaleX(2.7);}
-.scale-X-18-lg, .scale-X-18-lg-H:hover {transform: scaleX(2.8);}
-.scale-X-19-lg, .scale-X-19-lg-H:hover {transform: scaleX(2.9);}
-.scale-X-20-lg, .scale-X-20-lg-H:hover {transform: scaleX(3);}
+.scale-X-lg, .scale-X-lg-H:hover {transform: scaleX(1.03);}
+.scale-X-2-lg, .scale-X-2-lg-H:hover {transform: scaleX(1.06);}
+.scale-X-3-lg, .scale-X-3-lg-H:hover {transform: scaleX(1.09);}
+.scale-X-4-lg, .scale-X-4-lg-H:hover {transform: scaleX(1.12);}
+.scale-X-5-lg, .scale-X-5-lg-H:hover {transform: scaleX(1.15);}
+.scale-X-6-lg, .scale-X-6-lg-H:hover {transform: scaleX(1.18);}
+.scale-X-7-lg, .scale-X-7-lg-H:hover {transform: scaleX(1.21);}
+.scale-X-8-lg, .scale-X-8-lg-H:hover {transform: scaleX(1.24);}
+.scale-X-9-lg, .scale-X-9-lg-H:hover {transform: scaleX(1.27);}
+.scale-X-10-lg, .scale-X-10-lg-H:hover {transform: scaleX(1.3);}
+.scale-X-11-lg, .scale-X-11-lg-H:hover {transform: scaleX(1.33);}
+.scale-X-12-lg, .scale-X-12-lg-H:hover {transform: scaleX(1.36);}
+.scale-X-13-lg, .scale-X-13-lg-H:hover {transform: scaleX(1.39);}
+.scale-X-14-lg, .scale-X-14-lg-H:hover {transform: scaleX(1.42);}
+.scale-X-15-lg, .scale-X-15-lg-H:hover {transform: scaleX(1.45);}
+.scale-X-16-lg, .scale-X-16-lg-H:hover {transform: scaleX(1.48);}
+.scale-X-17-lg, .scale-X-17-lg-H:hover {transform: scaleX(1.51);}
+.scale-X-18-lg, .scale-X-18-lg-H:hover {transform: scaleX(1.54);}
+.scale-X-19-lg, .scale-X-19-lg-H:hover {transform: scaleX(1.57);}
+.scale-X-20-lg, .scale-X-20-lg-H:hover {transform: scaleX(1.6);}
 
 /* -scale-X-num */
-.-scale-X-lg, .-scale-X:hover {transform: scaleX(0.95);}
-.-scale-X-2-lg, .-scale-X-2-lg-H:hover {transform: scaleX(0.9);}
-.-scale-X-3-lg, .-scale-X-3-lg-H:hover {transform: scaleX(0.85);}
-.-scale-X-4-lg, .-scale-X-4-lg-H:hover {transform: scaleX(0.8);}
-.-scale-X-5-lg, .-scale-X-5-lg-H:hover {transform: scaleX(0.75);}
-.-scale-X-6-lg, .-scale-X-6-lg-H:hover {transform: scaleX(0.7);}
-.-scale-X-7-lg, .-scale-X-7-lg-H:hover {transform: scaleX(0.65);}
-.-scale-X-8-lg, .-scale-X-8-lg-H:hover {transform: scaleX(0.6);}
-.-scale-X-9-lg, .-scale-X-9-lg-H:hover {transform: scaleX(0.55);}
+.-scale-X-lg, .-scale-X:hover {transform: scaleX(0.97);}
+.-scale-X-2-lg, .-scale-X-2-lg-H:hover {transform: scaleX(0.94);}
+.-scale-X-3-lg, .-scale-X-3-lg-H:hover {transform: scaleX(0.91);}
+.-scale-X-4-lg, .-scale-X-4-lg-H:hover {transform: scaleX(0.88);}
+.-scale-X-5-lg, .-scale-X-5-lg-H:hover {transform: scaleX(0.85);}
+.-scale-X-6-lg, .-scale-X-6-lg-H:hover {transform: scaleX(0.82);}
+.-scale-X-7-lg, .-scale-X-7-lg-H:hover {transform: scaleX(0.79);}
+.-scale-X-8-lg, .-scale-X-8-lg-H:hover {transform: scaleX(0.76);}
+.-scale-X-9-lg, .-scale-X-9-lg-H:hover {transform: scaleX(0.73);}
 .scale-X-0-lg, .scale-X-0-lg-H:hover {transform: scaleX(1);}
 
 /* scale-Y-num */
-.scale-Y-lg, .scale-Y-lg-H:hover {transform: scaleY(1.1);}
-.scale-Y-2-lg, .scale-Y-2-lg-H:hover {transform: scaleY(1.2);}
-.scale-Y-3-lg, .scale-Y-3-lg-H:hover {transform: scaleY(1.3);}
-.scale-Y-4-lg, .scale-Y-4-lg-H:hover {transform: scaleY(1.4);}
-.scale-Y-5-lg, .scale-Y-5-lg-H:hover {transform: scaleY(1.5);}
-.scale-Y-6-lg, .scale-Y-6-lg-H:hover {transform: scaleY(1.6);}
-.scale-Y-7-lg, .scale-Y-7-lg-H:hover {transform: scaleY(1.7);}
-.scale-Y-8-lg, .scale-Y-8-lg-H:hover {transform: scaleY(1.8);}
-.scale-Y-9-lg, .scale-Y-9-lg-H:hover {transform: scaleY(1.9);}
-.scale-Y-10-lg, .scale-Y-10-lg-H:hover {transform: scaleY(2);}
-.scale-Y-11-lg, .scale-Y-11-lg-H:hover {transform: scaleY(2.1);}
-.scale-Y-12-lg, .scale-Y-12-lg-H:hover {transform: scaleY(2.2);}
-.scale-Y-13-lg, .scale-Y-13-lg-H:hover {transform: scaleY(2.3);}
-.scale-Y-14-lg, .scale-Y-14-lg-H:hover {transform: scaleY(2.4);}
-.scale-Y-15-lg, .scale-Y-15-lg-H:hover {transform: scaleY(2.5);}
-.scale-Y-16-lg, .scale-Y-16-lg-H:hover {transform: scaleY(2.6);}
-.scale-Y-17-lg, .scale-Y-17-lg-H:hover {transform: scaleY(2.7);}
-.scale-Y-18-lg, .scale-Y-18-lg-H:hover {transform: scaleY(2.8);}
-.scale-Y-19-lg, .scale-Y-19-lg-H:hover {transform: scaleY(2.9);}
-.scale-Y-20-lg, .scale-Y-20-lg-H:hover {transform: scaleY(3);}
+.scale-Y-lg, .scale-Y-lg-H:hover {transform: scaleY(1.03);}
+.scale-Y-2-lg, .scale-Y-2-lg-H:hover {transform: scaleY(1.06);}
+.scale-Y-3-lg, .scale-Y-3-lg-H:hover {transform: scaleY(1.09);}
+.scale-Y-4-lg, .scale-Y-4-lg-H:hover {transform: scaleY(1.12);}
+.scale-Y-5-lg, .scale-Y-5-lg-H:hover {transform: scaleY(1.15);}
+.scale-Y-6-lg, .scale-Y-6-lg-H:hover {transform: scaleY(1.18);}
+.scale-Y-7-lg, .scale-Y-7-lg-H:hover {transform: scaleY(1.21);}
+.scale-Y-8-lg, .scale-Y-8-lg-H:hover {transform: scaleY(1.24);}
+.scale-Y-9-lg, .scale-Y-9-lg-H:hover {transform: scaleY(1.27);}
+.scale-Y-10-lg, .scale-Y-10-lg-H:hover {transform: scaleY(1.3);}
+.scale-Y-11-lg, .scale-Y-11-lg-H:hover {transform: scaleY(1.33);}
+.scale-Y-12-lg, .scale-Y-12-lg-H:hover {transform: scaleY(1.36);}
+.scale-Y-13-lg, .scale-Y-13-lg-H:hover {transform: scaleY(1.39);}
+.scale-Y-14-lg, .scale-Y-14-lg-H:hover {transform: scaleY(1.42);}
+.scale-Y-15-lg, .scale-Y-15-lg-H:hover {transform: scaleY(1.45);}
+.scale-Y-16-lg, .scale-Y-16-lg-H:hover {transform: scaleY(1.48);}
+.scale-Y-17-lg, .scale-Y-17-lg-H:hover {transform: scaleY(1.51);}
+.scale-Y-18-lg, .scale-Y-18-lg-H:hover {transform: scaleY(1.54);}
+.scale-Y-19-lg, .scale-Y-19-lg-H:hover {transform: scaleY(1.57);}
+.scale-Y-20-lg, .scale-Y-20-lg-H:hover {transform: scaleY(1.6);}
 
 /* -scale-Y-num */
-.-scale-Y-lg, .-scale-Y:hover {transform: scaleY(0.95);}
-.-scale-Y-2-lg, .-scale-Y-2-lg-H:hover {transform: scaleY(0.9);}
-.-scale-Y-3-lg, .-scale-Y-3-lg-H:hover {transform: scaleY(0.85);}
-.-scale-Y-4-lg, .-scale-Y-4-lg-H:hover {transform: scaleY(0.8);}
-.-scale-Y-5-lg, .-scale-Y-5-lg-H:hover {transform: scaleY(0.75);}
-.-scale-Y-6-lg, .-scale-Y-6-lg-H:hover {transform: scaleY(0.7);}
-.-scale-Y-7-lg, .-scale-Y-7-lg-H:hover {transform: scaleY(0.65);}
-.-scale-Y-8-lg, .-scale-Y-8-lg-H:hover {transform: scaleY(0.6);}
-.-scale-Y-9-lg, .-scale-Y-9-lg-H:hover {transform: scaleY(0.55);}
+.-scale-Y-lg, .-scale-Y:hover {transform: scaleY(0.97);}
+.-scale-Y-2-lg, .-scale-Y-2-lg-H:hover {transform: scaleY(0.94);}
+.-scale-Y-3-lg, .-scale-Y-3-lg-H:hover {transform: scaleY(0.91);}
+.-scale-Y-4-lg, .-scale-Y-4-lg-H:hover {transform: scaleY(0.88);}
+.-scale-Y-5-lg, .-scale-Y-5-lg-H:hover {transform: scaleY(0.85);}
+.-scale-Y-6-lg, .-scale-Y-6-lg-H:hover {transform: scaleY(0.82);}
+.-scale-Y-7-lg, .-scale-Y-7-lg-H:hover {transform: scaleY(0.79);}
+.-scale-Y-8-lg, .-scale-Y-8-lg-H:hover {transform: scaleY(0.76);}
+.-scale-Y-9-lg, .-scale-Y-9-lg-H:hover {transform: scaleY(0.73);}
 .scale-Y-0-lg, .scale-Y-0-lg-H:hover {transform: scaleY(1);}
 
 /* rotate */
@@ -27846,6 +27860,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .inline-flex-lg-A:active {display: inline-flex !important;}
 .grid-lg-A:active {display: grid !important;}
 .table-lg-A:active {display: table !important;}
+.contents-lg-A:active {display: contents !important;}
 
 /* color */
 .white-lg-A:active {color: #fff !important;}
@@ -30714,6 +30729,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .grow-18-lg-A:active {flex-grow: 18 !important;}
 .grow-19-lg-A:active {flex-grow: 19 !important;}
 .grow-20-lg-A:active {flex-grow: 20 !important;}
+.grow-0-lg-A-active {flex-grow: 0 !important;}
 
 /* order */
 .order-1-lg-A:active {order: 1 !important;}
@@ -31096,105 +31112,105 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .translate-0-lg-A:active {transform: translate(0%, 0%) !important;}
 
 /* scale-num */
-.scale-lg-A:active {transform: scale(1.1) !important;}
-.scale-2-lg-A:active {transform: scale(1.2) !important;}
-.scale-3-lg-A:active {transform: scale(1.3) !important;}
-.scale-4-lg-A:active {transform: scale(1.4) !important;}
-.scale-5-lg-A:active {transform: scale(1.5) !important;}
-.scale-6-lg-A:active {transform: scale(1.6) !important;}
-.scale-7-lg-A:active {transform: scale(1.7) !important;}
-.scale-8-lg-A:active {transform: scale(1.8) !important;}
-.scale-9-lg-A:active {transform: scale(1.9) !important;}
-.scale-10-lg-A:active {transform: scale(2) !important;}
-.scale-11-lg-A:active {transform: scale(2.1) !important;}
-.scale-12-lg-A:active {transform: scale(2.2) !important;}
-.scale-13-lg-A:active {transform: scale(2.3) !important;}
-.scale-14-lg-A:active {transform: scale(2.4) !important;}
-.scale-15-lg-A:active {transform: scale(2.5) !important;}
-.scale-16-lg-A:active {transform: scale(2.6) !important;}
-.scale-17-lg-A:active {transform: scale(2.7) !important;}
-.scale-18-lg-A:active {transform: scale(2.8) !important;}
-.scale-19-lg-A:active {transform: scale(2.9) !important;}
-.scale-20-lg-A:active {transform: scale(3) !important;}
+.scale-lg-A:active {transform: scale(1.03) !important;}
+.scale-2-lg-A:active {transform: scale(1.06) !important;}
+.scale-3-lg-A:active {transform: scale(1.09) !important;}
+.scale-4-lg-A:active {transform: scale(1.12) !important;}
+.scale-5-lg-A:active {transform: scale(1.15) !important;}
+.scale-6-lg-A:active {transform: scale(1.18) !important;}
+.scale-7-lg-A:active {transform: scale(1.21) !important;}
+.scale-8-lg-A:active {transform: scale(1.24) !important;}
+.scale-9-lg-A:active {transform: scale(1.27) !important;}
+.scale-10-lg-A:active {transform: scale(1.3) !important;}
+.scale-11-lg-A:active {transform: scale(1.33) !important;}
+.scale-12-lg-A:active {transform: scale(1.36) !important;}
+.scale-13-lg-A:active {transform: scale(1.39) !important;}
+.scale-14-lg-A:active {transform: scale(1.42) !important;}
+.scale-15-lg-A:active {transform: scale(1.45) !important;}
+.scale-16-lg-A:active {transform: scale(1.48) !important;}
+.scale-17-lg-A:active {transform: scale(1.51) !important;}
+.scale-18-lg-A:active {transform: scale(1.54) !important;}
+.scale-19-lg-A:active {transform: scale(1.57) !important;}
+.scale-20-lg-A:active {transform: scale(1.6) !important;}
 
 /* -scale-num */
-.-scale-lg-A:active {transform: scale(0.95) !important;}
-.-scale-2-lg-A:active {transform: scale(0.9) !important;}
-.-scale-3-lg-A:active {transform: scale(0.85) !important;}
-.-scale-4-lg-A:active {transform: scale(0.8) !important;}
-.-scale-5-lg-A:active {transform: scale(0.75) !important;}
-.-scale-6-lg-A:active {transform: scale(0.7) !important;}
-.-scale-7-lg-A:active {transform: scale(0.65) !important;}
-.-scale-8-lg-A:active {transform: scale(0.6) !important;}
-.-scale-9-lg-A:active {transform: scale(0.55) !important;}
+.-scale-lg-A:active {transform: scale(0.97) !important;}
+.-scale-2-lg-A:active {transform: scale(0.94) !important;}
+.-scale-3-lg-A:active {transform: scale(0.91) !important;}
+.-scale-4-lg-A:active {transform: scale(0.88) !important;}
+.-scale-5-lg-A:active {transform: scale(0.85) !important;}
+.-scale-6-lg-A:active {transform: scale(0.82) !important;}
+.-scale-7-lg-A:active {transform: scale(0.79) !important;}
+.-scale-8-lg-A:active {transform: scale(0.76) !important;}
+.-scale-9-lg-A:active {transform: scale(0.73) !important;}
 .scale-0-lg-A:active {transform: scale(1) !important;}
 
 /* scale-X-num */
-.scale-X-lg-A:active {transform: scaleX(1.1) !important;}
-.scale-X-2-lg-A:active {transform: scaleX(1.2) !important;}
-.scale-X-3-lg-A:active {transform: scaleX(1.3) !important;}
-.scale-X-4-lg-A:active {transform: scaleX(1.4) !important;}
-.scale-X-5-lg-A:active {transform: scaleX(1.5) !important;}
-.scale-X-6-lg-A:active {transform: scaleX(1.6) !important;}
-.scale-X-7-lg-A:active {transform: scaleX(1.7) !important;}
-.scale-X-8-lg-A:active {transform: scaleX(1.8) !important;}
-.scale-X-9-lg-A:active {transform: scaleX(1.9) !important;}
-.scale-X-10-lg-A:active {transform: scaleX(2) !important;}
-.scale-X-11-lg-A:active {transform: scaleX(2.1) !important;}
-.scale-X-12-lg-A:active {transform: scaleX(2.2) !important;}
-.scale-X-13-lg-A:active {transform: scaleX(2.3) !important;}
-.scale-X-14-lg-A:active {transform: scaleX(2.4) !important;}
-.scale-X-15-lg-A:active {transform: scaleX(2.5) !important;}
-.scale-X-16-lg-A:active {transform: scaleX(2.6) !important;}
-.scale-X-17-lg-A:active {transform: scaleX(2.7) !important;}
-.scale-X-18-lg-A:active {transform: scaleX(2.8) !important;}
-.scale-X-19-lg-A:active {transform: scaleX(2.9) !important;}
-.scale-X-20-lg-A:active {transform: scaleX(3) !important;}
+.scale-X-lg-A:active {transform: scaleX(1.03) !important;}
+.scale-X-2-lg-A:active {transform: scaleX(1.06) !important;}
+.scale-X-3-lg-A:active {transform: scaleX(1.09) !important;}
+.scale-X-4-lg-A:active {transform: scaleX(1.12) !important;}
+.scale-X-5-lg-A:active {transform: scaleX(1.15) !important;}
+.scale-X-6-lg-A:active {transform: scaleX(1.18) !important;}
+.scale-X-7-lg-A:active {transform: scaleX(1.21) !important;}
+.scale-X-8-lg-A:active {transform: scaleX(1.24) !important;}
+.scale-X-9-lg-A:active {transform: scaleX(1.27) !important;}
+.scale-X-10-lg-A:active {transform: scaleX(1.3) !important;}
+.scale-X-11-lg-A:active {transform: scaleX(1.33) !important;}
+.scale-X-12-lg-A:active {transform: scaleX(1.36) !important;}
+.scale-X-13-lg-A:active {transform: scaleX(1.39) !important;}
+.scale-X-14-lg-A:active {transform: scaleX(1.42) !important;}
+.scale-X-15-lg-A:active {transform: scaleX(1.45) !important;}
+.scale-X-16-lg-A:active {transform: scaleX(1.48) !important;}
+.scale-X-17-lg-A:active {transform: scaleX(1.51) !important;}
+.scale-X-18-lg-A:active {transform: scaleX(1.54) !important;}
+.scale-X-19-lg-A:active {transform: scaleX(1.57) !important;}
+.scale-X-20-lg-A:active {transform: scaleX(1.6) !important;}
 
 /* -scale-X-num */
-.-scale-X:hover {transform: scaleX(0.95) !important;}
-.-scale-X-2-lg-A:active {transform: scaleX(0.9) !important;}
-.-scale-X-3-lg-A:active {transform: scaleX(0.85) !important;}
-.-scale-X-4-lg-A:active {transform: scaleX(0.8) !important;}
-.-scale-X-5-lg-A:active {transform: scaleX(0.75) !important;}
-.-scale-X-6-lg-A:active {transform: scaleX(0.7) !important;}
-.-scale-X-7-lg-A:active {transform: scaleX(0.65) !important;}
-.-scale-X-8-lg-A:active {transform: scaleX(0.6) !important;}
-.-scale-X-9-lg-A:active {transform: scaleX(0.55) !important;}
+.-scale-X:hover {transform: scaleX(0.97) !important;}
+.-scale-X-2-lg-A:active {transform: scaleX(0.94) !important;}
+.-scale-X-3-lg-A:active {transform: scaleX(0.91) !important;}
+.-scale-X-4-lg-A:active {transform: scaleX(0.88) !important;}
+.-scale-X-5-lg-A:active {transform: scaleX(0.85) !important;}
+.-scale-X-6-lg-A:active {transform: scaleX(0.82) !important;}
+.-scale-X-7-lg-A:active {transform: scaleX(0.79) !important;}
+.-scale-X-8-lg-A:active {transform: scaleX(0.76) !important;}
+.-scale-X-9-lg-A:active {transform: scaleX(0.73) !important;}
 .scale-X-0-lg-A:active {transform: scaleX(1) !important;}
 
 /* scale-Y-num */
-.scale-Y-lg-A:active {transform: scaleY(1.1) !important;}
-.scale-Y-2-lg-A:active {transform: scaleY(1.2) !important;}
-.scale-Y-3-lg-A:active {transform: scaleY(1.3) !important;}
-.scale-Y-4-lg-A:active {transform: scaleY(1.4) !important;}
-.scale-Y-5-lg-A:active {transform: scaleY(1.5) !important;}
-.scale-Y-6-lg-A:active {transform: scaleY(1.6) !important;}
-.scale-Y-7-lg-A:active {transform: scaleY(1.7) !important;}
-.scale-Y-8-lg-A:active {transform: scaleY(1.8) !important;}
-.scale-Y-9-lg-A:active {transform: scaleY(1.9) !important;}
-.scale-Y-10-lg-A:active {transform: scaleY(2) !important;}
-.scale-Y-11-lg-A:active {transform: scaleY(2.1) !important;}
-.scale-Y-12-lg-A:active {transform: scaleY(2.2) !important;}
-.scale-Y-13-lg-A:active {transform: scaleY(2.3) !important;}
-.scale-Y-14-lg-A:active {transform: scaleY(2.4) !important;}
-.scale-Y-15-lg-A:active {transform: scaleY(2.5) !important;}
-.scale-Y-16-lg-A:active {transform: scaleY(2.6) !important;}
-.scale-Y-17-lg-A:active {transform: scaleY(2.7) !important;}
-.scale-Y-18-lg-A:active {transform: scaleY(2.8) !important;}
-.scale-Y-19-lg-A:active {transform: scaleY(2.9) !important;}
-.scale-Y-20-lg-A:active {transform: scaleY(3) !important;}
+.scale-Y-lg-A:active {transform: scaleY(1.03) !important;}
+.scale-Y-2-lg-A:active {transform: scaleY(1.06) !important;}
+.scale-Y-3-lg-A:active {transform: scaleY(1.09) !important;}
+.scale-Y-4-lg-A:active {transform: scaleY(1.12) !important;}
+.scale-Y-5-lg-A:active {transform: scaleY(1.15) !important;}
+.scale-Y-6-lg-A:active {transform: scaleY(1.18) !important;}
+.scale-Y-7-lg-A:active {transform: scaleY(1.21) !important;}
+.scale-Y-8-lg-A:active {transform: scaleY(1.24) !important;}
+.scale-Y-9-lg-A:active {transform: scaleY(1.27) !important;}
+.scale-Y-10-lg-A:active {transform: scaleY(1.3) !important;}
+.scale-Y-11-lg-A:active {transform: scaleY(1.33) !important;}
+.scale-Y-12-lg-A:active {transform: scaleY(1.36) !important;}
+.scale-Y-13-lg-A:active {transform: scaleY(1.39) !important;}
+.scale-Y-14-lg-A:active {transform: scaleY(1.42) !important;}
+.scale-Y-15-lg-A:active {transform: scaleY(1.45) !important;}
+.scale-Y-16-lg-A:active {transform: scaleY(1.48) !important;}
+.scale-Y-17-lg-A:active {transform: scaleY(1.51) !important;}
+.scale-Y-18-lg-A:active {transform: scaleY(1.54) !important;}
+.scale-Y-19-lg-A:active {transform: scaleY(1.57) !important;}
+.scale-Y-20-lg-A:active {transform: scaleY(1.6) !important;}
 
 /* -scale-Y-num */
-.-scale-Y:hover {transform: scaleY(0.95) !important;}
-.-scale-Y-2-lg-A:active {transform: scaleY(0.9) !important;}
-.-scale-Y-3-lg-A:active {transform: scaleY(0.85) !important;}
-.-scale-Y-4-lg-A:active {transform: scaleY(0.8) !important;}
-.-scale-Y-5-lg-A:active {transform: scaleY(0.75) !important;}
-.-scale-Y-6-lg-A:active {transform: scaleY(0.7) !important;}
-.-scale-Y-7-lg-A:active {transform: scaleY(0.65) !important;}
-.-scale-Y-8-lg-A:active {transform: scaleY(0.6) !important;}
-.-scale-Y-9-lg-A:active {transform: scaleY(0.55) !important;}
+.-scale-Y:hover {transform: scaleY(0.97) !important;}
+.-scale-Y-2-lg-A:active {transform: scaleY(0.94) !important;}
+.-scale-Y-3-lg-A:active {transform: scaleY(0.91) !important;}
+.-scale-Y-4-lg-A:active {transform: scaleY(0.88) !important;}
+.-scale-Y-5-lg-A:active {transform: scaleY(0.85) !important;}
+.-scale-Y-6-lg-A:active {transform: scaleY(0.82) !important;}
+.-scale-Y-7-lg-A:active {transform: scaleY(0.79) !important;}
+.-scale-Y-8-lg-A:active {transform: scaleY(0.76) !important;}
+.-scale-Y-9-lg-A:active {transform: scaleY(0.73) !important;}
 .scale-Y-0-lg-A:active {transform: scaleY(1) !important;}
 
 /* rotate */
@@ -31788,6 +31804,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .inline-flex-xl, .inline-flex-xl-H:hover {display: inline-flex;}
 .grid-xl, .grid-xl-H:hover {display: grid;}
 .table-xl, .table-xl-H:hover {display: table;}
+.contents-xl, .contents-xl-H:hover {display: contents;}
 
 /* color */
 .white-xl, .white-xl-H:hover {color: #fff;}
@@ -34655,6 +34672,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .grow-18-xl, .grow-18-xl-H:hover {flex-grow: 18;}
 .grow-19-xl, .grow-19-xl-H:hover {flex-grow: 19;}
 .grow-20-xl, .grow-20-xl-H:hover {flex-grow: 20;}
+.grow-0-xl, .grow-0-xl-H:hover {flex-grow: 0;}
 
 /* order */
 .order-1-xl, .order-1-xl-H:hover {order: 1;}
@@ -35037,105 +35055,105 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .translate-0-xl, .translate-0-xl-H:hover {transform: translate(0%, 0%);}
 
 /* scale-num */
-.scale-xl, .scale-xl-H:hover {transform: scale(1.1);}
-.scale-2-xl, .scale-2-xl-H:hover {transform: scale(1.2);}
-.scale-3-xl, .scale-3-xl-H:hover {transform: scale(1.3);}
-.scale-4-xl, .scale-4-xl-H:hover {transform: scale(1.4);}
-.scale-5-xl, .scale-5-xl-H:hover {transform: scale(1.5);}
-.scale-6-xl, .scale-6-xl-H:hover {transform: scale(1.6);}
-.scale-7-xl, .scale-7-xl-H:hover {transform: scale(1.7);}
-.scale-8-xl, .scale-8-xl-H:hover {transform: scale(1.8);}
-.scale-9-xl, .scale-9-xl-H:hover {transform: scale(1.9);}
-.scale-10-xl, .scale-10-xl-H:hover {transform: scale(2);}
-.scale-11-xl, .scale-11-xl-H:hover {transform: scale(2.1);}
-.scale-12-xl, .scale-12-xl-H:hover {transform: scale(2.2);}
-.scale-13-xl, .scale-13-xl-H:hover {transform: scale(2.3);}
-.scale-14-xl, .scale-14-xl-H:hover {transform: scale(2.4);}
-.scale-15-xl, .scale-15-xl-H:hover {transform: scale(2.5);}
-.scale-16-xl, .scale-16-xl-H:hover {transform: scale(2.6);}
-.scale-17-xl, .scale-17-xl-H:hover {transform: scale(2.7);}
-.scale-18-xl, .scale-18-xl-H:hover {transform: scale(2.8);}
-.scale-19-xl, .scale-19-xl-H:hover {transform: scale(2.9);}
-.scale-20-xl, .scale-20-xl-H:hover {transform: scale(3);}
+.scale-xl, .scale-xl-H:hover {transform: scale(1.03);}
+.scale-2-xl, .scale-2-xl-H:hover {transform: scale(1.06);}
+.scale-3-xl, .scale-3-xl-H:hover {transform: scale(1.09);}
+.scale-4-xl, .scale-4-xl-H:hover {transform: scale(1.12);}
+.scale-5-xl, .scale-5-xl-H:hover {transform: scale(1.15);}
+.scale-6-xl, .scale-6-xl-H:hover {transform: scale(1.18);}
+.scale-7-xl, .scale-7-xl-H:hover {transform: scale(1.21);}
+.scale-8-xl, .scale-8-xl-H:hover {transform: scale(1.24);}
+.scale-9-xl, .scale-9-xl-H:hover {transform: scale(1.27);}
+.scale-10-xl, .scale-10-xl-H:hover {transform: scale(1.3);}
+.scale-11-xl, .scale-11-xl-H:hover {transform: scale(1.33);}
+.scale-12-xl, .scale-12-xl-H:hover {transform: scale(1.36);}
+.scale-13-xl, .scale-13-xl-H:hover {transform: scale(1.39);}
+.scale-14-xl, .scale-14-xl-H:hover {transform: scale(1.42);}
+.scale-15-xl, .scale-15-xl-H:hover {transform: scale(1.45);}
+.scale-16-xl, .scale-16-xl-H:hover {transform: scale(1.48);}
+.scale-17-xl, .scale-17-xl-H:hover {transform: scale(1.51);}
+.scale-18-xl, .scale-18-xl-H:hover {transform: scale(1.54);}
+.scale-19-xl, .scale-19-xl-H:hover {transform: scale(1.57);}
+.scale-20-xl, .scale-20-xl-H:hover {transform: scale(1.6);}
 
 /* -scale-num */
-.-scale-xl, .-scale-xl-H:hover {transform: scale(0.95);}
-.-scale-2-xl, .-scale-2-xl-H:hover {transform: scale(0.9);}
-.-scale-3-xl, .-scale-3-xl-H:hover {transform: scale(0.85);}
-.-scale-4-xl, .-scale-4-xl-H:hover {transform: scale(0.8);}
-.-scale-5-xl, .-scale-5-xl-H:hover {transform: scale(0.75);}
-.-scale-6-xl, .-scale-6-xl-H:hover {transform: scale(0.7);}
-.-scale-7-xl, .-scale-7-xl-H:hover {transform: scale(0.65);}
-.-scale-8-xl, .-scale-8-xl-H:hover {transform: scale(0.6);}
-.-scale-9-xl, .-scale-9-xl-H:hover {transform: scale(0.55);}
+.-scale-xl, .-scale-xl-H:hover {transform: scale(0.97);}
+.-scale-2-xl, .-scale-2-xl-H:hover {transform: scale(0.94);}
+.-scale-3-xl, .-scale-3-xl-H:hover {transform: scale(0.91);}
+.-scale-4-xl, .-scale-4-xl-H:hover {transform: scale(0.88);}
+.-scale-5-xl, .-scale-5-xl-H:hover {transform: scale(0.85);}
+.-scale-6-xl, .-scale-6-xl-H:hover {transform: scale(0.82);}
+.-scale-7-xl, .-scale-7-xl-H:hover {transform: scale(0.79);}
+.-scale-8-xl, .-scale-8-xl-H:hover {transform: scale(0.76);}
+.-scale-9-xl, .-scale-9-xl-H:hover {transform: scale(0.73);}
 .scale-0-xl, .scale-0-xl-H:hover {transform: scale(1);}
 
 /* scale-X-num */
-.scale-X-xl, .scale-X-xl-H:hover {transform: scaleX(1.1);}
-.scale-X-2-xl, .scale-X-2-xl-H:hover {transform: scaleX(1.2);}
-.scale-X-3-xl, .scale-X-3-xl-H:hover {transform: scaleX(1.3);}
-.scale-X-4-xl, .scale-X-4-xl-H:hover {transform: scaleX(1.4);}
-.scale-X-5-xl, .scale-X-5-xl-H:hover {transform: scaleX(1.5);}
-.scale-X-6-xl, .scale-X-6-xl-H:hover {transform: scaleX(1.6);}
-.scale-X-7-xl, .scale-X-7-xl-H:hover {transform: scaleX(1.7);}
-.scale-X-8-xl, .scale-X-8-xl-H:hover {transform: scaleX(1.8);}
-.scale-X-9-xl, .scale-X-9-xl-H:hover {transform: scaleX(1.9);}
-.scale-X-10-xl, .scale-X-10-xl-H:hover {transform: scaleX(2);}
-.scale-X-11-xl, .scale-X-11-xl-H:hover {transform: scaleX(2.1);}
-.scale-X-12-xl, .scale-X-12-xl-H:hover {transform: scaleX(2.2);}
-.scale-X-13-xl, .scale-X-13-xl-H:hover {transform: scaleX(2.3);}
-.scale-X-14-xl, .scale-X-14-xl-H:hover {transform: scaleX(2.4);}
-.scale-X-15-xl, .scale-X-15-xl-H:hover {transform: scaleX(2.5);}
-.scale-X-16-xl, .scale-X-16-xl-H:hover {transform: scaleX(2.6);}
-.scale-X-17-xl, .scale-X-17-xl-H:hover {transform: scaleX(2.7);}
-.scale-X-18-xl, .scale-X-18-xl-H:hover {transform: scaleX(2.8);}
-.scale-X-19-xl, .scale-X-19-xl-H:hover {transform: scaleX(2.9);}
-.scale-X-20-xl, .scale-X-20-xl-H:hover {transform: scaleX(3);}
+.scale-X-xl, .scale-X-xl-H:hover {transform: scaleX(1.03);}
+.scale-X-2-xl, .scale-X-2-xl-H:hover {transform: scaleX(1.06);}
+.scale-X-3-xl, .scale-X-3-xl-H:hover {transform: scaleX(1.09);}
+.scale-X-4-xl, .scale-X-4-xl-H:hover {transform: scaleX(1.12);}
+.scale-X-5-xl, .scale-X-5-xl-H:hover {transform: scaleX(1.15);}
+.scale-X-6-xl, .scale-X-6-xl-H:hover {transform: scaleX(1.18);}
+.scale-X-7-xl, .scale-X-7-xl-H:hover {transform: scaleX(1.21);}
+.scale-X-8-xl, .scale-X-8-xl-H:hover {transform: scaleX(1.24);}
+.scale-X-9-xl, .scale-X-9-xl-H:hover {transform: scaleX(1.27);}
+.scale-X-10-xl, .scale-X-10-xl-H:hover {transform: scaleX(1.3);}
+.scale-X-11-xl, .scale-X-11-xl-H:hover {transform: scaleX(1.33);}
+.scale-X-12-xl, .scale-X-12-xl-H:hover {transform: scaleX(1.36);}
+.scale-X-13-xl, .scale-X-13-xl-H:hover {transform: scaleX(1.39);}
+.scale-X-14-xl, .scale-X-14-xl-H:hover {transform: scaleX(1.42);}
+.scale-X-15-xl, .scale-X-15-xl-H:hover {transform: scaleX(1.45);}
+.scale-X-16-xl, .scale-X-16-xl-H:hover {transform: scaleX(1.48);}
+.scale-X-17-xl, .scale-X-17-xl-H:hover {transform: scaleX(1.51);}
+.scale-X-18-xl, .scale-X-18-xl-H:hover {transform: scaleX(1.54);}
+.scale-X-19-xl, .scale-X-19-xl-H:hover {transform: scaleX(1.57);}
+.scale-X-20-xl, .scale-X-20-xl-H:hover {transform: scaleX(1.6);}
 
 /* -scale-X-num */
-.-scale-X-xl, .-scale-X:hover {transform: scaleX(0.95);}
-.-scale-X-2-xl, .-scale-X-2-xl-H:hover {transform: scaleX(0.9);}
-.-scale-X-3-xl, .-scale-X-3-xl-H:hover {transform: scaleX(0.85);}
-.-scale-X-4-xl, .-scale-X-4-xl-H:hover {transform: scaleX(0.8);}
-.-scale-X-5-xl, .-scale-X-5-xl-H:hover {transform: scaleX(0.75);}
-.-scale-X-6-xl, .-scale-X-6-xl-H:hover {transform: scaleX(0.7);}
-.-scale-X-7-xl, .-scale-X-7-xl-H:hover {transform: scaleX(0.65);}
-.-scale-X-8-xl, .-scale-X-8-xl-H:hover {transform: scaleX(0.6);}
-.-scale-X-9-xl, .-scale-X-9-xl-H:hover {transform: scaleX(0.55);}
+.-scale-X-xl, .-scale-X:hover {transform: scaleX(0.97);}
+.-scale-X-2-xl, .-scale-X-2-xl-H:hover {transform: scaleX(0.94);}
+.-scale-X-3-xl, .-scale-X-3-xl-H:hover {transform: scaleX(0.91);}
+.-scale-X-4-xl, .-scale-X-4-xl-H:hover {transform: scaleX(0.88);}
+.-scale-X-5-xl, .-scale-X-5-xl-H:hover {transform: scaleX(0.85);}
+.-scale-X-6-xl, .-scale-X-6-xl-H:hover {transform: scaleX(0.82);}
+.-scale-X-7-xl, .-scale-X-7-xl-H:hover {transform: scaleX(0.79);}
+.-scale-X-8-xl, .-scale-X-8-xl-H:hover {transform: scaleX(0.76);}
+.-scale-X-9-xl, .-scale-X-9-xl-H:hover {transform: scaleX(0.73);}
 .scale-X-0-xl, .scale-X-0-xl-H:hover {transform: scaleX(1);}
 
 /* scale-Y-num */
-.scale-Y-xl, .scale-Y-xl-H:hover {transform: scaleY(1.1);}
-.scale-Y-2-xl, .scale-Y-2-xl-H:hover {transform: scaleY(1.2);}
-.scale-Y-3-xl, .scale-Y-3-xl-H:hover {transform: scaleY(1.3);}
-.scale-Y-4-xl, .scale-Y-4-xl-H:hover {transform: scaleY(1.4);}
-.scale-Y-5-xl, .scale-Y-5-xl-H:hover {transform: scaleY(1.5);}
-.scale-Y-6-xl, .scale-Y-6-xl-H:hover {transform: scaleY(1.6);}
-.scale-Y-7-xl, .scale-Y-7-xl-H:hover {transform: scaleY(1.7);}
-.scale-Y-8-xl, .scale-Y-8-xl-H:hover {transform: scaleY(1.8);}
-.scale-Y-9-xl, .scale-Y-9-xl-H:hover {transform: scaleY(1.9);}
-.scale-Y-10-xl, .scale-Y-10-xl-H:hover {transform: scaleY(2);}
-.scale-Y-11-xl, .scale-Y-11-xl-H:hover {transform: scaleY(2.1);}
-.scale-Y-12-xl, .scale-Y-12-xl-H:hover {transform: scaleY(2.2);}
-.scale-Y-13-xl, .scale-Y-13-xl-H:hover {transform: scaleY(2.3);}
-.scale-Y-14-xl, .scale-Y-14-xl-H:hover {transform: scaleY(2.4);}
-.scale-Y-15-xl, .scale-Y-15-xl-H:hover {transform: scaleY(2.5);}
-.scale-Y-16-xl, .scale-Y-16-xl-H:hover {transform: scaleY(2.6);}
-.scale-Y-17-xl, .scale-Y-17-xl-H:hover {transform: scaleY(2.7);}
-.scale-Y-18-xl, .scale-Y-18-xl-H:hover {transform: scaleY(2.8);}
-.scale-Y-19-xl, .scale-Y-19-xl-H:hover {transform: scaleY(2.9);}
-.scale-Y-20-xl, .scale-Y-20-xl-H:hover {transform: scaleY(3);}
+.scale-Y-xl, .scale-Y-xl-H:hover {transform: scaleY(1.03);}
+.scale-Y-2-xl, .scale-Y-2-xl-H:hover {transform: scaleY(1.06);}
+.scale-Y-3-xl, .scale-Y-3-xl-H:hover {transform: scaleY(1.09);}
+.scale-Y-4-xl, .scale-Y-4-xl-H:hover {transform: scaleY(1.12);}
+.scale-Y-5-xl, .scale-Y-5-xl-H:hover {transform: scaleY(1.15);}
+.scale-Y-6-xl, .scale-Y-6-xl-H:hover {transform: scaleY(1.18);}
+.scale-Y-7-xl, .scale-Y-7-xl-H:hover {transform: scaleY(1.21);}
+.scale-Y-8-xl, .scale-Y-8-xl-H:hover {transform: scaleY(1.24);}
+.scale-Y-9-xl, .scale-Y-9-xl-H:hover {transform: scaleY(1.27);}
+.scale-Y-10-xl, .scale-Y-10-xl-H:hover {transform: scaleY(1.3);}
+.scale-Y-11-xl, .scale-Y-11-xl-H:hover {transform: scaleY(1.33);}
+.scale-Y-12-xl, .scale-Y-12-xl-H:hover {transform: scaleY(1.36);}
+.scale-Y-13-xl, .scale-Y-13-xl-H:hover {transform: scaleY(1.39);}
+.scale-Y-14-xl, .scale-Y-14-xl-H:hover {transform: scaleY(1.42);}
+.scale-Y-15-xl, .scale-Y-15-xl-H:hover {transform: scaleY(1.45);}
+.scale-Y-16-xl, .scale-Y-16-xl-H:hover {transform: scaleY(1.48);}
+.scale-Y-17-xl, .scale-Y-17-xl-H:hover {transform: scaleY(1.51);}
+.scale-Y-18-xl, .scale-Y-18-xl-H:hover {transform: scaleY(1.54);}
+.scale-Y-19-xl, .scale-Y-19-xl-H:hover {transform: scaleY(1.57);}
+.scale-Y-20-xl, .scale-Y-20-xl-H:hover {transform: scaleY(1.6);}
 
 /* -scale-Y-num */
-.-scale-Y-xl, .-scale-Y:hover {transform: scaleY(0.95);}
-.-scale-Y-2-xl, .-scale-Y-2-xl-H:hover {transform: scaleY(0.9);}
-.-scale-Y-3-xl, .-scale-Y-3-xl-H:hover {transform: scaleY(0.85);}
-.-scale-Y-4-xl, .-scale-Y-4-xl-H:hover {transform: scaleY(0.8);}
-.-scale-Y-5-xl, .-scale-Y-5-xl-H:hover {transform: scaleY(0.75);}
-.-scale-Y-6-xl, .-scale-Y-6-xl-H:hover {transform: scaleY(0.7);}
-.-scale-Y-7-xl, .-scale-Y-7-xl-H:hover {transform: scaleY(0.65);}
-.-scale-Y-8-xl, .-scale-Y-8-xl-H:hover {transform: scaleY(0.6);}
-.-scale-Y-9-xl, .-scale-Y-9-xl-H:hover {transform: scaleY(0.55);}
+.-scale-Y-xl, .-scale-Y:hover {transform: scaleY(0.97);}
+.-scale-Y-2-xl, .-scale-Y-2-xl-H:hover {transform: scaleY(0.94);}
+.-scale-Y-3-xl, .-scale-Y-3-xl-H:hover {transform: scaleY(0.91);}
+.-scale-Y-4-xl, .-scale-Y-4-xl-H:hover {transform: scaleY(0.88);}
+.-scale-Y-5-xl, .-scale-Y-5-xl-H:hover {transform: scaleY(0.85);}
+.-scale-Y-6-xl, .-scale-Y-6-xl-H:hover {transform: scaleY(0.82);}
+.-scale-Y-7-xl, .-scale-Y-7-xl-H:hover {transform: scaleY(0.79);}
+.-scale-Y-8-xl, .-scale-Y-8-xl-H:hover {transform: scaleY(0.76);}
+.-scale-Y-9-xl, .-scale-Y-9-xl-H:hover {transform: scaleY(0.73);}
 .scale-Y-0-xl, .scale-Y-0-xl-H:hover {transform: scaleY(1);}
 
 /* rotate */
@@ -35722,6 +35740,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .inline-flex-xl-A:active {display: inline-flex !important;}
 .grid-xl-A:active {display: grid !important;}
 .table-xl-A:active {display: table !important;}
+.contents-xl-A:active {display: contents !important;}
 
 /* color */
 .white-xl-A:active {color: #fff !important;}
@@ -38590,6 +38609,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .grow-18-xl-A:active {flex-grow: 18 !important;}
 .grow-19-xl-A:active {flex-grow: 19 !important;}
 .grow-20-xl-A:active {flex-grow: 20 !important;}
+.grow-0-xl-A-active {flex-grow: 0 !important;}
 
 /* order */
 .order-1-xl-A:active {order: 1 !important;}
@@ -38972,105 +38992,105 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .translate-0-xl-A:active {transform: translate(0%, 0%) !important;}
 
 /* scale-num */
-.scale-xl-A:active {transform: scale(1.1) !important;}
-.scale-2-xl-A:active {transform: scale(1.2) !important;}
-.scale-3-xl-A:active {transform: scale(1.3) !important;}
-.scale-4-xl-A:active {transform: scale(1.4) !important;}
-.scale-5-xl-A:active {transform: scale(1.5) !important;}
-.scale-6-xl-A:active {transform: scale(1.6) !important;}
-.scale-7-xl-A:active {transform: scale(1.7) !important;}
-.scale-8-xl-A:active {transform: scale(1.8) !important;}
-.scale-9-xl-A:active {transform: scale(1.9) !important;}
-.scale-10-xl-A:active {transform: scale(2) !important;}
-.scale-11-xl-A:active {transform: scale(2.1) !important;}
-.scale-12-xl-A:active {transform: scale(2.2) !important;}
-.scale-13-xl-A:active {transform: scale(2.3) !important;}
-.scale-14-xl-A:active {transform: scale(2.4) !important;}
-.scale-15-xl-A:active {transform: scale(2.5) !important;}
-.scale-16-xl-A:active {transform: scale(2.6) !important;}
-.scale-17-xl-A:active {transform: scale(2.7) !important;}
-.scale-18-xl-A:active {transform: scale(2.8) !important;}
-.scale-19-xl-A:active {transform: scale(2.9) !important;}
-.scale-20-xl-A:active {transform: scale(3) !important;}
+.scale-xl-A:active {transform: scale(1.03) !important;}
+.scale-2-xl-A:active {transform: scale(1.06) !important;}
+.scale-3-xl-A:active {transform: scale(1.09) !important;}
+.scale-4-xl-A:active {transform: scale(1.12) !important;}
+.scale-5-xl-A:active {transform: scale(1.15) !important;}
+.scale-6-xl-A:active {transform: scale(1.18) !important;}
+.scale-7-xl-A:active {transform: scale(1.21) !important;}
+.scale-8-xl-A:active {transform: scale(1.24) !important;}
+.scale-9-xl-A:active {transform: scale(1.27) !important;}
+.scale-10-xl-A:active {transform: scale(1.3) !important;}
+.scale-11-xl-A:active {transform: scale(1.33) !important;}
+.scale-12-xl-A:active {transform: scale(1.36) !important;}
+.scale-13-xl-A:active {transform: scale(1.39) !important;}
+.scale-14-xl-A:active {transform: scale(1.42) !important;}
+.scale-15-xl-A:active {transform: scale(1.45) !important;}
+.scale-16-xl-A:active {transform: scale(1.48) !important;}
+.scale-17-xl-A:active {transform: scale(1.51) !important;}
+.scale-18-xl-A:active {transform: scale(1.54) !important;}
+.scale-19-xl-A:active {transform: scale(1.57) !important;}
+.scale-20-xl-A:active {transform: scale(1.6) !important;}
 
 /* -scale-num */
-.-scale-xl-A:active {transform: scale(0.95) !important;}
-.-scale-2-xl-A:active {transform: scale(0.9) !important;}
-.-scale-3-xl-A:active {transform: scale(0.85) !important;}
-.-scale-4-xl-A:active {transform: scale(0.8) !important;}
-.-scale-5-xl-A:active {transform: scale(0.75) !important;}
-.-scale-6-xl-A:active {transform: scale(0.7) !important;}
-.-scale-7-xl-A:active {transform: scale(0.65) !important;}
-.-scale-8-xl-A:active {transform: scale(0.6) !important;}
-.-scale-9-xl-A:active {transform: scale(0.55) !important;}
+.-scale-xl-A:active {transform: scale(0.97) !important;}
+.-scale-2-xl-A:active {transform: scale(0.94) !important;}
+.-scale-3-xl-A:active {transform: scale(0.91) !important;}
+.-scale-4-xl-A:active {transform: scale(0.88) !important;}
+.-scale-5-xl-A:active {transform: scale(0.85) !important;}
+.-scale-6-xl-A:active {transform: scale(0.82) !important;}
+.-scale-7-xl-A:active {transform: scale(0.79) !important;}
+.-scale-8-xl-A:active {transform: scale(0.76) !important;}
+.-scale-9-xl-A:active {transform: scale(0.73) !important;}
 .scale-0-xl-A:active {transform: scale(1) !important;}
 
 /* scale-X-num */
-.scale-X-xl-A:active {transform: scaleX(1.1) !important;}
-.scale-X-2-xl-A:active {transform: scaleX(1.2) !important;}
-.scale-X-3-xl-A:active {transform: scaleX(1.3) !important;}
-.scale-X-4-xl-A:active {transform: scaleX(1.4) !important;}
-.scale-X-5-xl-A:active {transform: scaleX(1.5) !important;}
-.scale-X-6-xl-A:active {transform: scaleX(1.6) !important;}
-.scale-X-7-xl-A:active {transform: scaleX(1.7) !important;}
-.scale-X-8-xl-A:active {transform: scaleX(1.8) !important;}
-.scale-X-9-xl-A:active {transform: scaleX(1.9) !important;}
-.scale-X-10-xl-A:active {transform: scaleX(2) !important;}
-.scale-X-11-xl-A:active {transform: scaleX(2.1) !important;}
-.scale-X-12-xl-A:active {transform: scaleX(2.2) !important;}
-.scale-X-13-xl-A:active {transform: scaleX(2.3) !important;}
-.scale-X-14-xl-A:active {transform: scaleX(2.4) !important;}
-.scale-X-15-xl-A:active {transform: scaleX(2.5) !important;}
-.scale-X-16-xl-A:active {transform: scaleX(2.6) !important;}
-.scale-X-17-xl-A:active {transform: scaleX(2.7) !important;}
-.scale-X-18-xl-A:active {transform: scaleX(2.8) !important;}
-.scale-X-19-xl-A:active {transform: scaleX(2.9) !important;}
-.scale-X-20-xl-A:active {transform: scaleX(3) !important;}
+.scale-X-xl-A:active {transform: scaleX(1.03) !important;}
+.scale-X-2-xl-A:active {transform: scaleX(1.06) !important;}
+.scale-X-3-xl-A:active {transform: scaleX(1.09) !important;}
+.scale-X-4-xl-A:active {transform: scaleX(1.12) !important;}
+.scale-X-5-xl-A:active {transform: scaleX(1.15) !important;}
+.scale-X-6-xl-A:active {transform: scaleX(1.18) !important;}
+.scale-X-7-xl-A:active {transform: scaleX(1.21) !important;}
+.scale-X-8-xl-A:active {transform: scaleX(1.24) !important;}
+.scale-X-9-xl-A:active {transform: scaleX(1.27) !important;}
+.scale-X-10-xl-A:active {transform: scaleX(1.3) !important;}
+.scale-X-11-xl-A:active {transform: scaleX(1.33) !important;}
+.scale-X-12-xl-A:active {transform: scaleX(1.36) !important;}
+.scale-X-13-xl-A:active {transform: scaleX(1.39) !important;}
+.scale-X-14-xl-A:active {transform: scaleX(1.42) !important;}
+.scale-X-15-xl-A:active {transform: scaleX(1.45) !important;}
+.scale-X-16-xl-A:active {transform: scaleX(1.48) !important;}
+.scale-X-17-xl-A:active {transform: scaleX(1.51) !important;}
+.scale-X-18-xl-A:active {transform: scaleX(1.54) !important;}
+.scale-X-19-xl-A:active {transform: scaleX(1.57) !important;}
+.scale-X-20-xl-A:active {transform: scaleX(1.6) !important;}
 
 /* -scale-X-num */
-.-scale-X:hover {transform: scaleX(0.95) !important;}
-.-scale-X-2-xl-A:active {transform: scaleX(0.9) !important;}
-.-scale-X-3-xl-A:active {transform: scaleX(0.85) !important;}
-.-scale-X-4-xl-A:active {transform: scaleX(0.8) !important;}
-.-scale-X-5-xl-A:active {transform: scaleX(0.75) !important;}
-.-scale-X-6-xl-A:active {transform: scaleX(0.7) !important;}
-.-scale-X-7-xl-A:active {transform: scaleX(0.65) !important;}
-.-scale-X-8-xl-A:active {transform: scaleX(0.6) !important;}
-.-scale-X-9-xl-A:active {transform: scaleX(0.55) !important;}
+.-scale-X:hover {transform: scaleX(0.97) !important;}
+.-scale-X-2-xl-A:active {transform: scaleX(0.94) !important;}
+.-scale-X-3-xl-A:active {transform: scaleX(0.91) !important;}
+.-scale-X-4-xl-A:active {transform: scaleX(0.88) !important;}
+.-scale-X-5-xl-A:active {transform: scaleX(0.85) !important;}
+.-scale-X-6-xl-A:active {transform: scaleX(0.82) !important;}
+.-scale-X-7-xl-A:active {transform: scaleX(0.79) !important;}
+.-scale-X-8-xl-A:active {transform: scaleX(0.76) !important;}
+.-scale-X-9-xl-A:active {transform: scaleX(0.73) !important;}
 .scale-X-0-xl-A:active {transform: scaleX(1) !important;}
 
 /* scale-Y-num */
-.scale-Y-xl-A:active {transform: scaleY(1.1) !important;}
-.scale-Y-2-xl-A:active {transform: scaleY(1.2) !important;}
-.scale-Y-3-xl-A:active {transform: scaleY(1.3) !important;}
-.scale-Y-4-xl-A:active {transform: scaleY(1.4) !important;}
-.scale-Y-5-xl-A:active {transform: scaleY(1.5) !important;}
-.scale-Y-6-xl-A:active {transform: scaleY(1.6) !important;}
-.scale-Y-7-xl-A:active {transform: scaleY(1.7) !important;}
-.scale-Y-8-xl-A:active {transform: scaleY(1.8) !important;}
-.scale-Y-9-xl-A:active {transform: scaleY(1.9) !important;}
-.scale-Y-10-xl-A:active {transform: scaleY(2) !important;}
-.scale-Y-11-xl-A:active {transform: scaleY(2.1) !important;}
-.scale-Y-12-xl-A:active {transform: scaleY(2.2) !important;}
-.scale-Y-13-xl-A:active {transform: scaleY(2.3) !important;}
-.scale-Y-14-xl-A:active {transform: scaleY(2.4) !important;}
-.scale-Y-15-xl-A:active {transform: scaleY(2.5) !important;}
-.scale-Y-16-xl-A:active {transform: scaleY(2.6) !important;}
-.scale-Y-17-xl-A:active {transform: scaleY(2.7) !important;}
-.scale-Y-18-xl-A:active {transform: scaleY(2.8) !important;}
-.scale-Y-19-xl-A:active {transform: scaleY(2.9) !important;}
-.scale-Y-20-xl-A:active {transform: scaleY(3) !important;}
+.scale-Y-xl-A:active {transform: scaleY(1.03) !important;}
+.scale-Y-2-xl-A:active {transform: scaleY(1.06) !important;}
+.scale-Y-3-xl-A:active {transform: scaleY(1.09) !important;}
+.scale-Y-4-xl-A:active {transform: scaleY(1.12) !important;}
+.scale-Y-5-xl-A:active {transform: scaleY(1.15) !important;}
+.scale-Y-6-xl-A:active {transform: scaleY(1.18) !important;}
+.scale-Y-7-xl-A:active {transform: scaleY(1.21) !important;}
+.scale-Y-8-xl-A:active {transform: scaleY(1.24) !important;}
+.scale-Y-9-xl-A:active {transform: scaleY(1.27) !important;}
+.scale-Y-10-xl-A:active {transform: scaleY(1.3) !important;}
+.scale-Y-11-xl-A:active {transform: scaleY(1.33) !important;}
+.scale-Y-12-xl-A:active {transform: scaleY(1.36) !important;}
+.scale-Y-13-xl-A:active {transform: scaleY(1.39) !important;}
+.scale-Y-14-xl-A:active {transform: scaleY(1.42) !important;}
+.scale-Y-15-xl-A:active {transform: scaleY(1.45) !important;}
+.scale-Y-16-xl-A:active {transform: scaleY(1.48) !important;}
+.scale-Y-17-xl-A:active {transform: scaleY(1.51) !important;}
+.scale-Y-18-xl-A:active {transform: scaleY(1.54) !important;}
+.scale-Y-19-xl-A:active {transform: scaleY(1.57) !important;}
+.scale-Y-20-xl-A:active {transform: scaleY(1.6) !important;}
 
 /* -scale-Y-num */
-.-scale-Y:hover {transform: scaleY(0.95) !important;}
-.-scale-Y-2-xl-A:active {transform: scaleY(0.9) !important;}
-.-scale-Y-3-xl-A:active {transform: scaleY(0.85) !important;}
-.-scale-Y-4-xl-A:active {transform: scaleY(0.8) !important;}
-.-scale-Y-5-xl-A:active {transform: scaleY(0.75) !important;}
-.-scale-Y-6-xl-A:active {transform: scaleY(0.7) !important;}
-.-scale-Y-7-xl-A:active {transform: scaleY(0.65) !important;}
-.-scale-Y-8-xl-A:active {transform: scaleY(0.6) !important;}
-.-scale-Y-9-xl-A:active {transform: scaleY(0.55) !important;}
+.-scale-Y:hover {transform: scaleY(0.97) !important;}
+.-scale-Y-2-xl-A:active {transform: scaleY(0.94) !important;}
+.-scale-Y-3-xl-A:active {transform: scaleY(0.91) !important;}
+.-scale-Y-4-xl-A:active {transform: scaleY(0.88) !important;}
+.-scale-Y-5-xl-A:active {transform: scaleY(0.85) !important;}
+.-scale-Y-6-xl-A:active {transform: scaleY(0.82) !important;}
+.-scale-Y-7-xl-A:active {transform: scaleY(0.79) !important;}
+.-scale-Y-8-xl-A:active {transform: scaleY(0.76) !important;}
+.-scale-Y-9-xl-A:active {transform: scaleY(0.73) !important;}
 .scale-Y-0-xl-A:active {transform: scaleY(1) !important;}
 
 /* rotate */
@@ -39664,6 +39684,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .inline-flex-xxl, .inline-flex-xxl-H:hover {display: inline-flex;}
 .grid-xxl, .grid-xxl-H:hover {display: grid;}
 .table-xxl, .table-xxl-H:hover {display: table;}
+.contents-xxl, .contents-xxl-H:hover {display: contents;}
 
 /* color */
 .white-xxl, .white-xxl-H:hover {color: #fff;}
@@ -42531,6 +42552,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .grow-18-xxl, .grow-18-xxl-H:hover {flex-grow: 18;}
 .grow-19-xxl, .grow-19-xxl-H:hover {flex-grow: 19;}
 .grow-20-xxl, .grow-20-xxl-H:hover {flex-grow: 20;}
+.grow-0-xxl, .grow-0-xxl-H:hover {flex-grow: 0;}
 
 /* order */
 .order-1-xxl, .order-1-xxl-H:hover {order: 1;}
@@ -42913,105 +42935,105 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .translate-0-xxl, .translate-0-xxl-H:hover {transform: translate(0%, 0%);}
 
 /* scale-num */
-.scale-xxl, .scale-xxl-H:hover {transform: scale(1.1);}
-.scale-2-xxl, .scale-2-xxl-H:hover {transform: scale(1.2);}
-.scale-3-xxl, .scale-3-xxl-H:hover {transform: scale(1.3);}
-.scale-4-xxl, .scale-4-xxl-H:hover {transform: scale(1.4);}
-.scale-5-xxl, .scale-5-xxl-H:hover {transform: scale(1.5);}
-.scale-6-xxl, .scale-6-xxl-H:hover {transform: scale(1.6);}
-.scale-7-xxl, .scale-7-xxl-H:hover {transform: scale(1.7);}
-.scale-8-xxl, .scale-8-xxl-H:hover {transform: scale(1.8);}
-.scale-9-xxl, .scale-9-xxl-H:hover {transform: scale(1.9);}
-.scale-10-xxl, .scale-10-xxl-H:hover {transform: scale(2);}
-.scale-11-xxl, .scale-11-xxl-H:hover {transform: scale(2.1);}
-.scale-12-xxl, .scale-12-xxl-H:hover {transform: scale(2.2);}
-.scale-13-xxl, .scale-13-xxl-H:hover {transform: scale(2.3);}
-.scale-14-xxl, .scale-14-xxl-H:hover {transform: scale(2.4);}
-.scale-15-xxl, .scale-15-xxl-H:hover {transform: scale(2.5);}
-.scale-16-xxl, .scale-16-xxl-H:hover {transform: scale(2.6);}
-.scale-17-xxl, .scale-17-xxl-H:hover {transform: scale(2.7);}
-.scale-18-xxl, .scale-18-xxl-H:hover {transform: scale(2.8);}
-.scale-19-xxl, .scale-19-xxl-H:hover {transform: scale(2.9);}
-.scale-20-xxl, .scale-20-xxl-H:hover {transform: scale(3);}
+.scale-xxl, .scale-xxl-H:hover {transform: scale(1.03);}
+.scale-2-xxl, .scale-2-xxl-H:hover {transform: scale(1.06);}
+.scale-3-xxl, .scale-3-xxl-H:hover {transform: scale(1.09);}
+.scale-4-xxl, .scale-4-xxl-H:hover {transform: scale(1.12);}
+.scale-5-xxl, .scale-5-xxl-H:hover {transform: scale(1.15);}
+.scale-6-xxl, .scale-6-xxl-H:hover {transform: scale(1.18);}
+.scale-7-xxl, .scale-7-xxl-H:hover {transform: scale(1.21);}
+.scale-8-xxl, .scale-8-xxl-H:hover {transform: scale(1.24);}
+.scale-9-xxl, .scale-9-xxl-H:hover {transform: scale(1.27);}
+.scale-10-xxl, .scale-10-xxl-H:hover {transform: scale(1.3);}
+.scale-11-xxl, .scale-11-xxl-H:hover {transform: scale(1.33);}
+.scale-12-xxl, .scale-12-xxl-H:hover {transform: scale(1.36);}
+.scale-13-xxl, .scale-13-xxl-H:hover {transform: scale(1.39);}
+.scale-14-xxl, .scale-14-xxl-H:hover {transform: scale(1.42);}
+.scale-15-xxl, .scale-15-xxl-H:hover {transform: scale(1.45);}
+.scale-16-xxl, .scale-16-xxl-H:hover {transform: scale(1.48);}
+.scale-17-xxl, .scale-17-xxl-H:hover {transform: scale(1.51);}
+.scale-18-xxl, .scale-18-xxl-H:hover {transform: scale(1.54);}
+.scale-19-xxl, .scale-19-xxl-H:hover {transform: scale(1.57);}
+.scale-20-xxl, .scale-20-xxl-H:hover {transform: scale(1.6);}
 
 /* -scale-num */
-.-scale-xxl, .-scale-xxl-H:hover {transform: scale(0.95);}
-.-scale-2-xxl, .-scale-2-xxl-H:hover {transform: scale(0.9);}
-.-scale-3-xxl, .-scale-3-xxl-H:hover {transform: scale(0.85);}
-.-scale-4-xxl, .-scale-4-xxl-H:hover {transform: scale(0.8);}
-.-scale-5-xxl, .-scale-5-xxl-H:hover {transform: scale(0.75);}
-.-scale-6-xxl, .-scale-6-xxl-H:hover {transform: scale(0.7);}
-.-scale-7-xxl, .-scale-7-xxl-H:hover {transform: scale(0.65);}
-.-scale-8-xxl, .-scale-8-xxl-H:hover {transform: scale(0.6);}
-.-scale-9-xxl, .-scale-9-xxl-H:hover {transform: scale(0.55);}
+.-scale-xxl, .-scale-xxl-H:hover {transform: scale(0.97);}
+.-scale-2-xxl, .-scale-2-xxl-H:hover {transform: scale(0.94);}
+.-scale-3-xxl, .-scale-3-xxl-H:hover {transform: scale(0.91);}
+.-scale-4-xxl, .-scale-4-xxl-H:hover {transform: scale(0.88);}
+.-scale-5-xxl, .-scale-5-xxl-H:hover {transform: scale(0.85);}
+.-scale-6-xxl, .-scale-6-xxl-H:hover {transform: scale(0.82);}
+.-scale-7-xxl, .-scale-7-xxl-H:hover {transform: scale(0.79);}
+.-scale-8-xxl, .-scale-8-xxl-H:hover {transform: scale(0.76);}
+.-scale-9-xxl, .-scale-9-xxl-H:hover {transform: scale(0.73);}
 .scale-0-xxl, .scale-0-xxl-H:hover {transform: scale(1);}
 
 /* scale-X-num */
-.scale-X-xxl, .scale-X-xxl-H:hover {transform: scaleX(1.1);}
-.scale-X-2-xxl, .scale-X-2-xxl-H:hover {transform: scaleX(1.2);}
-.scale-X-3-xxl, .scale-X-3-xxl-H:hover {transform: scaleX(1.3);}
-.scale-X-4-xxl, .scale-X-4-xxl-H:hover {transform: scaleX(1.4);}
-.scale-X-5-xxl, .scale-X-5-xxl-H:hover {transform: scaleX(1.5);}
-.scale-X-6-xxl, .scale-X-6-xxl-H:hover {transform: scaleX(1.6);}
-.scale-X-7-xxl, .scale-X-7-xxl-H:hover {transform: scaleX(1.7);}
-.scale-X-8-xxl, .scale-X-8-xxl-H:hover {transform: scaleX(1.8);}
-.scale-X-9-xxl, .scale-X-9-xxl-H:hover {transform: scaleX(1.9);}
-.scale-X-10-xxl, .scale-X-10-xxl-H:hover {transform: scaleX(2);}
-.scale-X-11-xxl, .scale-X-11-xxl-H:hover {transform: scaleX(2.1);}
-.scale-X-12-xxl, .scale-X-12-xxl-H:hover {transform: scaleX(2.2);}
-.scale-X-13-xxl, .scale-X-13-xxl-H:hover {transform: scaleX(2.3);}
-.scale-X-14-xxl, .scale-X-14-xxl-H:hover {transform: scaleX(2.4);}
-.scale-X-15-xxl, .scale-X-15-xxl-H:hover {transform: scaleX(2.5);}
-.scale-X-16-xxl, .scale-X-16-xxl-H:hover {transform: scaleX(2.6);}
-.scale-X-17-xxl, .scale-X-17-xxl-H:hover {transform: scaleX(2.7);}
-.scale-X-18-xxl, .scale-X-18-xxl-H:hover {transform: scaleX(2.8);}
-.scale-X-19-xxl, .scale-X-19-xxl-H:hover {transform: scaleX(2.9);}
-.scale-X-20-xxl, .scale-X-20-xxl-H:hover {transform: scaleX(3);}
+.scale-X-xxl, .scale-X-xxl-H:hover {transform: scaleX(1.03);}
+.scale-X-2-xxl, .scale-X-2-xxl-H:hover {transform: scaleX(1.06);}
+.scale-X-3-xxl, .scale-X-3-xxl-H:hover {transform: scaleX(1.09);}
+.scale-X-4-xxl, .scale-X-4-xxl-H:hover {transform: scaleX(1.12);}
+.scale-X-5-xxl, .scale-X-5-xxl-H:hover {transform: scaleX(1.15);}
+.scale-X-6-xxl, .scale-X-6-xxl-H:hover {transform: scaleX(1.18);}
+.scale-X-7-xxl, .scale-X-7-xxl-H:hover {transform: scaleX(1.21);}
+.scale-X-8-xxl, .scale-X-8-xxl-H:hover {transform: scaleX(1.24);}
+.scale-X-9-xxl, .scale-X-9-xxl-H:hover {transform: scaleX(1.27);}
+.scale-X-10-xxl, .scale-X-10-xxl-H:hover {transform: scaleX(1.3);}
+.scale-X-11-xxl, .scale-X-11-xxl-H:hover {transform: scaleX(1.33);}
+.scale-X-12-xxl, .scale-X-12-xxl-H:hover {transform: scaleX(1.36);}
+.scale-X-13-xxl, .scale-X-13-xxl-H:hover {transform: scaleX(1.39);}
+.scale-X-14-xxl, .scale-X-14-xxl-H:hover {transform: scaleX(1.42);}
+.scale-X-15-xxl, .scale-X-15-xxl-H:hover {transform: scaleX(1.45);}
+.scale-X-16-xxl, .scale-X-16-xxl-H:hover {transform: scaleX(1.48);}
+.scale-X-17-xxl, .scale-X-17-xxl-H:hover {transform: scaleX(1.51);}
+.scale-X-18-xxl, .scale-X-18-xxl-H:hover {transform: scaleX(1.54);}
+.scale-X-19-xxl, .scale-X-19-xxl-H:hover {transform: scaleX(1.57);}
+.scale-X-20-xxl, .scale-X-20-xxl-H:hover {transform: scaleX(1.6);}
 
 /* -scale-X-num */
-.-scale-X-xxl, .-scale-X:hover {transform: scaleX(0.95);}
-.-scale-X-2-xxl, .-scale-X-2-xxl-H:hover {transform: scaleX(0.9);}
-.-scale-X-3-xxl, .-scale-X-3-xxl-H:hover {transform: scaleX(0.85);}
-.-scale-X-4-xxl, .-scale-X-4-xxl-H:hover {transform: scaleX(0.8);}
-.-scale-X-5-xxl, .-scale-X-5-xxl-H:hover {transform: scaleX(0.75);}
-.-scale-X-6-xxl, .-scale-X-6-xxl-H:hover {transform: scaleX(0.7);}
-.-scale-X-7-xxl, .-scale-X-7-xxl-H:hover {transform: scaleX(0.65);}
-.-scale-X-8-xxl, .-scale-X-8-xxl-H:hover {transform: scaleX(0.6);}
-.-scale-X-9-xxl, .-scale-X-9-xxl-H:hover {transform: scaleX(0.55);}
+.-scale-X-xxl, .-scale-X:hover {transform: scaleX(0.97);}
+.-scale-X-2-xxl, .-scale-X-2-xxl-H:hover {transform: scaleX(0.94);}
+.-scale-X-3-xxl, .-scale-X-3-xxl-H:hover {transform: scaleX(0.91);}
+.-scale-X-4-xxl, .-scale-X-4-xxl-H:hover {transform: scaleX(0.88);}
+.-scale-X-5-xxl, .-scale-X-5-xxl-H:hover {transform: scaleX(0.85);}
+.-scale-X-6-xxl, .-scale-X-6-xxl-H:hover {transform: scaleX(0.82);}
+.-scale-X-7-xxl, .-scale-X-7-xxl-H:hover {transform: scaleX(0.79);}
+.-scale-X-8-xxl, .-scale-X-8-xxl-H:hover {transform: scaleX(0.76);}
+.-scale-X-9-xxl, .-scale-X-9-xxl-H:hover {transform: scaleX(0.73);}
 .scale-X-0-xxl, .scale-X-0-xxl-H:hover {transform: scaleX(1);}
 
 /* scale-Y-num */
-.scale-Y-xxl, .scale-Y-xxl-H:hover {transform: scaleY(1.1);}
-.scale-Y-2-xxl, .scale-Y-2-xxl-H:hover {transform: scaleY(1.2);}
-.scale-Y-3-xxl, .scale-Y-3-xxl-H:hover {transform: scaleY(1.3);}
-.scale-Y-4-xxl, .scale-Y-4-xxl-H:hover {transform: scaleY(1.4);}
-.scale-Y-5-xxl, .scale-Y-5-xxl-H:hover {transform: scaleY(1.5);}
-.scale-Y-6-xxl, .scale-Y-6-xxl-H:hover {transform: scaleY(1.6);}
-.scale-Y-7-xxl, .scale-Y-7-xxl-H:hover {transform: scaleY(1.7);}
-.scale-Y-8-xxl, .scale-Y-8-xxl-H:hover {transform: scaleY(1.8);}
-.scale-Y-9-xxl, .scale-Y-9-xxl-H:hover {transform: scaleY(1.9);}
-.scale-Y-10-xxl, .scale-Y-10-xxl-H:hover {transform: scaleY(2);}
-.scale-Y-11-xxl, .scale-Y-11-xxl-H:hover {transform: scaleY(2.1);}
-.scale-Y-12-xxl, .scale-Y-12-xxl-H:hover {transform: scaleY(2.2);}
-.scale-Y-13-xxl, .scale-Y-13-xxl-H:hover {transform: scaleY(2.3);}
-.scale-Y-14-xxl, .scale-Y-14-xxl-H:hover {transform: scaleY(2.4);}
-.scale-Y-15-xxl, .scale-Y-15-xxl-H:hover {transform: scaleY(2.5);}
-.scale-Y-16-xxl, .scale-Y-16-xxl-H:hover {transform: scaleY(2.6);}
-.scale-Y-17-xxl, .scale-Y-17-xxl-H:hover {transform: scaleY(2.7);}
-.scale-Y-18-xxl, .scale-Y-18-xxl-H:hover {transform: scaleY(2.8);}
-.scale-Y-19-xxl, .scale-Y-19-xxl-H:hover {transform: scaleY(2.9);}
-.scale-Y-20-xxl, .scale-Y-20-xxl-H:hover {transform: scaleY(3);}
+.scale-Y-xxl, .scale-Y-xxl-H:hover {transform: scaleY(1.03);}
+.scale-Y-2-xxl, .scale-Y-2-xxl-H:hover {transform: scaleY(1.06);}
+.scale-Y-3-xxl, .scale-Y-3-xxl-H:hover {transform: scaleY(1.09);}
+.scale-Y-4-xxl, .scale-Y-4-xxl-H:hover {transform: scaleY(1.12);}
+.scale-Y-5-xxl, .scale-Y-5-xxl-H:hover {transform: scaleY(1.15);}
+.scale-Y-6-xxl, .scale-Y-6-xxl-H:hover {transform: scaleY(1.18);}
+.scale-Y-7-xxl, .scale-Y-7-xxl-H:hover {transform: scaleY(1.21);}
+.scale-Y-8-xxl, .scale-Y-8-xxl-H:hover {transform: scaleY(1.24);}
+.scale-Y-9-xxl, .scale-Y-9-xxl-H:hover {transform: scaleY(1.27);}
+.scale-Y-10-xxl, .scale-Y-10-xxl-H:hover {transform: scaleY(1.3);}
+.scale-Y-11-xxl, .scale-Y-11-xxl-H:hover {transform: scaleY(1.33);}
+.scale-Y-12-xxl, .scale-Y-12-xxl-H:hover {transform: scaleY(1.36);}
+.scale-Y-13-xxl, .scale-Y-13-xxl-H:hover {transform: scaleY(1.39);}
+.scale-Y-14-xxl, .scale-Y-14-xxl-H:hover {transform: scaleY(1.42);}
+.scale-Y-15-xxl, .scale-Y-15-xxl-H:hover {transform: scaleY(1.45);}
+.scale-Y-16-xxl, .scale-Y-16-xxl-H:hover {transform: scaleY(1.48);}
+.scale-Y-17-xxl, .scale-Y-17-xxl-H:hover {transform: scaleY(1.51);}
+.scale-Y-18-xxl, .scale-Y-18-xxl-H:hover {transform: scaleY(1.54);}
+.scale-Y-19-xxl, .scale-Y-19-xxl-H:hover {transform: scaleY(1.57);}
+.scale-Y-20-xxl, .scale-Y-20-xxl-H:hover {transform: scaleY(1.6);}
 
 /* -scale-Y-num */
-.-scale-Y-xxl, .-scale-Y:hover {transform: scaleY(0.95);}
-.-scale-Y-2-xxl, .-scale-Y-2-xxl-H:hover {transform: scaleY(0.9);}
-.-scale-Y-3-xxl, .-scale-Y-3-xxl-H:hover {transform: scaleY(0.85);}
-.-scale-Y-4-xxl, .-scale-Y-4-xxl-H:hover {transform: scaleY(0.8);}
-.-scale-Y-5-xxl, .-scale-Y-5-xxl-H:hover {transform: scaleY(0.75);}
-.-scale-Y-6-xxl, .-scale-Y-6-xxl-H:hover {transform: scaleY(0.7);}
-.-scale-Y-7-xxl, .-scale-Y-7-xxl-H:hover {transform: scaleY(0.65);}
-.-scale-Y-8-xxl, .-scale-Y-8-xxl-H:hover {transform: scaleY(0.6);}
-.-scale-Y-9-xxl, .-scale-Y-9-xxl-H:hover {transform: scaleY(0.55);}
+.-scale-Y-xxl, .-scale-Y:hover {transform: scaleY(0.97);}
+.-scale-Y-2-xxl, .-scale-Y-2-xxl-H:hover {transform: scaleY(0.94);}
+.-scale-Y-3-xxl, .-scale-Y-3-xxl-H:hover {transform: scaleY(0.91);}
+.-scale-Y-4-xxl, .-scale-Y-4-xxl-H:hover {transform: scaleY(0.88);}
+.-scale-Y-5-xxl, .-scale-Y-5-xxl-H:hover {transform: scaleY(0.85);}
+.-scale-Y-6-xxl, .-scale-Y-6-xxl-H:hover {transform: scaleY(0.82);}
+.-scale-Y-7-xxl, .-scale-Y-7-xxl-H:hover {transform: scaleY(0.79);}
+.-scale-Y-8-xxl, .-scale-Y-8-xxl-H:hover {transform: scaleY(0.76);}
+.-scale-Y-9-xxl, .-scale-Y-9-xxl-H:hover {transform: scaleY(0.73);}
 .scale-Y-0-xxl, .scale-Y-0-xxl-H:hover {transform: scaleY(1);}
 
 /* rotate */
@@ -43598,6 +43620,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .inline-flex-xxl-A:active {display: inline-flex !important;}
 .grid-xxl-A:active {display: grid !important;}
 .table-xxl-A:active {display: table !important;}
+.contents-xxl-A:active {display: contents !important;}
 
 /* color */
 .white-xxl-A:active {color: #fff !important;}
@@ -46466,6 +46489,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .grow-18-xxl-A:active {flex-grow: 18 !important;}
 .grow-19-xxl-A:active {flex-grow: 19 !important;}
 .grow-20-xxl-A:active {flex-grow: 20 !important;}
+.grow-0-xxl-A-active {flex-grow: 0 !important;}
 
 /* order */
 .order-1-xxl-A:active {order: 1 !important;}
@@ -46848,105 +46872,105 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .translate-0-xxl-A:active {transform: translate(0%, 0%) !important;}
 
 /* scale-num */
-.scale-xxl-A:active {transform: scale(1.1) !important;}
-.scale-2-xxl-A:active {transform: scale(1.2) !important;}
-.scale-3-xxl-A:active {transform: scale(1.3) !important;}
-.scale-4-xxl-A:active {transform: scale(1.4) !important;}
-.scale-5-xxl-A:active {transform: scale(1.5) !important;}
-.scale-6-xxl-A:active {transform: scale(1.6) !important;}
-.scale-7-xxl-A:active {transform: scale(1.7) !important;}
-.scale-8-xxl-A:active {transform: scale(1.8) !important;}
-.scale-9-xxl-A:active {transform: scale(1.9) !important;}
-.scale-10-xxl-A:active {transform: scale(2) !important;}
-.scale-11-xxl-A:active {transform: scale(2.1) !important;}
-.scale-12-xxl-A:active {transform: scale(2.2) !important;}
-.scale-13-xxl-A:active {transform: scale(2.3) !important;}
-.scale-14-xxl-A:active {transform: scale(2.4) !important;}
-.scale-15-xxl-A:active {transform: scale(2.5) !important;}
-.scale-16-xxl-A:active {transform: scale(2.6) !important;}
-.scale-17-xxl-A:active {transform: scale(2.7) !important;}
-.scale-18-xxl-A:active {transform: scale(2.8) !important;}
-.scale-19-xxl-A:active {transform: scale(2.9) !important;}
-.scale-20-xxl-A:active {transform: scale(3) !important;}
+.scale-xxl-A:active {transform: scale(1.03) !important;}
+.scale-2-xxl-A:active {transform: scale(1.06) !important;}
+.scale-3-xxl-A:active {transform: scale(1.09) !important;}
+.scale-4-xxl-A:active {transform: scale(1.12) !important;}
+.scale-5-xxl-A:active {transform: scale(1.15) !important;}
+.scale-6-xxl-A:active {transform: scale(1.18) !important;}
+.scale-7-xxl-A:active {transform: scale(1.21) !important;}
+.scale-8-xxl-A:active {transform: scale(1.24) !important;}
+.scale-9-xxl-A:active {transform: scale(1.27) !important;}
+.scale-10-xxl-A:active {transform: scale(1.3) !important;}
+.scale-11-xxl-A:active {transform: scale(1.33) !important;}
+.scale-12-xxl-A:active {transform: scale(1.36) !important;}
+.scale-13-xxl-A:active {transform: scale(1.39) !important;}
+.scale-14-xxl-A:active {transform: scale(1.42) !important;}
+.scale-15-xxl-A:active {transform: scale(1.45) !important;}
+.scale-16-xxl-A:active {transform: scale(1.48) !important;}
+.scale-17-xxl-A:active {transform: scale(1.51) !important;}
+.scale-18-xxl-A:active {transform: scale(1.54) !important;}
+.scale-19-xxl-A:active {transform: scale(1.57) !important;}
+.scale-20-xxl-A:active {transform: scale(1.6) !important;}
 
 /* -scale-num */
-.-scale-xxl-A:active {transform: scale(0.95) !important;}
-.-scale-2-xxl-A:active {transform: scale(0.9) !important;}
-.-scale-3-xxl-A:active {transform: scale(0.85) !important;}
-.-scale-4-xxl-A:active {transform: scale(0.8) !important;}
-.-scale-5-xxl-A:active {transform: scale(0.75) !important;}
-.-scale-6-xxl-A:active {transform: scale(0.7) !important;}
-.-scale-7-xxl-A:active {transform: scale(0.65) !important;}
-.-scale-8-xxl-A:active {transform: scale(0.6) !important;}
-.-scale-9-xxl-A:active {transform: scale(0.55) !important;}
+.-scale-xxl-A:active {transform: scale(0.97) !important;}
+.-scale-2-xxl-A:active {transform: scale(0.94) !important;}
+.-scale-3-xxl-A:active {transform: scale(0.91) !important;}
+.-scale-4-xxl-A:active {transform: scale(0.88) !important;}
+.-scale-5-xxl-A:active {transform: scale(0.85) !important;}
+.-scale-6-xxl-A:active {transform: scale(0.82) !important;}
+.-scale-7-xxl-A:active {transform: scale(0.79) !important;}
+.-scale-8-xxl-A:active {transform: scale(0.76) !important;}
+.-scale-9-xxl-A:active {transform: scale(0.73) !important;}
 .scale-0-xxl-A:active {transform: scale(1) !important;}
 
 /* scale-X-num */
-.scale-X-xxl-A:active {transform: scaleX(1.1) !important;}
-.scale-X-2-xxl-A:active {transform: scaleX(1.2) !important;}
-.scale-X-3-xxl-A:active {transform: scaleX(1.3) !important;}
-.scale-X-4-xxl-A:active {transform: scaleX(1.4) !important;}
-.scale-X-5-xxl-A:active {transform: scaleX(1.5) !important;}
-.scale-X-6-xxl-A:active {transform: scaleX(1.6) !important;}
-.scale-X-7-xxl-A:active {transform: scaleX(1.7) !important;}
-.scale-X-8-xxl-A:active {transform: scaleX(1.8) !important;}
-.scale-X-9-xxl-A:active {transform: scaleX(1.9) !important;}
-.scale-X-10-xxl-A:active {transform: scaleX(2) !important;}
-.scale-X-11-xxl-A:active {transform: scaleX(2.1) !important;}
-.scale-X-12-xxl-A:active {transform: scaleX(2.2) !important;}
-.scale-X-13-xxl-A:active {transform: scaleX(2.3) !important;}
-.scale-X-14-xxl-A:active {transform: scaleX(2.4) !important;}
-.scale-X-15-xxl-A:active {transform: scaleX(2.5) !important;}
-.scale-X-16-xxl-A:active {transform: scaleX(2.6) !important;}
-.scale-X-17-xxl-A:active {transform: scaleX(2.7) !important;}
-.scale-X-18-xxl-A:active {transform: scaleX(2.8) !important;}
-.scale-X-19-xxl-A:active {transform: scaleX(2.9) !important;}
-.scale-X-20-xxl-A:active {transform: scaleX(3) !important;}
+.scale-X-xxl-A:active {transform: scaleX(1.03) !important;}
+.scale-X-2-xxl-A:active {transform: scaleX(1.06) !important;}
+.scale-X-3-xxl-A:active {transform: scaleX(1.09) !important;}
+.scale-X-4-xxl-A:active {transform: scaleX(1.12) !important;}
+.scale-X-5-xxl-A:active {transform: scaleX(1.15) !important;}
+.scale-X-6-xxl-A:active {transform: scaleX(1.18) !important;}
+.scale-X-7-xxl-A:active {transform: scaleX(1.21) !important;}
+.scale-X-8-xxl-A:active {transform: scaleX(1.24) !important;}
+.scale-X-9-xxl-A:active {transform: scaleX(1.27) !important;}
+.scale-X-10-xxl-A:active {transform: scaleX(1.3) !important;}
+.scale-X-11-xxl-A:active {transform: scaleX(1.33) !important;}
+.scale-X-12-xxl-A:active {transform: scaleX(1.36) !important;}
+.scale-X-13-xxl-A:active {transform: scaleX(1.39) !important;}
+.scale-X-14-xxl-A:active {transform: scaleX(1.42) !important;}
+.scale-X-15-xxl-A:active {transform: scaleX(1.45) !important;}
+.scale-X-16-xxl-A:active {transform: scaleX(1.48) !important;}
+.scale-X-17-xxl-A:active {transform: scaleX(1.51) !important;}
+.scale-X-18-xxl-A:active {transform: scaleX(1.54) !important;}
+.scale-X-19-xxl-A:active {transform: scaleX(1.57) !important;}
+.scale-X-20-xxl-A:active {transform: scaleX(1.6) !important;}
 
 /* -scale-X-num */
-.-scale-X:hover {transform: scaleX(0.95) !important;}
-.-scale-X-2-xxl-A:active {transform: scaleX(0.9) !important;}
-.-scale-X-3-xxl-A:active {transform: scaleX(0.85) !important;}
-.-scale-X-4-xxl-A:active {transform: scaleX(0.8) !important;}
-.-scale-X-5-xxl-A:active {transform: scaleX(0.75) !important;}
-.-scale-X-6-xxl-A:active {transform: scaleX(0.7) !important;}
-.-scale-X-7-xxl-A:active {transform: scaleX(0.65) !important;}
-.-scale-X-8-xxl-A:active {transform: scaleX(0.6) !important;}
-.-scale-X-9-xxl-A:active {transform: scaleX(0.55) !important;}
+.-scale-X:hover {transform: scaleX(0.97) !important;}
+.-scale-X-2-xxl-A:active {transform: scaleX(0.94) !important;}
+.-scale-X-3-xxl-A:active {transform: scaleX(0.91) !important;}
+.-scale-X-4-xxl-A:active {transform: scaleX(0.88) !important;}
+.-scale-X-5-xxl-A:active {transform: scaleX(0.85) !important;}
+.-scale-X-6-xxl-A:active {transform: scaleX(0.82) !important;}
+.-scale-X-7-xxl-A:active {transform: scaleX(0.79) !important;}
+.-scale-X-8-xxl-A:active {transform: scaleX(0.76) !important;}
+.-scale-X-9-xxl-A:active {transform: scaleX(0.73) !important;}
 .scale-X-0-xxl-A:active {transform: scaleX(1) !important;}
 
 /* scale-Y-num */
-.scale-Y-xxl-A:active {transform: scaleY(1.1) !important;}
-.scale-Y-2-xxl-A:active {transform: scaleY(1.2) !important;}
-.scale-Y-3-xxl-A:active {transform: scaleY(1.3) !important;}
-.scale-Y-4-xxl-A:active {transform: scaleY(1.4) !important;}
-.scale-Y-5-xxl-A:active {transform: scaleY(1.5) !important;}
-.scale-Y-6-xxl-A:active {transform: scaleY(1.6) !important;}
-.scale-Y-7-xxl-A:active {transform: scaleY(1.7) !important;}
-.scale-Y-8-xxl-A:active {transform: scaleY(1.8) !important;}
-.scale-Y-9-xxl-A:active {transform: scaleY(1.9) !important;}
-.scale-Y-10-xxl-A:active {transform: scaleY(2) !important;}
-.scale-Y-11-xxl-A:active {transform: scaleY(2.1) !important;}
-.scale-Y-12-xxl-A:active {transform: scaleY(2.2) !important;}
-.scale-Y-13-xxl-A:active {transform: scaleY(2.3) !important;}
-.scale-Y-14-xxl-A:active {transform: scaleY(2.4) !important;}
-.scale-Y-15-xxl-A:active {transform: scaleY(2.5) !important;}
-.scale-Y-16-xxl-A:active {transform: scaleY(2.6) !important;}
-.scale-Y-17-xxl-A:active {transform: scaleY(2.7) !important;}
-.scale-Y-18-xxl-A:active {transform: scaleY(2.8) !important;}
-.scale-Y-19-xxl-A:active {transform: scaleY(2.9) !important;}
-.scale-Y-20-xxl-A:active {transform: scaleY(3) !important;}
+.scale-Y-xxl-A:active {transform: scaleY(1.03) !important;}
+.scale-Y-2-xxl-A:active {transform: scaleY(1.06) !important;}
+.scale-Y-3-xxl-A:active {transform: scaleY(1.09) !important;}
+.scale-Y-4-xxl-A:active {transform: scaleY(1.12) !important;}
+.scale-Y-5-xxl-A:active {transform: scaleY(1.15) !important;}
+.scale-Y-6-xxl-A:active {transform: scaleY(1.18) !important;}
+.scale-Y-7-xxl-A:active {transform: scaleY(1.21) !important;}
+.scale-Y-8-xxl-A:active {transform: scaleY(1.24) !important;}
+.scale-Y-9-xxl-A:active {transform: scaleY(1.27) !important;}
+.scale-Y-10-xxl-A:active {transform: scaleY(1.3) !important;}
+.scale-Y-11-xxl-A:active {transform: scaleY(1.33) !important;}
+.scale-Y-12-xxl-A:active {transform: scaleY(1.36) !important;}
+.scale-Y-13-xxl-A:active {transform: scaleY(1.39) !important;}
+.scale-Y-14-xxl-A:active {transform: scaleY(1.42) !important;}
+.scale-Y-15-xxl-A:active {transform: scaleY(1.45) !important;}
+.scale-Y-16-xxl-A:active {transform: scaleY(1.48) !important;}
+.scale-Y-17-xxl-A:active {transform: scaleY(1.51) !important;}
+.scale-Y-18-xxl-A:active {transform: scaleY(1.54) !important;}
+.scale-Y-19-xxl-A:active {transform: scaleY(1.57) !important;}
+.scale-Y-20-xxl-A:active {transform: scaleY(1.6) !important;}
 
 /* -scale-Y-num */
-.-scale-Y:hover {transform: scaleY(0.95) !important;}
-.-scale-Y-2-xxl-A:active {transform: scaleY(0.9) !important;}
-.-scale-Y-3-xxl-A:active {transform: scaleY(0.85) !important;}
-.-scale-Y-4-xxl-A:active {transform: scaleY(0.8) !important;}
-.-scale-Y-5-xxl-A:active {transform: scaleY(0.75) !important;}
-.-scale-Y-6-xxl-A:active {transform: scaleY(0.7) !important;}
-.-scale-Y-7-xxl-A:active {transform: scaleY(0.65) !important;}
-.-scale-Y-8-xxl-A:active {transform: scaleY(0.6) !important;}
-.-scale-Y-9-xxl-A:active {transform: scaleY(0.55) !important;}
+.-scale-Y:hover {transform: scaleY(0.97) !important;}
+.-scale-Y-2-xxl-A:active {transform: scaleY(0.94) !important;}
+.-scale-Y-3-xxl-A:active {transform: scaleY(0.91) !important;}
+.-scale-Y-4-xxl-A:active {transform: scaleY(0.88) !important;}
+.-scale-Y-5-xxl-A:active {transform: scaleY(0.85) !important;}
+.-scale-Y-6-xxl-A:active {transform: scaleY(0.82) !important;}
+.-scale-Y-7-xxl-A:active {transform: scaleY(0.79) !important;}
+.-scale-Y-8-xxl-A:active {transform: scaleY(0.76) !important;}
+.-scale-Y-9-xxl-A:active {transform: scaleY(0.73) !important;}
 .scale-Y-0-xxl-A:active {transform: scaleY(1) !important;}
 
 /* rotate */
