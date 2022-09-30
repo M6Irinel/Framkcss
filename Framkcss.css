@@ -6,6 +6,7 @@
 .fluid-img, .fluid-img-H:hover, .fluid-video, .fluid-video-H:hover {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0, .w-0-H:hover, .w-0-H-C:hover .C-w-0-H {width: 0%;}
 .w-5, .w-5-H:hover, .w-5-H-C:hover .C-w-5-H {width: 5%;}
 .w-10, .w-10-H:hover, .w-10-H-C:hover .C-w-10-H {width: 10%;}
 .w-15, .w-15-H:hover, .w-15-H-C:hover .C-w-15-H {width: 15%;}
@@ -141,6 +142,7 @@
 .w-auto, .w-auto-H:hover, .w-auto-H-C:hover .C-w-auto-H {width: auto;}
 
 /* h-num = height */
+.h-0, .h-0-H:hover, .h-0-H-C:hover .C-h-0-H {height: 0%;}
 .h-5, .h-5-H:hover, .h-5-H-C:hover .C-h-5-H {height: 5%;}
 .h-10, .h-10-H:hover, .h-10-H-C:hover .C-h-10-H {height: 10%;}
 .h-15, .h-15-H:hover, .h-15-H-C:hover .C-h-15-H {height: 15%;}
@@ -1171,6 +1173,7 @@
 .-mx-18, .-mx-18-H:hover, .-mx-18-H-C:hover .C--mx-18-H {margin-left: -4.5rem; margin-right: -4.5rem;}
 .-mx-19, .-mx-19-H:hover, .-mx-19-H-C:hover .C--mx-19-H {margin-left: -4.75rem; margin-right: -4.75rem;}
 .-mx-20, .-mx-20-H:hover, .-mx-20-H-C:hover .C--mx-20-H {margin-left: -5rem; margin-right: -5rem;}
+.mx-auto, .mx-auto-H:hover, .mx-auto-H-C:hover .C-mx-auto-H {margin-left: auto; margin-right: auto;}
 .mx-0, .mx-0-H:hover, .mx-0-H-C:hover .C-mx-0-H {margin-left: 0; margin-right: 0;}
 
 /* my-num = margin-top and margin-bottom */
@@ -1216,6 +1219,7 @@
 .-my-18, .-my-18-H:hover, .-my-18-H-C:hover .C--my-18-H {margin-top: -4.5rem; margin-bottom: -4.5rem;}
 .-my-19, .-my-19-H:hover, .-my-19-H-C:hover .C--my-19-H {margin-top: -4.75rem; margin-bottom: -4.75rem;}
 .-my-20, .-my-20-H:hover, .-my-20-H-C:hover .C--my-20-H {margin-top: -5rem; margin-bottom: -5rem;}
+.my-auto, .my-auto-H:hover, .my-auto-H-C:hover .C-my-auto-H {margin-top: auto; margin-bottom: auto;}
 .my-0, .my-0-H:hover, .my-0-H-C:hover .C-my-0-H {margin-top: 0; margin-bottom: 0;}
 .m-0, .m-0-H:hover, .m-0-H-C:hover .C-m-0-H {margin: 0;}
 
@@ -1241,6 +1245,7 @@
 .absolute, .absolute-H:hover, .absolute-H-C:hover .C-absolute-H {position: absolute;}
 .fixed, .fixed-H:hover, .fixed-H-C:hover .C-fixed-H {position: fixed;}
 .sticky, .sticky-H:hover, .sticky-H-C:hover .C-sticky-H {position: sticky; position: -webkit-sticky;}
+.static, .static-H:hover, .static-H-C:hover .C-static-H {position: static;}
 
 /* top-num */
 .top, .top-H:hover, .top-H-C:hover .C-top-H {top: 0;}
@@ -1619,6 +1624,7 @@
 .border-l-8, .border-l-8-H:hover, .border-l-8-H-C:hover .C-border-l-8-H {border-left: 8px solid currentColor;}
 .border-l-9, .border-l-9-H:hover, .border-l-9-H-C:hover .C-border-l-9-H {border-left: 9px solid currentColor;}
 .border-l-10, .border-l-10-H:hover, .border-l-10-H-C:hover .C-border-l-10-H {border-left: 10px solid currentColor;}
+.border-none, .border-none-H:hover, .border-none-H-C:hover .C-border-none-H {border: none;}
 
 /* border-color = border-color */
 .border-white, .border-white-H:hover, .border-white-H-C:hover .C-border-white-H {border-color: #fff;}
@@ -3946,6 +3952,7 @@
 .fluid-img-A:active, .fluid-video-A:active {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-A:active, .w-0-A-C:active .C-w-0-A {width: 0% !important;}
 .w-5-A:active , .w-5-A-C:active  .C-w-5-A {width: 5% !important;}
 .w-10-A:active, .w-10-A-C:active .C-w-10-A {width: 10% !important;}
 .w-15-A:active, .w-15-A-C:active .C-w-15-A {width: 15% !important;}
@@ -4081,6 +4088,7 @@
 .w-auto-A:active, .w-auto-A-C:active .C-w-auto-A {width: auto !important;}
 
 /* h-num = height */
+.h-0-A:active, .h-0-A-C:active .C-h-0-A {height: 0% !important;}
 .h-5-A:active, .h-5-A-C:active .C-h-5-A {height: 5% !important;}
 .h-10-A:active, .h-10-A-C:active .C-h-10-A {height: 10% !important;}
 .h-15-A:active, .h-15-A-C:active .C-h-15-A {height: 15% !important;}
@@ -5111,6 +5119,7 @@
 .-mx-18-A:active, .-mx-18-A-C:active .C--mx-18-A {margin-left: -4.5rem; margin-right: -4.5rem !important;}
 .-mx-19-A:active, .-mx-19-A-C:active .C--mx-19-A {margin-left: -4.75rem; margin-right: -4.75rem !important;}
 .-mx-20-A:active, .-mx-20-A-C:active .C--mx-20-A {margin-left: -5rem; margin-right: -5rem !important;}
+.mx-auto-A:active, .mx-auto-A-C:active .C-mx-auto-A {margin-left: auto; margin-right: auto !important;}
 .mx-0-A:active, .mx-0-A-C:active .C-mx-0-A {margin-left: 0; margin-right: 0 !important;}
 
 /* my-num = margin-top and margin-bottom */
@@ -5156,6 +5165,7 @@
 .-my-18-A:active, .-my-18-A-C:active .C--my-18-A {margin-top: -4.5rem; margin-bottom: -4.5rem !important;}
 .-my-19-A:active, .-my-19-A-C:active .C--my-19-A {margin-top: -4.75rem; margin-bottom: -4.75rem !important;}
 .-my-20-A:active, .-my-20-A-C:active .C--my-20-A {margin-top: -5rem; margin-bottom: -5rem !important;}
+.my-auto-A:active, .my-auto-A-C:active .C-my-auto-A {margin-top: auto; margin-bottom: auto !important;}
 .my-0-A:active, .my-0-A-C:active .C-my-0-A {margin-top: 0; margin-bottom: 0 !important;}
 .m-0-A:active, .m-0-A-C:active .C-m-0-A {margin: 0 !important;}
 
@@ -5181,6 +5191,7 @@
 .absolute-A:active, .absolute-A-C:active .C-absolute-A {position: absolute !important;}
 .fixed-A:active, .fixed-A-C:active .C-fixed-A {position: fixed !important;}
 .sticky-A:active, .sticky-A-C:active .C-sticky-A {position: sticky; position: -webkit-sticky !important;}
+.static-A:active, .static-A-C:active .C-static-A {position: static !important;}
 
 /* top-num */
 .top-A:active, .top-A-C:active .C-top-A {top: 0 !important;}
@@ -5559,6 +5570,7 @@
 .border-l-8-A:active, .border-l-8-A-C:active .C-border-l-8-A {border-left: 8px solid currentColor !important;}
 .border-l-9-A:active, .border-l-9-A-C:active .C-border-l-9-A {border-left: 9px solid currentColor !important;}
 .border-l-10-A:active, .border-l-10-A-C:active .C-border-l-10-A {border-left: 10px solid currentColor !important;}
+.border-none-A:active, .border-none-A-C:active .C-border-none-A {border: none !important;}
 
 /* border-color = border-color */
 .border-white-A:active, .border-white-A-C:active .C-border-white-A {border-color: #fff !important;}
@@ -7887,6 +7899,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .fluid-img-sm, .fluid-img-sm-H:hover, .fluid-video-sm, .fluid-video-sm-H:hover {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-sm, .w-0-sm-H:hover {width: 0%;}
 .w-5-sm, .w-5-sm-H:hover {width: 5%;}
 .w-10-sm, .w-10-sm-H:hover {width: 10%;}
 .w-15-sm, .w-15-sm-H:hover {width: 15%;}
@@ -8023,6 +8036,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .w-auto-sm, .w-auto-sm-H:hover {width: auto;}
 
 /* h-num = height */
+.h-0-sm, .h-0-sm-H:hover {height: 0%;}
 .h-5-sm, .h-5-sm-H:hover {height: 5%;}
 .h-10-sm, .h-10-sm-H:hover {height: 10%;}
 .h-15-sm, .h-15-sm-H:hover {height: 15%;}
@@ -9053,6 +9067,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .-mx-18-sm, .-mx-18-sm-H:hover {margin-left: -4.5rem; margin-right: -4.5rem;}
 .-mx-19-sm, .-mx-19-sm-H:hover {margin-left: -4.75rem; margin-right: -4.75rem;}
 .-mx-20-sm, .-mx-20-sm-H:hover {margin-left: -5rem; margin-right: -5rem;}
+.mx-auto-sm, .mx-auto-sm-H:hover {margin-left: auto; margin-right: auto;}
 .mx-0-sm, .mx-0-sm-H:hover {margin-left: 0; margin-right: 0;}
 
 /* my-num = margin-top and margin-bottom */
@@ -9098,6 +9113,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .-my-18-sm, .-my-18-sm-H:hover {margin-top: -4.5rem; margin-bottom: -4.5rem;}
 .-my-19-sm, .-my-19-sm-H:hover {margin-top: -4.75rem; margin-bottom: -4.75rem;}
 .-my-20-sm, .-my-20-sm-H:hover {margin-top: -5rem; margin-bottom: -5rem;}
+.my-auto-sm, .my-auto-sm-H:hover {margin-top: auto; margin-bottom: auto;}
 .my-0-sm, .my-0-sm-H:hover {margin-top: 0; margin-bottom: 0;}
 .m-0-sm, .m-0-sm-H:hover {margin: 0;}
 
@@ -9123,6 +9139,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .absolute-sm, .absolute-sm-H:hover {position: absolute;}
 .fixed-sm, .fixed-sm-H:hover {position: fixed;}
 .sticky-sm, .sticky-sm-H:hover {position: sticky; position: -webkit-sticky;}
+.static-sm, .static-sm-H:hover {position: static;}
 
 /* top-num */
 .top-sm, .top-sm-H:hover {top: 0;}
@@ -9501,6 +9518,7 @@ SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM SM
 .border-l-8-sm, .border-l-8-sm-H:hover {border-left: 8px solid currentColor;}
 .border-l-9-sm, .border-l-9-sm-H:hover {border-left: 9px solid currentColor;}
 .border-l-10-sm, .border-l-10-sm-H:hover {border-left: 10px solid currentColor;}
+.border-none-sm, .border-none-sm-H:hover {border: none;}
 
 /* border-color = border-color */
 .border-white-sm, .border-white-sm-H:hover {border-color: #fff;}
@@ -11824,6 +11842,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .fluid-img-sm-A:active, .fluid-video-sm-A:active {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-sm-A:active {width: 0% !important;}
 .w-5-sm-A:active {width: 5% !important;}
 .w-10-sm-A:active {width: 10% !important;}
 .w-15-sm-A:active {width: 15% !important;}
@@ -11959,6 +11978,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .w-auto-sm-A:active {width: auto !important;}
 
 /* h-num = height */
+.h-0-sm-A:active {height: 0% !important;}
 .h-5-sm-A:active {height: 5% !important;}
 .h-10-sm-A:active {height: 10% !important;}
 .h-15-sm-A:active {height: 15% !important;}
@@ -12989,6 +13009,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-mx-18-sm-A:active {margin-left: -4.5rem; margin-right: -4.5rem !important;}
 .-mx-19-sm-A:active {margin-left: -4.75rem; margin-right: -4.75rem !important;}
 .-mx-20-sm-A:active {margin-left: -5rem; margin-right: -5rem !important;}
+.mx-auto-sm-A:active {margin-left: auto; margin-right: auto !important;}
 .mx-0-sm-A:active {margin-left: 0; margin-right: 0 !important;}
 
 /* my-num = margin-top and margin-bottom */
@@ -13034,6 +13055,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-my-18-sm-A:active {margin-top: -4.5rem; margin-bottom: -4.5rem !important;}
 .-my-19-sm-A:active {margin-top: -4.75rem; margin-bottom: -4.75rem !important;}
 .-my-20-sm-A:active {margin-top: -5rem; margin-bottom: -5rem !important;}
+.my-auto-sm-A:active {margin-top: auto; margin-bottom: auto !important;}
 .my-0-sm-A:active {margin-top: 0; margin-bottom: 0 !important;}
 .m-0-sm-A:active {margin: 0 !important;}
 
@@ -13059,6 +13081,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .absolute-sm-A:active {position: absolute !important;}
 .fixed-sm-A:active {position: fixed !important;}
 .sticky-sm-A:active {position: sticky; position: -webkit-sticky !important;}
+.static-sm-A:active {position: static !important;}
 
 /* top-num */
 .top-sm-A:active {top: 0 !important;}
@@ -13437,6 +13460,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .border-l-8-sm-A:active {border-left: 8px solid currentColor !important;}
 .border-l-9-sm-A:active {border-left: 9px solid currentColor !important;}
 .border-l-10-sm-A:active {border-left: 10px solid currentColor !important;}
+.border-none-sm-A:active {border: none !important;}
 
 /* border-color = border-color */
 .border-white-sm-A:active {border-color: #fff !important;}
@@ -15769,6 +15793,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .fluid-img-md, .fluid-img-md-H:hover, .fluid-video-md, .fluid-video-md-H:hover {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-md, .w-0-md-H:hover {width: 0%;}
 .w-5-md, .w-5-md-H:hover {width: 5%;}
 .w-10-md, .w-10-md-H:hover {width: 10%;}
 .w-15-md, .w-15-md-H:hover {width: 15%;}
@@ -15904,6 +15929,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .w-auto-md, .w-auto-md-H:hover {width: auto;}
 
 /* h-num = height */
+.h-0-md, .h-0-md-H:hover {height: 0%;}
 .h-5-md, .h-5-md-H:hover {height: 5%;}
 .h-10-md, .h-10-md-H:hover {height: 10%;}
 .h-15-md, .h-15-md-H:hover {height: 15%;}
@@ -16934,6 +16960,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .-mx-18-md, .-mx-18-md-H:hover {margin-left: -4.5rem; margin-right: -4.5rem;}
 .-mx-19-md, .-mx-19-md-H:hover {margin-left: -4.75rem; margin-right: -4.75rem;}
 .-mx-20-md, .-mx-20-md-H:hover {margin-left: -5rem; margin-right: -5rem;}
+.mx-auto-md, .mx-auto-md-H:hover {margin-left: auto; margin-right: auto;}
 .mx-0-md, .mx-0-md-H:hover {margin-left: 0; margin-right: 0;}
 
 /* my-num = margin-top and margin-bottom */
@@ -16979,6 +17006,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .-my-18-md, .-my-18-md-H:hover {margin-top: -4.5rem; margin-bottom: -4.5rem;}
 .-my-19-md, .-my-19-md-H:hover {margin-top: -4.75rem; margin-bottom: -4.75rem;}
 .-my-20-md, .-my-20-md-H:hover {margin-top: -5rem; margin-bottom: -5rem;}
+.my-auto-md, .my-auto-md-H:hover {margin-top: auto; margin-bottom: auto;}
 .my-0-md, .my-0-md-H:hover {margin-top: 0; margin-bottom: 0;}
 .m-0-md, .m-0-md-H:hover {margin: 0;}
 
@@ -17004,6 +17032,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .absolute-md, .absolute-md-H:hover {position: absolute;}
 .fixed-md, .fixed-md-H:hover {position: fixed;}
 .sticky-md, .sticky-md-H:hover {position: sticky; position: -webkit-sticky;}
+.static-md, .static-md-H:hover {position: static;}
 
 /* top-num */
 .top-md, .top-md-H:hover {top: 0;}
@@ -17382,6 +17411,7 @@ MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD MD
 .border-l-8-md, .border-l-8-md-H:hover {border-left: 8px solid currentColor;}
 .border-l-9-md, .border-l-9-md-H:hover {border-left: 9px solid currentColor;}
 .border-l-10-md, .border-l-10-md-H:hover {border-left: 10px solid currentColor;}
+.border-none-md, .border-none-md-H:hover {border: none;}
 
 /* border-color = border-color */
 .border-white-md, .border-white-md-H:hover {border-color: #fff;}
@@ -19704,6 +19734,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .fluid-img-md-A:active, .fluid-video-md-A:active {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-md-A:active {width: 0% !important;}
 .w-5-md-A:active {width: 5% !important;}
 .w-10-md-A:active {width: 10% !important;}
 .w-15-md-A:active {width: 15% !important;}
@@ -19839,6 +19870,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .w-auto-md-A:active {width: auto !important;}
 
 /* h-num = height */
+.h-0-md-A:active {height: 0% !important;}
 .h-5-md-A:active {height: 5% !important;}
 .h-10-md-A:active {height: 10% !important;}
 .h-15-md-A:active {height: 15% !important;}
@@ -20869,6 +20901,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-mx-18-md-A:active {margin-left: -4.5rem; margin-right: -4.5rem !important;}
 .-mx-19-md-A:active {margin-left: -4.75rem; margin-right: -4.75rem !important;}
 .-mx-20-md-A:active {margin-left: -5rem; margin-right: -5rem !important;}
+.mx-auto-md-A:active {margin-left: auto; margin-right: auto !important;}
 .mx-0-md-A:active {margin-left: 0; margin-right: 0 !important;}
 
 /* my-num = margin-top and margin-bottom */
@@ -20914,6 +20947,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-my-18-md-A:active {margin-top: -4.5rem; margin-bottom: -4.5rem !important;}
 .-my-19-md-A:active {margin-top: -4.75rem; margin-bottom: -4.75rem !important;}
 .-my-20-md-A:active {margin-top: -5rem; margin-bottom: -5rem !important;}
+.my-auto-md-A:active {margin-top: auto; margin-bottom: auto !important;}
 .my-0-md-A:active {margin-top: 0; margin-bottom: 0 !important;}
 .m-0-md-A:active {margin: 0 !important;}
 
@@ -20939,6 +20973,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .absolute-md-A:active {position: absolute !important;}
 .fixed-md-A:active {position: fixed !important;}
 .sticky-md-A:active {position: sticky; position: -webkit-sticky !important;}
+.static-md-A:active {position: static !important;}
 
 /* top-num */
 .top-md-A:active {top: 0 !important;}
@@ -21317,6 +21352,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .border-l-8-md-A:active {border-left: 8px solid currentColor !important;}
 .border-l-9-md-A:active {border-left: 9px solid currentColor !important;}
 .border-l-10-md-A:active {border-left: 10px solid currentColor !important;}
+.border-none-md-A:active {border: none !important;}
 
 /* border-color = border-color */
 .border-white-md-A:active {border-color: #fff !important;}
@@ -23646,6 +23682,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .fluid-img-lg, .fluid-img-lg-H:hover, .fluid-video-lg, .fluid-video-lg-H:hover {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-lg, .w-0-lg-H:hover {width: 0%;}
 .w-5-lg, .w-5-lg-H:hover {width: 5%;}
 .w-10-lg, .w-10-lg-H:hover {width: 10%;}
 .w-15-lg, .w-15-lg-H:hover {width: 15%;}
@@ -23781,6 +23818,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .w-auto-lg, .w-auto-lg-H:hover {width: auto;}
 
 /* h-num = height */
+.h-0-lg, .h-0-lg-H:hover {height: 0%;}
 .h-5-lg, .h-5-lg-H:hover {height: 5%;}
 .h-10-lg, .h-10-lg-H:hover {height: 10%;}
 .h-15-lg, .h-15-lg-H:hover {height: 15%;}
@@ -24811,6 +24849,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .-mx-18-lg, .-mx-18-lg-H:hover {margin-left: -4.5rem; margin-right: -4.5rem;}
 .-mx-19-lg, .-mx-19-lg-H:hover {margin-left: -4.75rem; margin-right: -4.75rem;}
 .-mx-20-lg, .-mx-20-lg-H:hover {margin-left: -5rem; margin-right: -5rem;}
+.mx-auto-lg, .mx-auto-lg-H:hover {margin-left: auto; margin-right: auto;}
 .mx-0-lg, .mx-0-lg-H:hover {margin-left: 0; margin-right: 0;}
 
 /* my-num = margin-top and margin-bottom */
@@ -24856,6 +24895,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .-my-18-lg, .-my-18-lg-H:hover {margin-top: -4.5rem; margin-bottom: -4.5rem;}
 .-my-19-lg, .-my-19-lg-H:hover {margin-top: -4.75rem; margin-bottom: -4.75rem;}
 .-my-20-lg, .-my-20-lg-H:hover {margin-top: -5rem; margin-bottom: -5rem;}
+.my-auto-lg, .my-auto-lg-H:hover {margin-top: auto; margin-bottom: auto;}
 .my-0-lg, .my-0-lg-H:hover {margin-top: 0; margin-bottom: 0;}
 .m-0-lg, .m-0-lg-H:hover {margin: 0;}
 
@@ -24881,6 +24921,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .absolute-lg, .absolute-lg-H:hover {position: absolute;}
 .fixed-lg, .fixed-lg-H:hover {position: fixed;}
 .sticky-lg, .sticky-lg-H:hover {position: sticky; position: -webkit-sticky;}
+.static-lg, .static-lg-H:hover {position: static;}
 
 /* top-num */
 .top-lg, .top-lg-H:hover {top: 0;}
@@ -25259,6 +25300,7 @@ LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG LG
 .border-l-8-lg, .border-l-8-lg-H:hover {border-left: 8px solid currentColor;}
 .border-l-9-lg, .border-l-9-lg-H:hover {border-left: 9px solid currentColor;}
 .border-l-10-lg, .border-l-10-lg-H:hover {border-left: 10px solid currentColor;}
+.border-none-lg, .border-none-lg-H:hover {border: none;}
 
 /* border-color = border-color */
 .border-white-lg, .border-white-lg-H:hover {border-color: #fff;}
@@ -27582,6 +27624,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .fluid-img-lg-A:active, .fluid-video-lg-A:active {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-lg-A:active {width: 0% !important;}
 .w-5-lg-A:active {width: 5% !important;}
 .w-10-lg-A:active {width: 10% !important;}
 .w-15-lg-A:active {width: 15% !important;}
@@ -27717,6 +27760,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .w-auto-lg-A:active {width: auto !important;}
 
 /* h-num = height */
+.h-0-lg-A:active {height: 0% !important;}
 .h-5-lg-A:active {height: 5% !important;}
 .h-10-lg-A:active {height: 10% !important;}
 .h-15-lg-A:active {height: 15% !important;}
@@ -28747,6 +28791,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-mx-18-lg-A:active {margin-left: -4.5rem; margin-right: -4.5rem !important;}
 .-mx-19-lg-A:active {margin-left: -4.75rem; margin-right: -4.75rem !important;}
 .-mx-20-lg-A:active {margin-left: -5rem; margin-right: -5rem !important;}
+.mx-auto-lg-A:active {margin-left: auto; margin-right: auto !important;}
 .mx-0-lg-A:active {margin-left: 0; margin-right: 0 !important;}
 
 /* my-num = margin-top and margin-bottom */
@@ -28792,6 +28837,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-my-18-lg-A:active {margin-top: -4.5rem; margin-bottom: -4.5rem !important;}
 .-my-19-lg-A:active {margin-top: -4.75rem; margin-bottom: -4.75rem !important;}
 .-my-20-lg-A:active {margin-top: -5rem; margin-bottom: -5rem !important;}
+.my-auto-lg-A:active {margin-top: auto; margin-bottom: auto !important;}
 .my-0-lg-A:active {margin-top: 0; margin-bottom: 0 !important;}
 .m-0-lg-A:active {margin: 0 !important;}
 
@@ -28817,6 +28863,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .absolute-lg-A:active {position: absolute !important;}
 .fixed-lg-A:active {position: fixed !important;}
 .sticky-lg-A:active {position: sticky; position: -webkit-sticky !important;}
+.static-lg-A:active {position: static !important;}
 
 /* top-num */
 .top-lg-A:active {top: 0 !important;}
@@ -29195,6 +29242,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .border-l-8-lg-A:active {border-left: 8px solid currentColor !important;}
 .border-l-9-lg-A:active {border-left: 9px solid currentColor !important;}
 .border-l-10-lg-A:active {border-left: 10px solid currentColor !important;}
+.border-none-lg-A:active {border: none !important;}
 
 /* border-color = border-color */
 .border-white-lg-A:active {border-color: #fff !important;}
@@ -31526,6 +31574,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .fluid-img-xl, .fluid-img-xl-H:hover, .fluid-video-xl, .fluid-video-xl-H:hover {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-xl, .w-0-xl-H:hover {width: 0%;}
 .w-5-xl, .w-5-xl-H:hover {width: 5%;}
 .w-10-xl, .w-10-xl-H:hover {width: 10%;}
 .w-15-xl, .w-15-xl-H:hover {width: 15%;}
@@ -31661,6 +31710,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .w-auto-xl, .w-auto-xl-H:hover {width: auto;}
 
 /* h-num = height */
+.h-0-xl, .h-0-xl-H:hover {height: 0%;}
 .h-5-xl, .h-5-xl-H:hover {height: 5%;}
 .h-10-xl, .h-10-xl-H:hover {height: 10%;}
 .h-15-xl, .h-15-xl-H:hover {height: 15%;}
@@ -32691,6 +32741,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .-mx-18-xl, .-mx-18-xl-H:hover {margin-left: -4.5rem; margin-right: -4.5rem;}
 .-mx-19-xl, .-mx-19-xl-H:hover {margin-left: -4.75rem; margin-right: -4.75rem;}
 .-mx-20-xl, .-mx-20-xl-H:hover {margin-left: -5rem; margin-right: -5rem;}
+.mx-auto-xl, .mx-auto-xl-H:hover {margin-left: auto; margin-right: auto;}
 .mx-0-xl, .mx-0-xl-H:hover {margin-left: 0; margin-right: 0;}
 
 /* my-num = margin-top and margin-bottom */
@@ -32736,6 +32787,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .-my-18-xl, .-my-18-xl-H:hover {margin-top: -4.5rem; margin-bottom: -4.5rem;}
 .-my-19-xl, .-my-19-xl-H:hover {margin-top: -4.75rem; margin-bottom: -4.75rem;}
 .-my-20-xl, .-my-20-xl-H:hover {margin-top: -5rem; margin-bottom: -5rem;}
+.my-auto-xl, .my-auto-xl-H:hover {margin-top: auto; margin-bottom: auto;}
 .my-0-xl, .my-0-xl-H:hover {margin-top: 0; margin-bottom: 0;}
 .m-0-xl, .m-0-xl-H:hover {margin: 0;}
 
@@ -32761,6 +32813,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .absolute-xl, .absolute-xl-H:hover {position: absolute;}
 .fixed-xl, .fixed-xl-H:hover {position: fixed;}
 .sticky-xl, .sticky-xl-H:hover {position: sticky; position: -webkit-sticky;}
+.static-xl, .static-xl-H:hover {position: static;}
 
 /* top-num */
 .top-xl, .top-xl-H:hover {top: 0;}
@@ -33139,6 +33192,7 @@ XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL XL
 .border-l-8-xl, .border-l-8-xl-H:hover {border-left: 8px solid currentColor;}
 .border-l-9-xl, .border-l-9-xl-H:hover {border-left: 9px solid currentColor;}
 .border-l-10-xl, .border-l-10-xl-H:hover {border-left: 10px solid currentColor;}
+.border-none-xl, .border-none-xl-H:hover {border: none;}
 
 /* border-color = border-color */
 .border-white-xl, .border-white-xl-H:hover {border-color: #fff;}
@@ -35462,6 +35516,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .fluid-img-xl-A:active, .fluid-video-xl-A:active {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-xl-A:active {width: 0% !important;}
 .w-5-xl-A:active {width: 5% !important;}
 .w-10-xl-A:active {width: 10% !important;}
 .w-15-xl-A:active {width: 15% !important;}
@@ -35597,6 +35652,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .w-auto-xl-A:active {width: auto !important;}
 
 /* h-num = height */
+.h-0-xl-A:active {height: 0% !important;}
 .h-5-xl-A:active {height: 5% !important;}
 .h-10-xl-A:active {height: 10% !important;}
 .h-15-xl-A:active {height: 15% !important;}
@@ -36627,6 +36683,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-mx-18-xl-A:active {margin-left: -4.5rem; margin-right: -4.5rem !important;}
 .-mx-19-xl-A:active {margin-left: -4.75rem; margin-right: -4.75rem !important;}
 .-mx-20-xl-A:active {margin-left: -5rem; margin-right: -5rem !important;}
+.mx-auto-xl-A:active {margin-left: auto; margin-right: auto !important;}
 .mx-0-xl-A:active {margin-left: 0; margin-right: 0 !important;}
 
 /* my-num = margin-top and margin-bottom */
@@ -36672,6 +36729,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-my-18-xl-A:active {margin-top: -4.5rem; margin-bottom: -4.5rem !important;}
 .-my-19-xl-A:active {margin-top: -4.75rem; margin-bottom: -4.75rem !important;}
 .-my-20-xl-A:active {margin-top: -5rem; margin-bottom: -5rem !important;}
+.my-auto-xl-A:active {margin-top: auto; margin-bottom: auto !important;}
 .my-0-xl-A:active {margin-top: 0; margin-bottom: 0 !important;}
 .m-0-xl-A:active {margin: 0 !important;}
 
@@ -36697,6 +36755,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .absolute-xl-A:active {position: absolute !important;}
 .fixed-xl-A:active {position: fixed !important;}
 .sticky-xl-A:active {position: sticky; position: -webkit-sticky !important;}
+.static-xl-A:active {position: static !important;}
 
 /* top-num */
 .top-xl-A:active {top: 0 !important;}
@@ -37075,6 +37134,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .border-l-8-xl-A:active {border-left: 8px solid currentColor !important;}
 .border-l-9-xl-A:active {border-left: 9px solid currentColor !important;}
 .border-l-10-xl-A:active {border-left: 10px solid currentColor !important;}
+.border-none-xl-A:active {border: none !important;}
 
 /* border-color = border-color */
 .border-white-xl-A:active {border-color: #fff !important;}
@@ -39406,6 +39466,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .fluid-img-xxl, .fluid-img-xxl-H:hover, .fluid-video-xxl, .fluid-video-xxl-H:hover {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-xxl, .w-0-xxl-H:hover {width: 0%;}
 .w-5-xxl, .w-5-xxl-H:hover {width: 5%;}
 .w-10-xxl, .w-10-xxl-H:hover {width: 10%;}
 .w-15-xxl, .w-15-xxl-H:hover {width: 15%;}
@@ -39541,6 +39602,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .w-auto-xxl, .w-auto-xxl-H:hover {width: auto;}
 
 /* h-num = height */
+.h-0-xxl, .h-0-xxl-H:hover {height: 0%;}
 .h-5-xxl, .h-5-xxl-H:hover {height: 5%;}
 .h-10-xxl, .h-10-xxl-H:hover {height: 10%;}
 .h-15-xxl, .h-15-xxl-H:hover {height: 15%;}
@@ -40571,6 +40633,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .-mx-18-xxl, .-mx-18-xxl-H:hover {margin-left: -4.5rem; margin-right: -4.5rem;}
 .-mx-19-xxl, .-mx-19-xxl-H:hover {margin-left: -4.75rem; margin-right: -4.75rem;}
 .-mx-20-xxl, .-mx-20-xxl-H:hover {margin-left: -5rem; margin-right: -5rem;}
+.mx-auto-xxl, .mx-auto-xxl-H:hover {margin-left: auto; margin-right: auto;}
 .mx-0-xxl, .mx-0-xxl-H:hover {margin-left: 0; margin-right: 0;}
 
 /* my-num = margin-top and margin-bottom */
@@ -40616,6 +40679,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .-my-18-xxl, .-my-18-xxl-H:hover {margin-top: -4.5rem; margin-bottom: -4.5rem;}
 .-my-19-xxl, .-my-19-xxl-H:hover {margin-top: -4.75rem; margin-bottom: -4.75rem;}
 .-my-20-xxl, .-my-20-xxl-H:hover {margin-top: -5rem; margin-bottom: -5rem;}
+.my-auto-xxl, .my-auto-xxl-H:hover {margin-top: auto; margin-bottom: auto;}
 .my-0-xxl, .my-0-xxl-H:hover {margin-top: 0; margin-bottom: 0;}
 .m-0-xxl, .m-0-xxl-H:hover {margin: 0;}
 
@@ -40641,6 +40705,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .absolute-xxl, .absolute-xxl-H:hover {position: absolute;}
 .fixed-xxl, .fixed-xxl-H:hover {position: fixed;}
 .sticky-xxl, .sticky-xxl-H:hover {position: sticky; position: -webkit-sticky;}
+.static-xxl, .static-xxl-H:hover {position: static;}
 
 /* top-num */
 .top-xxl, .top-xxl-H:hover {top: 0;}
@@ -41019,6 +41084,7 @@ XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL XXL 
 .border-l-8-xxl, .border-l-8-xxl-H:hover {border-left: 8px solid currentColor;}
 .border-l-9-xxl, .border-l-9-xxl-H:hover {border-left: 9px solid currentColor;}
 .border-l-10-xxl, .border-l-10-xxl-H:hover {border-left: 10px solid currentColor;}
+.border-none-xxl, .border-none-xxl-H:hover {border: none;}
 
 /* border-color = border-color */
 .border-white-xxl, .border-white-xxl-H:hover {border-color: #fff;}
@@ -43342,6 +43408,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .fluid-img-xxl-A:active, .fluid-video-xxl-A:active {object-fit: contain; object-position: center; width: 100%; height: 100%;}
 
 /* w-num = width */
+.w-0-xxl-A:active {width: 0% !important;}
 .w-5-xxl-A:active {width: 5% !important;}
 .w-10-xxl-A:active {width: 10% !important;}
 .w-15-xxl-A:active {width: 15% !important;}
@@ -43477,6 +43544,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .w-auto-xxl-A:active {width: auto !important;}
 
 /* h-num = height */
+.h-0-xxl-A:active {height: 0% !important;}
 .h-5-xxl-A:active {height: 5% !important;}
 .h-10-xxl-A:active {height: 10% !important;}
 .h-15-xxl-A:active {height: 15% !important;}
@@ -44507,6 +44575,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-mx-18-xxl-A:active {margin-left: -4.5rem; margin-right: -4.5rem !important;}
 .-mx-19-xxl-A:active {margin-left: -4.75rem; margin-right: -4.75rem !important;}
 .-mx-20-xxl-A:active {margin-left: -5rem; margin-right: -5rem !important;}
+.mx-auto-xxl-A:active {margin-left: auto; margin-right: auto !important;}
 .mx-0-xxl-A:active {margin-left: 0; margin-right: 0 !important;}
 
 /* my-num = margin-top and margin-bottom */
@@ -44552,6 +44621,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .-my-18-xxl-A:active {margin-top: -4.5rem; margin-bottom: -4.5rem !important;}
 .-my-19-xxl-A:active {margin-top: -4.75rem; margin-bottom: -4.75rem !important;}
 .-my-20-xxl-A:active {margin-top: -5rem; margin-bottom: -5rem !important;}
+.my-auto-xxl-A:active {margin-top: auto; margin-bottom: auto !important;}
 .my-0-xxl-A:active {margin-top: 0; margin-bottom: 0 !important;}
 .m-0-xxl-A:active {margin: 0 !important;}
 
@@ -44577,6 +44647,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .absolute-xxl-A:active {position: absolute !important;}
 .fixed-xxl-A:active {position: fixed !important;}
 .sticky-xxl-A:active {position: sticky; position: -webkit-sticky !important;}
+.static-xxl-A:active {position: static !important;}
 
 /* top-num */
 .top-xxl-A:active {top: 0 !important;}
@@ -44955,6 +45026,7 @@ ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACTIVE ACT
 .border-l-8-xxl-A:active {border-left: 8px solid currentColor !important;}
 .border-l-9-xxl-A:active {border-left: 9px solid currentColor !important;}
 .border-l-10-xxl-A:active {border-left: 10px solid currentColor !important;}
+.border-none-xxl-A:active {border: none !important;}
 
 /* border-color = border-color */
 .border-white-xxl-A:active {border-color: #fff !important;}
