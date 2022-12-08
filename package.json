@@ -1,0 +1,23 @@
+{
+  "name": "fucssia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch scss/fucssia.scss fucssia-comp/Fucssia.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M6Irinel/Framkcss.git"
+  },
+  "author": "Irinel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M6Irinel/Framkcss/issues"
+  },
+  "homepage": "https://github.com/M6Irinel/Framkcss#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}

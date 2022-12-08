@@ -1,0 +1,47 @@
+@import "../variables.scss";
+
+.badge {
+  padding: 0.4rem;
+  background-color: hsl(0, 0%, 80%);
+  display: inline-block;
+  border-radius: 50rem;
+  border: none;
+  font-size: 0.8rem;
+
+  &.light {
+    background-color: $light;
+  }
+
+  &.dark {
+    color: white;
+    background-color: $dark;
+  }
+
+  &.primary {
+    color: white;
+    background-color: $primary;
+  }
+
+  &.secondary {
+    color: white;
+    background-color: $secondary;
+  }
+
+  &.success {
+    color: white;
+    background-color: $success;
+  }
+
+  &.warning {
+    background-color: $warning;
+  }
+
+  &.danger {
+    color: white;
+    background-color: $danger;
+  }
+
+  &.info {
+    background-color: $info;
+  }
+}

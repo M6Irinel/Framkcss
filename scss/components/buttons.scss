@@ -1,0 +1,163 @@
+@import "../variables.scss";
+
+.btn {
+  border: none;
+  padding: 0.5rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  font-size: 1rem;
+
+  &:disabled {
+    cursor: default;
+    color: hsl(0, 0, 30%);
+  }
+}
+
+.btn-light {
+  font-size: 1rem;
+  background-color: $light;
+
+  &:hover {
+    background-color: hsl(0, 0, 90%);
+  }
+
+  &:active {
+    background-color: hsl(0, 0, 80%);
+  }
+
+  &:disabled {
+    color: hsl(0, 0%, 30%);
+    background-color: hsl(0, 0, 95%);
+  }
+}
+
+.btn-dark {
+  font-size: 1rem;
+  color: white;
+  background-color: $dark;
+
+  &:hover {
+    background-color: hsl(0, 0, 30%);
+  }
+
+  &:active {
+    background-color: hsl(0, 0, 10%);
+  }
+
+  &:disabled {
+    color: hsl(0, 0%, 80%);
+    background-color: hsl(0, 0, 30%);
+  }
+}
+
+.btn-primary {
+  font-size: 1rem;
+  color: white;
+  background-color: $primary;
+
+  &:hover {
+    background-color: hsl(218, 80%, 60%);
+  }
+
+  &:active {
+    background-color: hsl(218, 80%, 40%);
+  }
+
+  &:disabled {
+    color: hsl(0, 0%, 90%);
+    background-color: hsl(218, 80%, 70%);
+  }
+}
+
+.btn-secondary {
+  font-size: 1rem;
+  color: white;
+  background-color: $secondary;
+
+  &:hover {
+    background-color: hsl(0, 0%, 60%);
+  }
+
+  &:active {
+    background-color: hsl(0, 0%, 40%);
+  }
+
+  &:disabled {
+    color: hsl(0, 0%, 90%);
+    background-color: hsl(0, 0%, 70%);
+  }
+}
+
+.btn-success {
+  font-size: 1rem;
+  color: white;
+  background-color: $success;
+
+  &:hover {
+    background-color: hsl(120, 100%, 40%);
+  }
+
+  &:active {
+    background-color: hsl(120, 100%, 30%);
+  }
+
+  &:disabled {
+    color: hsl(0, 0%, 40%);
+    background-color: hsl(120, 100%, 45%);
+  }
+}
+
+.btn-warning {
+  font-size: 1rem;
+  background-color: $warning;
+
+  &:hover {
+    background-color: hsl(50, 100%, 70%);
+  }
+
+  &:active {
+    background-color: hsl(50, 100%, 40%);
+  }
+
+  &:disabled {
+    color: hsl(0, 0%, 40%);
+    background-color: hsl(50, 100%, 70%);
+  }
+}
+
+.btn-danger {
+  font-size: 1rem;
+  color: white;
+  background-color: $danger;
+
+  &:hover {
+    background-color: hsl(0, 100%, 70%);
+  }
+
+  &:active {
+    background-color: hsl(0, 100%, 40%);
+  }
+
+  &:disabled {
+    color: hsl(0, 0%, 90%);
+    background-color: hsl(0, 100%, 80%);
+  }
+}
+
+.btn-info {
+  font-size: 1rem;
+  background-color: $info;
+
+  &:hover {
+    background-color: hsl(180, 100%, 80%);
+  }
+
+  &:active {
+    background-color: hsl(180, 100%, 40%);
+  }
+
+  &:disabled {
+    color: hsl(0, 0%, 40%);
+    background-color: hsl(180, 100%, 80%);
+  }
+}
